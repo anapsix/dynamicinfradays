@@ -1,3 +1,7 @@
+.ssh
+.viminfo
+.bash_history
+
 # Composer
 composer.lock
 .composer
