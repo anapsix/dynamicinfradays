@@ -9,11 +9,12 @@ title: Home
 
 DynamicInfraDays will be a community-based conference focused on the emerging possibilities of dynamic infrastructure, including containers and other technologies. The format is likely to follow that of the excellent [devopsdays](http://devopsdays.org/) events:
 
-Community-driven, organized by experts and enthusiasts
-One or two-day events: some presentations followed by open-space unconference sessions
-As affordable as possible: fees to cover costs only
-Great coffee and as good a Wifi connection as we can arrange ;-)
-[Container Days Austin](http://dynamicinfradays.org/events/2015-austin/) is the first event currently planned and will take place in Austin, TX in March 2015.   
+* Community-driven, organized by experts and enthusiasts
+* One or two-day events: some presentations followed by open-space unconference sessions
+* As affordable as possible: fees to cover costs only
+* Great coffee and as good a Wifi connection as we can arrange ;-)
+
+[Container Days Austin](http://dynamicinfradays.org/events/2015-austin/) is the first event currently planned and will take place in Austin, TX in March 2015. [ContainerDays Boston](http://dynamicinfradays.org/events/2015-boston/) in Boston, MA will follow on June 5-6.  
 If you're interested in volunteering or attending, would like to sponsor or have a venue that you could make available, we'd love to [hear from you](mailto:info@dynamicinfradays.org)!
 
 -----
