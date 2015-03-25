@@ -18,5 +18,22 @@ If you're interested in volunteering or attending, would like to sponsor or have
 
 -----
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/anapsix" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/anapsix', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Subscribe to announcements, ticket availability, etc..</label></p><center><input type="text" style="width:100%;height:50px;text-align:center;font-size:20px" name="email" id="tlemail" /><input type="hidden" value="1" name="embed"/><input style="width:150px;height:50px;text-align:center;border-radius:5px;font-size:20px" type="submit" value="Subscribe" /></center></form>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//random.us10.list-manage.com/subscribe/post?u=27ad0ec0e040d8cb661d8d360&amp;id=3f2148763f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<label>Get notified about event updates and ticket availability</label>
+<div class="mc-field-group">
+  <input type="email" value="" name="EMAIL" class="required email" placeholder="oscar.mayer@hotdo.gs" id="mce-EMAIL">
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_27ad0ec0e040d8cb661d8d360_3f2148763f" tabindex="-1" value=""></div>
+    <style> #mc_embed_signup .button {background:#ddd}</style><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
 
