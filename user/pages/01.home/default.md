@@ -2,38 +2,19 @@
 title: Home
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+# DynamicInfraDays is coming!
+## First up: **[Container Days Austin 2015](http://dynamicinfradays.org/events/2015-austin/)**
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+DynamicInfraDays will be a community-based conference focused on the emerging possibilities of dynamic infrastructure, including containers and other technologies. The format is likely to follow that of the excellent devopsdays events:
 
->>>>> If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+Community-driven, organized by experts and enthusiasts
+One or two-day events: some presentations followed by open-space unconference sessions
+As affordable as possible: fees to cover costs only
+Great coffee and as good a Wifi connection as we can arrange ;-)
+Container Days Austin is the first event currently planned and will take place in Austin, TX in March 2015.   
+If you're interested in volunteering or attending, would like to sponsor or have a venue that you could make available, we'd love to hear from you!
 
-### Find out all about Grav
+#### Subscribe to announcements, ticket availability, etc..
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/anapsix" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/anapsix', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:100%" name="email" id="tlemail" /><input type="hidden" value="1" name="embed"/><input style="width:150px;height:50px;text-align:center" type="submit" value="Subscribe" /></p></form>
 
-### Edit this Page
-
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
-
-### Create a New Page
-
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `02.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/02.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
->>> NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.

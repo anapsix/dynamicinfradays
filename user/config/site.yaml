@@ -1,7 +1,7 @@
-title: Grav
+title: DynamicInfraDays
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Andrew Phillips
+  email: 'info@dynamicinfradays.org'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: 'DynamicInfraDays will be a community-based conference focused on the emerging possibilities of dynamic infrastructure, including containers and other technologies. The format is likely to follow that of the excellent devopsdays events'
 
