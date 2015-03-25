@@ -2,6 +2,8 @@
 title: Home
 ---
 
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
+
 # DynamicInfraDays is coming!
 ## First up: **[Container Days Austin 2015](http://dynamicinfradays.org/events/2015-austin/)**
 
