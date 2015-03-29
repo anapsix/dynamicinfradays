@@ -7,7 +7,7 @@ visible: false
 
 # Welcome to ContainerDays.
 
->>>>>> Thanks for subscribing to our <a href="http://justyo.co/CONTAINERDAYS" class="yo-btn">YO</a> channel.
+>>>>>> Thanks for subscribing to our <a href="#yo" class="yo-btn">YO</a> channel.
 We will send you event updates and important announcements.
 
 <style>
