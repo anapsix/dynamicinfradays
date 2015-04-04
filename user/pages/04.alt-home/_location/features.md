@@ -1,6 +1,6 @@
 ---
 title: Homepage Highlights
-menu: Highlights
+menu: Location
 class: big
 features:
 	- header: Share ideas

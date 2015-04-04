@@ -1,6 +1,6 @@
 ---
 title: Homepage Highlights
-menu: Highlights
+menu: Speakers
 class: big
 features:
 	- header: Andy Shinn

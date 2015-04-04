@@ -1,6 +1,6 @@
 ---
 title: Homepage Callout
-menu: Easy Content
+menu: Programme
 image_align: top
 ---
 
