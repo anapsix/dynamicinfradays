@@ -1,5 +1,5 @@
 ---
-title: Homepage Highlights
+title: Speakers
 menu: Speakers
 class: big
 features:

@@ -1,5 +1,5 @@
 ---
-title: Homepage Showcase
+title: Top
 menu: Top
 buttons:
     - text: Get the tickets

@@ -1,5 +1,5 @@
 ---
-title: Homepage Highlights
+title: Location
 menu: Location
 class: big
 features:
