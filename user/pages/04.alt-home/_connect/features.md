@@ -15,7 +15,7 @@ menu: Connect
       <td style="width:30px;border:none;vertical-align:middle;padding:0px 0px 17px">
       <a href="http://justyo.co/CONTAINERDAYSBOSTON2015" class="yo-btn">YO</a></td>
       <td style="border:none;vertical-align:middle;width:10px;padding:0px 5px 17px 10px">or</td>
-      <td style="min-width:100px;border:none;vertical-align:middle;"><input type="email" value="" name="EMAIL" class="required email" placeholder="oscar.mayer@hotdo.gs" id="mce-EMAIL"></td>
+      <td style="min-width:100px;border:none;vertical-align:middle;"><input type="email" value="" name="EMAIL" class="required email" placeholder="your@email.here" id="mce-EMAIL"></td>
       </tr></table>
       </div>
       <div id="mce-responses" class="clear">
@@ -28,3 +28,5 @@ menu: Connect
   </form>
 </div>
 <!--End mc_embed_signup-->
+
+You can also follow [@DynInfraDays](https://twitter.com/DynInfraDays) on Twitter for updates or of course just [send us an email](mailto:2015-boston@dynamicinfradays.org).
