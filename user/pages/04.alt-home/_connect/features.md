@@ -6,7 +6,7 @@ menu: Connect
 ## Stay in touch
 
 <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
+<div id="mc_embed_signup" style="margin: 15px 0 30px 0;">
   <form action="//random.us10.list-manage.com/subscribe/post?u=27ad0ec0e040d8cb661d8d360&amp;id=3f2148763f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
       <!-- <label>Get notified about event updates and ticket availability</label> -->
@@ -23,10 +23,10 @@ menu: Connect
         <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;"><input type="text" name="b_27ad0ec0e040d8cb661d8d360_3f2148763f" tabindex="-1" value=""></div>
-      <input style="background:#ddd;width:100%" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+      <input style="background:#ddd; width:150px" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
     </div>
   </form>
 </div>
 <!--End mc_embed_signup-->
 
-You can also follow [@DynInfraDays](https://twitter.com/DynInfraDays) on Twitter for updates or of course just [send us an email](mailto:2015-boston@dynamicinfradays.org).
+You can also follow <a href="https://twitter.com/DynInfraDays">@DynInfraDays</a> on Twitter for updates or of course <a href="mailto:2015-boston@dynamicinfradays.org">reach us via email</a>.
