@@ -14,7 +14,7 @@ features:
       icon: user
     - header: Coming soon!
       icon: star
-      text: "More exciting speakers to be announced soon...<a href="#connect">sign up</a> or follow <a href="https://twitter.com/DynInfraDays">@DynInfraDays</a> for details"
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details"
 ---
 
 ## Speakers
