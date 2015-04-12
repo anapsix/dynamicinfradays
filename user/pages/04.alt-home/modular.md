@@ -18,4 +18,8 @@ content:
             - _connect
 ---
 
-
+<style>
+#footer {
+   display: none;
+   }
+</style>
