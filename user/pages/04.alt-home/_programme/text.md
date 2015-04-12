@@ -9,7 +9,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 ## Programme
 
-### Friday, June 5th
+#### Friday, June 5th
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
@@ -32,7 +32,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks? | Still looking for a sponsor ;-) |
 
-### Saturday, June 6th
+#### Saturday, June 6th
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
