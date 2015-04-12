@@ -3,6 +3,8 @@ title: Programme
 menu: Programme
 ---
 
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
+
 ## What is an unconference?
 
 If you've never been to an unconference or OpenSpaces event before, don't worry - it's a really easy format to get into. You may want to [read this](http://en.wikipedia.org/wiki/Unconference) for some background.
