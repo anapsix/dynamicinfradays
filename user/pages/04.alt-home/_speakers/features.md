@@ -13,6 +13,7 @@ features:
       text: "Jeff was a key part of Solaris Zones and has more than a decade of experience with containers and system-level virtualization."
       icon: user
     - header: Coming soon!
+      icon: star
       text: "More exciting speakers to be announced soon...sign up or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details"
 ---
 
