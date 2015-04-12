@@ -3,19 +3,17 @@ title: Speakers
 menu: Speakers
 class: big
 features:
-	- header: Andy Shinn
-	  text: "NotOps Troublemaker and Instigator. Founder of GliderLabs and Jeff Lindsey's parter in crime."
+	- header: Brian 'Redbeard' Harrington
+	  text: "Brian is a principal architect at CoreOS."
 	  icon: user
-    - header: Michael Ferranti
-      text: "Sapiente Austin readymade bitters forage, fugiat whatever trust fund next level dreamcatcher."
-      icon: user
-    - header: Deepak Singh
-      text: "Sapiente Austin readymade bitters forage, fugiat whatever trust fund next level dreamcatcher."
+    - header: Kir Kolyshin
+      text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
     - header: Jeff Victor
-      text: "Sapiente Austin readymade bitters forage, fugiat whatever trust fund next level dreamcatcher."
+      text: "Jeff was a key part of Solaris Zones and has more than a decade of experience with containers and system-level virtualization."
       icon: user
 ---
 
-## Speakers and Mentors
+## Speakers
 
+More exciting speakers to be announced soon...sign up or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details!

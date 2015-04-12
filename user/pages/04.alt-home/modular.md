@@ -10,10 +10,12 @@ content:
         by: default
         dir: asc
         custom:
-            - _header
+            - _event
             - _location
             - _programme
             - _speakers
+            - _thanks
+            - _connect
 ---
 
 
