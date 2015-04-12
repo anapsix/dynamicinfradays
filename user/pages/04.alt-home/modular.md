@@ -14,7 +14,7 @@ content:
             - _location
             - _programme
             - _speakers
-            - _thanks
+            - _sponsors
             - _connect
 ---
 

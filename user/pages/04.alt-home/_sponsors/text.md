@@ -1,8 +1,12 @@
 ---
-title: Thanks
-menu: Thanks
+title: Sponsors
+menu: Sponsors
 image_align: top
 ---
+
+## Sponsors
+
+We're almost done finalizing the sponsorship opportunities that will be available. If you're interesting in supporting this event, please [get in touch](mailto:2015-boston-sponsorship@dynamicinfradays.org)!
 
 ## Thanks
 
