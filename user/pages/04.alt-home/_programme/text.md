@@ -1,7 +1,6 @@
 ---
 title: Programme
 menu: Programme
-image_align: top
 ---
 
 ## What is an unconference?

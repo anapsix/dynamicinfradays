@@ -1,7 +1,6 @@
 ---
 title: Sponsors
 menu: Sponsors
-image_align: top
 ---
 
 ## Sponsors
