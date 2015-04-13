@@ -21,5 +21,5 @@ features:
 ---
 
 # ContainerDays Boston 2015
-## The community container (un)conference comes to Boston
+## The community container and dynamic infrastructure (un)conference comes to Boston
 ## Mark your calendars: **June 5-6, 2015**
