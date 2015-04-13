@@ -7,6 +7,8 @@ menu: Programme
 
 If you've never been to an unconference or OpenSpaces event before, don't worry - it's a really easy format to get into. You may want to [read this](http://en.wikipedia.org/wiki/Unconference) for some background.
 
+----
+
 ## Programme
 
 #### Friday, June 5th
