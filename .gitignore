@@ -23,8 +23,8 @@ user/data/*
 !user/data/.*
 user/plugins/*
 !user/plugins/.*
-user/themes/*
-!user/themes/.*
+#user/themes/*
+#!user/themes/.*
 
 # OS Generated
 .DS_Store*
