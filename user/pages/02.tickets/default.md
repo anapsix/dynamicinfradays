@@ -11,10 +11,10 @@ visible: false
 
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
 
-## ContainerDays Boston 2015 update
-# Announcing ticket availability
+### ContainerDays Boston 2015 update
+## Announcing ticket availability
 
->>>>>> ContainerDays Boston 2015 tickets are now available at [Eventbrite page](http://dynamicinfradays.org/events/2015-boston/sign-up/).  
+>>>>>> ContainerDays Boston 2015 tickets are now available at [Eventbrite](http://dynamicinfradays.org/events/2015-boston/sign-up/).  
 Only 100 spaces available, so get yours soon!
 
-See the [updated event site](http://dynamicinfradays.org/events/2015-boston/) for programme details, location info and more.
+See the [updated event page](http://dynamicinfradays.org/events/2015-boston/) for programme details, location info and more.
