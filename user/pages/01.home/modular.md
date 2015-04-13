@@ -1,6 +1,6 @@
 ---
 title: ContainerDays Boston 2015
-menu: alternative
+menu: Home
 onpage_menu: true
 body_classes: "modular header-image fullwidth"
 
