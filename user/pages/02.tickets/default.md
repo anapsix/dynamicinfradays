@@ -1,5 +1,5 @@
 ---
-title: ContainerDays Boston 2015 tickets available
+title: Tickets
 visible: false
 ---
 
