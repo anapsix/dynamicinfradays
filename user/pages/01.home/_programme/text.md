@@ -21,11 +21,11 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces topic suggestions! |
 | 11:00-11:05am | Sponsor shout-out | |
 | 11:05-11:50am | Talk | Speaker TBC |
-| 11:55-12:40pm | Talk | Speaker TBC |
-| 12:40-01:35pm | Lunch & exhibitor time | Also time to make OpenSpaces topic suggestions! |
-| 01:35-01:40pm | Sponsor shout-out | |
-| 01:40-01:50pm | Open spaces kickoff | |
-| 01:50-02:35pm | OpenSpaces session | |
+| 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
+| 12:10-12:55pm | OpenSpaces session | |
+| 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces topic suggestions! |
+| 01:45-01:50pm | Sponsor shout-out | |
+| 01:50-02:35pm | Talk | Speaker TBC |
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces topic suggestions! |
 | 03:35-03:40pm | Sponsor shout-out | |
