@@ -15,7 +15,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
-| 09:00-09:30am | Registration | Welcome to the first Container Days Boston |
+| 09:00-09:30am | Registration | Welcome to the first ContainerDays Boston |
 | 09:30-10:00am | Welcome, introduction, Open Spaces explanation | |
 | 10:00-10:45am | Talk | [Speaker TBC](/#speakers) |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
@@ -32,7 +32,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 | 03:40-04:25pm | Talk | [Speaker TBC](/#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Friday night drinks? | Still looking for a sponsor ;-) |
+| evening | Friday night drinks? | Still looking for a [sponsor](/#sponsors) ;-) |
 
 #### Saturday, June 6th
 
