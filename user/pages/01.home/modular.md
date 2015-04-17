@@ -11,7 +11,6 @@ content:
         dir: asc
         custom:
             - _event
-            - _about
             - _location
             - _programme
             - _speakers
