@@ -10,7 +10,7 @@ ContainerDays Boston is a community (un)conference to encourage discussion and l
 
 Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an unconference, so _you_ get to pick the topics!
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 0 auto 40px auto; display: block;">
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 40px auto 40px auto; display: block;">
 
 ## Location
 
