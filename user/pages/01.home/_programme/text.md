@@ -3,6 +3,12 @@ title: Programme
 menu: Programme
 ---
 
+## What is ContainerDays Boston?
+
+ContainerDays Boston is a community (un)conference focused on the emerging possibilities of containers and dynamic infrastructure generally. The programme is a mix of OpenSpaces sessions and talks from users, contributors and extenders from all corners of the space.
+
+Whether you're an expert or new to the space, there'll be plenty for you to talk about an learn. It's an unconference, so _you_ get to pick the topics!
+
 ## What is an unconference?
 
 If you've never been to an unconference or OpenSpaces event before, don't worry - it's a really easy format to get into. You may want to [read this](http://en.wikipedia.org/wiki/Unconference) for some background.
