@@ -6,6 +6,12 @@ class: big
 
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin: 0 auto 40px auto; display: block;">
 
+## What is ContainerDays Boston?
+
+ContainerDays Boston is a community (un)conference to encourage discussion and learning on the subject of containers and dynamic infrastructure generally. The programme is a mix of OpenSpaces sessions and talks from users, contributors and extenders from all corners of the space.
+
+Whether you're an expert or new to the space, there'll be plenty for you to talk about an learn. It's an unconference, so _you_ get to pick the topics!
+
 ## Location
 
 <div style="margin-top: 15px;" />
