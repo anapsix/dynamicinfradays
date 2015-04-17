@@ -4,8 +4,6 @@ menu: Location
 class: big
 ---
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 0 auto 40px auto; display: block;">
-
 ## Location
 
 <div style="margin-top: 15px;" />
