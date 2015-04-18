@@ -1,5 +1,5 @@
 ---
-title: Sponsorship Packages
+title: Sponsorship
 visible: false
 ---
 
