@@ -5,9 +5,9 @@ title: DynamicInfraDays
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
 
 # DynamicInfraDays is here!
-### The community container and dynamic infrastructure (un)conference
+#### The community container and dynamic infrastructure (un)conference
 
-## Next up: Jun 5-6th, **[ContainerDays Boston 2015](/events/2015-austin/)**
+### Next up: **[ContainerDays Boston 2015](/events/2015-boston/)**, Jun 5-6th
 
 -----
 
@@ -30,7 +30,7 @@ The format and values of DynamicInfraDays are inspired by the tremendous achieve
 
 **Past:**
 
-* 2015, March 27-28th, [Container Days Austin](/events/2015-austin/), Austin, TX, USA in March 2015. [ContainerDays 
+* 2015, March 27-28th, [Container Days Austin](/events/2015-austin/), Austin, TX, USA
 
 #### I want to help or learn more!
 
