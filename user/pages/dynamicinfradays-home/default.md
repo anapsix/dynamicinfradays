@@ -12,7 +12,7 @@ title: DynamicInfraDays
 
 # DynamicInfraDays is here!
 ## The community container and dynamic infrastructure (un)conference
-### Next up: Jun 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**
+### **Next up:** Jun 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**
 
 -----
 
