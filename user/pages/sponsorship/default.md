@@ -42,7 +42,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a n
 
 * 1x **Friday night drinks sponsor**
   * Includes: 2 tickets; smaller logo on the event site; callout before Friday night drinks at the end of the Day 1 programme. The Friday night drink voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
-  * Cost: _[contact us](mailto:2015-boston-sponsorship@dynamicinfradays.org)_
+  * Cost: _[please get in touch](mailto:2015-boston-sponsorship@dynamicinfradays.org)_
 
 #### Participant details
 
@@ -50,11 +50,15 @@ We expect about 100 attendees, the majority in a technical role with interest in
 
 #### Facilities
 
-Regarding shipping, Microsoft NERD has kindly agreed to receive small items, such as promotional material. Due to lack of suitable storage facilities, these may not arrive more than 3 days prior to the event, and may not be left behind afterwards. There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements.
+[Microsoft NERD](http://dynamicinfradays.org/events/2015-boston/#location) has kindly agreed to receive small items, such as promotional material. Due to lack of suitable storage facilities, these may not arrive more than 3 days prior to the event, and may not be left behind afterwards.
+
+There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements.
 
 #### Staffing suggestions
 
-You will get the most mileage from your vendor table by sending technical staff prepared to engage in the conference sessions. With the exception of **Platinum** and **Gold** tiers, which come with short "shout-out" opportunities to present your company, sponsorships do not include speaking slots. Your attending staff is welcome and encouraged to propose topics for, and participate in, the OpenSpaces sessions and workshops.
+You will get the most mileage from your vendor table by sending technical staff prepared to engage in the conference sessions.
+
+With the exception of **Platinum** and **Gold** tiers, which come with short "shout-out" opportunities to present your company, sponsorships do not include speaking slots. Your attending staff is welcome and encouraged to propose topics for, and participate in, the OpenSpaces sessions and workshops.
 
 #### Invoicing
 
