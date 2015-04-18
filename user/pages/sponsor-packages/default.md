@@ -1,6 +1,5 @@
 ---
 title: Sponsorship
-visible: false
 ---
 
 <style>

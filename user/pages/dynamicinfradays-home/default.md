@@ -1,6 +1,5 @@
 ---
 title: DynamicInfraDays
-visible: false
 ---
 
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">

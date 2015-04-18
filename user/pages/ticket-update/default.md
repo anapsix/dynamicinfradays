@@ -1,6 +1,5 @@
 ---
 title: Tickets
-visible: false
 ---
 
 <style>
