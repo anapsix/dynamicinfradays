@@ -17,39 +17,31 @@ title: Sponsorship
 Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays Boston 2015 event site](http://dynamicinfradays.org/events/2015-boston/).
 
 * 1x **Platinum sponsor**
-  * Description: 4 tickets, vendor table, larger logo on the event site, 5-minute sponsor shout-out slot, callout before Friday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
+  * Description: 4 tickets, vendor table, largest logo on the event site, 5-minute sponsor shout-out slot, callout before Friday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
   * Cost: USD 1500
 
 * 4x **Gold sponsor**
-  * Description: 3 tickets, vendor table, logo on the event site, 2.5-minute sponsor shout-out slot, We will refer to the an OpenSpaces discussion area by the sponsor name.
+  * Description: 3 tickets, vendor table, larger logo on the event site, 2.5-minute sponsor shout-out slot, We will refer to the an OpenSpaces discussion area by the sponsor name.
   * Cost: USD 1000
 
 * 2x **Silver sponsor**
-  * Description: 2 tickets, vendor table, smaller logo on the event site
+  * Description: 2 tickets, vendor table, logo on the event site
   * Cost: USD 750
 
 * 1x **Day 1 lunch sponsor**
-  * Description: 2 tickets, callout before lunch, banner displayed in lunch area
+  * Description: 2 tickets, smaller logo on the event site, callout before lunch, banner displayed in lunch area
   * Cost: USD 500
 
 * 1x **Day 2 breakfast sponsor**
-  * Description: 2 tickets, callout before the beginning of the Day 2 programme, banner displayed in breakfast area
+  * Description: 2 tickets, smaller logo on the event site, callout before the beginning of the Day 2 programme, banner displayed in breakfast area
   * Cost: USD 500
 
 * 1x **Day 2 lunch sponsor**
-  * Description: 2 tickets, callout before lunch, banner displayed in lunch area
+  * Description: 2 tickets, smaller logo on the event site, callout before lunch, banner displayed in lunch area
   * Cost: USD 500
 
-* 2x **Silver sponsor**
-  * Description: 2 tickets, vendor table, smaller logo on the event site
-  * Cost: USD 750
-
-* 2x **Silver sponsor**
-  * Description: 2 tickets, vendor table, smaller logo on the event site
-  * Cost: USD 750
-
 * 1x **Friday night drinks sponsor**
-  * Description: 2 tickets, callout before Friday night drinks at the end of the Day 1 programme. The Friday night drink voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
+  * Description: 2 tickets, smaller logo on the event site, callout before Friday night drinks at the end of the Day 1 programme. The Friday night drink voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
   * Cost: _[contact us](mailto:2015-boston-sponsorship@dynamicinfradays.org)_
 
 #### Participant details
