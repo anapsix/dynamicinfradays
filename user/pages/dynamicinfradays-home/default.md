@@ -2,12 +2,18 @@
 title: DynamicInfraDays
 ---
 
+<style>
+#footer {
+   display: none;
+   }
+</style>
+
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
 
 # DynamicInfraDays is here!
-#### The community container and dynamic infrastructure (un)conference
+The community container and dynamic infrastructure (un)conference
 
-### Next up: **[ContainerDays Boston 2015](/events/2015-boston/)**, Jun 5-6th
+#### Next up: Jun 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**
 
 -----
 
@@ -24,16 +30,16 @@ The format and values of DynamicInfraDays are inspired by the tremendous achieve
 
 #### Events
 
-**Upcoming:**
+##### Upcoming:
 
 * 2015, June 5-6th, [ContainerDays Boston](/events/2015-boston/), Boston, MA, USA
 
-**Past:**
+##### Past:
 
 * 2015, March 27-28th, [Container Days Austin](/events/2015-austin/), Austin, TX, USA
 
-#### I want to help or learn more!
+#### I want to help and learn more!
 
-If you're interested in volunteering or attending; would like to sponsor or have a venue that you could make available, we'd love to [hear from you](mailto:info@dynamicinfradays.org).
+If you're interested in volunteering or attending; would like to sponsor or have a venue that you could make available, we'd love to [hear from you](mailto:info@dynamicinfradays.org)!
 
-Follow [@DynInfraDays](http://twitter.com/DynInfraDays) on Twitter for updates!
+Follow [@DynInfraDays](http://twitter.com/DynInfraDays) on Twitter for updates.
