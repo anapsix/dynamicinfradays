@@ -11,7 +11,7 @@ content:
         dir: asc
         custom:
             - _about
-            - _event
+            - _events
             - _connect
 ---
 
