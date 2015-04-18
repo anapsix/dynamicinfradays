@@ -41,7 +41,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a n
   * Cost: USD 500
 
 * 1x **Friday night drinks sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before Friday night drinks at the end of the Day 1 programme. The Friday night drink voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
+  * Includes: 2 tickets; smaller logo on the event site; callout before Friday night drinks at the end of the Day 1 programme. The Friday night drinks voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
   * Cost: _[please get in touch](mailto:2015-boston-sponsorship@dynamicinfradays.org)_
 
 #### Participant details
