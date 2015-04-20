@@ -31,7 +31,7 @@ Please note that the programme is provisional and subject to change.
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | Talk | [Speaker TBC](#speakers) |
+| 03:40-04:25pm | Talk | [Igor Moochnick](#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks? | Still looking for a [sponsor](#sponsors) ;-) |
