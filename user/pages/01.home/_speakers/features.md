@@ -16,8 +16,7 @@ features:
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
     - header: Igor Moochnick
-      text: "Igor learned many lessons on the journey to container adoption in
-the enterprise."
+      text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
     - header: Jeff Victor
       text: "Jeff was a key part of Solaris Zones and has more than a decade of experience with containers and system-level virtualization."
