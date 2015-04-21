@@ -11,6 +11,8 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 ## Programme
 
+From lessons from real-world implementations to hands-on getting started workshops, we trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started.
+
 Please note that the programme is provisional and subject to change.
 
 #### Friday, June 5th
