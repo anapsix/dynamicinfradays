@@ -23,7 +23,7 @@ features:
 # ContainerDays Boston 2015
 ## The community container and dynamic infrastructure (un)conference comes to Boston.
 
-What's it like running Docker, Mesos, etc. in production? What's the technical story behind containers? Where do the experts see this technology going? And more...
+How do I go from 'Container 101' to doing something for real? What's it like running Docker, Mesos, etc. in production? What's the technical story behind containers? Where do the experts see this technology going? And more...
 
 ## Mark your calendars: **June 5-6, 2015**
 
