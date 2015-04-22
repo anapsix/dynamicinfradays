@@ -11,7 +11,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 ## Programme
 
-From real-world implementation lessons to hands-on getting started workshops, we're trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started, or can attend both or only one of the days.
+From real-world implementation lessons to hands-on getting started workshops, we're trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started, or can make both Friday and Saturday or only attend one of the days.
 
 Please note that the programme is provisional and subject to change.
 
