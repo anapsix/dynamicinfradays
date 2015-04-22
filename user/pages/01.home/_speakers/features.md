@@ -19,7 +19,7 @@ features:
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
     - header: Jeff Victor
-      text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with operating system-level virtualization."
+      text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
 ---
 
