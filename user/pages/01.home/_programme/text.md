@@ -13,6 +13,12 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 From real-world implementation lessons to hands-on getting started workshops, we're trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started, or can make both Friday and Saturday or only attend one of the days.
 
+### Workshops
+
+We're looking forward to entertaining and thought-provoking talks and discussions, but at some point we're sure you'll also want to get your hands dirty. That's why the second half of Saturday is all about workshops, where you can team up and spend some keyboard time trying out interesting ideas and technologies.
+
+We'd like to apply a bit of the unconference idea to the workshops, too. We'll have some guided, introductory sessions if you're looking to get started. But we'll also encourage you to team up with a couple of other participants, get hold of one of the speakers, sponsors or other experts running around, and try out some of the tools and concepts that come up in discussion.
+
 Please note that the programme is provisional and subject to change.
 
 #### Friday, June 5th
