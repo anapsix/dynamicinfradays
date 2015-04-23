@@ -12,9 +12,9 @@ content:
         custom:
             - _event
             - _location
-            - _sponsors
             - _programme
             - _speakers
+            - _sponsors
             - _connect
 ---
 
