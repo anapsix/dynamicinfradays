@@ -28,21 +28,21 @@ Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a n
   * Cost: USD 750
   * 2 available
 * 1x **Day 1 lunch sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner displayed in lunch area.
+  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
   * 1 available
 * 1x **Day 2 breakfast sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before the beginning of the Day 2 programme; banner displayed in breakfast area.
+  * Includes: 2 tickets; smaller logo on the event site; callout before the beginning of the Day 2 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
   * 1 available
 * 1x **Day 2 lunch sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner displayed in lunch area.
+  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
   * 1 available
 * 2x **Friday night drinks sponsor**
   * Includes: 2 tickets; smaller logo on the event site; callout before Friday night drinks at the end of the Day 1 programme. The Friday night drinks voucher will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
   * Cost: USD 500
-  * 2 available
+  * 1 available
 
 #### Participant details
 

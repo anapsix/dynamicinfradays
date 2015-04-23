@@ -9,6 +9,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/codeship-logo.png" width="411" height="120" style="margin: 0;">
 
+#### Friday night drinks sponsors
+
+<img src="http://dynamicinfradays.org/events/2015-boston/hubspot-logo.png" width="110" height="40" style="margin: 0;">
+
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-boston-sponsorship@dynamicinfradays.org)!
