@@ -7,7 +7,7 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/codeship-logo.png" width="513" height="150" style="margin: 30px auto 40px auto; display: block;">
+<img src="http://dynamicinfradays.org/events/2015-boston/codeship-logo.png" width="411" height="120" style="margin: 15px;">
 
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
