@@ -10,17 +10,19 @@ title: Programme
 
 #### ContainerDays Boston 2015
 
-## Talks
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
 
-## _A Brief History of Containers_ - Jeff Victor
+### Talks
+
+#### _A Brief History of Containers_ - Jeff Victor
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
-## Speakers
+### Speakers
 
 #### Brian 'Redbeard' Harrington
 
-<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" style="margin-left:auto;margin-right:auto;float:right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="127" height="150" style="margin-left:auto;margin-right:auto;float:right;">
 
 Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
 
