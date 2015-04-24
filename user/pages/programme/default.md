@@ -14,15 +14,13 @@ title: Programme
 
 ### Talks
 
-#### _A Brief History of Containers_
-
-[*Jeff Victor*](#jeffv)
+#### _A Brief History of Containers_ - [Jeff Victor](#jeffv)
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
 ### Speakers
 
-<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:auto;margin-right:auto;float:right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:10px; float:right;">
 
 #### Brian 'Redbeard' Harrington
 
@@ -30,7 +28,7 @@ Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  H
 
 He currently resides in Oakland, CA and was grudgingly elected president of the hackerspace HacDC.
 
-#### <a name="jeffv" />Jeff Victor
+#### <a name="jeffv"></a>Jeff Victor
 
 Jeff's 28-year computer career has included software development, system and network administration, and consulting. He was the Principal Author of the book _Solaris 10 System Virtualization Essentials_, and the creator of the Solaris Zones FAQ and the 'zonestat' open-source program.
 
