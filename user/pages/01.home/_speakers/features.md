@@ -9,7 +9,7 @@ features:
     - header: Nick Gauthier
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
-    - header: Brian 'Redbeard' Harrington
+    - header: [Brian 'Redbeard' Harrington](/programme#brianh)
       text: "Brian is a principal architect at CoreOS."
       icon: user
     - header: Kir Kolyshin
