@@ -14,7 +14,7 @@ title: Programme
 
 ### Talks
 
-#### _A Brief History of Containers_, [Jeff Victor](#jeffv)
+#### <a name="briefhist"></a>_A Brief History of Containers_ <span style="font-size: smaller">[Jeff Victor](#jeffv)</span>
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
@@ -22,7 +22,7 @@ Containers are a form of operating system virtualization that is subtly differen
 
 <img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:10px; float:right;">
 
-#### Brian 'Redbeard' Harrington
+#### <a name="brianh"></a>Brian 'Redbeard' Harrington
 
 Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
 
