@@ -20,9 +20,9 @@ Containers are a form of operating system virtualization that is subtly differen
 
 ### Speakers
 
-#### Brian 'Redbeard' Harrington
+<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:auto;margin-right:auto;float:right;">
 
-<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="127" height="150" style="margin-left:auto;margin-right:auto;float:right;">
+#### Brian 'Redbeard' Harrington
 
 Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
 
@@ -34,4 +34,4 @@ Jeff's 28-year computer career has included software development, system and net
 
 Jeff received a Bachelor of Science degree (Computer Science) from Rensselaer Polytechnic Institute in Troy, New York. In his spare time, he builds and launches high-power rockets and manages automated wildlife cameras. He lives in New York with his wife and daughter.
 
-His blog can be found at [http://blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv).
+His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv).
