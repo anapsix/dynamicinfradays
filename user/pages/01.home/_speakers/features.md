@@ -9,8 +9,8 @@ features:
     - header: Nick Gauthier
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
-    - header: [Brian 'Redbeard' Harrington](/programme#brianh)
-      text: "Brian is a principal architect at CoreOS."
+    - header: Brian 'Redbeard' Harrington
+      text: "Brian is a principal architect at CoreOS. [Bio](../programme#brianh)"
       icon: user
     - header: Kir Kolyshin
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
