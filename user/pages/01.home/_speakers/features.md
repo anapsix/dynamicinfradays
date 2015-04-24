@@ -10,7 +10,7 @@ features:
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
     - header: <a href="/programme#brianh">Brian 'Redbeard' Harrington</a>
-      text: "Brian is a principal architect at CoreOS. [Bio](/programme#brianh)"
+      text: "Brian is a principal architect at CoreOS."
       icon: user
     - header: Kir Kolyshin
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
@@ -18,7 +18,7 @@ features:
     - header: Igor Moochnick
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
-    - header: Jeff Victor
+    - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
 ---
