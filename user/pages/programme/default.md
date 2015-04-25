@@ -18,6 +18,20 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
+### Workshops
+
+#### Docker Compose and Panamax
+
+So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
+
+**Prerequisities:**
+
+Please ensure you have the following tools installed on your laptop:
+
+* If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
+* [Docker Compose](https://docs.docker.com/compose/#installation-and-set-up) installed in boot2docker or on your Linux system
+* [Panamax](http://panamax.io/get-panamax/)
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:10px; float:right;">
