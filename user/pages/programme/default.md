@@ -42,9 +42,9 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
 
-**Prerequisities:**
+**Prerequisities**
 
-Please ensure you have the following tools installed on your laptop:
+Please ensure you have the following tools installed on your system:
 
 * If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/#installation-and-set-up) installed in boot2docker or on your Linux system
