@@ -44,7 +44,7 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 ### Workshops
 
-#### <a name="dcpana"></a>Docker Compose and Panamax
+#### <a name="dcpana"></a>Creating Multi-container Apps with Docker Compose and Panamax <span style="font-size: smaller">- 2h, Intermediate</span>
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
 
@@ -55,3 +55,16 @@ Please ensure you have the following tools installed on your system:
 * If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/#installation-and-set-up) installed in boot2docker or on your Linux system
 * [Panamax](http://panamax.io/get-panamax/)
+
+#### <a name="springlatt"></a>Providing App-level Abstraction and Scaling with Spring Boot and Lattice <span style="font-size: smaller">- 2h, Intermediate</span>
+
+Containers are not new in general and certainly not to app developers in particular: servlet containers provided similar transportability of applications.
+
+We will look at a very simple Spring Boot app as an example. Spring Boot is a lightweight container that manages dependencies and abstracts the infrastructural complexities. We then look at Lattice, a platform for running containerized workloads that provides scalability, Blue/Green deployment, etc.
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
+* TODO
