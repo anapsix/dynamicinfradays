@@ -30,19 +30,19 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers), Solaris Zones |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | Talk | [Brian 'Redbeard' Harrington](#speakers), CoreOS |
+| 11:05-11:50am | Talk | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 01:45-01:50pm | Sponsor shout-out | |
-| 01:50-02:35pm | Talk | [Max Forbes](#speakers), Google |
+| 01:50-02:35pm | Talk | [Max Forbes](../#speakers), Google |
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | Talk | [Igor Moochnick](#speakers) |
+| 03:40-04:25pm | Talk | [Igor Moochnick](../#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Friday night drinks? | Still looking for a [sponsor](#sponsors) ;-) |
+| evening | Friday night drinks? | Still looking for one more [sponsor](../#sponsors) ;-) |
 
 #### Saturday, June 6th
 
