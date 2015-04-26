@@ -18,6 +18,12 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
+#### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- Igor Moochnick</span>
+
+Enterprises have well established cultures, technology stacks and processes. Containers are changing the way how we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
+
+We're going to discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:10px; float:right;">
