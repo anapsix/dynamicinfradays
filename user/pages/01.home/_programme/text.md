@@ -42,7 +42,7 @@ Please note that the programme is provisional and subject to change.
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Friday night drinks? | Still looking for one more [sponsor](../#sponsors) ;-) |
+| evening | Friday night drinks | Thanks, [HubSpot](../#sponsors)! Still looking for one more [sponsor](../#sponsors) ;-) |
 
 #### Saturday, June 6th
 
