@@ -20,7 +20,7 @@ Containers are a form of operating system virtualization that is subtly differen
 
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- Igor Moochnick</span>
 
-Enterprises have well established cultures, technology stacks and processes. Containers are changing the way how we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
+Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
 
 We're going to discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
 
