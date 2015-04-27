@@ -11,7 +11,7 @@ menu: Sponsors
 
 #### Saturday breakfast sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/coreos-logo.png" width="104" height="40" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/coreos-logo.png" width="110" height="42" style="margin: 0;">
 
 #### Friday night drinks sponsors
 
