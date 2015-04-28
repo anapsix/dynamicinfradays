@@ -18,11 +18,15 @@ features:
     - header: Igor Moochnick
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
+    - header: <a href="/programme#tomp">Tom Petr</a>
+      text: "Tom Petr is an Infrastructure tech lead at HubSpot and a contributor to Singularity, an open-source Mesos scheduling framework."
+      icon: user
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
+    - header: Coming soon!
+      icon: star
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details"
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

@@ -36,6 +36,7 @@ Please note that the programme is provisional and subject to change.
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | Talk | [Max Forbes](../#speakers), Google |
+| | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 03:35-03:40pm | Sponsor shout-out | |

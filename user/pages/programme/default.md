@@ -18,6 +18,12 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
+#### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- Tom Petr</span>
+
+The [HubSpot](../#sponsors) product is made up of over 200 separately deployable web APIs. While investing in a Service Oriented Architecture has many benefits, it can also expose new infrastructure scaling challenges.
+
+In this talk, Tom Petr will discuss the challenges faced, and how his team built a Mesos-based software load balancer using Docker that improves reliability, decreases human intervention, and saves money.
+
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- Igor Moochnick</span>
 
 Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
@@ -33,6 +39,12 @@ We're going to discuss how this new set of technologies is finding its way in th
 Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
 
 He currently resides in Oakland, CA and was grudgingly elected president of the hackerspace HacDC.
+
+#### <a name="tomp"></a>Tom Petr
+
+Tom Petr is an Infrastructure tech lead at HubSpot in Cambridge, MA.
+
+He contributes to [Singularity](https://github.com/HubSpot/Singularity), an open-source Mesos scheduling framework.
 
 #### <a name="jeffv"></a>Jeff Victor
 
