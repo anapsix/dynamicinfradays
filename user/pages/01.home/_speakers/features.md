@@ -24,10 +24,6 @@ features:
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
-
 ---
 
 ## Speakers
