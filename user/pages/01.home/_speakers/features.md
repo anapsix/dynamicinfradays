@@ -19,7 +19,7 @@ features:
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
     - header: <a href="/programme#tomp">Tom Petr</a>
-      text: "Tom Petr is an Infrastructure tech lead at HubSpot."
+      text: "Tom is an Infrastructure tech lead at HubSpot."
       icon: user
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
