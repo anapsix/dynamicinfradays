@@ -65,7 +65,7 @@ So you've run a few standalone containers, now it's time to start piecing them t
 Please ensure you have the following tools installed on your system:
 
 * If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
-* [Docker Compose](https://docs.docker.com/compose/#installation-and-set-up) installed in boot2docker or on your Linux system
+* [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
 
 #### <a name="springlatt"></a>Providing App-level Abstraction and Scaling with Spring Boot and Lattice <span style="font-size: smaller">- 2h, Intermediate</span>
