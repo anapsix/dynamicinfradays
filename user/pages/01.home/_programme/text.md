@@ -13,7 +13,7 @@ If you've never been to an unconference or OpenSpaces event before, don't worry 
 
 From real-world implementation lessons to hands-on getting started workshops, we're trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started, or can make both Friday and Saturday or attend only one of the days.
 
-### Workshops
+### <a name="workshops"></a>Workshops
 
 We're looking forward to thought-provoking talks and discussions, but at some point you'll also want to get your hands dirty. That's why the second half of Saturday is all about workshops, where you can team up and spend some keyboard time trying out interesting ideas and technologies.
 
@@ -56,8 +56,8 @@ Please note that the programme is provisional and subject to change.
 | 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 11:35-12:10pm | OpenSpaces session | |
 | 12:10-01:00pm | Lunch & exhibitor time | |
-| 01:00-03:00pm | Workshops | Topics TBC |
+| 01:00-03:00pm | Workshops | _[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <br/>Any other tool/framework [of your choice!](../#workshops) |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:45pm | Workshops ctd. | |
+| 03:15-04:45pm | Workshops ctd. | Any tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
