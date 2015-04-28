@@ -30,12 +30,12 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers), Solaris Zones |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | Talk (title TBC) | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
+| 11:05-11:50am | Talk _title TBC_ | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 01:45-01:50pm | Sponsor shout-out | |
-| 01:50-02:35pm | Talk (title TBC) | [Max Forbes](../#speakers), Google |
+| 01:50-02:35pm | Talk _title TBC_ | [Max Forbes](../#speakers), Google |
 | | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
@@ -51,8 +51,8 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
-| 09:45-10:30am | Talk (title TBC) | [Kir Kolyshin](#speakers), OpenVZ |
-| 10:35-11:20am | Talk (title TBC) | [Nick Gauthier](#speakers), Codeship |
+| 09:45-10:30am | Talk _title TBC_ | [Kir Kolyshin](#speakers), OpenVZ |
+| 10:35-11:20am | Talk _title TBC_ | [Nick Gauthier](#speakers), Codeship |
 | 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
 | 11:35-12:10pm | OpenSpaces session | |
 | 12:10-01:00pm | Lunch & exhibitor time | |
