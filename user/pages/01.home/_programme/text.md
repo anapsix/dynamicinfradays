@@ -28,17 +28,17 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Registration | Welcome to the first ContainerDays Boston |
 | 09:30-10:00am | Welcome, introduction, Open Spaces explanation | |
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers), Solaris Zones |
-| 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
+| 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
 | 11:05-11:50am | Talk: _title TBC_ | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
-| 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
+| 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | Talk: _title TBC_ | [Max Forbes](../#speakers), Google |
 | | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
 | 02:35-03:20pm | OpenSpaces session | |
-| 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
+| 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
@@ -53,11 +53,11 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | Talk: _title TBC_ | [Kir Kolyshin](../#speakers), OpenVZ |
 | 10:35-11:20am | Talk: _title TBC_ | [Nick Gauthier](../#speakers), Codeship |
-| 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & workshop topic suggestions! |
+| 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:35-12:10pm | OpenSpaces session | |
 | 12:10-01:00pm | Lunch & exhibitor time | |
-| 01:00-03:00pm | Workshops | _[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <br/>Any other tool/framework [of your choice!](../#workshops) |
+| 01:00-03:00pm | Workshops | _[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <br/>[Any other tool/framework of your choice!](../#workshops) |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:45pm | Workshops ctd. | Any tool/framework [of your choice!](../#workshops) |
+| 03:15-04:45pm | Workshops ctd. | [Any tool/framework of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
