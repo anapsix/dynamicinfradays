@@ -56,8 +56,8 @@ Please note that the programme is provisional and subject to change.
 | 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:35-12:10pm | OpenSpaces session | |
 | 12:10-01:00pm | Lunch & exhibitor time | |
-| 01:00-03:00pm | Workshops | _[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <br/>[Any other tool/framework of your choice!](../#workshops) |
+| 01:00-03:00pm | Workshops | _[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <br/>Any other tool/framework [of your choice!](../#workshops) |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:45pm | Workshops ctd. | [Any tool/framework of your choice!](../#workshops) |
+| 03:15-04:45pm | Workshops ctd. | Any tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
