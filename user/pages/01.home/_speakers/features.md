@@ -3,7 +3,7 @@ title: Speakers
 menu: Speakers
 class: big
 features:
-    - header: Max Forbes
+    - header: <a href="/programme#maxf">Max Forbes</a>
       text: "Max is a member of the Kubernetes team at Google."
       icon: user
     - header: Nick Gauthier
