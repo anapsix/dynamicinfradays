@@ -32,13 +32,13 @@ Igor will discuss how this new set of technologies is finding its way in the ent
 
 ### Speakers
 
-<img src="http://dynamicinfradays.org/events/2015-boston/max-forbes.png" width="168" height="201" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/max-forbes.png" width="117" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="maxf"></a>Max Forbes
 
 Max is a software engineer at Google in Seattle working on Kubernetes.
 
-<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="170" height="201" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="brianh"></a>Brian 'Redbeard' Harrington
 
