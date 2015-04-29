@@ -11,7 +11,7 @@ menu: Sponsors
 
 ##### Friday lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/localytics-logo.jpg" width="252" height="42" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/localytics-logo.jpg" width="180" height="30" style="margin: 0;">
 
 ##### Saturday breakfast sponsor
 
