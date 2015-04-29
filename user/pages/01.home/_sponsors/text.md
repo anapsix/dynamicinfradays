@@ -9,6 +9,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/codeship-logo.png" width="411" height="120" style="margin: 0;">
 
+##### Friday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-boston/localytics-logo.jpg" width="252" height="42" style="margin: 0;">
+
 ##### Saturday breakfast sponsor
 
 <img src="http://dynamicinfradays.org/events/2015-boston/coreos-logo.png" width="110" height="42" style="margin: 0;">
