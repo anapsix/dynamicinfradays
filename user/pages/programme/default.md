@@ -56,7 +56,7 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 ### Workshops
 
-#### <a name="dcpana"></a>Creating Multi-container Apps with Docker Compose and Panamax <span style="font-size: smaller">- 2h, Intermediate</span>
+#### <a name="dcpana"></a>_Creating Multi-container Apps with Docker Compose and Panamax_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
 
