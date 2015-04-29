@@ -44,7 +44,7 @@ He currently resides in Oakland, CA and was grudgingly elected president of the 
 
 Tom Petr is an Infrastructure tech lead at HubSpot in Cambridge, MA.
 
-He's a contributor to [Singularity](https://github.com/HubSpot/Singularity), an open-source Mesos scheduling framework.
+He's a contributor to Singularity, an open-source Mesos scheduling framework.
 
 #### <a name="jeffv"></a>Jeff Victor
 
