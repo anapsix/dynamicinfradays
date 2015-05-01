@@ -48,7 +48,7 @@ You can read more about his other projects and research at [maxwellforbes.com](h
 
 #### <a name="nickg"></a>Nick Gauthier
 
-<img src="http://dynamicinfradays.org/events/2015-boston/nick-gauthier.png" width="124" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/nick-gauthier.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go. 
 
