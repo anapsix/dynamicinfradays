@@ -46,9 +46,9 @@ Max is a software engineer at Google in Seattle working on Kubernetes.
 
 You can read more about his other projects and research at [maxwellforbes.com](http://maxwellforbes.com/).
 
-#### <a name="nickg"></a>Nick Gauthier
-
 <img src="http://dynamicinfradays.org/events/2015-boston/nick-gauthier.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="nickg"></a>Nick Gauthier
 
 Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go. 
 
