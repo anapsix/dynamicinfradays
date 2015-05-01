@@ -52,7 +52,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | Talk: _title TBC_ | [Kir Kolyshin](../#speakers), OpenVZ |
-| 10:35-11:20am | Talk: _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ | [Nick Gauthier](../#speakers), Codeship |
+| 10:35-11:20am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ | [Nick Gauthier](../#speakers), Codeship |
 | 11:20-11:35am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:35-12:10pm | OpenSpaces session | |
 | 12:10-01:00pm | Lunch & exhibitor time | |
