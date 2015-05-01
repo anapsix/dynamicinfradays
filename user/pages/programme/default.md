@@ -30,6 +30,12 @@ Enterprises have well-established cultures, technology stacks and processes. Now
 
 Igor will discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
 
+#### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- Nick Gauthier</span>
+
+Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
+
+Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. In this talk we'll explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2015-boston/max-forbes.png" width="117" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
@@ -39,6 +45,14 @@ Igor will discuss how this new set of technologies is finding its way in the ent
 Max is a software engineer at Google in Seattle working on Kubernetes.
 
 You can read more about his other projects and research at [maxwellforbes.com](http://maxwellforbes.com/).
+
+#### <a name="nickg"></a>Nick Gauthier
+
+<img src="http://dynamicinfradays.org/events/2015-boston/nick-gauthier.png" width="124" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go. 
+
+He works at Codeship, a Continuous Delivery product company, on their new Docker-based platform.
 
 <img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

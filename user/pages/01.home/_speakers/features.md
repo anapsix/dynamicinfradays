@@ -6,7 +6,7 @@ features:
     - header: <a href="/programme#maxf">Max Forbes</a>
       text: "Max is a member of the Kubernetes team at Google."
       icon: user
-    - header: Nick Gauthier
+    - header: <a href="/programme#nickg">Nick Gauthier</a>
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
     - header: <a href="/programme#brianh">Brian 'Redbeard' Harrington</a>
