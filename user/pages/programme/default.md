@@ -50,7 +50,7 @@ You can read more about his other projects and research at [maxwellforbes.com](h
 
 #### <a name="nickg"></a>Nick Gauthier
 
-Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go. 
+Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go.
 
 He works at Codeship, a Continuous Delivery product company, on their new Docker-based platform.
 
