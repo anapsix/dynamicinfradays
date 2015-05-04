@@ -1,6 +1,9 @@
-FROM debian:jessie
+# Example way to start this container: 
+# docker run -it --rm -v `pwd`:/var/www -p 80:80 dyninfradays
 
+FROM debian:jessie
 MAINTAINER Anastas Dancha <anapsix@random.io>
+
 RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
  apt-get install -y --no-install-recommends php5-cli php5-curl php5-gd git ca-certificates && apt-get clean all
 # apt-get install nginx-light
