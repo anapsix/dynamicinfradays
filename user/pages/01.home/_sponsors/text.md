@@ -43,7 +43,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-boston-s
 
 <img src="http://dynamicinfradays.org/events/2015-boston/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
 
-**Another big thank you** goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
+**A big thank you** also goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
     <tr><th style="width:200px;text-align:center">
       <img src="http://microsoftnewengland.com/eventmanager/img/MSFT_logo_rgb_C-Gray_D.png" width="180" height="66" style="margin-left:auto;margin-right:auto;display:inline-block;">
