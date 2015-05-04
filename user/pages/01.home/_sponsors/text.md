@@ -37,7 +37,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-boston-s
 
 **Very special thanks** to **FinMason**, **StackEngine** and **XebiaLabs** for giving the organizers time to put this event together.
 
-<img src="http://dynamicinfradays.org/events/2015-boston/finmason-logo.png" width="131" height="40" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-boston/finmason-logo.png" width="142" height="42" style="margin: 0 5px 0 5px;">
 
 <img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="155" height="40" style="margin: 0 5px 0 5px;">
 
