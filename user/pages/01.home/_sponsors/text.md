@@ -11,7 +11,7 @@ menu: Sponsors
 
 #### Gold sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/sysdig-logo.png" width="302" height="80" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/sysdig-logo.png" width="250" height="70" style="margin: 0;">
 
 ##### Friday lunch sponsor
 
