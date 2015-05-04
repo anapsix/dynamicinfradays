@@ -35,7 +35,15 @@ If you're interesting in taking part, please [get in touch](mailto:2015-boston-s
 
 ## Thanks
 
-**A big thank you** goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
+**Very special thanks** to **FinMason**, **StackEngine** and **XebiaLabs** for giving the organizers time to put this event together.
+
+<img src="http://dynamicinfradays.org/events/2015-boston/finmason-logo.png" width="167" height="40" style="margin: 3px;">
+
+<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="162" height="40" style="margin: 3px;">
+
+<img src="http://dynamicinfradays.org/events/2015-boston/xebialabs-logo.png" width="150" height="47" style="margin: 3px;">
+
+**Another big thank you** goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
     <tr><th style="width:200px;text-align:center">
       <img src="http://microsoftnewengland.com/eventmanager/img/MSFT_logo_rgb_C-Gray_D.png" width="180" height="66" style="margin-left:auto;margin-right:auto;display:inline-block;">
