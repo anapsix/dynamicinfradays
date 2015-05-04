@@ -25,7 +25,9 @@ menu: Sponsors
 
 ##### Friday night drinks sponsors
 
-<img src="http://dynamicinfradays.org/events/2015-boston/hubspot-logo.png" width="110" height="40" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/hubspot-logo.png" width="110" height="40" style="margin: 0 3px 0 3px;">
+
+<img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo.png" width="160" height="30" style="margin: 0 3px 0 3px;">
 
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
