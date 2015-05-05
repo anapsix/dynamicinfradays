@@ -24,7 +24,7 @@ features:
 
 The community container and dynamic infrastructure (un)conference comes to Boston.
 
-##### Are you thinking: What's it like running Docker, Mesos, etc. in production? What's the technical story behind containers? How do I go from Container 101 to doing this 'for real'? Where do the experts see this technology going?
+##### Curious about what it's like to run Docker, Mesos, etc. in production? What the technical story is behind containers? How to go from Container 101 to doing this 'for real'? Where the experts see this technology going? And more..?
 
 ##### Learn, share experiences, get hands-on, and have fun at ContainerDays Boston!
 
