@@ -29,6 +29,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo.png" width="140" height="30" style="margin: 0 5px 0 5px;">
 
+##### Friday night snacks sponsors
+
+<img src="http://dynamicinfradays.org/events/2015-boston/gooddoglabs-logo.png" width="150" height="21" style="margin: 0;">
+
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-boston-sponsorship@dynamicinfradays.org)!
