@@ -36,7 +36,18 @@ Enterprises have well-established cultures, technology stacks and processes. Now
 
 Igor will discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
 
-#### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- Nick Gauthier</span>
+#### <a name="nproblems"></a>_N Problems of Linux Containers...and Some Solutions_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
+
+The talk gives an insight into some of the core problems brought about by Linux Containers, and how they were solved over the years. While most of these problems and solutions belongs in the Linux kernel, kernel knowledge is not expected from the audience.
+
+Kir will cover:
+
+* resource management mechanisms (including cgroups, VSwap, I/O and CPU limits and priorities)
+* "file system in a file" technology (ploop)
+* approaches for fast live migration (ploop write tracker, CRIU, iterative checkpoint/restore)
+* Docker interoperability
+
+#### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 
 Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
 
@@ -67,6 +78,14 @@ He works at Codeship, a Continuous Delivery product company, on their new Docker
 Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
 
 He currently resides in Oakland, CA and was grudgingly elected president of the hackerspace HacDC.
+
+<img src="http://dynamicinfradays.org/events/2015-boston/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="kirk"></a>Kir Kolyshkin
+
+Kir was named leader and project manager for the OpenVZ project in 2005 to further the adoption of containers virtualization for Linux. He spearheads the overall development and manages all key architecture, updates and feature upgrades for OpenVZ.
+
+Kir has more than 10 years Linux experience and has long been an active open source advocate.
 
 #### <a name="tomp"></a>Tom Petr
 

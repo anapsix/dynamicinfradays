@@ -12,7 +12,7 @@ features:
     - header: <a href="/programme#brianh">Brian 'Redbeard' Harrington</a>
       text: "Brian is a principal architect at CoreOS."
       icon: user
-    - header: Kir Kolyshin
+    - header: <a href="/programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
     - header: Igor Moochnick
