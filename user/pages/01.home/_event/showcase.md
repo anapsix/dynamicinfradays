@@ -26,7 +26,7 @@ The community container and dynamic infrastructure (un)conference comes to Bosto
 
 #### Learn, share, experiment
 
-##### Looking to learn what it's like to run Docker, Mesos, etc. in production? What the technical story is behind containers? How to go from Container 101 to doing this 'for real'? Where the experts see this technology going? And more..?
+##### Looking to learn how to go from Container 101 to doing this 'for real'? What the technical story is behind containers? What it's like to run Docker, Mesos, etc. in production? Where the experts see this technology going..?
 
 ### Mark your calendars: **June 5-6, 2015**
 
