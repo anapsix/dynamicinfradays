@@ -42,9 +42,9 @@ The talk gives an insight into some of the core problems brought about by Linux 
 
 Kir will cover:
 
-* resource management mechanisms (including cgroups, VSwap, I/O and CPU limits and priorities)
-* "file system in a file" technology (ploop)
-* approaches for fast live migration (ploop write tracker, CRIU, iterative checkpoint/restore)
+* Resource management mechanisms (including cgroups, VSwap, I/O and CPU limits and priorities)
+* "File system in a file" technology (ploop)
+* Approaches for fast live migration (ploop write tracker, CRIU, iterative checkpoint/restore)
 * Docker interoperability
 
 #### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
