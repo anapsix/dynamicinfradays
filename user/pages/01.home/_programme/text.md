@@ -44,7 +44,7 @@ Please note that the programme is provisional and subject to change.
 | | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Friday night drinks | Thanks, [HubSpot](../#sponsors) and [Logentries](../#sponsors)! |
+| evening | Friday night drinks | Thanks, [HubSpot](../#sponsors), [Logentries](../#sponsors) and [Good Dog Labs](../#sponsors)! |
 
 #### Saturday, June 6th
 
