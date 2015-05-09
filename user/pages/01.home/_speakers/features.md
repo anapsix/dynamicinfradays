@@ -10,7 +10,7 @@ features:
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
     - header: <a href="/programme#brianh">Brian 'Redbeard' Harrington</a>
-      text: "Brian is a principal architect at CoreOS."
+      text: "Brian is a principal architect at CoreOS.<br/>&nbsp;"
       icon: user
     - header: <a href="/programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
