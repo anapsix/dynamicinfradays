@@ -21,12 +21,14 @@ features:
     - header: <a href="/programme#tomp">Tom Petr</a>
       text: "Tom is an Infrastructure tech lead at HubSpot and contributor to Singularity, a scheduler for Mesos."
       icon: user
+    - header: Jérôme Petazzoni
+      text: "Jérôme is Docker Tinkerer Extraordinaire at Docker."
+      icon: user
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

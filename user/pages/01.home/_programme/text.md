@@ -30,7 +30,7 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers), Solaris Zones |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | Talk: _title TBC_ | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
+| 11:05-11:50am | Talk: _title TBC_ | [Jérôme Petazzoni](../#speakers), Docker |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
@@ -40,7 +40,8 @@ Please note that the programme is provisional and subject to change.
 | 02:35-03:20pm | OpenSpaces session | |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
+| 03:40-04:25pm | Talk: _title TBC_ | [Brian 'Redbeard' Harrington](../#speakers), CoreOS |
+| | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks | Thanks, [HubSpot](../#sponsors) and [Logentries](../#sponsors)! |
