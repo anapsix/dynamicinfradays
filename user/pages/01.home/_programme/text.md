@@ -30,7 +30,7 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers), Solaris Zones |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | Talk: _title TBC_ | [Jérôme Petazzoni](../#speakers), Docker |
+| 11:05-11:50am | Talk: _title TBC_ | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
