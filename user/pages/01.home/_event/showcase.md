@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your ticket
+    - text: Get your ticket (19 available)
       url: http://dynamicinfradays.org/events/2015-boston/sign-up/
       primary: true
 features:
@@ -22,7 +22,7 @@ features:
 
 # ContainerDays Boston 2015
 
-The community container and dynamic infrastructure (un)conference comes to Boston.
+The community container and dynamic infrastructure (un)conference comes to Boston on June 5-6, 2015
 
 #### Learn, share, experiment
 
