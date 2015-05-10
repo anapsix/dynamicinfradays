@@ -22,7 +22,7 @@ features:
 
 # ContainerDays Boston 2015
 
-The community container and dynamic infrastructure (un)conference comes to Boston on June 5-6, 2015
+The community container and dynamic infrastructure (un)conference comes to Boston on June 5-6, 2015.
 
 #### Learn, share, experiment
 
