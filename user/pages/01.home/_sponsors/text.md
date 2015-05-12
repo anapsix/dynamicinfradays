@@ -15,6 +15,10 @@ menu: Sponsors
 
 <!-- Silver sponsor logo with height 55 looks OK -->
 
+#### Bronze sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo.png" width="257" height="55" style="margin: 0;">
+
 ##### Friday lunch sponsor
 
 <img src="http://dynamicinfradays.org/events/2015-boston/localytics-logo.jpg" width="130" height="22" style="margin: 0;">
