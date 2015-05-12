@@ -27,6 +27,10 @@ Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a n
   * Includes: 2 tickets; vendor table; logo on the event site.
   * Cost: USD 750
   * 2 available
+* 1x **Bronze sponsor**
+  * Includes: 2 tickets; vendor table for Day 1 _or_ Day 2 only; logo on the event site.
+  * Cost: USD 500
+  * _No longer available_
 * 1x **Day 1 lunch sponsor**
   * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * _No longer available_
