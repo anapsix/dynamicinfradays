@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your ticket - 12 remaining
+    - text: Get your ticket - 10 remaining
       url: http://dynamicinfradays.org/events/2015-boston/sign-up/
       primary: true
 ---
