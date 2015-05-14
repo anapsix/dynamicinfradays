@@ -11,7 +11,9 @@ menu: Sponsors
 
 #### Gold sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
+
+<img src="http://dynamicinfradays.org/events/2015-boston/vmturbo-logo.png" width="182" height="70" style="margin: 0 10px 0 10px;">
 
 <!-- Silver sponsor logo with height 55 looks OK -->
 
