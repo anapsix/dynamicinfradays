@@ -31,7 +31,7 @@ menu: Sponsors
 
 ##### Saturday lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/clusterhq-logo.png" width="120" height="34" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/clusterhq-logo.png" width="140" height="40" style="margin: 0;">
 
 ##### Friday night drinks sponsors
 
