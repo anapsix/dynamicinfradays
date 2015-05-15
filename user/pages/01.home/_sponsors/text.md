@@ -9,7 +9,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/codeship-logo.png" width="411" height="120" style="margin: 0;">
 
-#### Gold sponsor
+#### Gold sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
 
@@ -28,6 +28,10 @@ menu: Sponsors
 ##### Saturday breakfast sponsor
 
 <img src="http://dynamicinfradays.org/events/2015-boston/coreos-logo.png" width="110" height="42" style="margin: 0;">
+
+##### Saturday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-boston/clusterhq-logo.jpg" width="120" height="34" style="margin: 0;">
 
 ##### Friday night drinks sponsors
 
