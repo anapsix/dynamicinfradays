@@ -17,7 +17,7 @@ menu: Sponsors
 
 ##### Silver sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/emccode-logo.png" width="175" height="55" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/emccode-logo.png" width="200" height="63" style="margin: 0;">
 
 ##### Bronze sponsor
 
