@@ -107,7 +107,7 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
 
-Led by Jonas Rosland, EMC {code}
+Led by Jonas Rosland, EMCcode
 
 **Prerequisities**
 
