@@ -21,7 +21,7 @@ features:
     - header: <a href="/programme#tomp">Tom Petr</a>
       text: "Tom is an Infrastructure tech lead at HubSpot and contributor to Singularity, a scheduler for Mesos."
       icon: user
-    - header: J&eacute;r&ocirc;me Petazzoni
+    - header: <a href="/programme#jeromep">J&eacute;r&ocirc;me Petazzoni</a>
       text: "J&eacute;r&ocirc;me is Docker Tinkerer Extraordinaire at Docker."
       icon: user
     - header: <a href="/programme#jeffv">Jeff Victor</a>

@@ -30,7 +30,7 @@ The HubSpot product is made up of over 200 separately deployable web APIs. While
 
 Tom will discuss the challenges faced, and how his team built a Mesos-based software load balancer using Docker that improves reliability, decreases human intervention, and saves money.
 
-#### <a name="sepconcerns"></a>_Implementing Separation of Concerns with Containers_ <span style="font-size: smaller">- J&eacute;r&ocirc;me Petazzoni</span>
+#### <a name="sepconcerns"></a>_Implementing Separation of Concerns with Containers_ <span style="font-size: smaller">- [J&eacute;r&ocirc;me Petazzoni](#jeromep)</span>
 
 One of the promises of containers is to offer "separation of concerns" between Devs and Ops. Devs are supposedly able to put their code in containers, run those containers locally, and ship them to the Ops team. When deployed on other platforms (from test to staging to QA to production), those containers will behave exactly the same way as they did in development.
 
@@ -101,6 +101,14 @@ Kir has more than 10 years Linux experience and has long been an active open sou
 Tom Petr is an Infrastructure tech lead at HubSpot in Cambridge, MA.
 
 He's a contributor to Singularity, an open-source Mesos scheduling framework.
+
+<img src="http://dynamicinfradays.org/events/2015-boston/jerome-petazzoni.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="jeromep"></a>J&eacute;r&ocirc;me Petazzoni
+
+J&eacute;r&ocirc;me is a senior engineer at Docker, where he helps others to containerize all the things. In another life he built and operated Xen clouds when EC2 was just the name of a plane, developed a GIS to deploy fiber interconnects through the French subway, managed commando deployments of large-scale video streaming systems in bandwidth-constrained environments such as conference centers, operated and scaled the dotCloud PaaS, and various other feats of technical wizardry.
+
+When annoyed, he threatens to replace things with a very small shell script.
 
 #### <a name="jeffv"></a>Jeff Victor
 
