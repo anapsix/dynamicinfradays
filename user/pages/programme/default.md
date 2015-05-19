@@ -30,6 +30,15 @@ The HubSpot product is made up of over 200 separately deployable web APIs. While
 
 Tom will discuss the challenges faced, and how his team built a Mesos-based software load balancer using Docker that improves reliability, decreases human intervention, and saves money.
 
+#### <a name="sepconcerns"></a>_Implementing Separation of Concerns with Containers_ <span style="font-size: smaller">- J&eacute;r&ocirc;me Petazzoni</span>
+
+One of the promises of containers is to offer "separation of concerns" between Devs and Ops. Devs are supposedly able to put their code in containers, run those containers locally, and ship them to the Ops team. When deployed on other platforms (from test to staging to QA to production), those containers will behave exactly the same way as they did in development.
+
+Development and production environments are very different. We already know that containers abstract some of those differences, like the Linux distribution or installed packages and libraries. But what should we do when our production platform uses a totally different logging system? How should we implement backups or metrics collection in our production containers, without bloating our development containers? In development, it's easy to use a mechanism like Docker Compose to bring up multiple containers together, but how does that work in production stacks?
+
+J&eacute;r&ocirc;me will present many techniques to answer those questions (and a few more), and show how our application containers can remain simple and lean, yet have all the indispensable bells and whistles that are required
+to run in stable production environments.
+
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- Igor Moochnick</span>
 
 Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
