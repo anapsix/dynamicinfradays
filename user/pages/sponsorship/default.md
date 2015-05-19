@@ -72,7 +72,7 @@ With the exception of **Platinum** and **Gold** tiers, which come with short "sh
 
 Unfortunately, graduation season in Boston means that accommodation in the summer gets expensive quickly, and we recommend that you look at accommodation soon if you're coming from out of town. Due to the numbers involved, we currently don't have any block rates with hotels.
 
-The majority of the available hotel options we've been able to find that are below $200 a night will require a rental car. One economical option that's public transport-friendly (the [Microsoft NERD](http://dynamicinfradays.org/events/2015-boston/#location) is on the [Red Line](http://www.mbta.com/schedules_and_maps/subway/lines/?route=RED)) would be to look for hotels in the Framingham/Natick area, where there are still rooms at ~$100 a night. Check whether the hotel has a shuttle to the train station: the trip to South Station with the Commuter Rail, then to Kendall Sq with the Red Line, should take just over an hour.
+The majority of the available hotel options we've been able to find that are below $200 a night will require a rental car. One economical option that's public transport-friendly (the [Microsoft NERD](http://dynamicinfradays.org/events/2015-boston/#location) is on the [Red Line](http://www.mbta.com/schedules_and_maps/subway/lines/?route=RED)) would be to look for hotels in the Framingham/Natick area, where there are still rooms at ~$100 a night. Check whether the hotel has a shuttle to the train station: [the trip](http://www.mbta.com/) to South Station with the Commuter Rail, then to Kendall Sq with the Red Line, should take just over an hour.
 
 #### Invoicing
 
