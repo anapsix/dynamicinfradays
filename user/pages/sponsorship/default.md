@@ -53,7 +53,7 @@ We expect about 100 attendees, the majority in a technical role with interest in
 
 [Microsoft NERD](http://dynamicinfradays.org/events/2015-boston/#location) has kindly agreed to receive and store small items such as promotional material. Due to lack of suitable storage space, these may not arrive more than 3 days prior to the event, and may not be left behind afterwards.
 
-Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables.
+Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but wired internet access will not be available.
 
 There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements.
 
