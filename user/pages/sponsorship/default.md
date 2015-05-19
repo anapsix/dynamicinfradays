@@ -57,11 +57,22 @@ Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have
 
 There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements.
 
+#### Parking
+
+There is a parking garage connected to the venue. Rates are $27 for the day 
+and $10 after 4pm and on the weekends.
+
 #### Staffing suggestions
 
 You will get the most mileage from your vendor table by sending technical staff prepared to engage in the conference sessions.
 
 With the exception of **Platinum** and **Gold** tiers, which come with short "shout-out" opportunities to present your company, sponsorships do not include speaking slots. Your attending staff is welcome and encouraged to propose topics for, and participate in, the OpenSpaces sessions and workshops.
+
+#### Accommodation
+
+Unfortunately, graduation season in Boston means that accommodation in the summer gets expensive quickly, and we recommend that you look at accommodation soon if you're coming from out of town. Due to the numbers involved, we currently don't have any block rates with hotels.
+
+The majority of the available hotel options we've been able to find that are below $200 a night will require a rental car. One economical option that's public transport-friendly (the [Microsoft NERD](http://dynamicinfradays.org/events/2015-boston/#location) is on the [Red Line](http://www.mbta.com/schedules_and_maps/subway/lines/?route=RED)) would be to look for hotels in the Framingham/Natick area, where there are still rooms at ~$100 a night. Check whether the hotel has a shuttle to the train station: the trip to South Station with the Commuter Rail, then to Kendall Sq with the Red Line, should take just over an hour.
 
 #### Invoicing
 
