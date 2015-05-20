@@ -80,14 +80,6 @@ Nick Gauthier is a web developer who started with Rails, moved to the front end 
 
 He works at Codeship, a Continuous Delivery product company, on their new Docker-based platform.
 
-<img src="http://dynamicinfradays.org/events/2015-boston/brian-harrington.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="brianh"></a>Brian 'Redbeard' Harrington
-
-Brian Harrington, also known as Redbeard, is a principal architect at CoreOS.  He is developer, hacker, and technical writer in the areas of open-source development and systems administration. His time spent in both defensive and offensive computing have combined with his readings of classical anarchism to present new ideas in organizational hierarchies for software development.
-
-He currently resides in Oakland, CA and was grudgingly elected president of the hackerspace HacDC.
-
 <img src="http://dynamicinfradays.org/events/2015-boston/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="kirk"></a>Kir Kolyshkin
