@@ -126,6 +126,8 @@ Please ensure you have the following tools installed on your system:
 
 * If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
 
+<img src="http://dynamicinfradays.org/events/2015-boston/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="dcpana"></a>_Creating Multi-container Apps with Docker Compose and Panamax_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
