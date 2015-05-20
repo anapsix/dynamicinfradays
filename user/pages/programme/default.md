@@ -112,6 +112,8 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 ### Workshops
 
+<img src="http://dynamicinfradays.org/events/2015-boston/dave-nielsen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="firstc"></a>_Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS_ <span style="font-size: smaller">- 4h, Beginner</span>
 
 Bring your laptop and get ready! We are going to help you give birth to your first baby container. First, you will learn about the Docker CLI, Dockerfile, and how to push your image to a Docker Registry.
