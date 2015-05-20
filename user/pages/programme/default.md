@@ -112,6 +112,20 @@ His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv)
 
 ### Workshops
 
+#### <a name="firstc"></a>_Deploy your first container to CoreOS, Cloud Foundry, Azure and AWS_ <span style="font-size: smaller">- 4h, Beginner</span>
+
+Bring your laptop and get ready! We are going to help you give birth to your first baby container. First, you will learn about the Docker CLI, Dockerfile, and how to push your image to a Docker Registry.
+
+Then you will learn how to deploy your container to multiple targets such as CoreOS, Cloud Foundry, Azure or AWS.
+
+Led by Dave Nielsen, CloudCamp
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
+
 #### <a name="dcpana"></a>_Creating Multi-container Apps with Docker Compose and Panamax_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 So you've run a few standalone containers, now it's time to start piecing them together! Learn how to use Docker Compose and Panamax.io to create real multi-container apps.
