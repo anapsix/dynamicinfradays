@@ -15,7 +15,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/vmturbo-logo.png" width="182" height="70" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="272" height="70" style="padding-top: 10px; margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="272" height="70" style="margin: 0 10px 0 10px;">
 
 ##### Silver sponsor
 
@@ -59,7 +59,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-boston-s
 
 <img src="http://dynamicinfradays.org/events/2015-boston/finmason-logo.png" width="142" height="42" style="margin: 0 5px 0 5px;">
 
-<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="155" height="40" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo-top.png" width="155" height="40" style="margin: 0 5px 0 5px;">
 
 <img src="http://dynamicinfradays.org/events/2015-boston/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
 
