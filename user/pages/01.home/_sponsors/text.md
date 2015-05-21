@@ -15,7 +15,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/vmturbo-logo.png" width="182" height="70" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="272" height="70" style="margin: 10px 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2015-boston/stackengine-logo.png" width="272" height="70" style="padding-top: 10px; margin: 0 10px 0 10px;">
 
 ##### Silver sponsor
 
