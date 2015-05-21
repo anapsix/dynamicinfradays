@@ -88,6 +88,16 @@ Kir was named leader and project manager for the OpenVZ project in 2005 to furth
 
 Kir has more than 10 years Linux experience and has long been an active open source advocate.
 
+<img src="http://dynamicinfradays.org/events/2015-boston/igor-moochnick.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="igorm"></a>Igor Moochnick
+
+Igor has been building enterprise cross-platform and cross-technology distributed systems for more than 20 years. He is passionate about all the technologies and methodologies that can enable applications to scale seamlessly, to process large amounts of data, and to serve more customers.
+
+As a hands-on Cloud architect, Igor works with the teams to improve their development processes, increasing their effectiveness through the adoption of the Cloud-enabling technologies, Agile practices, DevOps processes and automation tool-chains.
+
+In his spare time he blogs, geeks out on Big Data and Robotics, and is a frequent speaker and supporter for multiple code camps and events.
+
 #### <a name="tomp"></a>Tom Petr
 
 Tom Petr is an Infrastructure tech lead at HubSpot in Cambridge, MA.

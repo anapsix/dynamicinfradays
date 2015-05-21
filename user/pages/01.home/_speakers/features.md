@@ -15,7 +15,7 @@ features:
     - header: Barak Michener
       text: "Barak is a software engineer and long-standing developer advocate at CoreOS."
       icon: user
-    - header: Igor Moochnick
+    - header: <a href="/programme#igorm">Igor Moochnick</a>
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
     - header: <a href="/programme#tomp">Tom Petr</a>
