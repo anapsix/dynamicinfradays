@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Join the waitlist
+    - text: Get on the waitlist
       url: http://dynamicinfradays.org/events/2015-boston/sign-up/
       primary: true
 ---
