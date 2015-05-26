@@ -12,8 +12,8 @@ features:
     - header: <a href="/programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
-    - header: Barak Michener
-      text: "Barak is a software engineer and long-standing developer advocate at CoreOS."
+    - header: <a href="/programme#barakm">Barak Michener</a>
+      text: "Barak is a distributed systems developer for CoreOS, working in Go on etcd."
       icon: user
     - header: <a href="/programme#igorm">Igor Moochnick</a>
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."

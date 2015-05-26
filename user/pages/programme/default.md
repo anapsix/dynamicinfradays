@@ -88,6 +88,14 @@ Kir was named leader and project manager for the OpenVZ project in 2005 to furth
 
 Kir has more than 10 years Linux experience and has long been an active open source advocate.
 
+<img src="http://dynamicinfradays.org/events/2015-boston/barak-michener.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="barakm"></a>Barak Michener
+
+Barak is a distributed systems developer for CoreOS, working in Go on etcd.
+
+His other interests include graph databases (maintaining Cayley), machine learning, and programming languages.
+
 <img src="http://dynamicinfradays.org/events/2015-boston/igor-moochnick.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="igorm"></a>Igor Moochnick
