@@ -23,7 +23,9 @@ menu: Sponsors
 
 ##### Bronze sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo.png" width="140" height="30" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo.png" width="140" height="30" style="margin: 0 5px 0 5px;">
+
+<img src="http://dynamicinfradays.org/events/2015-boston/redhat-logo.png" width="140" height="45" style="margin: 0 5px 0 5px;">
 
 ##### Friday lunch sponsor
 
