@@ -144,7 +144,7 @@ Led by Dave Nielsen, CloudCamp and [Barak Michener](#barakm), CoreOS
 
 Please ensure you have the following tools installed on your system:
 
-* If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
+* If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 
 <img src="http://dynamicinfradays.org/events/2015-boston/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
@@ -158,6 +158,6 @@ Led by Jonas Rosland, EMCcode
 
 Please ensure you have the following tools installed on your system:
 
-* If you're running Max OS X or Windows, [boot2docker](http://boot2docker.io/)
+* If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
