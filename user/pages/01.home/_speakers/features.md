@@ -24,8 +24,14 @@ features:
     - header: <a href="/programme#jeromep">J&eacute;r&ocirc;me Petazzoni</a>
       text: "J&eacute;r&ocirc;me is Docker Tinkerer Extraordinaire at Docker."
       icon: user
+    - header: <a href="/programme#joes">Joe Stein</a>
+      text: "Joe assists organizations with their Kafka, Mesos, Hadoop, Cassandra, Accumulo, Storm, Spark, etc. Big Data systems."
+      icon: user
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
+      icon: user
+    - header: Tara Walker
+      text: "Tara is an AWS Technical Evangelist for Amazon."
       icon: user
 ---
 

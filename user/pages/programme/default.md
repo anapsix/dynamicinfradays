@@ -120,6 +120,14 @@ J&eacute;r&ocirc;me is a senior engineer at Docker, where he helps others to con
 
 When annoyed, he threatens to replace things with a very small shell script.
 
+<img src="http://dynamicinfradays.org/events/2015-boston/joe-stein.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="joes"></a>Joe Stein
+
+Joe Stein is the CEO of Elodina, Inc., a startup focusing on the support & maintenance of third party open source software, and also Founder and Principal Consultant of Big Data Open Source Security. Joe has been working for the last couple of years on implementing and assisting organizations with their Kafka, Mesos, Hadoop, Cassandra, Accumulo, Storm, Spark, etc. Big Data systems.
+
+Prior to this, Joe Stein was responsible for building out a platform that ingested and processed the analytics for 6 billion unique mobile devices.
+
 #### <a name="jeffv"></a>Jeff Victor
 
 Jeff's 28-year computer career has included software development, system and network administration, and consulting. He was the Principal Author of the book _Solaris 10 System Virtualization Essentials_, and the creator of the Solaris Zones FAQ and the 'zonestat' open-source program.
