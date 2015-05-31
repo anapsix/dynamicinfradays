@@ -170,6 +170,6 @@ Please ensure you have the following tools installed on your system:
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
 
-<img src="http://dynamicinfradays.org/img/logo.png" width="200" height="104" style="margin: 40px auto 30px auto; display: block;">
+<img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
-_ContainerDays Boston 2015 is a [DynamicInfraDays](http://dynamicinfradays.org) event_
+<div style="align: center; display: block;">_**ContainerDays Boston 2015** is a [DynamicInfraDays](http://dynamicinfradays.org) event_</div>
