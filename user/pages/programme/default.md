@@ -10,7 +10,7 @@ title: Programme
 
 #### ContainerDays Boston 2015
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
+<img src="http://dynamicinfradays.org/events/2015-boston/2015-boston-logo.png" height="200" width="160" style="margin-left:auto;margin-right:auto;display:block">
 
 ### Talks
 
@@ -169,3 +169,7 @@ Please ensure you have the following tools installed on your system:
 * If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
+
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 30px auto 40px auto; display: block;">
+
+_ContainerDays Boston 2015 is a [DynamicInfraDays](http://dynamicinfradays.org) event_
