@@ -12,7 +12,7 @@ title: Sponsorship
 
 ## Sponsorship tiers
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block">
+<img src="http://dynamicinfradays.org/events/2015-boston/2015-boston-logo.png" height="241" width="300" style="margin-left:auto;margin-right:auto;display:block">
 
 Thank you for your interest in sponsoring ContainerDays Boston 2015! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays Boston 2015 event site](http://dynamicinfradays.org/events/2015-boston/).
 
@@ -80,3 +80,7 @@ You will be invoiced for your sponsorship. Please provide your company name, phy
 ### Questions?
 
 Please contact us at [2015-boston-sponsorship () dynamicinfradays ! org](mailto:2015-boston-sponsorship@dynamicinfradays.org) for payment details and any other questions you may have.
+
+<img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
+
+<div style="text-align: center; display: block;"><em><strong>ContainerDays Boston 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
