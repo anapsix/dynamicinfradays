@@ -4,7 +4,7 @@ menu: Location
 class: big
 ---
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 30px auto 40px auto; display: block;">
+<img src="http://dynamicinfradays.org/events/2015-boston/2015-boston-logo.png" height="200" width="160" style="margin: 30px auto 40px auto; display: block;">
 
 ## Location
 

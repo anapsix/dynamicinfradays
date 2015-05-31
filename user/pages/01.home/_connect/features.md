@@ -80,3 +80,7 @@ menu: Connect
 <!--End mc_embed_signup-->
 
 You can also follow <a href="https://twitter.com/DynInfraDays">@DynInfraDays</a> on Twitter for updates or of course <a href="mailto:2015-boston@dynamicinfradays.org">reach us via email</a>.
+
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin: 30px auto 40px auto; display: block;">
+
+_ContainerDays Boston 2015 is a [DynamicInfraDays](http://dynamicinfradays.org) event_
