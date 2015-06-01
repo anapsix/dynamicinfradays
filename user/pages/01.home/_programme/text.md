@@ -57,9 +57,9 @@ Please note that the programme is provisional and subject to change.
 | 10:30-10:45am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
-| 12:10-01:00pm | Lunch & exhibitor time | |
-| 01:00-03:00pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
-| 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:45pm | Workshops ctd. | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 12:10-12:55pm | Lunch & exhibitor time | |
+| 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 02:45-03:00pm | Coffee break & exhibitor time | |
+| 03:00-04:50pm | Workshops ctd. | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
