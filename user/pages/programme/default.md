@@ -53,7 +53,7 @@ Igor will discuss how this new set of technologies is finding its way in the ent
 
 #### <a name="layers"></a>_CoreOS: Building the Layers of the Scalable Cluster for Containers_ <span style="font-size: smaller">- [Barak Michener](#barakm)</span>
 
-One of the strengths of containerization is the way it allows us to consider how to build our applications for scale. Turning a cluster of machines into a single, highly-available computer,is the end goal of a containerized world.
+One of the strengths of containerization is the way it allows us to consider how to build our applications for scale. Turning a cluster of machines into a single, highly-available computer is the end goal of a containerized world.
 
 However, there are many distributed systems problems along the way!
 
