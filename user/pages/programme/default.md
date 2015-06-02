@@ -39,6 +39,12 @@ But what should we do when our production platform uses a totally different logg
 J&eacute;r&ocirc;me will present many techniques to answer those questions (and a few more), and show how our application containers can remain simple and lean, yet have all the indispensable bells and whistles that are required
 to run in stable production environments.
 
+#### <a name="persist"></a>_Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!_ <span style="font-size: smaller">- [Joe Stein](#joes)</span>
+
+Being able to containerize data persistent systems has traditionally been difficult. With the ability to now have data persistent frameworks such as Kafka, MySQL, HDFS, etc. running on Mesos, we not only gain benefits from containerizing but can build out new features we were never able to deliver before.
+
+Joe will talk through where things are today, what to watch out for, and where things are heading moving forward.
+
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- [Igor Moochnick](#igorm)</span>
 
 Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.

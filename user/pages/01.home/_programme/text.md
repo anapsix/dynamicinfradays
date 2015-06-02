@@ -37,8 +37,8 @@ Please note that the programme is provisional and subject to change.
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
-| 02:35-03:20pm | Talk: _title TBC_ | [Tara Walker](../#speakers), Amazon |
-| | Talk: _title TBC_ | [Joe Stein](../#speakers) |
+| 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ | [Joe Stein](../#speakers) |
+| | Talk: _title TBC_ | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
