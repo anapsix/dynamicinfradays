@@ -60,6 +60,6 @@ Please note that the programme is provisional and subject to change.
 | 12:10-12:55pm | Lunch & exhibitor time | |
 | 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:45-03:00pm | Coffee break & exhibitor time | |
-| 03:00-04:50pm | Workshops ctd. | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 03:00-04:50pm | Workshops ctd. | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Continuous Delivery & Management of Your Multi-container Apps with DockerHub and Tutum](/programme#tutum)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |

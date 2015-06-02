@@ -178,6 +178,19 @@ Please ensure you have the following tools installed on your system:
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
 
+#### <a name="tutum"></a>_Continuous Delivery & Management of your Multi-container Apps with DockerHub and Tutum_ <span style="font-size: smaller">- 2h, Intermediate</span>
+
+Learn how to use DockerHub and Tutum to automate the delivery of your multi-container applications across any infrastructure.
+
+Led by Borja Burgos, Tutum
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
+* [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
+
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
 <div style="text-align: center; display: block;"><em><strong>ContainerDays Boston 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
