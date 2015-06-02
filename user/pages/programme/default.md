@@ -18,7 +18,7 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
-#### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Tom Petr](#tomp)</span>
+#### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
 The HubSpot product is made up of over 200 separately deployable web APIs. While investing in a Service Oriented Architecture has many benefits, it can also expose new infrastructure scaling challenges.
 
@@ -106,12 +106,6 @@ As a hands-on Cloud architect, Igor works with the teams to improve their develo
 
 In his spare time he blogs, geeks out on Big Data and Robotics, and is a frequent speaker and supporter for multiple code camps and events.
 
-#### <a name="tomp"></a>Tom Petr
-
-Tom Petr is an Infrastructure tech lead at HubSpot in Cambridge, MA.
-
-He's a contributor to Singularity, an open-source Mesos scheduling framework.
-
 <img src="http://dynamicinfradays.org/events/2015-boston/jerome-petazzoni.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="jeromep"></a>J&eacute;r&ocirc;me Petazzoni
@@ -119,6 +113,12 @@ He's a contributor to Singularity, an open-source Mesos scheduling framework.
 J&eacute;r&ocirc;me is a senior engineer at Docker, where he helps others to containerize all the things. In another life he built and operated Xen clouds when EC2 was just the name of a plane, developed a GIS to deploy fiber interconnects through the French subway, managed commando deployments of large-scale video streaming systems in bandwidth-constrained environments such as conference centers, operated and scaled the dotCloud PaaS, and various other feats of technical wizardry.
 
 When annoyed, he threatens to replace things with a very small shell script.
+
+#### <a name="stephens"></a>Stephen Salinas
+
+Stephen Salinas is an Infrastructure engineer at HubSpot in Cambridge, MA.
+
+He's a contributor to Singularity, an open-source Mesos scheduling framework.
 
 <img src="http://dynamicinfradays.org/events/2015-boston/joe-stein.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

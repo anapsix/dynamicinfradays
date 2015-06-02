@@ -30,7 +30,7 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers) |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
+| 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Stephen Salinas](../#speakers), HubSpot |
 | | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ | [Max Forbes](../#speakers), Google |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |

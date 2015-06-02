@@ -18,11 +18,11 @@ features:
     - header: <a href="/programme#igorm">Igor Moochnick</a>
       text: "Igor learned many lessons on the journey to container adoption in the enterprise."
       icon: user
-    - header: <a href="/programme#tomp">Tom Petr</a>
-      text: "Tom is an Infrastructure tech lead at HubSpot and contributor to Singularity, a scheduler for Mesos."
-      icon: user
     - header: <a href="/programme#jeromep">J&eacute;r&ocirc;me Petazzoni</a>
       text: "J&eacute;r&ocirc;me is Docker Tinkerer Extraordinaire at Docker."
+      icon: user
+    - header: <a href="/programme#stephens">Stephen Salinas</a>
+      text: "Tom is an Infrastructure engineer at HubSpot and contributor to Singularity, a scheduler for Mesos."
       icon: user
     - header: <a href="/programme#joes">Joe Stein</a>
       text: "Joe assists organizations with their Kafka, Mesos, Hadoop, Cassandra, Accumulo, Storm, Spark, etc. Big Data systems."
