@@ -186,6 +186,8 @@ Please ensure you have the following tools installed on your system:
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
 
+<img src="http://dynamicinfradays.org/events/2015-boston/borja-burgos.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="tutum"></a>_Continuous Delivery & Management of your Multi-container Apps with DockerHub and Tutum_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 Learn how to use DockerHub and Tutum to automate the delivery of your multi-container applications across any infrastructure.
