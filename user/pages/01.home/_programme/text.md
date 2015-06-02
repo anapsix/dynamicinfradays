@@ -30,8 +30,8 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers) |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ | [Max Forbes](../#speakers), Google |
-| | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
+| 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Tom Petr](../#speakers), HubSpot |
+| | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ | [Max Forbes](../#speakers), Google |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
@@ -41,8 +41,8 @@ Please note that the programme is provisional and subject to change.
 | | Talk: _title TBC_ | [Joe Stein](../#speakers) |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | Talk: _title TBC_ | [Barak Michener](../#speakers), CoreOS |
-| | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
+| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
+| | Talk: _title TBC_ | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks & snacks | |
