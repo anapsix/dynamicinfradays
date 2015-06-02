@@ -42,7 +42,7 @@ Please note that the programme is provisional and subject to change.
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
-| | Talk: _title TBC_ | [Barak Michener](../#speakers), CoreOS |
+| | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks & snacks | |

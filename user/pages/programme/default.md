@@ -45,6 +45,14 @@ Enterprises have well-established cultures, technology stacks and processes. Now
 
 Igor will discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
 
+#### <a name="layers"></a>_CoreOS: Building the Layers of the Scalable Cluster for Containers_ <span style="font-size: smaller">- [Barak Michener](#barakm)</span>
+
+One of the strengths of containerization is the way it allows us to consider how to build our applications for scale. Turning a cluster of machines into a single, highly-available computer,is the end goal of a containerized world.
+
+However, there are many distributed systems problems along the way!
+
+Barak will discuss the layers that tend to constitute a cluster (from the hardware up) and talk about the multiple open-source projects at CoreOS that build these layers through small, composable utilities.
+
 #### <a name="nproblems"></a>_N Problems of Linux Containers...and Some Solutions_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
 
 The talk gives an insight into some of the core problems brought about by Linux Containers, and how they were solved over the years. While most of these problems and solutions belongs in the Linux kernel, kernel knowledge is not expected from the audience.
