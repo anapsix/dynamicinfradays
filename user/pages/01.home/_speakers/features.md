@@ -22,7 +22,7 @@ features:
       text: "J&eacute;r&ocirc;me is Docker Tinkerer Extraordinaire at Docker."
       icon: user
     - header: <a href="/programme#stephens">Stephen Salinas</a>
-      text: "Tom is an Infrastructure engineer at HubSpot and contributor to Singularity, a scheduler for Mesos."
+      text: "Stephen is an Infrastructure engineer at HubSpot and contributor to Singularity, a scheduler for Mesos."
       icon: user
     - header: <a href="/programme#joes">Joe Stein</a>
       text: "Joe assists organizations with their Kafka, Mesos, Hadoop, Cassandra, Accumulo, Storm, Spark, etc. Big Data systems."
