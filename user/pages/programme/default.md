@@ -128,6 +128,8 @@ J&eacute;r&ocirc;me is a senior engineer at Docker, where he helps others to con
 
 When annoyed, he threatens to replace things with a very small shell script.
 
+<img src="http://dynamicinfradays.org/events/2015-boston/stephen-salinas.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="stephens"></a>Stephen Salinas
 
 Stephen Salinas is an Infrastructure engineer at HubSpot in Cambridge, MA.
