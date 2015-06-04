@@ -152,6 +152,14 @@ Jeff received a Bachelor of Science degree (Computer Science) from Rensselaer Po
 
 His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv).
 
+#### <a name="taraw"></a>Tara Walker
+
+Tara is a Technical Evangelist for Amazon Web Services, dedicating her time to help developers build apps in the AWS Cloud. Tara has most recently been working on evangelizing cross-platform development and AWS Mobile Services in conjunction with AWS Mobile team.
+
+Tara is a software engineer who has been spreading the “good news” about various development platforms and languages for over 15 years as a developer evangelist at Microsoft and various other Fortune 500 companies. During that time, she has had an opportunity to work with a myriad of technologies, languages, and frameworks for mobile, gaming, cloud, web, and NUI development.
+
+You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
+
 ### Workshops
 
 <img src="http://dynamicinfradays.org/events/2015-boston/dave-nielsen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">

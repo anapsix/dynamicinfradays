@@ -30,7 +30,7 @@ features:
     - header: <a href="/programme#jeffv">Jeff Victor</a>
       text: "Jeff was a key promulgator and influencer of Solaris Zones and has more than a decade of experience with OS virtualization and containers."
       icon: user
-    - header: Tara Walker
+    - header: <a href="/programme#taraw">Tara Walker</a>
       text: "Tara is an AWS Technical Evangelist for Amazon."
       icon: user
 ---
