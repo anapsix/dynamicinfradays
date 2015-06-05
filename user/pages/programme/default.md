@@ -14,7 +14,7 @@ title: Programme
 
 ### Talks
 
-#### <a name="briefhist"></a>_A Brief History of Containers_ <span style="font-size: smaller">- [Jeff Victor](#jeffv)</span>
+#### <a name="briefhist"></a>_A Brief History of Containers_ <span style="font-size: smaller">- [Jeff Victor](#jeffv) & [Kir Kolyshkin](#kirk)</span>
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
