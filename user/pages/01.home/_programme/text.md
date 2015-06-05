@@ -27,22 +27,22 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Registration | Welcome to the first ContainerDays Boston |
 | 09:30-10:00am | Welcome, introduction, Open Spaces explanation | |
-| 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers) & [Kir Kolyshkin](../#speakers) |
+| 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [Jeff Victor](../#speakers) & [Kir Kolyshkin](../#speakers) |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
-| 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ | [Stephen Salinas](../#speakers), HubSpot |
-| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ | [Max Forbes](../#speakers), Google |
+| 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [Stephen Salinas](../#speakers), HubSpot |
+| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ ([live stream](https://www.youtube.com/watch?v=fwOynzVwkG4) | [Max Forbes](../#speakers), Google |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:45-01:50pm | Sponsor shout-out | |
-| 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
-| 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ | [Joe Stein](../#speakers) |
-| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ | [Tara Walker](../#speakers), Amazon |
+| 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
+| 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [Joe Stein](../#speakers) |
+| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ ([live stream](https://www.youtube.com/watch?v=fwOynzVwkG4) | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
-| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ | [Barak Michener](../#speakers), CoreOS |
+| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c)) | [Igor Moochnick](../#speakers) |
+| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ ([live stream](https://www.youtube.com/watch?v=fwOynzVwkG4) | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks & snacks | |
@@ -53,9 +53,9 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
-| 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
+| 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:45am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ | [Nick Gauthier](../#speakers), Codeship |
+| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ ([live stream](https://www.youtube.com/watch?v=SL8vXFOCx-c) | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
 | 12:10-12:55pm | Lunch & exhibitor time | |
 | 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
