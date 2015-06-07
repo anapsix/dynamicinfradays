@@ -25,4 +25,4 @@ content:
 
 # DynamicInfraDays is here!
 ## The community container and dynamic infrastructure (un)conference
-### **On now:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)** _sold out_
+### **Last event:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**
