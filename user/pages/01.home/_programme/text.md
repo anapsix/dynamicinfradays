@@ -41,7 +41,7 @@ Please note that the programme is provisional and subject to change.
 | 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [links](http://dynamicinfradays.org/events/2015-boston/aws-lambda-links.pdf)</span> | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ | [Igor Moochnick](../#speakers) |
+| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)</span> | [Igor Moochnick](../#speakers) |
 | 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
@@ -55,7 +55,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:45am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ | [Nick Gauthier](../#speakers), Codeship |
+| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ <span style="font-size: smaller"> [slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p)</span> | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
 | 12:10-12:55pm | Lunch & exhibitor time | |
 | 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
