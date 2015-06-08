@@ -58,7 +58,7 @@ Please note that the programme is provisional and subject to change.
 | 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ <span style="font-size: smaller"> [slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p)</span> | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
 | 12:10-12:55pm | Lunch & exhibitor time | |
-| 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/jonasrosland/docker-compose-and-panamax-containerdays-boston-june-2015)</span><br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:45-03:00pm | Coffee break & exhibitor time | |
 | 03:00-04:50pm | Workshops ctd. | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Continuous Delivery & Management of Your Multi-container Apps with DockerHub and Tutum](/programme#tutum)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
