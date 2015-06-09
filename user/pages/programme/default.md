@@ -20,11 +20,11 @@ Containers are a form of operating system virtualization that is subtly differen
 
 #### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
+[slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)
+
 The HubSpot product is made up of over 200 separately deployable web APIs. While investing in a Service Oriented Architecture has many benefits, it can also expose new infrastructure scaling challenges.
 
 Stephen will discuss the challenges faced, and how his team built a Mesos-based software load balancer using Docker that improves reliability, decreases human intervention, and saves money.
-
-[slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)
 
 #### <a name="kubern"></a>_Kubernetes: Container Orchestration at Scale_ <span style="font-size: smaller">- [Max Forbes](#maxf)</span>
 
