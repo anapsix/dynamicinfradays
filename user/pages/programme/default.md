@@ -176,7 +176,7 @@ Bring your laptop and get ready! We are going to help you give birth to your fir
 
 Then you will learn how to deploy your container to multiple targets such as CoreOS, Cloud Foundry, Azure or AWS.
 
-Led by Dave Nielsen, CloudCamp and [Barak Michener](#barakm), CoreOS
+Led by Dave Nielsen, CloudCamp, Boyd Hemphill, StackEngine and [Barak Michener](#barakm), CoreOS
 
 **Prerequisities**
 
