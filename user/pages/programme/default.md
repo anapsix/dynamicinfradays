@@ -20,11 +20,11 @@ Containers are a form of operating system virtualization that is subtly differen
 
 #### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
-[slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)
-
 The HubSpot product is made up of over 200 separately deployable web APIs. While investing in a Service Oriented Architecture has many benefits, it can also expose new infrastructure scaling challenges.
 
 Stephen will discuss the challenges faced, and how his team built a Mesos-based software load balancer using Docker that improves reliability, decreases human intervention, and saves money.
+
+[slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)
 
 #### <a name="kubern"></a>_Kubernetes: Container Orchestration at Scale_ <span style="font-size: smaller">- [Max Forbes](#maxf)</span>
 
@@ -41,11 +41,15 @@ But what should we do when our production platform uses a totally different logg
 J&eacute;r&ocirc;me will present many techniques to answer those questions (and a few more), and show how our application containers can remain simple and lean, yet have all the indispensable bells and whistles that are required
 to run in stable production environments.
 
+[slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers)
+
 #### <a name="persist"></a>_Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!_ <span style="font-size: smaller">- [Joe Stein](#joes)</span>
 
 Being able to containerize data persistent systems has traditionally been difficult. With the ability to now have data persistent frameworks such as Kafka, MySQL, HDFS, etc. running on Mesos, we not only gain benefits from containerizing but can build out new features we were never able to deliver before.
 
 Joe will talk through where things are today, what to watch out for, and where things are heading moving forward.
+
+[slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos)
 
 #### <a name="lambda"></a>_Thinking Differently: An Introduction to AWS Lambda_ <span style="font-size: smaller">- [Tara Walker](#taraw)</span>
 
@@ -58,6 +62,8 @@ Tara will describe what you need to quickly begin building applications that use
 Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.
 
 Igor will discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
+
+[slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)
 
 #### <a name="layers"></a>_CoreOS: Building the Layers of the Scalable Cluster for Containers_ <span style="font-size: smaller">- [Barak Michener](#barakm)</span>
 
@@ -83,6 +89,8 @@ Kir will cover:
 Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. In this talk we'll explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
+
+[slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p)
 
 ### Speakers
 
@@ -201,6 +209,8 @@ Please ensure you have the following tools installed on your system:
 * If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 * [Panamax](http://panamax.io/get-panamax/)
+
+[slides](http://www.slideshare.net/jonasrosland/docker-compose-and-panamax-containerdays-boston-june-2015)
 
 <img src="http://dynamicinfradays.org/events/2015-boston/borja-burgos.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
