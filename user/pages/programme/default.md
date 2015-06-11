@@ -227,6 +227,8 @@ Please ensure you have the following tools installed on your system:
 * If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 * [Docker Compose](https://docs.docker.com/compose/install/#install-compose)
 
+[slides](http://www.slideshare.net/borjaburgos/containerdays-2015) [more info](http://blog.tutum.co/2015/06/08/blue-green-deployment-using-containers/)
+
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
 <div style="text-align: center; display: block;"><em><strong>ContainerDays Boston 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
