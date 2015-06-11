@@ -194,6 +194,8 @@ Please ensure you have the following tools installed on your system:
 
 * If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
 
+[more info](http://stackengine.com/docker-101-01-docker-development-environments/)
+
 <img src="http://dynamicinfradays.org/events/2015-boston/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="dcpana"></a>_Creating Multi-container Apps with Docker Compose and Panamax_ <span style="font-size: smaller">- 2h, Intermediate</span>
