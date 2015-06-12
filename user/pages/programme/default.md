@@ -178,7 +178,7 @@ You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
 
 ### Workshops
 
-<img src="http://dynamicinfradays.org/events/2015-boston/dave-nielsen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2015-boston/boyd-hemphill.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="firstc"></a>_Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS_ <span style="font-size: smaller">- 4h, Beginner</span>
 
@@ -186,7 +186,7 @@ Bring your laptop and get ready! We are going to help you give birth to your fir
 
 Then you will learn how to deploy your container to multiple targets such as CoreOS, Cloud Foundry, Azure or AWS.
 
-Led by Dave Nielsen, CloudCamp, Boyd Hemphill, StackEngine and [Barak Michener](#barakm), CoreOS
+Led by Boyd Hemphill, StackEngine, [Barak Michener](#barakm), CoreOS and Dave Nielsen, CloudCamp
 
 **Prerequisities**
 
