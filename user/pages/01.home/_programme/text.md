@@ -31,7 +31,7 @@ Please note that the programme is provisional and subject to change.
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
 | 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ <span style="font-size: smaller"> [slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)</span> | [Stephen Salinas](../#speakers), HubSpot |
-| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ | [Max Forbes](../#speakers), Google |
+| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ <span style="font-size: smaller"> [slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale)</span> | [Max Forbes](../#speakers), Google |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |

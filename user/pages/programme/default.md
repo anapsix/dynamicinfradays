@@ -32,6 +32,8 @@ Kubernetes is an open source orchestration system for Docker containers. It hand
 
 Max will explain the motivation for Kubernetes and cover Kubernetes core concepts, and why these concepts are useful. He'll spin up a Kubernetes cluster and demonstrate these concepts live by deploying a simple application, as well as touching on what's next for Kubernetes and container orchestration.
 
+[slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale)
+
 #### <a name="sepconcerns"></a>_Implementing Separation of Concerns with Containers_ <span style="font-size: smaller">- [J&eacute;r&ocirc;me Petazzoni](#jeromep)</span>
 
 One of the promises of containers is to offer "separation of concerns" between Devs and Ops. Devs are supposedly able to put their code in containers, run those containers locally, and ship them to the Ops team. When deployed on other platforms (from test to staging to QA to production), those containers will behave exactly the same way as they did in development.
