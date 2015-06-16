@@ -18,6 +18,8 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
+slides 1 [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers)
+
 #### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
 The HubSpot product is made up of over 200 separately deployable web APIs. While investing in a Service Oriented Architecture has many benefits, it can also expose new infrastructure scaling challenges.
@@ -85,6 +87,8 @@ Kir will cover:
 * "File system in a file" technology (ploop)
 * Approaches for fast live migration (ploop write tracker, CRIU, iterative checkpoint/restore)
 * Docker interoperability
+
+[slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161)
 
 #### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 

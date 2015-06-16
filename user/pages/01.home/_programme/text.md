@@ -27,7 +27,7 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Registration | Welcome to the first ContainerDays Boston |
 | 09:30-10:00am | Welcome, introduction, Open Spaces explanation | |
-| 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ | [Jeff Victor](../#speakers) & [Kir Kolyshkin](../#speakers) <span style="font-size: smaller">slides 1 [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers)</span> |
+| 10:00-10:45am | _[A Brief History of Containers](/programme#briefhist)_ <span style="font-size: smaller">slides 1 [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers)</span> | [Jeff Victor](../#speakers) & [Kir Kolyshkin](../#speakers) |
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
 | 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ <span style="font-size: smaller"> [slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)</span> | [Stephen Salinas](../#speakers), HubSpot |
