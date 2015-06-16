@@ -18,7 +18,7 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff will discuss the history of OSV and the roles of current implementations.
 
-slides [1](http://www.slideshare.net/DynamicInfraDays/containerdays) [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers)
+slides [1](http://www.slideshare.net/DynamicInfraDays/containerdays) [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers) [video](https://www.youtube.com/watch?v=doUktZIcXF0)
 
 #### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
@@ -45,7 +45,7 @@ But what should we do when our production platform uses a totally different logg
 J&eacute;r&ocirc;me will present many techniques to answer those questions (and a few more), and show how our application containers can remain simple and lean, yet have all the indispensable bells and whistles that are required
 to run in stable production environments.
 
-[slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers)
+[slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers) [video](https://www.youtube.com/watch?v=pUQ5ukrVaH4)
 
 #### <a name="persist"></a>_Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!_ <span style="font-size: smaller">- [Joe Stein](#joes)</span>
 
@@ -96,7 +96,7 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. In this talk we'll explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
-[slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p)
+[slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)
 
 ### Speakers
 
