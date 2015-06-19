@@ -61,6 +61,8 @@ AWS Lambda is a new compute service that runs your code in response to events an
 
 Tara will describe what you need to quickly begin building applications that use AWS Lambda as a serverless back-end, and will also cover key Lambda features, its programming model, and tips on getting the most out of Lambda functions.
 
+[slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda)
+
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- [Igor Moochnick](#igorm)</span>
 
 Enterprises have well-established cultures, technology stacks and processes. Now containers are changing the way we think about applications, artifacts and deployment processes. They also bring new challenges along the way, especially since the technology is still young and constantly changing.

@@ -38,7 +38,7 @@ Please note that the programme is provisional and subject to change.
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers) [video](https://www.youtube.com/watch?v=pUQ5ukrVaH4)</span> | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
 | 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos)</span> | [Joe Stein](../#speakers) |
-| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [links](http://dynamicinfradays.org/events/2015-boston/aws-lambda-links.pdf)</span> | [Tara Walker](../#speakers), Amazon |
+| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda)</span> | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)</span> | [Igor Moochnick](../#speakers) |
