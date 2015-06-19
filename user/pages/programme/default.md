@@ -18,7 +18,7 @@ title: Programme
 
 Containers are a form of operating system virtualization that is subtly different from virtual machines. The concept has evolved over time, and Jeff and Kir will discuss the history of OSV and the roles of current implementations.
 
-slides [1](http://www.slideshare.net/DynamicInfraDays/containerdays) [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers) [video](https://www.youtube.com/watch?v=doUktZIcXF0)
+slides [1](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-abriefhistoryofcontainers) [2](https://www.slideshare.net/kolyshkin/brief-history-of-linux-containers) [video](https://www.youtube.com/watch?v=doUktZIcXF0)
 
 #### <a name="elbatscale"></a>_Elastic Load Balancing at Scale with Mesos and Docker_ <span style="font-size: smaller">- [Stephen Salinas](#stephens)</span>
 
