@@ -34,7 +34,7 @@ Kubernetes is an open source orchestration system for Docker containers. It hand
 
 Max will explain the motivation for Kubernetes and cover Kubernetes core concepts, and why these concepts are useful. He'll spin up a Kubernetes cluster and demonstrate these concepts live by deploying a simple application, as well as touching on what's next for Kubernetes and container orchestration.
 
-[slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale)
+[slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale) [video](https://www.youtube.com/watch?v=x8WiYujLbgc)
 
 #### <a name="sepconcerns"></a>_Implementing Separation of Concerns with Containers_ <span style="font-size: smaller">- [J&eacute;r&ocirc;me Petazzoni](#jeromep)</span>
 
@@ -61,7 +61,7 @@ AWS Lambda is a new compute service that runs your code in response to events an
 
 Tara will describe what you need to quickly begin building applications that use AWS Lambda as a serverless back-end, and will also cover key Lambda features, its programming model, and tips on getting the most out of Lambda functions.
 
-[slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda)
+[slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda) [video](https://www.youtube.com/watch?v=giEZuC5NFes)
 
 #### <a name="journey"></a>_Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise_ <span style="font-size: smaller">- [Igor Moochnick](#igorm)</span>
 
@@ -78,6 +78,8 @@ One of the strengths of containerization is the way it allows us to consider how
 However, there are many distributed systems problems along the way!
 
 Barak will discuss the layers that tend to constitute a cluster (from the hardware up) and talk about the multiple open-source projects at CoreOS that build these layers through small, composable utilities.
+
+[video](https://www.youtube.com/watch?v=K7oMynmiA0c)
 
 #### <a name="nproblems"></a>_N Problems of Linux Containers...and Some Solutions_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
 

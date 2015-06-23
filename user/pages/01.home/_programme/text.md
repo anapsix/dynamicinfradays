@@ -31,18 +31,18 @@ Please note that the programme is provisional and subject to change.
 | 10:45-11:00am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 11:00-11:05am | Sponsor shout-out | |
 | 11:05-11:50am | _[Elastic Load Balancing at Scale with Mesos and Docker](/programme#elbatscale)_ <span style="font-size: smaller"> [slides](http://slides.com/stephensalinas-1/hubspot-container-days-2015)</span> | [Stephen Salinas](../#speakers), HubSpot |
-| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ <span style="font-size: smaller"> [slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale)</span> | [Max Forbes](../#speakers), Google |
+| 11:05-11:50am | _[Kubernetes: Container Orchestration at Scale](/programme#kubern)_ <span style="font-size: smaller"> [slides](https://speakerdeck.com/mbforbes/kubernetes-container-orchestration-at-scale) [video](https://www.youtube.com/watch?v=x8WiYujLbgc)</span> | [Max Forbes](../#speakers), Google |
 | 11:50-12:10pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for initial topics |
 | 12:10-12:55pm | OpenSpaces session | |
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers) [video](https://www.youtube.com/watch?v=pUQ5ukrVaH4)</span> | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
 | 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos)</span> | [Joe Stein](../#speakers) |
-| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda)</span> | [Tara Walker](../#speakers), Amazon |
+| 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda) [video](https://www.youtube.com/watch?v=giEZuC5NFes)</span> | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)</span> | [Igor Moochnick](../#speakers) |
-| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ | [Barak Michener](../#speakers), CoreOS |
+| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=K7oMynmiA0c)</span> | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks & snacks | |
