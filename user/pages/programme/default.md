@@ -100,7 +100,7 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. In this talk we'll explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
-[slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-continuous-delivery-with-containers-nick-gauthier) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)
 
 ### Speakers
 

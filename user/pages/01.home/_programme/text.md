@@ -55,7 +55,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161)</span> | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:45am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ <span style="font-size: smaller"> [slides](https://docs.google.com/presentation/d/1PZgviI4BehxNHkONj1XJdp8HYb3t2x77Mk71LIRGfhQ/present?slide=id.p) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)</span> | [Nick Gauthier](../#speakers), Codeship |
+| 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-continuous-delivery-with-containers-nick-gauthier) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)</span> | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
 | 12:10-12:55pm | Lunch & exhibitor time | |
 | 12:55-02:45pm | Workshops | _[Deploy Your First Container to CoreOS, Cloud Foundry, Azure and AWS](/programme#firstc)_<br/>_[Creating Multi-container Apps with Docker Compose and Panamax](/programme#dcpana)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/jonasrosland/docker-compose-and-panamax-containerdays-boston-june-2015)</span><br/>Any other tool/framework [of your choice!](../#workshops) |
