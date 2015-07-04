@@ -35,7 +35,7 @@ content:
     display: none;
   }
   
-  div.eventheadline h3 {
+  div.eventheadline h4 {
     text-align: center;
     font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   }
@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h3><strong>Last event:</strong> June 5-6th, <strong>ContainerDays Boston 2015</strong>. See all events</h3>
+<h4><strong>Last event:</strong> June 5-6th, <strong><a href="/events/2015-boston">ContainerDays Boston 2015</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
