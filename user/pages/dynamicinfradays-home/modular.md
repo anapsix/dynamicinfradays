@@ -34,6 +34,11 @@ content:
   #footer {
     display: none;
   }
+  
+  div.eventheadline {
+    text-align: center;
+    font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  }
 </style>
 
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block" width="154" height="80">
@@ -43,7 +48,9 @@ content:
 
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
+<div class="eventheadline">
 ### **Last event:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**. See [all events](#events)
+</div>
 
 <script type="text/javascript">
 google.load('jquery', '1.3.2');
