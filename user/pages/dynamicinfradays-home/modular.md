@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-### **Last event:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**. See [all events](#events)
+<h3><strong>Last event:</strong> June 5-6th, <strong>ContainerDays Boston 2015</strong>. See all events</h3>
 </div>
 
 <script type="text/javascript">
