@@ -35,7 +35,7 @@ content:
     display: none;
   }
   
-  div.eventheadline {
+  div.eventheadline h3 {
     text-align: center;
     font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   }
