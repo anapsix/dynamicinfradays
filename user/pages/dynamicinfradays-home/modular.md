@@ -38,12 +38,11 @@ content:
 
 <img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block" width="100" height="80">
 
-# DynamicInfraDays is here!
-## The community container and dynamic infrastructure (un)conference
+## DynamicInfraDays is here!
+### The community container and dynamic infrastructure (un)conference
+#### **Last event:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**. See [all events](#events)
 
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
-
-### **Last event:** June 5-6th, **[ContainerDays Boston 2015](/events/2015-boston/)**
 
 <script type="text/javascript">
 google.load('jquery', '1.3.2');
