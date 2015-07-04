@@ -41,7 +41,7 @@ content:
   }
 </style>
 
-<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block" width="154" height="80">
+<img src="http://dynamicinfradays.org/img/logo.png" style="margin-left:auto;margin-right:auto;display:block" width="193" height="100">
 
 # DynamicInfraDays is here!
 ## The community container and dynamic infrastructure (un)conference
