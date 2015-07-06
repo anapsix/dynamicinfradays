@@ -53,7 +53,7 @@ Being able to containerize data persistent systems has traditionally been diffic
 
 Joe will talk through where things are today, what to watch out for, and where things are heading moving forward.
 
-[slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos)
+[slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos) [video](https://www.youtube.com/watch?v=PEbXWpgQVcU)
 
 #### <a name="lambda"></a>_Thinking Differently: An Introduction to AWS Lambda_ <span style="font-size: smaller">- [Tara Walker](#taraw)</span>
 
@@ -69,7 +69,7 @@ Enterprises have well-established cultures, technology stacks and processes. Now
 
 Igor will discuss how this new set of technologies is finding its way in the enterprise, and what we've learned so far.
 
-[slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)
+[slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise) [video](https://www.youtube.com/watch?v=QldAEl7X0BE)
 
 #### <a name="layers"></a>_CoreOS: Building the Layers of the Scalable Cluster for Containers_ <span style="font-size: smaller">- [Barak Michener](#barakm)</span>
 
@@ -92,7 +92,7 @@ Kir will cover:
 * Approaches for fast live migration (ploop write tracker, CRIU, iterative checkpoint/restore)
 * Docker interoperability
 
-[slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161)
+[slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161) [video](https://www.youtube.com/watch?v=bzQeMiruVFg)
 
 #### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 

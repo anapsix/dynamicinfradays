@@ -37,11 +37,11 @@ Please note that the programme is provisional and subject to change.
 | 12:55-01:45pm | Lunch & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:45-01:50pm | Sponsor shout-out | |
 | 01:50-02:35pm | _[Implementing Separation of Concerns with Containers](/programme#sepconcerns)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/jpetazzo/implementing-separation-of-concerns-with-docker-and-containers) [video](https://www.youtube.com/watch?v=pUQ5ukrVaH4)</span> | [J&eacute;r&ocirc;me Petazzoni](../#speakers), Docker |
-| 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos)</span> | [Joe Stein](../#speakers) |
+| 02:35-03:20pm | _[Containerized Data Persistence on Mesos with Kafka, MySQL, Cassandra, HDFS and More!](/programme#persist)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/mobile/charmalloc/containerized-data-persistence-on-mesos) [video](https://www.youtube.com/watch?v=PEbXWpgQVcU)</span> | [Joe Stein](../#speakers) |
 | 02:35-03:20pm | _[Thinking Differently: An Introduction to AWS Lambda](/programme#lambda)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/AmazonWebServices/a-walk-in-the-cloud-with-aws-lambda) [video](https://www.youtube.com/watch?v=giEZuC5NFes)</span> | [Tara Walker](../#speakers), Amazon |
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
-| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise)</span> | [Igor Moochnick](../#speakers) |
+| 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise) [video](https://www.youtube.com/watch?v=QldAEl7X0BE)</span> | [Igor Moochnick](../#speakers) |
 | 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=K7oMynmiA0c)</span> | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
@@ -53,7 +53,7 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
-| 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161)</span> | [Kir Kolyshkin](../#speakers), OpenVZ |
+| 09:45-10:30am | _[N Problems of Linux Containers...and Some Solutions](/programme#nproblems)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/kolyshkin/n-problems-of-linux-containers-49400161) [video](https://www.youtube.com/watch?v=bzQeMiruVFg)</span> | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:45am | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 10:45-11:30am | _[Continuous Delivery with Containers](/programme#cdwithcontainers)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-continuous-delivery-with-containers-nick-gauthier) [video](https://www.youtube.com/watch?v=NgQnR1vhfOY)</span> | [Nick Gauthier](../#speakers), Codeship |
 | 11:30-12:10pm | OpenSpaces session | |
