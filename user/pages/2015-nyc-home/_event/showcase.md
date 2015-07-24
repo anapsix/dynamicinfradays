@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Sold out
+    - text: Get your ticket - early bird discount
       url: http://dynamicinfradays.org/events/2015-nyc/sign-up/
       primary: true
 ---
