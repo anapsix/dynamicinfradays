@@ -4,7 +4,7 @@ menu: Location
 class: big
 ---
 
-<img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;display:block">
+<img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;margin-bottom:15px;display:block">
 
 ## Location
 
