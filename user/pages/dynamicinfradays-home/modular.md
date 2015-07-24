@@ -76,7 +76,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "NYC<br>Oct 29-30",
-    labelAnchor: new google.maps.Point(0, -10),
+    labelAnchor: new google.maps.Point(0, 2),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
