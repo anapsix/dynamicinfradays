@@ -69,19 +69,19 @@ function initialize() {
 
   var didLogo = 'http://dynamicinfradays.org/img/logo-map-marker.png';
 
-  var bostonMarker = new MarkerWithLabel({
+  var nycMarker = new MarkerWithLabel({
     position: new google.maps.LatLng(40.756870, -73.989662),
     draggable: false,
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
     labelContent: "NYC<br>Oct 29-30",
-    labelAnchor: new google.maps.Point(0, 45),
+    labelAnchor: new google.maps.Point(0, -10),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
 
-  google.maps.event.addListener(bostonMarker, "click", function (e) { location.href="/events/2015-nyc/"});
+  google.maps.event.addListener(nycMarker, "click", function (e) { location.href="/events/2015-nyc/"});
 
   var bostonMarker = new MarkerWithLabel({
     position: new google.maps.LatLng(42.361369, -71.081355),
