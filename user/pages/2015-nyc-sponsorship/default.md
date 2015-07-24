@@ -17,7 +17,7 @@ title: Sponsorship
 Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays NYC 2015 event site](http://dynamicinfradays.org/events/2015-nyc/).
 
 * 1x **Platinum sponsor**
-  * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Friday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
+  * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Thursday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
   * Cost: USD 1500
   * Available
 * 4x **Gold sponsor**
@@ -29,7 +29,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
   * Cost: USD 750
   * Available
 * 1x **Day 1 breakfast sponsor**
-  * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in lunch area.
+  * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
   * Available
 * 1x **Day 1 lunch sponsor**
@@ -52,15 +52,15 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
 
 We expect about 120 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that ContainerDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
 
-#### Facilities
+#### <a name="facilities"></a>Facilities
 
 Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but please do not rely on it for critical meetings. Wired internet access will not be available.
 
 There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements. Please plan for a way to collect contact information from interested attendees, as there is no automated lead capture system.
 
-All posters and banners need to be free-standing; we may not affix any materials to the walls or windows.
+All posters and banners need to be free-standing; we are not allowed to affix any materials to the walls or windows.
 
-#### Shipping
+#### <a name="shipping"></a>Shipping
 
 Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. [Microsoft NYC](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](mailto:2015-nyc-sponsorship@dynamicinfradays.org) first if you need to ship directly to the venue.
 
