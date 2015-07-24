@@ -70,7 +70,7 @@ Please plan to remove everything you bring at the end of the event. Items may no
 
 #### <a name="parking"></a>Parking
 
-There are a number of [parking garages](https://www.google.com/maps/search/parking/@40.7578811,-73.990092,16z/data=!3m1!4b1!4m8!2m7!3m6!1sparking!2sMicrosoft+Technology+Center,+640+8th+Ave,+New+York,+NY+10019,+United+States!3s0x89c25856e81cdc7d:0xcb6b70d1bb597301!4m2!1d-73.9896509!2d40.75672) close to the venue. Parking is expensive and traffic in the area is notoriously bad, so we strongly encourage attendees to use mass transit where possible.
+There are a number of [parking garages](https://www.google.com/maps/search/parking/@40.7578811,-73.990092,16z/data=!3m1!4b1!4m8!2m7!3m6!1sparking!2sMicrosoft+Technology+Center,+640+8th+Ave,+New+York,+NY+10019,+United+States!3s0x89c25856e81cdc7d:0xcb6b70d1bb597301!4m2!1d-73.9896509!2d40.75672) close to the venue. However, parking is expensive and traffic in the area is notoriously bad, so we strongly encourage attendees to use mass transit where possible.
 
 #### <a name="staffing"></a>Staffing suggestions
 
