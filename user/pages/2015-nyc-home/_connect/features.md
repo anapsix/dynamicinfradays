@@ -65,7 +65,7 @@ menu: Connect
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//random.us10.list-manage.com/subscribe/post?u=27ad0ec0e040d8cb661d8d360&amp;id=6299574b00" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//random.us10.list-manage.com/subscribe/post?u=27ad0ec0e040d8cb661d8d360&id=6299574b00" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
