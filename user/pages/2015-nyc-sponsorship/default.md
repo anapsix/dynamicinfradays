@@ -68,9 +68,9 @@ All posters and banners need to be free-standing; we are not allowed to affix an
 
 #### <a name="shipping"></a>Shipping
 
-Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. [Microsoft NYC](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](mailto:2015-nyc-sponsorship@dynamicinfradays.org) first if you need to ship directly to the venue.
+Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. [Microsoft NYC](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
 
-Items need to be hand-carryable or in a rollable suitcase, as we will not be able to use the freight elevator for the event. If you have essential items that cannot be transported any other way, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org) and we'll try our best to make things work.
+Items need to be hand-carryable or in a rollable suitcase, as we will not be able to use the freight elevator for the event. If you have essential items that cannot be transported any other way, please [get in touch](#questions) and we'll try our best to make things work.
 
 Please plan to remove everything you bring at the end of the event. Items may not be left behind afterwards. [Fedex](http://local.fedex.com/ny/new-york/?q=11%20Times%20Sq%20NY%2010036) and [UPS](https://www.ups.com/dropoff?txtQuery=11%20Times%20Sq%20NY%2011036&reqType=results) both have drop boxes and offices close to the venue.
 
