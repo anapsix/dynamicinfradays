@@ -10,7 +10,7 @@ title: Sponsorship
 
 #### ContainerDays NYC 2015
 
-## Sponsorship tiers
+## <a name="tiers"></a>Sponsorship tiers
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;display:block">
 
@@ -48,7 +48,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
   * Includes: 1 ticket; smaller logo on the event site; callout before Thursday night drinks at the end of the Day 1 programme. Additional details to be confirmed.
   * _Contact us_
 
-#### Participant details
+#### <a name="participants"></a>Participant details
 
 We expect about 120 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that ContainerDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
 
@@ -68,17 +68,21 @@ Items need to be hand-carryable or in a rollable suitcase, as we will not be abl
 
 Please plan to remove everything you bring at the end of the event. Items may not be left behind afterwards. [Fedex](http://local.fedex.com/ny/new-york/?q=11%20Times%20Sq%20NY%2010036) and [UPS](https://www.ups.com/dropoff?txtQuery=11%20Times%20Sq%20NY%2011036&reqType=results) both have drop boxes and offices close to the venue.
 
-#### Staffing suggestions
+#### <a name="parking"></a>Parking
+
+There are a number of [parking garages](https://www.google.com/maps/search/parking/@40.7578811,-73.990092,16z/data=!3m1!4b1!4m8!2m7!3m6!1sparking!2sMicrosoft+Technology+Center,+640+8th+Ave,+New+York,+NY+10019,+United+States!3s0x89c25856e81cdc7d:0xcb6b70d1bb597301!4m2!1d-73.9896509!2d40.75672) close to the venue. Parking is expensive and traffic in the area is notoriously bad, so we strongly encourage attendees to use mass transit where possible.
+
+#### <a name="staffing"></a>Staffing suggestions
 
 You will get the most mileage from your vendor table by sending technical staff prepared to engage in the conference sessions.
 
 With the exception of **Platinum** and **Gold** tiers, which come with short "shout-out" opportunities to present your company, **sponsorships do not include speaking slots**. Your attending staff is welcome and encouraged to propose topics for, and participate in, the OpenSpaces sessions and workshops.
 
-#### Accommodation
+#### <a name="accommodation"></a>Accommodation
 
 Unfortunately, accommodation in NYC gets expensive quickly, and we recommend that you look at accommodation soon if you're coming from out of town. Due to the numbers involved, we currently don't have any block rates with hotels.
 
-#### Invoicing
+#### <a name="invoicing"></a>Invoicing
 
 You will be invoiced for your sponsorship. Please provide your company name, physical address, contact information, and the sponsorship tier in which you are interested.
 
