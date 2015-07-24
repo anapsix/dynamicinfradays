@@ -5,6 +5,10 @@ menu: Sponsors
 
 ## Sponsors
 
+#### Gold sponsors
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/clusterhq-logo.png" width="247" height="70" style="margin: 0 10px 0 10px;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
