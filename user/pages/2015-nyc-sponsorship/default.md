@@ -29,23 +29,23 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
   * Cost: USD 750
   * Available
 * 1x **Day 1 breakfast sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in lunch area.
+  * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
   * Available
 * 1x **Day 1 lunch sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
+  * Includes: 1 ticket; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
   * Available
 * 1x **Day 2 breakfast sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before the beginning of the Day 2 programme; banner and promotional material from the sponsor displayed in breakfast area.
+  * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 2 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
   * Available
 * 1x **Day 2 lunch sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
+  * Includes: 1 ticket; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
   * Available
 * 3x **Thursday night drinks sponsor**
-  * Includes: 2 tickets; smaller logo on the event site; callout before Thursday night drinks at the end of the Day 1 programme. Additional details to be confirmed.
+  * Includes: 1 ticket; smaller logo on the event site; callout before Thursday night drinks at the end of the Day 1 programme. Additional details to be confirmed.
   * _Contact us_
 
 #### Participant details
