@@ -6,7 +6,7 @@ title: Events
 
 ##### Upcoming:
 
-_Watch this space..._
+* 2015, October 29-30th, [ContainerDays NYC](/events/2015-nyc/), New York, USA, USA
 
 ##### Past:
 
