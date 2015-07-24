@@ -50,7 +50,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
 
 #### Participant details
 
-We expect about 130 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that ContainerDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
+We expect about 120 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that ContainerDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
 
 #### Facilities
 
