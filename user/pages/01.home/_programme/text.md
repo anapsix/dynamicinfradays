@@ -42,7 +42,7 @@ Please note that the programme is provisional and subject to change.
 | 03:20-03:35pm | Coffee break & exhibitor time | Also time to make OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:35-03:40pm | Sponsor shout-out | |
 | 03:40-04:25pm | _[Running Docker, Mesos and More in Production: The Journey to Container Adoption in the Enterprise](/programme#journey)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/igor.moochnick/the-journey-to-container-adoption-in-enterprise) [video](https://www.youtube.com/watch?v=QldAEl7X0BE)</span> | [Igor Moochnick](../#speakers) |
-| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=K7oMynmiA0c)</span> | [Barak Michener](../#speakers), CoreOS |
+| 03:40-04:25pm | _[CoreOS: Building the Layers of the Scalable Cluster for Containers](/programme#layers)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-coreos-building-the-layers-of-the-scalable-cluster-for-containers-barak-michener) [video](https://www.youtube.com/watch?v=K7oMynmiA0c)</span> | [Barak Michener](../#speakers), CoreOS |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Friday night drinks & snacks | |

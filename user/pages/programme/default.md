@@ -79,7 +79,7 @@ However, there are many distributed systems problems along the way!
 
 Barak will discuss the layers that tend to constitute a cluster (from the hardware up) and talk about the multiple open-source projects at CoreOS that build these layers through small, composable utilities.
 
-[video](https://www.youtube.com/watch?v=K7oMynmiA0c)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2015-coreos-building-the-layers-of-the-scalable-cluster-for-containers-barak-michener) [video](https://www.youtube.com/watch?v=K7oMynmiA0c)
 
 #### <a name="nproblems"></a>_N Problems of Linux Containers...and Some Solutions_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
 
