@@ -19,34 +19,34 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
 * 1x **Platinum sponsor**
   * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Thursday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
   * Cost: USD 1500
-  * Available
+  * **Available**
 * 4x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
   * Cost: USD 1000
-  * Available
+  * **Available**
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
   * Cost: USD 750
-  * Available
+  * **Available**
 * 1x **Day 1 breakfast sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
-  * Available
+  * **Available**
 * 1x **Day 1 lunch sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
-  * Available
+  * **Available**
 * 1x **Day 2 breakfast sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 2 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
-  * Available
+  * **Available**
 * 1x **Day 2 lunch sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
-  * Available
+  * **Available**
 * 3x **Thursday night drinks sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before Thursday night drinks at the end of the Day 1 programme. Additional details to be confirmed.
-  * _Contact us_
+  * _[Contact us](#questions)_
 
 #### <a name="participants"></a>Participant details
 
@@ -86,7 +86,7 @@ Unfortunately, accommodation in NYC gets expensive quickly, and we recommend tha
 
 You will be invoiced for your sponsorship. Please provide your company name, physical address, contact information, and the sponsorship tier in which you are interested.
 
-### Questions?
+### <a name="questions"></a>Questions?
 
 Please contact us at [2015-nyc-sponsorship () dynamicinfradays ! org](mailto:2015-nyc-sponsorship@dynamicinfradays.org) for payment details and any other questions you may have.
 
