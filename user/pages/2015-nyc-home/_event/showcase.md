@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your ticket - early bird discount
+    - text: Get your ticket - advance discount
       url: http://dynamicinfradays.org/events/2015-nyc/sign-up/
       primary: true
 ---
