@@ -62,9 +62,6 @@ menu: Connect
       <!-- <label>Get notified about event updates and ticket availability</label> -->
       <div class="mc-field-group">
       <table style="border:none;vertical-align:middle;"><tr style="height:30px;vertical-align:middle;">
-      <td style="width:30px;border:none;vertical-align:middle;padding:0px 0px 17px">
-      <a href="http://justyo.co/CONTAINERDAYSNYC2015" class="yo-btn">YO</a></td>
-      <td style="border:none;vertical-align:middle;width:10px;padding:0px 5px 17px 10px">or</td>
       <td style="min-width:100px;border:none;vertical-align:middle;"><input type="email" value="" name="EMAIL" class="required email" placeholder="your@email.here" id="mce-EMAIL"></td>
       </tr></table>
       </div>
