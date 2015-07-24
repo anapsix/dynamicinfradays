@@ -19,4 +19,4 @@ We're looking forward to thought-provoking talks and discussions, but at some po
 
 We'd like to apply the unconference idea to the workshops, too. There'll certainly be some guided, step-by-step sessions if you're looking to get started. But we're also encouraging you to team up with a couple of other participants, get hold of one of the speakers, sponsors or other experts running around, and try out some of the tools and concepts that come up in discussion.
 
-**Programme details to come soon!**
+**Programme details to come!**
