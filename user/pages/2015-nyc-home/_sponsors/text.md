@@ -5,11 +5,19 @@ menu: Sponsors
 
 ## Sponsors
 
+#### Platinum sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/logentries-logo.png" width="562" height="120" style="margin: 0;">
+
 #### Gold sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/clusterhq-logo.png" width="247" height="70" style="margin: 0 10px 0 10px;">
 
-There are still sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo.png" width="272" height="70" style="margin: 0 10px 0 10px;">
+
+There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
 
