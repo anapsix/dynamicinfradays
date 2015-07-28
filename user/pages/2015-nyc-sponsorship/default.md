@@ -18,12 +18,11 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
 
 * 1x **Platinum sponsor**
   * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Thursday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
-  * Cost: USD 1500
-  * Available
+  * _No longer available_
 * 4x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
   * Cost: USD 1000
-  * Available
+  * Last one available!
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
   * Cost: USD 750
