@@ -7,7 +7,7 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/logentries-logo.png" width="421" height="90" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/logentries-logo.png" width="398" height="85" style="margin: 0;">
 
 #### Gold sponsors
 
