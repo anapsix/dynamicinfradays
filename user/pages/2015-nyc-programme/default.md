@@ -28,7 +28,7 @@ You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/boyd-hemphill.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-#### <a name="firstc"></a>_Docker 101 - Get Developing_ <span style="font-size: smaller">- 2h, Beginner</span>
+#### <a name="docker101"></a>_Docker 101 - Get Developing_ <span style="font-size: smaller">- 2h, Beginner</span>
 
 Bring your laptop and be ready to construct your own Docker development environment, create your own container image, and even turn the Minecraft server into a container, time permitting.
 

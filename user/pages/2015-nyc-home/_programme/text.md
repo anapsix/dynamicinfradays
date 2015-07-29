@@ -54,7 +54,7 @@ Please note that the programme is provisional and subject to change.
 | 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](#speakers) |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
-| 01:05-02:50pm | Workshops | Topics TBC |
+| 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
 | 03:05-04:50pm | Workshops ctd. | Topics TBC |
 | 04:50-05:00pm | Thanks & closing discussion | |
