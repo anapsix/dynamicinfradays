@@ -14,4 +14,4 @@ features:
 
 ## Speakers
 
-Speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
+More exciting speakers to be announced soon...[sign up](#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
