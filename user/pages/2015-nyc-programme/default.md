@@ -39,7 +39,7 @@ Led by [Boyd Hemphill](#boydh), StackEngine
 Please ensure you have the following tools installed on your system:
 
 * If you're running Mac OS X or Windows, [boot2docker](http://boot2docker.io/)
-* For all users, the python:2.7 Docker image (run [`docker pull python:2.7`](https://docs.docker.com/reference/commandline/pull/))
+* For all users, the `python:2.7` Docker image (run [`docker pull python:2.7`](https://docs.docker.com/reference/commandline/pull/))
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
