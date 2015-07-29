@@ -43,4 +43,4 @@ Please ensure you have the following tools installed on your system:
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
-<div style="text-align: center; display: block;"><em><strong>ContainerDays Boston 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
+<div style="text-align: center; display: block;"><em><strong>ContainerDays NYC 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
