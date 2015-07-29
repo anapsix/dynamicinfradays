@@ -27,10 +27,10 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast & registration | Welcome to the first ContainerDays NYC |
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
-| 10:00-10:45am | Talk: _title TBC_ | [Speaker TBC](#speakers) |
+| 10:00-10:45am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:45-10:50am | Sponsor shout-out | |
-| 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](#speakers) |
-| 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](#speakers) |
+| 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 12:30-01:10pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:10-01:15pm | Sponsor shout-out | |
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
@@ -48,10 +48,10 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
-| 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](#speakers) |
+| 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:35am | Sponsor shout-out | |
-| 10:40-11:25am | Talk: _title TBC_ | [Speaker TBC](#speakers) |
-| 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](#speakers) |
+| 10:40-11:25am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>Any other tool/framework [of your choice!](../#workshops) |
