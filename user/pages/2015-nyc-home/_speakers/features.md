@@ -4,7 +4,7 @@ menu: Speakers
 class: big
 features:
     - header: <a href="/programme#boydh">Boyd Hemphill</a>
-      text: "Boyd is StackEngine's Director of Evangelism and educates and espouses DevOps practices as they relate to Linux Containers"
+      text: "Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux Containers."
       icon: user
     - header: Coming soon!
       text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
