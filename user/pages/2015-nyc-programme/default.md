@@ -12,6 +12,14 @@ title: Programme
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;display:block">
 
+### Talks
+
+#### <a name="dockerdevops"></a>_Docker Enables DevOps_ <span style="font-size: smaller">- [Boyd Hemphill](#boydh)</span>
+
+Some technologies are tools of the DevOps trade. Rarely, however, is there a technology that _enables_ the practice of DevOps. The advent of the cloud and disposable infrastructure is one example. Docker is in this second, more rarified class.
+
+This talk is about "why Docker." Come explore the business cases for Docker adoption, current adoption paradigms in the market and practical concerns for those already on the path.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/boyd-hemphill.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
