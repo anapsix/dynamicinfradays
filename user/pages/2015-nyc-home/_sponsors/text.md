@@ -17,6 +17,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo.png" width="272" height="70" style="margin: 0 10px 0 10px;">
 
+##### Thursday breakfast sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
+
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
