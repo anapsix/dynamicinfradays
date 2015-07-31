@@ -14,7 +14,7 @@ title: Sponsorship
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;display:block">
 
-Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays NYC 2015 event site](/events/2015-nyc/).
+Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays NYC 2015 event site](http://dynamicinfradays.org/events/2015-nyc/).
 
 * 1x **Platinum sponsor**
   * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Thursday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
@@ -67,7 +67,7 @@ All posters and banners need to be free-standing; we are not allowed to affix an
 
 #### <a name="shipping"></a>Shipping
 
-Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. The [Microsoft Technology Center NYC](/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
+Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. The [Microsoft Technology Center NYC](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
 
 Items need to be hand-carryable or in a rollable suitcase, as we will not be able to use the freight elevator for the event. If you have essential items that cannot be transported any other way, please [get in touch](#questions) and we'll try our best to make things work.
 
