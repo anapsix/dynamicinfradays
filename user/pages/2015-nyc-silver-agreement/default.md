@@ -67,9 +67,9 @@ Please contact the ContainerDays NYC 2015 organizers at [2015-nyc-sponsorship@dy
 
 | For ContainerDays NYC 2015 | | For Docker, Inc. | |
 |:-----------:|:-------------:|:-----------:|:-----------:|
-| Signed | | Signed | |
-| Name | | Name | |
-| Date | | Date | |
+| Signed |         | Signed |         |
+| Name |         | Name |         |
+| Date |         | Date |         |
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
