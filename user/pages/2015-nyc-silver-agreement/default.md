@@ -16,9 +16,12 @@ title: Sponsorship Agreement
 
 This document describes the services and costs associated with the **Silver sponsorship tier** at ContainerDays NYC 2015.
 
-#### Event: ContainerDays NYC 2015
-#### Dates: October 29 & 30, 2015
-#### Venue: Microsoft Technology Center, New York, NY 
+#### Event summary
+
+* **Event:** ContainerDays NYC 2015
+* **Dates:** October 29 & 30, 2015
+* **Venue:** Microsoft Technology Center, New York, NY. [https://www.microsoft.com/en-us/mtc/locations/newyork.aspx](https://www.microsoft.com/en-us/mtc/locations/newyork.aspx)
+
 #### Sponsor: Docker, Inc.
 #### Tier: Silver sponsor
 
