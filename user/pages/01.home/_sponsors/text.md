@@ -21,7 +21,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/emccode-logo.png" width="190" height="60" style="margin: 0;">
 
-##### Bronze sponsor
+##### Bronze sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-boston/logentries-logo-top.png" width="140" height="31" style="margin: 0 5px 0 5px;">
 
