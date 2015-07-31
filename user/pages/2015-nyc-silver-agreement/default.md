@@ -65,7 +65,7 @@ Please plan to remove everything you bring at the end of the event. Items may no
 
 Please contact the ContainerDays NYC 2015 organizers at [2015-nyc-sponsorship@dynamicinfradays.org](mailto:2015-nyc-sponsorship@dynamicinfradays.org) in case of any questions.
 
-| For ContainerDays NYC 2015 | &nbsp;&nbsp;&nbsp;&nbsp; | For Docker, Inc. | &nbsp;&nbsp;&nbsp;&nbsp; |
+| | For ContainerDays NYC 2015 | | For Docker, Inc. |
 |:-----------:|:-------------:|:-----------:|:-----------:|
 | Signed | | Signed | |
 | Name | | Name | |
