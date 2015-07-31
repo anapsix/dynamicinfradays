@@ -10,9 +10,9 @@ title: Sponsorship Agreement
 
 #### ContainerDays NYC 2015
 
-## <a name="tiers"></a>Sponsorship Agreement
+<img src="http://dynamicinfradays.org/img/logo.png" height="80" width="154" style="margin-left:auto;margin-right:auto;display:block">
 
-<img src="http://dynamicinfradays.org/img/logo.png" height="155" width="300" style="margin-left:auto;margin-right:auto;display:block">
+## <a name="tiers"></a>Sponsorship Agreement
 
 This document describes the services and costs associated with the **Silver sponsorship tier** at ContainerDays NYC 2015.
 
