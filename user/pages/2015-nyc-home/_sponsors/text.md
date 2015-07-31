@@ -13,7 +13,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/clusterhq-logo.png" width="247" height="70" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/sysdig-logo.png" width="241" height="68" style="margin: 5px 10px 5px 10px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/sysdig-logo.png" width="227" height="64" style="margin: 5px 10px 5px 10px;">
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/deis-logo.png" width="235" height="64" style="margin: 5px 10px 5px 10px;">
 
