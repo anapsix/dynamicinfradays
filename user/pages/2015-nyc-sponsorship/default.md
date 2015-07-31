@@ -85,9 +85,15 @@ Unfortunately, accommodation in NYC gets expensive quickly, and we recommend tha
 
 You will be invoiced for your sponsorship. Please provide your company name, physical address, contact information, and the sponsorship tier in which you are interested.
 
-### <a name="questions"></a>Questions?
+#### <a name="questions"></a>Questions?
 
 Please contact us at [2015-nyc-sponsorship () dynamicinfradays ! org](mailto:2015-nyc-sponsorship@dynamicinfradays.org) for payment details and any other questions you may have.
+
+|:-----------:|:-------------:|:-----------:|:-----------:|
+| Signed | | Signed | |
+| Name | | Name | |
+| Date | | Date | |
+| For ContainerDays NYC 2015 | | For Docker, Inc. | |
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
