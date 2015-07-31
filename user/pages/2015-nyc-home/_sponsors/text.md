@@ -21,7 +21,7 @@ menu: Sponsors
 
 ##### Silver sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="344" height="55" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="281" height="45" style="margin: 0;">
 
 ##### Thursday breakfast sponsor
 
