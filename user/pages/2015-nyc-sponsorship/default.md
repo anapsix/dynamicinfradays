@@ -29,8 +29,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
   * Available
 * 1x **Day 1 breakfast sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in breakfast area.
-  * Cost: USD 500
-  * Available
+  * _No longer available_
 * 1x **Day 1 lunch sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before lunch; banner and promotional material from the sponsor displayed in lunch area.
   * Cost: USD 500
