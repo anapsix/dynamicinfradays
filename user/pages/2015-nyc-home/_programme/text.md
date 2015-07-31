@@ -27,7 +27,7 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast & registration | Welcome to the first ContainerDays NYC |
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
-| 10:00-10:45am | _[Docker Enables DevOps](/programme#dockerdevops)_ | [Boyd Hemphill](../#speakers), StackEngine |
+| 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ | [Boyd Hemphill](../#speakers), StackEngine |
 | 10:45-10:50am | Sponsor shout-out | |
 | 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
