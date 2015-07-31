@@ -13,11 +13,12 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/clusterhq-logo.png" width="247" height="70" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo.png" width="272" height="70" style="margin: 5px 10px 5px 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/deis-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/deis-logo.png" width="250" height="70" style="margin: 5px 10px 5px 10px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo.png" width="272" height="70" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/sysdig-logo.png" width="250" height="70" style="margin: 5px 10px 5px 10px;">
+
 
 ##### Thursday breakfast sponsor
 
