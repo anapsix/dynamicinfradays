@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your advance ticket - 17 remaining
+    - text: Get your advance ticket - 16 remaining
       url: http://dynamicinfradays.org/events/2015-nyc/sign-up/
       primary: true
 ---
