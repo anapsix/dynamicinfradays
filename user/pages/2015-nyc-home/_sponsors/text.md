@@ -19,9 +19,11 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo.png" width="272" height="70" style="margin: 5px 10px 5px 10px;">
 
-##### Silver sponsor
+##### Silver sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="250" height="40" style="margin: 0;">
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/docker-logo.png" width="178" height="46" style="margin: 0;">
 
 ##### Thursday breakfast sponsor
 
