@@ -21,13 +21,13 @@ menu: Sponsors
 
 ##### Silver sponsors
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="250" height="43" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="250" height="43" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/docker-logo.png" width="209" height="54" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/docker-logo.png" width="209" height="54" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/cloudsoft-logo.png" width="177" height="54" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/cloudsoft-logo.png" width="177" height="54" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/redislabs-logo.png" width="162" height="43" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/redislabs-logo.png" width="162" height="43" style="margin: 3px 5px 3px 5px;">
 
 ##### Thursday breakfast sponsor
 
