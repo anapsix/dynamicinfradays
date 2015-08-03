@@ -24,8 +24,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2015! We have a numb
   * _No longer available_
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
-  * Cost: USD 750
-  * Available
+  * _No longer available_
 * 1x **Day 1 breakfast sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * _No longer available_
