@@ -22,15 +22,17 @@ This talk is about "why Docker." Come explore the business cases for Docker adop
 
 #### <a name="platform"></a>_What it Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
-"Composeable microservice building blocks:" that was one of the promises of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
+"Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
 
 ### Speakers
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/matt-butcher.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="mattb"></a>Matt Butcher
 
-Matt Butcher is a core contributor to the Deis platform at EngineYard. He has worked on numerous cloud and IoT technologies at places like Google, HP, and About.Com. He holds a Ph.D. in Philosophy, and teaches in the Computer Science department of Loyola University Chicago. Matt is the author of dozens of articles and eight technical books, the latest of which is Go in Practice (Manning).
+Matt Butcher is a core contributor to the Deis platform at EngineYard. He has worked on numerous cloud and IoT technologies at places like Google, HP, and About.com. He holds a Ph.D. in Philosophy, and teaches in the Computer Science department of Loyola University Chicago. Matt is the author of dozens of articles and eight technical books, the latest of which is _Go in Practice_ (Manning).
 
 Matt loves a good cup of coffee and enjoys mountain biking. You can find him on Twitter at [@technosophos](https://twitter.com/technosophos), and read his blog at [technosophos.com](http://technosophos.com).
 
