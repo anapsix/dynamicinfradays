@@ -42,7 +42,7 @@ Please note that the programme is provisional and subject to change.
 | 05:00pm | **Day 1 close** | |
 | evening | Thursday night drinks | If we can make it work ;-) Still looking for [sponsors](../#sponsors)! |
 
-#### Thursday, October 30th
+#### Friday, October 30th
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
