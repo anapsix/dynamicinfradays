@@ -30,7 +30,7 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ | [Boyd Hemphill](../#speakers), StackEngine |
 | 10:45-10:50am | Sponsor shout-out | |
 | 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
-| 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 11:45-12:30pm | _[What it Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
 | 12:30-01:10pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:10-01:15pm | Sponsor shout-out | |
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
