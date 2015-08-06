@@ -29,6 +29,8 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/redislabs-logo.png" width="162" height="54" style="margin: 3px 5px 3px 5px;">
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/emccode-logo.png" width="190" height="60" style="margin: 0;">
+
 ##### Thursday breakfast sponsor
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
