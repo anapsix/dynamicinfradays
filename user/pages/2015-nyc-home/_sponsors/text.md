@@ -62,7 +62,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-nyc-spon
 **Thank you** also to the **[AWS Pop-up Loft New York](https://aws.amazon.com/start-ups/loft/ny-loft/)** for hosting our Thursday night drinks & snacks.
 <table style="border:none;vertical-align:middle;">
     <tr><th style="width:200px;text-align:center">
-      <img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="200" height="47" style="margin-left:auto;margin-right:auto;display:inline-block;">
+      <img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="199" height="47" style="margin-left:auto;margin-right:auto;display:inline-block;">
     </th></tr>
     <tr><th style="font-size:small;text-align:justify">
       <span>The AWS Pop-up Loft is open in New York! Located in SoHo, the AWS Loft is a space where anyone can grab a coffee, work on their app, and get in-person answers to their technical AWS questions - at no cost.
