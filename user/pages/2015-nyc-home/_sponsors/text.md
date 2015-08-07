@@ -35,10 +35,6 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
 
-##### Thursday night drinks sponsors
-
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="165" height="39" style="margin: 0;">
-
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
@@ -53,12 +49,23 @@ If you're interesting in taking part, please [get in touch](mailto:2015-nyc-spon
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
 
-**A big thank you** also goes to the **[Microsoft Technology Center New York](https://www.microsoft.com/en-us/mtc/locations/newyork.aspx)** for hosting this event.
+**A big thank you** goes to the **[Microsoft Technology Center New York](https://www.microsoft.com/en-us/mtc/locations/newyork.aspx)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
     <tr><th style="width:200px;text-align:center">
       <img src="http://microsoftnewengland.com/eventmanager/img/MSFT_logo_rgb_C-Gray_D.png" width="180" height="66" style="margin-left:auto;margin-right:auto;display:inline-block;">
     </th></tr>
     <tr><th style="font-size:small;text-align:justify">
       <span>Microsoft Technology Centers (MTCs) are collaborative environments that provide access to innovative technologies and world-class expertise, enabling you to envision, design, and deploy solutions to meet your exact needs. Engaging with the MTC to envision, architect and prove potential solutions to your business challenges will help ensure that your organization can take full advantage of Microsoft and partner technologies. The MTC team is dedicated to helping you make your vision a reality.</span>
+    </th></tr>
+</table>
+
+**Thank you** also to the **[AWS Pop-up Loft New York](https://aws.amazon.com/start-ups/loft/ny-loft/)** for hosting our Thursday night drinks & snacks.
+<table style="border:none;vertical-align:middle;">
+    <tr><th style="width:200px;text-align:center">
+      <img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="200" height="47" style="margin-left:auto;margin-right:auto;display:inline-block;">
+    </th></tr>
+    <tr><th style="font-size:small;text-align:justify">
+      <span>The AWS Pop-up Loft is open in New York! Located in SoHo, the AWS Loft is a space where anyone can grab a coffee, work on their app, and get in-person answers to their technical AWS questions - at no cost.
+</span>
     </th></tr>
 </table>
