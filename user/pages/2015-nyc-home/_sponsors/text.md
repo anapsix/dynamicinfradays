@@ -37,7 +37,7 @@ menu: Sponsors
 
 ##### Thursday night drinks sponsors
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="135" height="35" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/awsloftnyc-logo.png" width="149" height="35" style="margin: 0;">
 
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
