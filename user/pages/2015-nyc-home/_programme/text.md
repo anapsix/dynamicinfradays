@@ -40,7 +40,7 @@ Please note that the programme is provisional and subject to change.
 | 04:05-04:50pm | OpenSpaces session | |
 | 04:50-05:00pm | Day 1 wrap-up | |
 | 05:00pm | **Day 1 close** | |
-| evening | Thursday night drinks | If we can make it work ;-) Still looking for [sponsors](../#sponsors)! |
+| evening | Thursday night drinks & snacks | At the [AWS Pop-up Loft New York](https://www.google.com/maps/dir/Microsoft+Technology+Center,+8th+Avenue,+New+York,+NY/350+W+Broadway,+New+York,+NY+10013/@40.7391251,-74.0344714,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c25856e81cdc7d:0xcb6b70d1bb597301!2m2!1d-73.9896509!2d40.75672!1m5!1m1!1s0x89c2598b7789de79:0x6c9fee219e43f369!2m2!1d-74.003692!2d40.722823!3e3) in SoHo |
 
 #### Friday, October 30th
 
