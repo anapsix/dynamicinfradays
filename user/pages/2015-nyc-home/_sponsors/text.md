@@ -41,7 +41,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-nyc-spon
 
 ----
 
-## Thanks
+## <a name="thanks"></a>Thanks
 
 **Very special thanks** to **StackEngine** and **XebiaLabs** for giving the organizers time to put this event together.
 
