@@ -13,7 +13,7 @@ features:
       text: "Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux containers."
       icon: user
     - header: Stephen Nguyen
-      text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless docker containers."
+      text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
 
 ---
