@@ -96,7 +96,7 @@ Kir will cover:
 
 #### <a name="cdwithcontainers"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 
-Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
+Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipeline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. In this talk we'll explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
