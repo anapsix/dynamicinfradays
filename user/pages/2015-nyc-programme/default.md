@@ -26,6 +26,12 @@ This talk is about "why Docker." Come explore the business cases for Docker adop
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
 
+#### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
+
+Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
+
+Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/matt-butcher.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
