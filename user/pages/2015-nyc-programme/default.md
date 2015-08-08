@@ -36,13 +36,21 @@ Matt Butcher is a core contributor to the Deis platform at EngineYard. He has wo
 
 Matt loves a good cup of coffee and enjoys mountain biking. You can find him on Twitter at [@technosophos](https://twitter.com/technosophos), and read his blog at [technosophos.com](http://technosophos.com).
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/nick-gauthier.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="nickg"></a>Nick Gauthier
+
+Nick Gauthier is a web developer who started with Rails, moved to the front end with JavaScript, then came back to the back end with Go.
+
+He works at Codeship, a Continuous Delivery product company, on their new Docker-based platform.
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/boyd-hemphill.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="boydh"></a>Boyd Hemphill
 
 Boyd is a DevOps raconteur and thought leader in the silicon hills of Austin, Texas. Boyd founded Austin DevOps when he learned this thing he was doing had a name. Boyd organizes the Docker Austin meet up and put together ContainerDays Austin, the first ever DynamicInfraDays event.
 
-In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracle and MySQL), and system administrator. He sees Docker as containers for mere mortals in the same way Slicehost was virtualization for mere mortals in 2009. Currently Boyd is the Director of Evangelism for StackEngine where he educates and espouses DevOps practices as they relate to Linux Containers.
+In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracle and MySQL), and system administrator. He sees Docker as containers for mere mortals in the same way Slicehost was virtualization for mere mortals in 2009. Currently Boyd is the Director of Evangelism for StackEngine where he educates and espouses DevOps practices as they relate to Linux containers.
 
 You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 
