@@ -35,6 +35,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
 
+##### Thursday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/vizuri-logo.png" width="134" height="45" style="margin: 0;">
+
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
