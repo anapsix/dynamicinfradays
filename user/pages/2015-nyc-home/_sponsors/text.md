@@ -37,7 +37,7 @@ menu: Sponsors
 
 ##### Thursday lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/vizuri-logo.png" width="134" height="45" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/vizuri-logo.png" width="100" height="34" style="margin: 0;">
 
 There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
