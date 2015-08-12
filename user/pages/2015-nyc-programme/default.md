@@ -60,6 +60,14 @@ In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracl
 
 You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="kirk"></a>Kir Kolyshkin
+
+Kir was named leader and project manager for the OpenVZ project in 2005 to further the adoption of containers virtualization for Linux. He spearheads the overall development and manages key architecture, updates and feature upgrades for OpenVZ.
+
+Kir has more than 10 years of experience with Linux and has long been an active open source advocate.
+
 ### Workshops
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/boyd-hemphill.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">

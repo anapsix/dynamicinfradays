@@ -12,12 +12,16 @@ features:
     - header: <a href="/2015-nyc-programme#boydh">Boyd Hemphill</a>
       text: "Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux containers."
       icon: user
+    - header: <a href="/2015-nyc-programme#kirk">Kir Kolyshkin</a>
+      text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
+      icon: user
     - header: Stephen Nguyen
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...<a href="../#connect">sign up</a> or follow @DynInfraDays for details."
+      icon: star
 
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
