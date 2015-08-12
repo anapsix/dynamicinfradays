@@ -19,7 +19,7 @@ features:
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
     - header: Coming soon!
-      text: "More exciting speakers to be announced soon...<a href="../#connect">sign up</a> or follow @DynInfraDays for details."
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
       icon: star
 
 ---
