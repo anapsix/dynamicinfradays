@@ -20,7 +20,7 @@ Some technologies are tools of the DevOps trade. Rarely, however, is there a tec
 
 This talk is about "why Docker." Come explore the business cases for Docker adoption, current adoption paradigms in the market and practical concerns for those already on the path.
 
-#### <a name="orchestration"></a>_Choosing Your Container Orchestration: Kubernetes and Docker Swarm & Compose Compared_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
+#### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Swarm, Compose & Machine_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
 
 Containers are amazingly useful development tools, but there biggest long-term impact may be as a platform for running applications in production. Achieving this will require advancements in container operations, infrastructure and orchestration.
 
@@ -78,7 +78,7 @@ Kir has more than 10 years of experience with Linux and has long been an active 
 
 Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
 
-Prior to joining Citrix, Darren worked at GoDaddy, where he designed and lead a team that implemented both public and private IaaS clouds. You can find him on Twitter at [@ibuildthecloud](https://twitter.com/ibuildthecloud).
+Before joining Citrix, Darren worked at GoDaddy, where he designed and lead a team that implemented both public and private IaaS clouds. You can find him on Twitter at [@ibuildthecloud](https://twitter.com/ibuildthecloud).
 
 ### Workshops
 
