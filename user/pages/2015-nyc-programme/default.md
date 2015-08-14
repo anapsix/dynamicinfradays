@@ -22,9 +22,9 @@ This talk is about "why Docker." Come explore the business cases for Docker adop
 
 #### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Swarm, Compose & Machine_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
 
-Containers are amazingly useful development tools, but there biggest long-term impact may be as a platform for running applications in production. Achieving this will require advancements in container operations, infrastructure and orchestration.
+Containers are amazingly useful development tools, but their biggest long-term impact may be as a platform for running applications in production. Achieving this will require advancements in container operations, infrastructure and orchestration.
 
-Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Swarm, Compose and Machine projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool, and will dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
+Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Swarm, Compose and Machine projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
 #### <a name="platform"></a>_What it Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
@@ -76,7 +76,7 @@ Kir has more than 10 years of experience with Linux and has long been an active 
 
 #### <a name="darrens"></a>Darren Shepherd
 
-Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
+Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix, where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
 
 Before joining Citrix, Darren worked at GoDaddy, where he designed and lead a team that implemented both public and private IaaS clouds. You can find him on Twitter at [@ibuildthecloud](https://twitter.com/ibuildthecloud).
 
