@@ -18,10 +18,12 @@ features:
     - header: Stephen Nguyen
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
+    - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
+      text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."
+      icon: user
 
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
