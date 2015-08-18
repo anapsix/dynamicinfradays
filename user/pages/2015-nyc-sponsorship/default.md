@@ -60,7 +60,7 @@ All posters and banners need to be free-standing; we are not allowed to affix an
 
 #### <a name="shipping"></a>Shipping
 
-Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. The [Microsoft Technology Center NYC](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
+Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. [Microsoft New York](http://dynamicinfradays.org/events/2015-nyc/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
 
 Items need to be hand-carryable or in a rollable suitcase, as we will not be able to use the freight elevator for the event. If you have essential items that cannot be transported any other way, please [get in touch](#questions) and we'll try our best to make things work.
 
