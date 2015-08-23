@@ -84,7 +84,7 @@ Kir has more than 10 years of experience with Linux and has long been an active 
 
 #### <a name="stephenn"></a>Stephen Nguyen
 
-Stephen is a developer evangelist for ClusterHQ, the makers of Docker data management tool, Flocker. He was previously at Iron.io as their Developer Evangelist and Customer Success lead assisting users in the adoption of stateless Docker containers.
+Stephen is a developer evangelist for ClusterHQ, the makers of Docker data management tool Flocker. He was previously at Iron.io as their Developer Evangelist and Customer Success lead assisting users in the adoption of stateless Docker containers.
 
 Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to developer communities as an organizer of several developer Meetup communities in San Francisco, where he roams around on his bicycle.
 
