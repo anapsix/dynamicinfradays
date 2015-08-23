@@ -26,7 +26,7 @@ Containers are amazingly useful development tools, but their biggest long-term i
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Swarm, Compose and Machine projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
-#### <a name="storage"></a>_The Storage Elephant in the Container Room: What you Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
+#### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
 
 Containers are great for the stateless applications, but what about applications that rely on persistance of data? Stephen will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
 
