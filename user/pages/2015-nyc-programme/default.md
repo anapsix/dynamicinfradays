@@ -26,6 +26,12 @@ Containers are amazingly useful development tools, but their biggest long-term i
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Swarm, Compose and Machine projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
+#### <a name="storage"></a>_The Storage Elephant in the Container Room: What you Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
+
+Containers are great for the stateless applications, but what about applications that rely on persistance of data? Stephen will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
+
+He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
+
 #### <a name="platform"></a>_What it Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
 "Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
@@ -73,6 +79,16 @@ You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 Kir was named leader and project manager for the OpenVZ project in 2005 to further the adoption of containers virtualization for Linux. He spearheads the overall development and manages key architecture, updates and feature upgrades for OpenVZ.
 
 Kir has more than 10 years of experience with Linux and has long been an active open source advocate.
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/stephen-nguyen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="stephenn"></a>Stephen Nguyen
+
+Stephen is a developer evangelist for ClusterHQ, the makers of Docker data management tool, Flocker. He was previously at Iron.io as their Developer Evangelist and Customer Success lead assisting users in the adoption of stateless Docker containers.
+
+Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to developer communities as an organizer of several developer Meetup communities in San Francisco, where he roams around on his bicycle.
+
+You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stephenitis).
 
 #### <a name="darrens"></a>Darren Shepherd
 

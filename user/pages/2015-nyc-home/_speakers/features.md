@@ -15,7 +15,7 @@ features:
     - header: <a href="/2015-nyc-programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
-    - header: Stephen Nguyen
+    - header: <a href="/2015-nyc-programme#stephenn">Stephen Nguyen</a>
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
     - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
