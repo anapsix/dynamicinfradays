@@ -32,7 +32,7 @@ Containers are great for the stateless applications, but what about applications
 
 He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
 
-#### <a name="platform"></a>_What it Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
+#### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
 "Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
 
