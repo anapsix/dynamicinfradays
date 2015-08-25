@@ -90,6 +90,8 @@ Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to develope
 
 You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stephenitis).
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/darren-shephard.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="darrens"></a>Darren Shepherd
 
 Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix, where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
