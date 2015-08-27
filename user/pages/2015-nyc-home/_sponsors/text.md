@@ -49,7 +49,7 @@ If you're interesting in taking part, please [get in touch](mailto:2015-nyc-spon
 
 **Very special thanks** to **StackEngine** and **XebiaLabs** for giving the organizers time to put this event together.
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/arvato-logo.png" width="99" height="40" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/arvato-logo.png" width="97" height="40" style="margin: 0 5px 0 5px;">
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/stackengine-logo-top.png" width="155" height="40" style="margin: 0 5px 0 5px;">
 
