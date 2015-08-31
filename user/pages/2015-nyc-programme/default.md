@@ -115,6 +115,20 @@ Please ensure you have the following tools installed on your system:
 * If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 * For all users, the `python:2.7` Docker image (run [`docker pull python:2.7`](https://docs.docker.com/reference/commandline/pull/))
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="dockertoolbox"></a>_Manage Containers Efficiently With Docker Compose, Machine & Swarm_ <span style="font-size: smaller">- 2h, Beginner</span>
+
+Learn how to use the Docker Toolbox and manage your containers more efficiently, using Docker Compose to create easy-to-use templates of how your applications are deployed and connected together, Docker Machine to automatically spin up Docker hosts and Docker Swarm to cluster them together.
+
+Led by Jonas Rosland, EMCcode
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
 <div style="text-align: center; display: block;"><em><strong>ContainerDays NYC 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
