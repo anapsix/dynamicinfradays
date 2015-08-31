@@ -20,11 +20,11 @@ Some technologies are tools of the DevOps trade. Rarely, however, is there a tec
 
 This talk is about "why Docker." Come explore the business cases for Docker adoption, current adoption paradigms in the market and practical concerns for those already on the path.
 
-#### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Swarm, Compose & Machine_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
+#### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
 
 Containers are amazingly useful development tools, but their biggest long-term impact may be as a platform for running applications in production. Achieving this will require advancements in container operations, infrastructure and orchestration.
 
-Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Swarm, Compose and Machine projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
+Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Compose, Machine and Swarm projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
 #### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
 

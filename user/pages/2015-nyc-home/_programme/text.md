@@ -29,7 +29,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
 | 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ | [Boyd Hemphill](../#speakers), StackEngine |
 | 10:45-10:50am | Sponsor shout-out | |
-| 10:55-11:40am | _[Container Orchestration Compared: Kubernetes and Docker Swarm, Compose & Machine](/2015-nyc-programme#orchestration)_ | [Darren Shepherd](../#speakers), Rancher Labs |
+| 10:55-11:40am | _[Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm](/2015-nyc-programme#orchestration)_ | [Darren Shepherd](../#speakers), Rancher Labs |
 | 10:55-11:40am | _[The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance](/2015-nyc-programme#storage)_ | [Stephen Nguyen](../#speakers), ClusterHQ |
 | 11:45-12:30pm | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
 | 12:30-01:10pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
