@@ -68,6 +68,8 @@ Nick Gauthier is a web developer who started with Rails, moved to the front end 
 
 He works at Codeship, a Continuous Delivery product company, on their new Docker-based platform.
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/tim-gross.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="timg"></a>Tim Gross
 
 Tim is a product manager for Joyent, providers of the Triton Elastic Container Service. Tim previously ran Ops at DramaFever, where he and his scrappy team ran Docker in production to serve a few million fans their daily dose of dramas, documentaries, and gross-out horror movies.
