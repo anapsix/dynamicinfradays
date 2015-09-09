@@ -26,6 +26,12 @@ Containers are amazingly useful development tools, but their biggest long-term i
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Compose, Machine and Swarm projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
+#### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
+
+Containers are great for the stateless applications, but what about applications that rely on persistance of data? Stephen will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
+
+He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
+
 #### <a name="architecture"></a>_Container-Native Architecture_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
 Moving your application into a container and deploying it to production is a great first step towards taking advantage of containerization. This gets you past "works on my machine", and Docker makes this easy. But the real value of containers -- fast immutable deployments, maximizing resource utilization, and bare-metal performance -- comes from an architecture optimized for containers. This is container-native architecture.
@@ -37,12 +43,6 @@ Tim will explore the story of a real-world large scale production microservices 
 "Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
-
-#### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
-
-Containers are great for the stateless applications, but what about applications that rely on persistance of data? Stephen will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
-
-He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
 
 #### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 

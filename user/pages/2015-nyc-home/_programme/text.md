@@ -30,9 +30,8 @@ Please note that the programme is provisional and subject to change.
 | 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ | [Boyd Hemphill](../#speakers), StackEngine |
 | 10:45-10:50am | Sponsor shout-out | |
 | 10:55-11:40am | _[Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm](/2015-nyc-programme#orchestration)_ | [Darren Shepherd](../#speakers), Rancher Labs |
-| 10:55-11:40am | _[Container-Native Architecture](/2015-nyc-programme#architecture)_ | [Tim Gross](../#speakers), Joyent |
-| 11:45-12:30pm | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
-| 11:45-12:30pm | _[The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance](/2015-nyc-programme#storage)_ | [Stephen Nguyen](../#speakers), ClusterHQ |
+| 10:55-11:40am | _[The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance](/2015-nyc-programme#storage)_ | [Stephen Nguyen](../#speakers), ClusterHQ |
+| 11:45-12:30pm | _[Container-Native Architecture](/2015-nyc-programme#architecture)_ | [Tim Gross](../#speakers), Joyent |
 | 12:30-01:10pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:10-01:15pm | Sponsor shout-out | |
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
@@ -52,8 +51,8 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | Talk: _title TBC_ | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:35am | Sponsor shout-out | |
-| 10:40-11:25am | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ | [Nick Gauthier](../#speakers) |
-| 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 10:40-11:25am | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
+| 11:30-12:15pm | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ | [Nick Gauthier](../#speakers) |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>Any other tool/framework [of your choice!](../#workshops) |
