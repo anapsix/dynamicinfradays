@@ -38,6 +38,12 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+#### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#erics)</span>
+
+Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
+
+Eric will cover how to identify application and container security requirements, configure least-privilege containers with Docker, and how to integrate these best practices with container lifecycle and orchestration tools.
+
 #### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
 "Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
@@ -111,6 +117,14 @@ You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stepheniti
 Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix, where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
 
 Before joining Citrix, Darren worked at GoDaddy, where he designed and lead a team that implemented both public and private IaaS clouds. You can find him on Twitter at [@ibuildthecloud](https://twitter.com/ibuildthecloud).
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/eric-windisch.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="ericw"></a>Eric Windisch
+
+Eric Windisch is a Security Engineer at Docker, Inc. He combines 15 years of experience in building and managing hostile production compute environments with a career focus of providing fast, secure, self-service compute capabilities to the masses.
+
+Eric is a Docker project maintainer and a veteran of the OpenStack project where he worked on the Nova and Oslo projects. He is also a co-founder of Magnum, the OpenStack Containers Service.
 
 ### Workshops
 

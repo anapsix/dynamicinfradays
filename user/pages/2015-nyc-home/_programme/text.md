@@ -51,6 +51,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | Talk: _title TBC_ | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:35am | Sponsor shout-out | |
+| 10:40-11:25am | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ | [Eric Windisch](../#speakers), Docker |
 | 10:40-11:25am | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
 | 11:30-12:15pm | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ | [Nick Gauthier](../#speakers) |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
