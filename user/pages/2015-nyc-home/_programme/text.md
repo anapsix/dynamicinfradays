@@ -49,7 +49,7 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
-| 09:45-10:30am | Talk: _[CRIU: Time and Space Travel for Linux Containers](/2015-nyc-programme#criu)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
+| 09:45-10:30am | _[CRIU: Time and Space Travel for Linux Containers](/2015-nyc-programme#criu)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 10:30-10:35am | Sponsor shout-out | |
 | 10:40-11:25am | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ | [Eric Windisch](../#speakers), Docker |
 | 10:40-11:25am | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
