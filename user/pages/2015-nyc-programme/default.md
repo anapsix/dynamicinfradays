@@ -38,6 +38,14 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+#### <a name="criu"></a>_CRIU: Time and Space Travel for Linux Containers_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
+
+Checkpoint/Restore is a technology that makes it possible to take snapshots of running Linux processes and restore them at any other place and time. This opens up exciting possibilities including live migration, keeping HPC tasks safe from hardware problems, cloud services and dynamic load balancing.
+
+Despite being a very tempting feature to have, Linux has lacked support for checkpoint/restore for quite a long time. This is all changing with CRIU - the "Checkpoint/Restore In Userspace" project.
+
+Kir will talk about CRIU's history and its relationship with the Linux Kernel. He'll discuss previously challenging or impossible usage scenarios for containers that CRIU now enables, and explores the "next frontiers" for the project.
+
 #### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
 Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
