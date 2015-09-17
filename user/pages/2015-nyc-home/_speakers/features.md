@@ -4,7 +4,7 @@ menu: Speakers
 class: big
 features:
     - header: <a href="/2015-nyc-programme#mattb">Matt Butcher</a>
-      text: "Matt Butcher is a core contributor to the Deis platform at EngineYard."
+      text: "Matt is a core contributor to the Deis platform at Engine Yard."
       icon: user
     - header: <a href="/2015-nyc-programme#nickg">Nick Gauthier</a>
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
