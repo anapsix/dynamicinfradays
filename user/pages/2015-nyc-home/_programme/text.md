@@ -52,9 +52,9 @@ Please note that the programme is provisional and subject to change.
 | 09:45-10:30am | _[CRIU: Time and Space Travel for Linux Containers](/2015-nyc-programme#criu)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
 | 09:45-10:30am | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ | [Nick Gauthier](../#speakers), Codeship |
 | 10:30-10:35am | Sponsor shout-out | |
-| 10:40-11:25am | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ | [Eric Windisch](../#speakers), Docker |
+| 10:40-11:25am | _[How Yodle Cleaned Up the Mess Using Containers and Microservices](/2015-nyc-programme#yodle)_ | [John Downs](../#speakers), Yodle |
 | 10:40-11:25am | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
-| 11:30-12:15pm | _[How Yodle Cleaned Up the Mess Using Containers and Microservices](/2015-nyc-programme#yodle)_ | [John Downs](../#speakers), Yodle |
+| 11:30-12:15pm | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ | [Eric Windisch](../#speakers), Docker |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>Any other tool/framework [of your choice!](../#workshops) |

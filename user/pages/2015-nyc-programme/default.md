@@ -52,11 +52,11 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
-#### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
+#### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
 
-Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
+Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
 
-Eric will cover how to identify application and container security requirements, configure least-privilege containers with Docker, and how to integrate these best practices with container lifecycle and orchestration tools.
+Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
 
 #### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
@@ -64,11 +64,11 @@ Eric will cover how to identify application and container security requirements,
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
 
-#### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
+#### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
-Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
+Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
 
-Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
+Eric will cover how to identify application and container security requirements, configure least-privilege containers with Docker, and how to integrate these best practices with container lifecycle and orchestration tools.
 
 ### Speakers
 
