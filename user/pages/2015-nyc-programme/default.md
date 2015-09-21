@@ -46,6 +46,12 @@ Despite being a very tempting feature to have, Linux has lacked support for chec
 
 Kir will talk about CRIU's history and its relationship with the Linux Kernel. He'll discuss previously challenging or impossible usage scenarios for containers that CRIU now enables, and explores the "next frontiers" for the project.
 
+#### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
+
+Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipeline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
+
+Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
+
 #### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
 Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
@@ -58,11 +64,11 @@ Eric will cover how to identify application and container security requirements,
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
 
-#### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
+#### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
 
-Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipeline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
+Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
 
-Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
+Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
 
 ### Speakers
 
@@ -73,6 +79,14 @@ Containers take this process to a new level with clean isolation and a clear API
 Matt Butcher is a core contributor to the Deis platform at EngineYard. He has worked on numerous cloud and IoT technologies at places like Google, HP, and About.com. He holds a Ph.D. in Philosophy, and teaches in the Computer Science department of Loyola University Chicago. Matt is the author of dozens of articles and eight technical books, the latest of which is _Go in Practice_ (Manning).
 
 Matt loves a good cup of coffee and enjoys mountain biking. You can find him on Twitter at [@technosophos](https://twitter.com/technosophos), and read his blog at [technosophos.com](http://technosophos.com).
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/john-downs.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="johnd"></a>John Downs
+
+John Downs is a Software Engineer at Yodle and an advocate for Continuous Delivery.
+
+He has previously spoken at PyGotham, taught a data analysis seminar, and has tattoos that are frequently photographed at conferences.
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/nick-gauthier.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

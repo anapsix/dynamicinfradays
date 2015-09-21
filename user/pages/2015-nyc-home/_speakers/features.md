@@ -6,6 +6,9 @@ features:
     - header: <a href="/2015-nyc-programme#mattb">Matt Butcher</a>
       text: "Matt is a core contributor to the Deis platform at Engine Yard."
       icon: user
+    - header: <a href="/2015-nyc-programme#johnd">John Downs</a>
+      text: "John Downs is a Software Engineer at Yodle and an advocate for Continuous Delivery."
+      icon: user
     - header: <a href="/2015-nyc-programme#nickg">Nick Gauthier</a>
       text: "Nick is an engineer at Codeship working on their container-based Continuous Integration and Delivery platform."
       icon: user
@@ -27,9 +30,10 @@ features:
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
