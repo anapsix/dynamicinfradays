@@ -179,6 +179,30 @@ Please ensure you have the following tools installed on your system:
 
 * If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/andrew-kennedy.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="offthehappypath"></a>_Containers Off the Happy Path_ <span style="font-size: smaller">- 4h, Intermediate</span>
+
+When you move on to building and running your own applications in containers, you will find that things can get more complicated than in the introductory examples. This workshop will focus on addressing practical issues and problems you might encounter when you move away from the 'happy path' and start using containerization in the real world, including:
+
+* **Docker in a cloud environment:** Public and private cloud differences? Who owns the network? Where does persistent state go?
+* **Debugging and Logging:** Problems with Docker; Problems with applications inside Docker; Logging and error reporting patterns
+* **Docker networking and various SDNs:** Port management and external access to applications (NAT, IP forwarding); Running multiple opinionated services with same requirements, e.g. Cassandra, Riak, RabbitMQ and EPMD; How do I choose the right SDN for my application and Docker infrastructure?
+* **Hybrid workloads: mixing containers and VMs:** Clocker and Calico; Amazon EC2 Containers
+* **Docker and Registry security:** Certificate management
+* **Orchestration and management of Docker clusters:** Clocker, Rancher, Swarm, Kubernetes, etc.
+* **Ephemeral Docker environments:** Laptop based deployments and Vagrant; Continuous integration and test environments
+
+The final agenda will be driven by the attendees - we want to help you solve _your_ problems.
+
+Led by Andrew Kennedy, Cloudsoft
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
 <div style="text-align: center; display: block;"><em><strong>ContainerDays NYC 2015</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>

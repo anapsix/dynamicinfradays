@@ -57,8 +57,8 @@ Please note that the programme is provisional and subject to change.
 | 11:30-12:15pm | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ | [Eric Windisch](../#speakers), Docker |
 | 12:15-12:55pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
-| 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 01:05-02:50pm | Workshops | _[Docker 101 - Get Developing](/2015-nyc-programme#docker101)_<br/>_[Containers Off the Happy Path](/2015-nyc-programme#offthehappypath)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
-| 03:05-04:50pm | Workshops ctd. | _[Manage Containers Efficiently With Docker Compose, Machine & Swarm](/2015-nyc-programme#dockertoolbox)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 03:05-04:50pm | Workshops ctd. | _[Manage Containers Efficiently With Docker Compose, Machine & Swarm](/2015-nyc-programme#dockertoolbox)_<br/>_[Containers Off the Happy Path](/2015-nyc-programme#offthehappypath)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
