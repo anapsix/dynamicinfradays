@@ -39,7 +39,11 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/vizuri-logo.png" width="100" height="34" style="margin: 0;">
 
-There are still a few sponsorship packages for this event available. See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
+##### Friday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/joyent-logo.png" width="115" height="34" style="margin: 0;">
+
+There is only one more sponsorship package available for this event! See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2015-nyc-sponsorship@dynamicinfradays.org)!
 
