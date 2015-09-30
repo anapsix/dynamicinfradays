@@ -41,7 +41,7 @@ menu: Sponsors
 
 ##### Friday lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/joyent-logo.png" width="115" height="34" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/joyent-logo.png" width="102" height="30" style="margin: 0;">
 
 There is only one more sponsorship package available for this event! See the [sponsorship tiers](/2015-nyc-sponsorship) for details.
 
