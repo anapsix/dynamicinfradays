@@ -156,7 +156,7 @@ Eric is a Docker project maintainer and a veteran of the OpenStack project where
 
 Bring your laptop and be ready to construct your own Docker development environment, create your own container image, and even turn the Minecraft server into a container, time permitting.
 
-Led by [Boyd Hemphill](#boydh), StackEngine
+Led by Boyd Hemphill, StackEngine. Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux containers.
 
 **Prerequisities**
 
@@ -171,7 +171,7 @@ Please ensure you have the following tools installed on your system:
 
 Learn how to use the Docker Toolbox and manage your containers more efficiently, using Docker Compose to create easy-to-use templates of how your applications are deployed and connected together, Docker Machine to automatically spin up Docker hosts and Docker Swarm to cluster them together.
 
-Led by Jonas Rosland, EMCcode
+Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, lover of all things tech and retro gaming, and a speaker at many events.
 
 **Prerequisities**
 
@@ -195,7 +195,7 @@ When you move on to building and running your own applications in containers, yo
 
 The final agenda will be driven by the attendees - we want to help you solve _your_ problems.
 
-Led by Andrew Kennedy, Cloudsoft
+Led by Andrew Kennedy, Cloudsoft. Andrew is a Senior Software Engineer at Cloudsoft and a contributor to several Open Source projects, a founder member of the Apache Brooklyn project, and the founder of Clocker.
 
 **Prerequisities**
 
