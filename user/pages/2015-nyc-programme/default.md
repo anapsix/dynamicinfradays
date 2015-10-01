@@ -181,9 +181,9 @@ Please ensure you have the following tools installed on your system:
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/andrew-kennedy.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-#### <a name="offthehappypath"></a>_Containers Off the Happy Path_ <span style="font-size: smaller">- 4h, Intermediate</span>
+#### <a name="beyondbasics"></a>_Containers: Beyond the Basics_ <span style="font-size: smaller">- 4h, Intermediate</span>
 
-When you move on to building and running your own applications in containers, you will find that things can get more complicated than in the introductory examples. This workshop will focus on addressing practical issues and problems you might encounter when you move away from the 'happy path' and start using containerization in the real world, including:
+When you move on to building and running your own applications in containers, you will find that things can get more complicated than in the introductory examples. This workshop will focus on addressing practical issues and problems you might encounter when you move beyond the basics and start using containerization in the real world, including:
 
 * **Docker in a cloud environment:** Public and private cloud differences? Who owns the network? Where does persistent state go?
 * **Debugging and Logging:** Problems with Docker; Problems with applications inside Docker; Logging and error reporting patterns
