@@ -19,7 +19,7 @@ features:
       text: "Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux containers."
       icon: user
     - header: <a href="/2015-nyc-programme#gili">Gil Isaacs</a>
-      text: "Gil is a Microsoft Certified Professional/Specialist in architecting Microsoft Azure solutions."
+      text: "Gil is a Microsoft Certified Professional and a specialist in architecting Microsoft Azure solutions."
       icon: user
     - header: <a href="/2015-nyc-programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
