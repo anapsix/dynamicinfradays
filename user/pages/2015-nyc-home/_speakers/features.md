@@ -21,8 +21,14 @@ features:
     - header: <a href="/2015-nyc-programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
+    - header: <a href="/2015-nyc-programme#quentinm">Quentin Machu</a>
+      text: "Quentin is an engineer on the Quay.io team."
+      icon: user
     - header: <a href="/2015-nyc-programme#stephenn">Stephen Nguyen</a>
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
+      icon: user
+    - header: <a href="/2015-nyc-programme#joeys">Joey Schorr</a>
+      text: "Joey is a lead software engineer on the Quay.io team at CoreOS."
       icon: user
     - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
       text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."

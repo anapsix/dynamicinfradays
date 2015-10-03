@@ -36,7 +36,7 @@ Please note that the programme is provisional and subject to change.
 | 01:10-01:15pm | Sponsor shout-out | |
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 01:35-02:20pm | OpenSpaces session | |
-| 02:20-03:05pm | OpenSpaces session | |
+| 02:20-03:05pm | _[Identifying Common Vulnerabilities and Exposures in Containers](/2015-nyc-programme#cves)_ | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 04:05-04:50pm | OpenSpaces session | |
 | 04:50-05:00pm | Day 1 wrap-up | |

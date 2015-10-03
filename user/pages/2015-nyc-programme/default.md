@@ -38,6 +38,12 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+#### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
+
+Docker layers can be fast for developers, but also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
+
+Find out what some of us at CoreOS are doing to automatically detect new and existing vulnerabilities in your containers before they get exploited, using graph database queries to track package changes.
+
 #### <a name="criu"></a>_CRIU: Time and Space Travel for Linux Containers_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
 
 Checkpoint/Restore is a technology that makes it possible to take snapshots of running Linux processes and restore them at any other place and time. This opens up exciting possibilities including live migration, keeping HPC tasks safe from hardware problems, cloud services and dynamic load balancing.
@@ -122,6 +128,14 @@ Kir was named leader and project manager for the OpenVZ project in 2005 to furth
 
 Kir has more than 10 years of experience with Linux and has long been an active open source advocate.
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/quentin-machu.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="quentinm"></a>Quentin Machu
+
+Quentin is an engineer on the Quay.io team and recently completed an award-winning OpenStack project as part of his Masters in Computer Engineering.
+
+You can find Quentin on Twitter at [@Quentin__M](https://twitter.com/quentin__m).
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/stephen-nguyen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="stephenn"></a>Stephen Nguyen
@@ -131,6 +145,14 @@ Stephen is a developer evangelist for ClusterHQ, the makers of Docker data manag
 Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to developer communities as an organizer of several developer Meetup communities in San Francisco, where he roams around on his bicycle.
 
 You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stephenitis).
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/joey-schorr.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="joeys"></a>Joey Schorr
+
+Joey Schorr is a lead software engineer on the Quay.io team at CoreOS.
+
+Before being acquired by CoreOS in Summer of 2014, Joey was cofounder of DevTable, a company he started after leaving Google to focus on building a web-based IDE.
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/darren-shephard.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
