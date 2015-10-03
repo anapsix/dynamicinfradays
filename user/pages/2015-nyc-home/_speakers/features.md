@@ -18,6 +18,9 @@ features:
     - header: <a href="/2015-nyc-programme#boydh">Boyd Hemphill</a>
       text: "Boyd is StackEngine's Director of Evangelism and espouses DevOps practices as they relate to Linux containers."
       icon: user
+    - header: <a href="/2015-nyc-programme#gili">Gil Isaacs</a>
+      text: "Gil is a Microsoft Certified Professional/Specialist in Architecting Microsoft Azure Solutions."
+      icon: user
     - header: <a href="/2015-nyc-programme#kirk">Kir Kolyshkin</a>
       text: "Kir leads the OpenVZ Linux containers project, which (amongst other things) is the biggest contributor to LXC."
       icon: user
@@ -36,10 +39,9 @@ features:
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

@@ -120,6 +120,14 @@ In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracl
 
 You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/gil-isaacs.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="gili"></a>Gil Isaacs
+
+Gil is a Microsoft Certified Professional/Specialist in Architecting Microsoft Azure Solutions and helps companies and partners use Microsoft Azure to build robust, flexible and cost effective applications.
+
+Gil's experience encompasses all stages of software delivery from strategy, architecture and design, through to hands-on application development, testing and operations.
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="kirk"></a>Kir Kolyshkin
