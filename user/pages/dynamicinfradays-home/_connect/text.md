@@ -16,7 +16,8 @@ If you're interested in volunteering or attending; would like to sponsor or have
       <!-- <label>Get notified about event updates and ticket availability</label> -->
       <div class="mc-field-group">
       <table style="border:none;vertical-align:middle;"><tr style="height:30px;vertical-align:middle;">
-      <td style="min-width:100px;border:none;vertical-align:middle;"><input type="email" value="" name="EMAIL" class="required email" placeholder="your@email.here" id="mce-EMAIL"></td>
+      <td style="min-width:100px;border:none;vertical-align:top;"><input type="email" value="" name="EMAIL" class="required email" placeholder="your@email.here" id="mce-EMAIL"></td>
+      <td style="min-width:190px;border:none;vertical-align:top;"><input style="background:#ddd; width:150px" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></td>
       </tr></table>
       </div>
       <div id="mce-responses" class="clear">
@@ -24,10 +25,9 @@ If you're interested in volunteering or attending; would like to sponsor or have
         <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;"><input type="text" name="b_27ad0ec0e040d8cb661d8d360_0ff502cf99" tabindex="-1" value=""></div>
-      <input style="background:#ddd; width:150px" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
     </div>
   </form>
 </div>
 <!--End mc_embed_signup-->
 
-Follow [@DynInfraDays](http://twitter.com/DynInfraDays) on Twitter for updates.
+Follow <a href="http://twitter.com/DynInfraDays">@DynInfraDays</a> on Twitter for updates.
