@@ -124,9 +124,9 @@ You can find Boyd on Twitter at [@behemphi](https://twitter.com/behemphi).
 
 #### <a name="gili"></a>Gil Isaacs
 
-Gil is a Microsoft Certified Professional and a specialist in architecting Microsoft Azure solutions. He helps companies and partners use Microsoft Azure to build robust, flexible and cost effective applications.
+Gil is a Microsoft Certified Professional and a specialist in architecting Microsoft Azure solutions. He helps companies and partners use Microsoft Azure to build robust, flexible and cost effective applications. Gil's experience encompasses all stages of software delivery from strategy, architecture and design, through to hands-on application development, testing and operations.
 
-Gil's experience encompasses all stages of software delivery from strategy, architecture and design, through to hands-on application development, testing and operations.
+In his spare time, Gil loves anything that involves being outdoors with his family and ferrying his amazing daughters around to their music and dance events.
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
