@@ -38,6 +38,16 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+#### <a name="microsoft"></a>_Containers, DevOps and Microsoft_ <span style="font-size: smaller">- [Gil Isaacs](#gili)</span>
+
+Containerization enables businesses to realize the promise of the DevOps movement. We'll discuss how teams can use containerization to grow their DevOps practices and show specific examples utilizing some of the latest Microsoft solution options in the following areas:
+
+* Continuous Integration and Deployment
+* Infrastructure as Code
+* Release Management
+* Scale and Automated Testing
+* Application Performance Monitoring
+
 #### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
 
 Docker layers can be fast for developers, but also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
