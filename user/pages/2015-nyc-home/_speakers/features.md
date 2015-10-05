@@ -36,12 +36,16 @@ features:
     - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
       text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."
       icon: user
+    - header: <a href="/2015-nyc-programme#taraw">Tara Walker</a>
+      text: "Tara is an AWS Technical Evangelist for Amazon."
+      icon: user
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
