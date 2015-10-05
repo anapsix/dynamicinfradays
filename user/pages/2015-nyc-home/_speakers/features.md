@@ -37,7 +37,7 @@ features:
       text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."
       icon: user
     - header: <a href="/2015-nyc-programme#taraw">Tara Walker</a>
-      text: "Tara is an AWS Technical Evangelist for Amazon."
+      text: "Tara is a Technical Evangelist for Amazon Web Services."
       icon: user
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
