@@ -26,6 +26,7 @@ ContainerDays NYC is a community (un)conference to encourage discussion and lear
 Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an unconference, so _you_ get to pick the topics!
 
 <script>
+console.log('Getting available tickets count from Eventbrite..');
 var reg = /(\d+)(\sTickets)/;
 var tr;
 var jqxhr =  $.get('http://crossorigin.me/https://www.eventbrite.com/e/containerdays-nyc-2015-tickets-17895109755',function(data) {
