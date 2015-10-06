@@ -27,6 +27,9 @@ features:
     - header: <a href="/2015-nyc-programme#quentinm">Quentin Machu</a>
       text: "Quentin is an engineer on the Quay.io team."
       icon: user
+    - header: <a href="/2015-nyc-programme#patrickm">Patrick Mizer</a>
+      text: "Patrick heads up the engineering team at SpareFoot."
+      icon: user
     - header: <a href="/2015-nyc-programme#stephenn">Stephen Nguyen</a>
       text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
       icon: user
@@ -41,6 +44,9 @@ features:
       icon: user
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
+      icon: user
+    - header: <a href="/2015-nyc-programme#stevew">Steve Woodruff</a>
+      text: "Steve applies his expertise in CI/CD to help developers write, commit, test and deploy code in a safe and rapid fashion."
       icon: user
     - header: Coming soon!
       text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."

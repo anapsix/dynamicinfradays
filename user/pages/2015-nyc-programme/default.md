@@ -68,17 +68,23 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
-#### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
+#### <a name="sparefoot"></a>_Easing Your Way Into Docker: Lessons From a Journey to Production_ <span style="font-size: smaller">- [Patrick Mizer](#patrickm) & [Steve Woodruff](#stevew)</span>
 
-Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
+When SpareFoot began deconstructing its monolithic application into microservices in early 2014, we learned that while everyone was talking about Docker, very few were actually doing anything with it in production. It was clear that we were going to have to figure things out on our own.  
 
-Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
+Steve and Patrick will explain how the SpareFoot team cut its teeth on the Docker ecosystem, failed fast, and eventually solved some real problems.  The philosophy of start small, learn/fail, and move on helped us successfully deploy Docker to production. We hope to convince you to do the same!
 
 #### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
 "Composeable microservice building blocks" - that was the promise of containers. But in practice, composing containers is harder than the glossy brochure suggests. How do we deploy these things? What about monitoring and metrics? Can we perform rolling deploys? Is there a practical and easy path to service discovery?
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
+
+#### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
+
+Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
+
+Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
 
 #### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
@@ -154,6 +160,14 @@ Quentin is an engineer on the Quay.io team and recently completed an award-winni
 
 You can find Quentin on Twitter at [@Quentin__M](https://twitter.com/quentin__m).
 
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/patrick-mizer.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="patrickm"></a>Patrick Mizer
+
+Patrick heads up the engineering team at SpareFoot, where he has worked for the last 6 years. Patrick and the team at SpareFoot were early adopters of Docker and have been running it in production for over a year - with varying degrees of success.
+
+When he's not tinkering with technology, Patrick can be found either mountain biking or brewing his own beer - also with varying degrees of success!
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/stephen-nguyen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="stephenn"></a>Stephen Nguyen
@@ -197,6 +211,18 @@ You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
 Eric Windisch is a Security Engineer at Docker, Inc. He combines 15 years of experience in building and managing hostile production compute environments with a career focus of providing fast, secure, self-service compute capabilities to the masses.
 
 Eric is a Docker project maintainer and a veteran of the OpenStack project where he worked on the Nova and Oslo projects. He is also a co-founder of Magnum, the OpenStack Containers Service.
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/steve-woodruff.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="stevew"></a>Steve Woodruff
+
+Steve Woodruff
+
+Steve is an innovator in the DevOps field, where he applies his expertise in Continuous Integration & Deployment to create environments where developers can write, commit, test and deploy code in a safe and rapid fashion.
+
+At SpareFoot, Steve developed a method of injecting data into builds to dynamically support concurrent deployments to multiple environments with Docker Compose, as well as providing rapid rollback capabilities for SpareFoot's microservices team.
+
+You can find Steve on Twitter at [@sjwoodr](https://twitter.com/sjwoodr).
 
 ### Workshops
 
