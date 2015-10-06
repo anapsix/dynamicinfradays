@@ -48,9 +48,6 @@ features:
     - header: <a href="/2015-nyc-programme#stevew">Steve Woodruff</a>
       text: "Steve applies his expertise in CI/CD to help developers write, commit, test and deploy code in a safe and rapid fashion."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 
 ---
 
