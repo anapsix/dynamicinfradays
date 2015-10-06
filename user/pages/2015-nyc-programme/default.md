@@ -216,8 +216,6 @@ Eric is a Docker project maintainer and a veteran of the OpenStack project where
 
 #### <a name="stevew"></a>Steve Woodruff
 
-Steve Woodruff
-
 Steve is an innovator in the DevOps field, where he applies his expertise in Continuous Integration & Deployment to create environments where developers can write, commit, test and deploy code in a safe and rapid fashion.
 
 At SpareFoot, Steve developed a method of injecting data into builds to dynamically support concurrent deployments to multiple environments with Docker Compose, as well as providing rapid rollback capabilities for SpareFoot's microservices team.
