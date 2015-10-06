@@ -24,3 +24,16 @@ The community container and dynamic infrastructure (un)conference comes to the B
 ContainerDays NYC is a community (un)conference to encourage discussion and learning on the subject of containers and dynamic infrastructure generally. The [programme](#programme) is a mix of OpenSpaces sessions and talks from users, contributors and extenders from all corners of the space.
 
 Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an unconference, so _you_ get to pick the topics!
+
+<script>
+var reg = /(\d+)(\sTickets)/;
+var tr;
+var jqxhr =  $.get('http://crossorigin.me/https://www.eventbrite.com/e/containerdays-nyc-2015-tickets-17895109755',function(data) {
+    elm = $('td[itemprop="inventoryLevel"]',data);
+    tix = reg.exec(elm[0].innerText);
+    tr  = tix[1];
+    console.log('Tickets Remaining: ' + tr);
+    $(".button.primary").html("Get your ticket - " + tr + " remaining");
+   }
+);
+</script>
