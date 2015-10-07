@@ -140,6 +140,8 @@ Gil is a Microsoft Certified Professional and a specialist in architecting Micro
 
 In his spare time, Gil loves anything that involves being outdoors with his family and ferrying his amazing daughters around to their music and dance events.
 
+You can find Gil on Twitter at [@gilisaacs](https://twitter.com/gilisaacs).
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/kir-kolyshkin.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="kirk"></a>Kir Kolyshkin
