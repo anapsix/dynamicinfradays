@@ -40,7 +40,7 @@ Tim will explore the story of a real-world large scale production microservices 
 
 #### <a name="microsoft"></a>_Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?_ <span style="font-size: smaller">- [Gil Isaacs](#gili)</span>
 
-Microsoft has recently made a flurry of announcements and released new capabilities: running Linux and Windows on VMs Azure, the new Windows Container Service now, and the Azure Container Service in the future.
+Microsoft has recently made a flurry of announcements and released new capabilities: running containers on Linux and Windows VMs on Azure, the new Windows Container Service now, and the Azure Container Service in the future.
 
 Gil will cover these options in the context of a DevOps mindset and will provide a basic overview of current container capabilities on Microsoft platforms. He'll then take it a step further by combining these features to demonstrate several DevOps scenarios in action.
 
