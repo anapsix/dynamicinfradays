@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get on the waitlist
+    - text: Get your ticket
       url: http://dynamicinfradays.org/events/2015-nyc/sign-up/
       primary: true
 ---
@@ -26,15 +26,36 @@ ContainerDays NYC is a community (un)conference to encourage discussion and lear
 Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an unconference, so _you_ get to pick the topics!
 
 <script>
-console.log('Getting available tickets count from Eventbrite..');
+// eventPage
+var eventPage = 'http://dynamicinfradays.org/events/2015-nyc/sign-up/';
+
+// regex to grab tickets remaining element
 var reg = /(\d+)(\sTickets)/;
-var tr;
-var jqxhr =  $.get('http://crossorigin.me/https://www.eventbrite.com/e/containerdays-nyc-2015-tickets-17895109755',function(data) {
-    elm = $('td[itemprop="inventoryLevel"]',data);
-    tix = reg.exec(elm[0].innerText);
-    tr  = tix[1];
-    console.log('Tickets Remaining: ' + tr);
-    $(".button.primary").html("Get your ticket - " + tr + " remaining");
-   }
-);
+
+// default to this ticket amount, used when event doesn't report ticket counts
+var tr = 'tickets';
+
+// do the thing
+$.get('http://crossorigin.me/' + eventPage)
+  .success(function(data) {
+    text = $('td[itemprop="inventoryLevel"]', data).text();
+    hasWaitlist = /Add to Waitlist/.exec(data);
+    console.log('DEBUG Waitlist: ' + waitList);
+    try {
+      tr = reg.exec(text)[1];
+      $('.button.primary').html(Get your ticket - ' + tr + ' remaining');
+      console.log('Successfully updated sign-up button');
+    } catch (err) {
+      console.log('No tickets available');
+      if (hasWaitlist) {
+        msg = 'Get on the waitlist';
+      } else {
+        msg = 'Sold out';
+      }
+      $('.button.primary').html(msg);
+    }
+  })
+  .error(function(jqXHR, textStatus, errorThrown) {
+    console.log('Failed to get ticket count');
+  });
 </script>
