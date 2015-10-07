@@ -40,7 +40,7 @@ $.get('http://crossorigin.me/' + eventPage)
   .success(function(data) {
     text = $('td[itemprop="inventoryLevel"]', data).text();
     hasWaitlist = /Add to Waitlist/.exec(data);
-    console.log('DEBUG Waitlist: ' + waitList);
+    console.log('DEBUG: Has waitlist? ' + hasWaitlist);
     try {
       tr = reg.exec(text)[1];
       $('.button.primary').html('Get your ticket - ' + tr + ' remaining');
