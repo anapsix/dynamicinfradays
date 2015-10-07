@@ -43,7 +43,7 @@ $.get('http://crossorigin.me/' + eventPage)
     console.log('DEBUG Waitlist: ' + waitList);
     try {
       tr = reg.exec(text)[1];
-      $('.button.primary').html(Get your ticket - ' + tr + ' remaining');
+      $('.button.primary').html('Get your ticket - ' + tr + ' remaining');
       console.log('Successfully updated sign-up button');
     } catch (err) {
       console.log('No tickets available');
