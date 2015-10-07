@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your ticket
+    - text: Get on the waitlist
       url: http://dynamicinfradays.org/events/2015-nyc/sign-up/
       primary: true
 ---
