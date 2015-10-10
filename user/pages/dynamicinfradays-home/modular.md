@@ -75,7 +75,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "NYC<br>Oct 29-30<br>2015",
+    labelContent: "NYC<br>Oct 29-30 '15",
     labelAnchor: new google.maps.Point(0, 5),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
@@ -89,7 +89,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Boston<br>Jun 5-6<br>2015",
+    labelContent: "Boston<br>Jun 5-6 '15",
     labelAnchor: new google.maps.Point(0, 45),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
@@ -103,7 +103,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Austin<br>Mar 25-26<br>2016",
+    labelContent: "Austin<br>Mar 25-26 '16",
     labelAnchor: new google.maps.Point(20, 50),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
