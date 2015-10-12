@@ -41,7 +41,7 @@ menu: Sponsors
 
 ##### Friday breakfast sponsor
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/redhat-logo.png" width="116" height="38" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/redhat-logo.png" width="110" height="36" style="margin: 0;">
 
 ##### Friday lunch sponsor
 
