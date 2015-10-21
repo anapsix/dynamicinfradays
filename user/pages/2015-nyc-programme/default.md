@@ -267,7 +267,7 @@ When you move on to building and running your own applications in containers, yo
 
 The final agenda will be driven by the attendees - we want to help you solve _your_ problems.
 
-Led by Andrew Kennedy, Cloudsoft. Andrew is a Senior Software Engineer at Cloudsoft and a contributor to several Open Source projects, a founder member of the Apache Brooklyn project, and the founder of Clocker.
+Led by Andrew Kennedy, Cloudsoft and Scott Hartzel, Cloudsoft. Andrew is a Senior Software Engineer at Cloudsoft and a contributor to several Open Source projects, a founder member of the Apache Brooklyn project, and the founder of Clocker. Scott heads up of Product Management for Cloudsoft.
 
 **Prerequisities**
 
