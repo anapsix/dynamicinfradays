@@ -27,11 +27,11 @@ features:
     - header: <a href="/2015-nyc-programme#quentinm">Quentin Machu</a>
       text: "Quentin is an engineer on the Quay.io team."
       icon: user
-    - header: <a href="/2015-nyc-programme#barakm">Barak Michener</a>
-      text: "Barak is a distributed systems developer for CoreOS, working in Go on etcd."
-      icon: user
     - header: <a href="/2015-nyc-programme#patrickm">Patrick Mizer</a>
       text: "Patrick heads up the engineering team at SpareFoot."
+      icon: user
+    - header: <a href="/2015-nyc-programme#joeys">Joey Schorr</a>
+      text: "Joey is a lead software engineer on the Quay.io team at CoreOS."
       icon: user
     - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
       text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."
