@@ -33,11 +33,11 @@ features:
     - header: <a href="/2015-nyc-programme#patrickm">Patrick Mizer</a>
       text: "Patrick heads up the engineering team at SpareFoot."
       icon: user
-    - header: <a href="/2015-nyc-programme#stephenn">Stephen Nguyen</a>
-      text: "Stephen is a developer evangelist for ClusterHQ and has helped developers ship billions of stateless Docker containers."
-      icon: user
     - header: <a href="/2015-nyc-programme#darrens">Darren Shepherd</a>
       text: "Darren is Chief Architect of Rancher Labs, building the next generation of infrastructure orchestration technology."
+      icon: user
+    - header: <a href="/2015-nyc-programme#ryanw">Ryan Wallner</a>
+      text: "Ryan is a Developer Evangelist for ClusterHQ focused on integration and tooling around containers and persistence."
       icon: user
     - header: <a href="/2015-nyc-programme#taraw">Tara Walker</a>
       text: "Tara is a Technical Evangelist for Amazon Web Services."

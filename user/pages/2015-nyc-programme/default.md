@@ -26,9 +26,9 @@ Containers are amazingly useful development tools, but their biggest long-term i
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Compose, Machine and Swarm projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
-#### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Stephen Nguyen](#stephenn)</span>
+#### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Ryan Wallner](#ryanw)</span>
 
-Containers are great for the stateless applications, but what about applications that rely on persistance of data? Stephen will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
+Containers are great for the stateless applications, but what about applications that rely on persistance of data? Ryan will talk about how to handle storage for your containers and. why running stateful services in containers can make a lot of sense.
 
 He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
 
@@ -174,16 +174,6 @@ Patrick heads up the engineering team at SpareFoot, where he has worked for the 
 
 When he's not tinkering with technology, Patrick can be found either mountain biking or brewing his own beer - also with varying degrees of success!
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/stephen-nguyen.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="stephenn"></a>Stephen Nguyen
-
-Stephen is a developer evangelist for ClusterHQ, the makers of Docker data management tool Flocker. He was previously at Iron.io as their Developer Evangelist and Customer Success lead assisting users in the adoption of stateless Docker containers.
-
-Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to developer communities as an organizer of several developer Meetup communities in San Francisco, where he roams around on his bicycle.
-
-You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stephenitis).
-
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/darren-shephard.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="darrens"></a>Darren Shepherd
@@ -191,6 +181,14 @@ You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stepheniti
 Darren Shepherd is a co-founder and Chief Architect of Rancher Labs. Prior to Rancher, Darren was Sr. Principal Engineer at Citrix, where he worked on CloudStack, OpenStack, Docker and building the next generation of infrastructure orchestration technology.
 
 Before joining Citrix, Darren worked at GoDaddy, where he designed and lead a team that implemented both public and private IaaS clouds. You can find him on Twitter at [@ibuildthecloud](https://twitter.com/ibuildthecloud).
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/ryan-wallner.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="ryanw"></a>Ryan Wallner
+
+Ryan is a Developer Evangelist for ClusterHQ, focused on the developer community, integration and tooling around containers and persistence. Previously, Ryan was a software engineer for advanced development in EMCs office of the CTO. He has committed to various open-source projects including BigSwitch Floodlight, docker-py and docker-compose. 
+
+You can find Ryan at many of the Boston area meetups such as Microservices, Docker and Openstack, or enjoying hiking, kayaking, snowboarding, and cooking. You can find him on Twitter at [@RyanWallner](https://twitter.com/RyanWallner).
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
