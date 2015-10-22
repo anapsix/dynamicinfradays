@@ -44,7 +44,7 @@ Microsoft has recently made a flurry of announcements and released new capabilit
 
 Gil will cover these options in the context of a DevOps mindset and will provide a basic overview of current container capabilities on Microsoft platforms. He'll then take it a step further by combining these features to demonstrate several DevOps scenarios in action.
 
-#### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
+#### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Barak Michener](#barakm) & [Quentin Machu](#quentinm)</span>
 
 Docker layers can be fast for developers, but also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
 
@@ -158,6 +158,14 @@ Quentin is an engineer on the Quay.io team and recently completed an award-winni
 
 You can find Quentin on Twitter at [@Quentin__M](https://twitter.com/quentin__m).
 
+<img src="http://dynamicinfradays.org/events/2015-boston/barak-michener.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="barakm"></a>Barak Michener
+
+Barak is a distributed systems developer for CoreOS, working in Go on etcd.
+
+His other interests include graph databases (maintaining Cayley), machine learning, and programming languages.
+
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/patrick-mizer.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="patrickm"></a>Patrick Mizer
@@ -175,14 +183,6 @@ Stephen is a developer evangelist for ClusterHQ, the makers of Docker data manag
 Stephen programs in Ruby, Node, and dabbles in Go. He is no stranger to developer communities as an organizer of several developer Meetup communities in San Francisco, where he roams around on his bicycle.
 
 You can find Stephen on Twitter at [@stephenitis](https://twitter.com/stephenitis).
-
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/joey-schorr.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="joeys"></a>Joey Schorr
-
-Joey Schorr is a lead software engineer on the Quay.io team at CoreOS.
-
-Before being acquired by CoreOS in Summer of 2014, Joey was cofounder of DevTable, a company he started after leaving Google to focus on building a web-based IDE.
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/darren-shephard.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

@@ -128,7 +128,7 @@ Kir was named leader and project manager for the OpenVZ project in 2005 to furth
 
 Kir has more than 10 years Linux experience and has long been an active open source advocate.
 
-<img src="http://dynamicinfradays.org/events/2015-boston/barak-michener.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2015-nyc/barak-michener.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="barakm"></a>Barak Michener
 
