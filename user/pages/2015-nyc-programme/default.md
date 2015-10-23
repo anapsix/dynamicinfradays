@@ -188,7 +188,7 @@ Before joining Citrix, Darren worked at GoDaddy, where he designed and lead a te
 
 Ryan is a Developer Evangelist for ClusterHQ, focused on the developer community, integration and tooling around containers and persistence. Previously, Ryan was a software engineer for advanced development in EMCs office of the CTO. He has committed to various open-source projects including BigSwitch Floodlight, docker-py and docker-compose. 
 
-You can find Ryan at many of the Boston area meetups such as Microservices, Docker and Openstack, or enjoying hiking, kayaking, snowboarding, and cooking. You can find him on Twitter at [@RyanWallner](https://twitter.com/RyanWallner).
+You can find Ryan at many of the Boston area meetups such as Microservices, Docker and Openstack, or enjoying hiking, kayaking, snowboarding, and cooking. Catch him on Twitter at [@RyanWallner](https://twitter.com/RyanWallner).
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
