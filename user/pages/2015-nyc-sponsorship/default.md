@@ -50,7 +50,7 @@ With the exception of **Platinum** and **Gold** tiers, which come with short "sh
 
 #### <a name="facilities"></a>Facilities
 
-Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but please do not rely on it for critical meetings. Wired internet access will not be available.
+Sponsor tables are 5' x 1.5'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but please do not rely on it for critical meetings. Wired internet access will not be available.
 
 There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements. Please plan for a way to collect contact information from interested attendees, as there is no automated lead capture system.
 
