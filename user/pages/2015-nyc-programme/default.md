@@ -38,6 +38,12 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+#### <a name="lambda"></a>_Thinking Differently: An Introduction to AWS Lambda_ <span style="font-size: smaller">- [Tara Walker](#taraw)</span>
+
+AWS Lambda is a new compute service that runs your code in response to events and automatically and dynamically manages infra resources for you. Tara will talk about AWS's event-driven compute strategy and explain how Lambda works to respond to events from various Amazon services.
+
+Tara will describe what you need to quickly begin building applications that use AWS Lambda as a serverless back-end, and will also cover key Lambda features, its programming model, and tips on getting the most out of Lambda functions.
+
 #### <a name="microsoft"></a>_Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?_ <span style="font-size: smaller">- [Gil Isaacs](#gili)</span>
 
 Microsoft has recently made a flurry of announcements and released new capabilities: running containers on Linux and Windows VMs on Azure, the new Windows Container Service now, and the Azure Container Service in the future.
