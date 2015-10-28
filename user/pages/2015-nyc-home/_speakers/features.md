@@ -40,7 +40,7 @@ features:
       text: "Ryan is a Developer Evangelist for ClusterHQ focused on integration and tooling around containers and persistence."
       icon: user
     - header: <a href="/2015-nyc-programme#taraw">Tara Walker</a>
-      text: "Tara is a Technical Evangelist for Amazon Web Services."
+      text: "Tara is a technical evangelist for Amazon Web Services."
       icon: user
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
       text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."

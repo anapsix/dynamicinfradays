@@ -200,9 +200,9 @@ You can find Ryan at many of the Boston area meetups such as Microservices, Dock
 
 #### <a name="taraw"></a>Tara Walker
 
-Tara is a Technical Evangelist for Amazon Web Services, dedicating her time to help developers build apps in the AWS Cloud. Tara has most recently been working on evangelizing cross-platform development and AWS Mobile Services in conjunction with AWS Mobile team.
+Tara is a technical evangelist for Amazon Web Services, dedicating her time to help developers build apps, games, and solutions in the AWS cloud. Tara has most recently been working on evangelizing mobile, gaming, IoT, cross-platform development, and even some DevOps technologies on the AWS platform.
 
-Tara has been spreading the "good news" about various development platforms and languages for over 15 years as a developer evangelist at Microsoft and various other Fortune 500 companies. During that time, she has had an opportunity to work with a myriad of technologies, languages, and frameworks for mobile, gaming, cloud, web, and NUI development.
+Tara has been spreading the "good news" about various development platforms and languages for over 16 years as a developer evangelist and software engineer at companies like Microsoft, Turner/Time Warner, and other Fortune 500 companies. During that time, she has had an opportunity to work with a myriad of technologies, languages, and frameworks for mobile, gaming, cloud, web, and NUI development.
 
 You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
 
