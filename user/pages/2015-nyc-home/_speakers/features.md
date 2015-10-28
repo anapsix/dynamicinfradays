@@ -43,7 +43,7 @@ features:
       text: "Tara is a technical evangelist for Amazon Web Services."
       icon: user
     - header: <a href="/2015-nyc-programme#ericw">Eric Windisch</a>
-      text: "Eric is a Security Engineer at Docker with 15 years of experience in building hostile production compute environments."
+      text: "Eric is a Docker project maintainer with 15 years of experience in building hostile production compute environments."
       icon: user
     - header: <a href="/2015-nyc-programme#stevew">Steve Woodruff</a>
       text: "Steve applies his expertise in CI/CD to help developers write, commit, test and deploy code in a safe and rapid fashion."

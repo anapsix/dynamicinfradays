@@ -210,9 +210,9 @@ You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
 
 #### <a name="ericw"></a>Eric Windisch
 
-Eric Windisch is a Security Engineer at Docker, Inc. He combines 15 years of experience in building and managing hostile production compute environments with a career focus of providing fast, secure, self-service compute capabilities to the masses.
+Eric Windisch is a Docker project maintainer combining 15 years of experience in building and managing hostile production compute environments with a career focus of providing fast, secure, self-service compute capabilities to the masses.
 
-Eric is a Docker project maintainer and a veteran of the OpenStack project where he worked on the Nova and Oslo projects. He is also a co-founder of Magnum, the OpenStack Containers Service.
+Eric is a veteran of the OpenStack project where he worked on the Nova and Oslo projects. He is also a co-founder of Magnum, the OpenStack Containers Service.
 
 <img src="http://dynamicinfradays.org/events/2015-nyc/img/steve-woodruff.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
