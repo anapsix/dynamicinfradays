@@ -42,7 +42,7 @@ Tim will explore the story of a real-world large scale production microservices 
 
 AWS Lambda is a new compute service that runs your code in response to events and automatically and dynamically manages infra resources for you. Tara will talk about AWS's event-driven compute strategy and explain how Lambda works to respond to events from various Amazon services.
 
-Tara will describe what you need to quickly begin building applications that use AWS Lambda as a serverless back-end, and will also cover key Lambda features, its programming model, and tips on getting the most out of Lambda functions.
+Tara will describe what you need to easily build scalable microservices for mobile, web, and IoT applications that use AWS Lambda as a serverless back-end, how you can expose these services using Amazon API Gateway, and how to extend both AWS and third party services by triggering Lambda functions. She'll also cover key Lambda features, its programming model, and tips on getting the most out of Lambda.
 
 #### <a name="microsoft"></a>_Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?_ <span style="font-size: smaller">- [Gil Isaacs](#gili)</span>
 
