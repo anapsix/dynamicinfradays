@@ -103,13 +103,13 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Austin<br>Mar 25-26 '16",
+    labelContent: "Austin<br>early '16",
     labelAnchor: new google.maps.Point(30, 50),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
 
-  google.maps.event.addListener(austinMarker, "click", function (e) { location.href="/events/2015-austin/"});
+  google.maps.event.addListener(austinMarker, "click", function (e) { location.href="/events/2016-austin/"});
 }
 initialize()
 </script>

@@ -7,7 +7,7 @@ title: Events
 ##### Upcoming:
 
 * 2015, October 29-30th, [ContainerDays NYC](/events/2015-nyc/), New York, NY, USA
-* 2016, March 25-26th, ContainerDays Austin, Austin, TX, USA
+* early 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 
 ##### Past:
 
