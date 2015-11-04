@@ -50,6 +50,8 @@ Microsoft has recently made a flurry of announcements and released new capabilit
 
 Gil will cover these options in the context of a DevOps mindset and will provide a basic overview of current container capabilities on Microsoft platforms. He'll then take it a step further by combining these features to demonstrate several DevOps scenarios in action.
 
+[slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway)
+
 #### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
 
 Docker layers can be fast for developers, but also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
@@ -70,11 +72,15 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
+[slides](https://drive.google.com/file/d/0B25mFQX9pz1TcTNKZWhoVTRCdTg/view)
+
 #### <a name="sparefoot"></a>_Easing Your Way Into Docker: Lessons From a Journey to Production_ <span style="font-size: smaller">- [Patrick Mizer](#patrickm) & [Steve Woodruff](#stevew)</span>
 
 When SpareFoot began deconstructing its monolithic application into microservices in early 2014, we learned that while everyone was talking about Docker, very few were actually doing anything with it in production. It was clear that we were going to have to figure things out on our own.  
 
 Steve and Patrick will explain how the SpareFoot team cut its teeth on the Docker ecosystem, failed fast, and eventually solved some real problems.  The philosophy of start small, learn/fail, and move on helped us successfully deploy Docker to production. We hope to convince you to do the same!
+
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-easing-your-way-into-docker-lessons-from-a-journey-to-production-patrick-mizer-steve-woodruff)
 
 #### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
@@ -93,6 +99,8 @@ Through a combination of monitoring, new testing approaches, and automated canar
 Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
 
 Eric will cover how to identify application and container security requirements, configure least-privilege containers with Docker, and how to integrate these best practices with container lifecycle and orchestration tools.
+
+[slides](http://slides.com/ewindisch/containerdays2015/#/)
 
 ### Speakers
 
