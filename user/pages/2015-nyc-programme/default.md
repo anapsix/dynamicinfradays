@@ -94,6 +94,8 @@ Containers and microservices are great for speeding up your Continuous Delivery 
 
 Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
 
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-how-yodle-cleaned-up-the-mess-using-containers-and-microservices-john-downs)
+
 #### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
 Microservices and other patterns provide a unique opportunity to improve the security of an application with minimal operational complexity.
