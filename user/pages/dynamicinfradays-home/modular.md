@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4><strong>New event:</strong> March 25-26th, <strong>ContainerDays Austin 2016</strong>. See <a href="#events">all events</a></h4>
+<h4><strong>Next event:</strong> early 2016, <strong><a href="/events/2016-austin">ContainerDays Austin 2016</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
