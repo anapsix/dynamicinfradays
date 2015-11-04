@@ -37,7 +37,7 @@ Please note that the programme is provisional and subject to change.
 | 01:10-01:15pm | Sponsor shout-out | |
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 01:35-02:20pm | OpenSpaces session | |
-| 02:20-03:05pm | _[Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?](/2015-nyc-programme#microsoft)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway)</span> | [Gil Isaacs](../#speakers), Microsoft |
+| 02:20-03:05pm | _[Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?](/2015-nyc-programme#microsoft)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway)</span> | [Gil Isaacs](../#speakers), Microsoft |
 | 02:20-03:05pm | _[Identifying Common Vulnerabilities and Exposures in Containers](/2015-nyc-programme#cves)_ | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:20-04:05pm | OpenSpaces session | |
@@ -53,11 +53,11 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:45am | Day 2 kickoff | |
 | 09:45-10:30am | _[CRIU: Time and Space Travel for Linux Containers](/2015-nyc-programme#criu)_ | [Kir Kolyshkin](../#speakers), OpenVZ |
-| 09:45-10:30am | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ <span style="font-size: smaller"> [slides](https://drive.google.com/file/d/0B25mFQX9pz1TcTNKZWhoVTRCdTg/view)</span> | [Nick Gauthier](../#speakers), Codeship |
-| 10:35-11:20am | _[Easing Your Way Into Docker: Lessons From a Journey to Production](/2015-nyc-programme#sparefoot)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-easing-your-way-into-docker-lessons-from-a-journey-to-production-patrick-mizer-steve-woodruff)</span> | [Patrick Mizer](../#speakers) & [Steve Woodruff](../#speakers), SpareFoot |
+| 09:45-10:30am | _[Continuous Delivery with Containers](/2015-nyc-programme#continuousdelivery)_ <span style="font-size: smaller">[slides](https://drive.google.com/file/d/0B25mFQX9pz1TcTNKZWhoVTRCdTg/view)</span> | [Nick Gauthier](../#speakers), Codeship |
+| 10:35-11:20am | _[Easing Your Way Into Docker: Lessons From a Journey to Production](/2015-nyc-programme#sparefoot)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-easing-your-way-into-docker-lessons-from-a-journey-to-production-patrick-mizer-steve-woodruff)</span> | [Patrick Mizer](../#speakers) & [Steve Woodruff](../#speakers), SpareFoot |
 | 10:35-11:20am | _[What It Really Takes to Build a Container Platform](/2015-nyc-programme#platform)_ | [Matt Butcher](../#speakers), EngineYard |
-| 11:25-12:10pm | _[How Yodle Cleaned Up the Mess Using Containers and Microservices](/2015-nyc-programme#yodle)_ <span style="font-size: smaller"> [slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-how-yodle-cleaned-up-the-mess-using-containers-and-microservices-john-downs)</span> | [John Downs](../#speakers), Yodle |
-| 11:25-12:10pm | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ <span style="font-size: smaller"> [slides](http://slides.com/ewindisch/containerdays2015/#/)</span> | [Eric Windisch](../#speakers), Docker |
+| 11:25-12:10pm | _[How Yodle Cleaned Up the Mess Using Containers and Microservices](/2015-nyc-programme#yodle)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-how-yodle-cleaned-up-the-mess-using-containers-and-microservices-john-downs)</span> | [John Downs](../#speakers), Yodle |
+| 11:25-12:10pm | _[Patterns for Securing Containerized Applications](/2015-nyc-programme#security)_ <span style="font-size: smaller">[slides](http://slides.com/ewindisch/containerdays2015/#/)</span> | [Eric Windisch](../#speakers), Docker |
 | 12:10-12:50pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 12:50-12:55pm | Sponsor shout-out | |
 | 12:55-01:05pm | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
