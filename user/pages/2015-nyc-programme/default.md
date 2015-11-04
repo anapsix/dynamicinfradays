@@ -76,7 +76,7 @@ Containers take this process to a new level with clean isolation and a clear API
 
 #### <a name="sparefoot"></a>_Easing Your Way Into Docker: Lessons From a Journey to Production_ <span style="font-size: smaller">- [Patrick Mizer](#patrickm) & [Steve Woodruff](#stevew)</span>
 
-When SpareFoot began deconstructing its monolithic application into microservices in early 2014, we learned that while everyone was talking about Docker, very few were actually doing anything with it in production. It was clear that we were going to have to figure things out on our own.  
+When SpareFoot began deconstructing its monolithic application into microservices in early 2014, we learned that while everyone was talking about Docker, very few were actually doing anything with it in production. It was clear that we were going to have to figure things out on our own.
 
 Steve and Patrick will explain how the SpareFoot team cut its teeth on the Docker ecosystem, failed fast, and eventually solved some real problems.  The philosophy of start small, learn/fail, and move on helped us successfully deploy Docker to production. We hope to convince you to do the same!
 
