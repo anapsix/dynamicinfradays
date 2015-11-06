@@ -42,7 +42,7 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
-[video](https://www.youtube.com/watch?v=08BuE6xyRnc)
+[slides](http://0x74696d.com/talk-containerdays-nyc-2015/#/) [video](https://www.youtube.com/watch?v=08BuE6xyRnc)
 
 #### <a name="lambda"></a>_Thinking Differently: An Introduction to AWS Lambda_ <span style="font-size: smaller">- [Tara Walker](#taraw)</span>
 
