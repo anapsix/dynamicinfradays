@@ -36,6 +36,8 @@ Containers are great for the stateless applications, but what about applications
 
 He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
 
+[slides](http://slides.com/wallnerryan/cdnyc2015#/)
+
 #### <a name="architecture"></a>_Container-Native Architecture_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
 Moving your application into a container and deploying it to production is a great first step towards taking advantage of containerization. This gets you past "works on my machine", and Docker makes this easy. But the real value of containers -- fast immutable deployments, maximizing resource utilization, and bare-metal performance -- comes from an architecture optimized for containers. This is container-native architecture.
