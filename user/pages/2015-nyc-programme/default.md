@@ -76,7 +76,7 @@ Despite being a very tempting feature to have, Linux has lacked support for chec
 
 Kir will talk about CRIU's history and its relationship with the Linux Kernel. He'll discuss previously challenging or impossible usage scenarios for containers that CRIU now enables, and explores the "next frontiers" for the project.
 
-[video](https://www.youtube.com/watch?v=E8Fb57jJp_w)
+[slides](http://www.slideshare.net/kolyshkin/criu-time-and-space-travel-for-linux-containers) [video](https://www.youtube.com/watch?v=E8Fb57jJp_w)
 
 #### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 
