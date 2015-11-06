@@ -20,11 +20,15 @@ Some technologies are tools of the DevOps trade. Rarely, however, is there a tec
 
 This talk is about "why Docker." Come explore the business cases for Docker adoption, current adoption paradigms in the market and practical concerns for those already on the path.
 
+[video](https://www.youtube.com/watch?v=_sMf4qzFtlU)
+
 #### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
 
 Containers are amazingly useful development tools, but their biggest long-term impact may be as a platform for running applications in production. Achieving this will require advancements in container operations, infrastructure and orchestration.
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Compose, Machine and Swarm projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
+
+[video](https://www.youtube.com/watch?v=3ivbid_mwhk)
 
 #### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Ryan Wallner](#ryanw)</span>
 
@@ -38,6 +42,8 @@ Moving your application into a container and deploying it to production is a gre
 
 Tim will explore the story of a real-world large scale production microservices deployment of Docker, and the challenges faced in both design and operations of migrating this kind of multi-faceted application to a container-native architecture.
 
+[video](https://www.youtube.com/watch?v=08BuE6xyRnc)
+
 #### <a name="lambda"></a>_Thinking Differently: An Introduction to AWS Lambda_ <span style="font-size: smaller">- [Tara Walker](#taraw)</span>
 
 AWS Lambda is a new compute service that runs your code in response to events and automatically and dynamically manages infra resources for you. Tara will talk about AWS's event-driven compute strategy and explain how Lambda works to respond to events from various Amazon services.
@@ -50,7 +56,7 @@ Microsoft has recently made a flurry of announcements and released new capabilit
 
 Gil will cover these options in the context of a DevOps mindset and will provide a basic overview of current container capabilities on Microsoft platforms. He'll then take it a step further by combining these features to demonstrate several DevOps scenarios in action.
 
-[slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway)
+[slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway) [video](https://www.youtube.com/watch?v=rruQnreft9M)
 
 #### <a name="cves"></a>_Identifying Common Vulnerabilities and Exposures in Containers_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
 
@@ -68,6 +74,8 @@ Despite being a very tempting feature to have, Linux has lacked support for chec
 
 Kir will talk about CRIU's history and its relationship with the Linux Kernel. He'll discuss previously challenging or impossible usage scenarios for containers that CRIU now enables, and explores the "next frontiers" for the project.
 
+[video](https://www.youtube.com/watch?v=E8Fb57jJp_w)
+
 #### <a name="continuousdelivery"></a>_Continuous Delivery with Containers_ <span style="font-size: smaller">- [Nick Gauthier](#nickg)</span>
 
 Automated Continuous Delivery of software applications is the modern way of getting your product in front of users. Having an automated pipeline means you don't have to worry about deploys and lets your software team focus on code and your operations team focus on infrastructure.
@@ -82,7 +90,7 @@ When SpareFoot began deconstructing its monolithic application into microservice
 
 Steve and Patrick will explain how the SpareFoot team cut its teeth on the Docker ecosystem, failed fast, and eventually solved some real problems.  The philosophy of start small, learn/fail, and move on helped us successfully deploy Docker to production. We hope to convince you to do the same!
 
-[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-easing-your-way-into-docker-lessons-from-a-journey-to-production-patrick-mizer-steve-woodruff)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-easing-your-way-into-docker-lessons-from-a-journey-to-production-patrick-mizer-steve-woodruff) [video](https://www.youtube.com/watch?v=DT0DHHXYzL4)
 
 #### <a name="platform"></a>_What It Really Takes to Build a Container Platform_ <span style="font-size: smaller">- [Matt Butcher](#mattb)</span>
 
@@ -96,7 +104,7 @@ Containers and microservices are great for speeding up your Continuous Delivery 
 
 Through a combination of monitoring, new testing approaches, and automated canary deployments, we've managed to keep the chaos at bay. This is how we did it, and what challenges we're still facing.
 
-[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-how-yodle-cleaned-up-the-mess-using-containers-and-microservices-john-downs)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-how-yodle-cleaned-up-the-mess-using-containers-and-microservices-john-downs) [video](https://www.youtube.com/watch?v=Dawq3bCfBOI)
 
 #### <a name="security"></a>_Patterns for Securing Containerized Applications_ <span style="font-size: smaller">- [Eric Windisch](#ericw)</span>
 
