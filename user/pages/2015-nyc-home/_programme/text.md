@@ -38,7 +38,7 @@ Please note that the programme is provisional and subject to change.
 | 01:15-01:35pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 01:35-02:20pm | OpenSpaces session | |
 | 02:20-03:05pm | _[Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?](/2015-nyc-programme#microsoft)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/isaacsgil/containers-microsoft-and-devops-what-is-microsoft-doing-about-all-this-anyway) [video](https://www.youtube.com/watch?v=rruQnreft9M)</span> | [Gil Isaacs](../#speakers), Microsoft |
-| 02:20-03:05pm | _[Identifying Common Vulnerabilities and Exposures in Containers](/2015-nyc-programme#cves)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1toUKgqLyy1b-pZlDgxONLduiLmt2yaLR0GliBB7b3L0/pub?start=false&loop=false)</span> | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |
+| 02:20-03:05pm | _[Identifying Common Vulnerabilities and Exposures in Containers](/2015-nyc-programme#cves)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1toUKgqLyy1b-pZlDgxONLduiLmt2yaLR0GliBB7b3L0/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=PA3oBAgjnkU)</span> | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:20-04:05pm | OpenSpaces session | |
 | 04:05-04:50pm | OpenSpaces session | |

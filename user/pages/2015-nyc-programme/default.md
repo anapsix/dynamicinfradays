@@ -68,7 +68,7 @@ Docker layers can be fast for developers, but also vulnerable if not audited for
 
 Find out what some of us at CoreOS are doing to automatically detect new and existing vulnerabilities in your containers before they get exploited, using graph database queries to track package changes.
 
-[slides](https://docs.google.com/presentation/d/1toUKgqLyy1b-pZlDgxONLduiLmt2yaLR0GliBB7b3L0/pub?start=false&loop=false)
+[slides](https://docs.google.com/presentation/d/1toUKgqLyy1b-pZlDgxONLduiLmt2yaLR0GliBB7b3L0/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=PA3oBAgjnkU)
 
 #### <a name="criu"></a>_CRIU: Time and Space Travel for Linux Containers_ <span style="font-size: smaller">- [Kir Kolyshkin](#kirk)</span>
 
