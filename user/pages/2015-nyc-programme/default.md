@@ -52,6 +52,8 @@ AWS Lambda is a new compute service that runs your code in response to events an
 
 Tara will describe what you need to easily build scalable microservices for mobile, web, and IoT applications that use AWS Lambda as a serverless back-end, how you can expose these services using Amazon API Gateway, and how to extend both AWS and third party services by triggering Lambda functions. She'll also cover key Lambda features, its programming model, and tips on getting the most out of Lambda.
 
+[video](https://www.youtube.com/watch?v=Vd82X6iGHM0)
+
 #### <a name="microsoft"></a>_Containers, Microsoft and DevOps: What is Microsoft Doing About All This Anyway?_ <span style="font-size: smaller">- [Gil Isaacs](#gili)</span>
 
 Microsoft has recently made a flurry of announcements and released new capabilities: running containers on Linux and Windows VMs on Azure, the new Windows Container Service now, and the Azure Container Service in the future.
