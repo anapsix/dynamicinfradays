@@ -102,6 +102,8 @@ Steve and Patrick will explain how the SpareFoot team cut its teeth on the Docke
 
 Deis is a container-based PaaS that is itself built on containers, so these and other questions about how best to build a container-oriented platform are all issues the team has encountered. Matt will share the experiments, decisions, and ongoing explorations that have led the team to choose technologies like Kubernetes, Ceph, Flannel, and etcd.
 
+[video](https://www.youtube.com/watch?v=xIMl72x7rNI)
+
 #### <a name="yodle"></a>_How Yodle Cleaned Up the Mess Using Containers and Microservices_ <span style="font-size: smaller">- [John Downs](#johnd)</span>
 
 Containers and microservices are great for speeding up your Continuous Delivery pipeline and making the developer feedback cycle faster. But if you're not careful, you can end up with the same ball of mud you had when with your single monolith deployed in Tomcat.
