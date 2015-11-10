@@ -118,7 +118,7 @@ Microservices and other patterns provide a unique opportunity to improve the sec
 
 Eric will cover how to identify application and container security requirements, configure least-privilege containers with Docker, and how to integrate these best practices with container lifecycle and orchestration tools.
 
-[slides](http://slides.com/ewindisch/containerdays2015#/)
+[slides](http://slides.com/ewindisch/containerdays2015#/) [video](https://www.youtube.com/watch?v=RBjJevVGL2I)
 
 ### Speakers
 
