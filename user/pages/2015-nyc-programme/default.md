@@ -84,7 +84,7 @@ Automated Continuous Delivery of software applications is the modern way of gett
 
 Containers take this process to a new level with clean isolation and a clear API between infrastructure and application. Nick will explore how to containerize your application with Docker and how that impacts your Continuous Delivery process.
 
-[slides](https://drive.google.com/file/d/0B25mFQX9pz1TcTNKZWhoVTRCdTg/view)
+[slides](https://drive.google.com/file/d/0B25mFQX9pz1TcTNKZWhoVTRCdTg/view) [video](https://www.youtube.com/watch?v=-Cbtj-0jM-A)
 
 #### <a name="sparefoot"></a>_Easing Your Way Into Docker: Lessons From a Journey to Production_ <span style="font-size: smaller">- [Patrick Mizer](#patrickm) & [Steve Woodruff](#stevew)</span>
 
