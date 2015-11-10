@@ -36,7 +36,7 @@ Containers are great for the stateless applications, but what about applications
 
 He'll also discuss some special considerations you need to understand when dealing with data & containers, including important differences between different types of storage technologies, 'linking' app containers to the storage they need, connecting app containers to non-containerized storage, and more.
 
-[slides](http://slides.com/wallnerryan/cdnyc2015#/)
+[slides](http://slides.com/wallnerryan/cdnyc2015#/) [video](https://www.youtube.com/watch?v=dxc4xOC1arI)
 
 #### <a name="architecture"></a>_Container-Native Architecture_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
