@@ -20,7 +20,7 @@ Some technologies are tools of the DevOps trade. Rarely, however, is there a tec
 
 This talk is about "why Docker." Come explore the business cases for Docker adoption, current adoption paradigms in the market and practical concerns for those already on the path.
 
-[video](https://www.youtube.com/watch?v=_sMf4qzFtlU)
+[slides](http://www.slideshare.net/BoydHemphill/container-days-nyc-keynote) [video](https://www.youtube.com/watch?v=_sMf4qzFtlU)
 
 #### <a name="orchestration"></a>_Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm_ <span style="font-size: smaller">- [Darren Shepherd](#darrens)</span>
 

@@ -27,7 +27,7 @@ Please note that the programme is provisional and subject to change.
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast & registration | Welcome to the first ContainerDays NYC |
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
-| 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=_sMf4qzFtlU)</span> | [Boyd Hemphill](../#speakers), StackEngine |
+| 10:00-10:45am | _[Docker Enables DevOps](/2015-nyc-programme#dockerdevops)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/BoydHemphill/container-days-nyc-keynote) [video](https://www.youtube.com/watch?v=_sMf4qzFtlU)</span> | [Boyd Hemphill](../#speakers), StackEngine |
 | 10:45-10:50am | Sponsor shout-out | |
 | 10:55-11:40am | _[Container Orchestration Compared: Kubernetes and Docker Compose, Machine & Swarm](/2015-nyc-programme#orchestration)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=3ivbid_mwhk)</span> | [Darren Shepherd](../#speakers), Rancher Labs |
 | 10:55-11:40am | _[The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance](/2015-nyc-programme#storage)_ <span style="font-size: smaller">[slides](http://slides.com/wallnerryan/cdnyc2015#/) [video](https://www.youtube.com/watch?v=dxc4xOC1arI)</span> | [Ryan Wallner](../#speakers), ClusterHQ |
