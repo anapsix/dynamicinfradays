@@ -28,7 +28,7 @@ Containers are amazingly useful development tools, but their biggest long-term i
 
 Darren will discuss two approaches to container orchestration that are gaining increasing adoption, Google's Kubernetes project and Docker's Compose, Machine and Swarm projects. He'll discuss goals and objectives of each project, example use cases, architectural approaches, administration and strengths and weaknesses of each tool. He'll also dive into each platform and demonstrate how they can be used to reliably deploy and run applications in production.
 
-[video](https://www.youtube.com/watch?v=3ivbid_mwhk)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2015-container-orchestration-compared-kubernetes-and-docker-compose-machine-swarm-darren-shepherd) [video](https://www.youtube.com/watch?v=3ivbid_mwhk)
 
 #### <a name="storage"></a>_The Storage Elephant in the Container Room: What You Need to Know About Containers & Persistance_ <span style="font-size: smaller">- [Ryan Wallner](#ryanw)</span>
 
