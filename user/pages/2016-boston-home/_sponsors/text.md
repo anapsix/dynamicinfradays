@@ -6,9 +6,8 @@ menu: Sponsors
 ## Sponsors
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
-+
-+If you're interesting in taking part, please [get in touch](mailto:2016-boston-sponsorship@dynamicinfradays.org)!
 
+If you're interesting in taking part, please [get in touch](mailto:2016-boston-sponsorship@dynamicinfradays.org)!
 
 ----
 
