@@ -6,8 +6,8 @@ title: Events
 
 ##### Upcoming:
 
-* early 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 * 2016, May 24-25th, [ContainerDays Boston](/events/2016-boston/), Boston, MA, USA
+* early 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 
 ##### Past:
 
