@@ -16,7 +16,7 @@ There are still sponsorship packages for this event available. See the [sponsors
 
 **Very special thanks** to **XebiaLabs** for giving the organizers time to put this event together.
 
-<img src="http://dynamicinfradays.org/events/2016-boston/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
 
 **A big thank you** also goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
