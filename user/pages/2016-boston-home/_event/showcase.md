@@ -2,7 +2,7 @@
 title: Event
 menu: Event
 buttons:
-    - text: Get your ticket
+    - text: Get your ticket!
       url: http://dynamicinfradays.org/events/2016-boston/sign-up/
       primary: true
 ---
