@@ -63,7 +63,7 @@ There are no facilities for complex booth setups, shipping and receiving of larg
 
 #### Parking
 
-There is a parking garage connected to the venue.
+There is a parking garage connected to the venue. Rates are $27 for the day.
 
 #### Staffing suggestions
 
