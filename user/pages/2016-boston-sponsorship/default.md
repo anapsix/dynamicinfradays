@@ -10,7 +10,7 @@ title: Sponsorship
 
 #### ContainerDays Boston 2016
 
-## Sponsorship tiers
+## <a name="tiers"></a>Sponsorship tiers
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="140" width="270" style="margin-left:auto;margin-right:auto;display:block">
 
@@ -49,37 +49,43 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
   * Cost: USD 500
   * 3 available
 
-#### Participant details
+#### <a name="participants"></a>Participant details
 
 We expect about 120 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that DynamicInfraDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
 
-#### Facilities
-
-[Microsoft NERD](http://dynamicinfradays.org/events/2016-boston/#location) has kindly agreed to receive and store small items such as promotional material. Due to lack of suitable storage space, these may not arrive more than 3 days prior to the event, and may not be left behind afterwards.
-
-Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but wired internet access will not be available.
-
-There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements.
-
-#### Parking
-
-There is a parking garage connected to the venue. Rates are $27 for the day.
-
-#### Staffing suggestions
+#### <a name="staffing"></a>Staffing suggestions
 
 You will get the most mileage from your vendor table by sending technical staff prepared to engage in the conference sessions.
 
 With the exception of **Platinum** and **Gold** tiers, which come with short "shout-out" opportunities to present your company, sponsorships do not include speaking slots. Your attending staff is welcome and encouraged to propose topics for, and participate in, the OpenSpaces sessions and workshops.
 
-#### Accommodation
+#### <a name="facilities"></a>Facilities
+
+Sponsor tables are 6' x 2'; we estimate that each sponsor with a table will have roughly 6' x 4' of space overall. Power strips will be run to the tables. Wireless internet is provided, but wired internet access will not be available.
+
+There are no facilities for complex booth setups, shipping and receiving of large or bulky items, or other major industry conference-style arrangements. Please plan for a way to collect contact information from interested attendees, as there is no automated lead capture system.
+
+All posters and banners need to be free-standing; we are not allowed to affix any materials to the walls or windows.
+
+#### <a name="shipping"></a>Shipping
+
+Please arrange to bring any items, such as popup banners and promotional material, on the day of the event. [Microsoft NERD](http://dynamicinfradays.org/events/2016-boston/#location) may be able to receive and store small items for maximum one or two days before the event. Please [check with us](#questions) first if you need to ship directly to the venue.
+
+Please plan to remove everything you bring at the end of the event. Items may not be left behind afterwards. [Fedex](http://local.fedex.com/ma/cambridge/?q=1%20Memorial%20Drive%20Cambridge%20MA%2002142) and [UPS](https://www.ups.com/dropoff?txtQuery=1%20Memorial%20Drive%20Cambridge%20MA%2002142&reqType=results) both have drop boxes and offices close to the venue.
+
+#### <a name="parking"></a>Parking
+
+There is a parking garage connected to the venue. Rates are $27 for the day.
+
+#### <a name="accommodation"></a>Accommodation
 
 Unfortunately, graduation season in Boston means that accommodation in the summer gets expensive quickly, and we recommend that you look at accommodation soon if you're coming from out of town. Due to the numbers involved, we currently don't have any block rates with hotels.
 
-#### Invoicing
+#### <a name="invoicing"></a>Invoicing
 
 You will be invoiced for your sponsorship. Please provide your company name, physical address, contact information, and the sponsorship tier in which you are interested.
 
-### Questions?
+### <a name="questions"></a>Questions?
 
 Please contact us at [2016-boston-sponsorship () dynamicinfradays ! org](mailto:2016-boston-sponsorship@dynamicinfradays.org) for payment details and any other questions you may have.
 
