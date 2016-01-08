@@ -5,13 +5,21 @@ menu: Sponsors
 
 ## Sponsors
 
+##### Silver sponsors
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="250" height="51" style="margin: 3px 5px 3px 5px;">
+
+<img src="http://dynamicinfradays.org/events/2015-nyc/img/docker-logo.png" width="209" height="61" style="margin: 3px 5px 3px 5px;">
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="247" height="70" style="margin: 3px 5px 3px 5px;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2016-boston-sponsorship@dynamicinfradays.org)!
 
 ----
 
-## Thanks
+## <a name="thanks"></a>Thanks
 
 **Very special thanks** to **XebiaLabs** for giving the organizers time to put this event together.
 
