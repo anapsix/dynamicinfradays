@@ -7,10 +7,6 @@ menu: Sponsors
 
 ##### Silver sponsors
 
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/rancher-logo.png" width="250" height="51" style="margin: 3px 5px 3px 5px;">
-
-<img src="http://dynamicinfradays.org/events/2015-nyc/img/docker-logo.png" width="209" height="61" style="margin: 3px 5px 3px 5px;">
-
 <img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="212" height="60" style="margin: 3px 5px 3px 5px;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
