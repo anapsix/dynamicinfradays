@@ -9,7 +9,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="212" height="60" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/mysql-logo.png" width="170" height="116" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/mysql-logo.png" width="107" height="81" style="margin: 3px 5px 3px 5px;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
 
