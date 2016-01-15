@@ -18,11 +18,11 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 
 * 1x **Platinum sponsor**
   * Includes: 4 tickets; vendor table; largest logo on the event site, 5-minute sponsor shout-out slot; callout before Tuesday night drinks at the end of the Day 1 programme. We will refer to the main presentation area by the sponsor name.
-  * Cost: USD 2000
+  * Cost: USD 1750
   * 1 available
 * 3x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
-  * Cost: USD 1500
+  * Cost: USD 1250
   * 3 available
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
