@@ -11,6 +11,8 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/mysql-logo.png" width="105" height="80" style="margin: 3px 5px 3px 5px;">
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/cumulus-logo.png" width="65" height="65" style="margin: 3px 5px 3px 5px;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2016-boston-sponsorship@dynamicinfradays.org)!
