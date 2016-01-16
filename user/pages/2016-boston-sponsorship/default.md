@@ -27,7 +27,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
   * Cost: USD 1000
-  * 2 available
+  * 1 available
 * 1x **Day 1 breakfast sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before the beginning of the Day 1 programme; banner and promotional material from the sponsor displayed in breakfast area.
   * Cost: USD 500
