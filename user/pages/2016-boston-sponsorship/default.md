@@ -51,7 +51,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 
 #### <a name="participants"></a>Participant details
 
-We expect about 120 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that DynamicInfraDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
+We expect about 140 attendees, the majority in a technical role with interest in introducing and/or active experience in implementing container and related technologies. Please be aware that DynamicInfraDays events are informal,  ["unconference"](http://en.wikipedia.org/wiki/Unconference) style events for technical practitioners.
 
 #### <a name="staffing"></a>Staffing suggestions
 
