@@ -5,6 +5,10 @@ menu: Sponsors
 
 ## Sponsors
 
+#### Platinum sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/deis-logo.png" width="349" height="95" style="margin: 0;">
+
 ##### Silver sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="212" height="60" style="margin: 3px 5px 3px 5px;">
