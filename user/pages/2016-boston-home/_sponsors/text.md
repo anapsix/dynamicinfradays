@@ -7,7 +7,7 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/deis-logo.png" width="349" height="95" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/deis-logo.png" width="312" height="85" style="margin: 0;">
 
 ##### Silver sponsors
 
