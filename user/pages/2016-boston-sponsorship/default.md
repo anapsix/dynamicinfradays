@@ -22,7 +22,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 * 3x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
   * Cost: USD 1250
-  * 2 available
+  * 1 available
 * 4x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
   * Cost: USD 1000
