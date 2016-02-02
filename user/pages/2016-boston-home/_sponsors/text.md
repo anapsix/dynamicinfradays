@@ -23,6 +23,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/cumulus-logo.png" width="65" height="70" style="margin: 3px 5px 3px 8px;">
 
+##### Tuesday night drinks sponsors
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2016-boston-sponsorship@dynamicinfradays.org)!
