@@ -15,6 +15,8 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/vmturbo-logo.png" width="182" height="70" style="margin: 0 10px 0 10px;">
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/rancher-logo.png" width="250" height="51" style="margin: 3px 5px 3px 5px;">
+
 ##### Silver sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="212" height="60" style="margin: 3px 5px 3px 5px;">
