@@ -25,7 +25,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/cumulus-logo.png" width="65" height="70" style="margin: 3px 8px 3px 8px;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/scalock-logo.png" width="236" height="55" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/scalock-logo.png" width="215" height="50" style="margin: 3px 5px 3px 5px;">
 
 ##### Tuesday night party sponsors
 
