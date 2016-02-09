@@ -14,11 +14,27 @@ title: Programme
 
 ### Talks
 
-TODO
+#### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
+
+Containerized infrastructure allows workloads to share hardware via an orchestration system such as Swarm, Kubernetes, Mesos, Fleet, Nomad etc. The higher your hardware utilization, the more efficient your cluster. The key to efficient utilization and maximum performance lies in the logic that decides how to place workloads: the scheduler is what makes the difference between a mediocre and a stellar cluster!
+
+Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They'll then describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers, and describe ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
 ### Speakers
 
-TODO
+#### <a name="ionelg"></a>Ionel Gog
+
+Ionel is about to complete his PhD in the Systems Research Group at the University of Cambridge (UK), and previously worked with the Borg team at Google and the cluster infrastructure team at Facebook.
+
+As part of the CaMSaS initiative, Ionel co-leads the development of the Firmament cluster scheduling system.
+
+#### <a name="maltes"></a>Malte Schwarzkopf
+
+Malte is a post-doc researcher in the PDOS group at MIT CSAIL, where he works on new ideas in distributed systems. He previously complete his PhD at the University of Cambridge (UK), and worked with the Borg and Omega teams at Google.
+
+As part of the CaMSaS initiative, Malte co-leads the development of the Firmament cluster scheduling system.
+
+You can find Malte on Twitter at [@ms705](https://twitter.com/ms705).
 
 ### Workshops
 
