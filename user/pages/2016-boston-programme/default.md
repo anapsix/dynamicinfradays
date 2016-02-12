@@ -20,7 +20,7 @@ Containerized infrastructure allows workloads to share hardware via an orchestra
 
 Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
-#### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
+#### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
 
