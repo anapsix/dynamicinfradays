@@ -33,7 +33,7 @@ Please note that the programme is provisional and subject to change.
 | 10:55-11:25pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 01:00-01:45pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 01:00-01:45pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
 | 01:45-02:25pm | OpenSpaces session | |
 | 02:25-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
