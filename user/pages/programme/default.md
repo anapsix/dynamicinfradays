@@ -170,6 +170,8 @@ Joe Stein is the CEO of Elodina, Inc., a startup focusing on the support & maint
 
 Prior to this, Joe Stein was responsible for building out a platform that ingested and processed the analytics for 6 billion unique mobile devices.
 
+<img src="http://dynamicinfradays.org/events/2015-boston/jeff-victor.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="jeffv"></a>Jeff Victor
 
 Jeff's 28-year computer career has included software development, system and network administration, and consulting. He was the Principal Author of the book _Solaris 10 System Virtualization Essentials_, and the creator of the Solaris Zones FAQ and the 'zonestat' open-source program.
@@ -177,6 +179,8 @@ Jeff's 28-year computer career has included software development, system and net
 Jeff received a Bachelor of Science degree (Computer Science) from Rensselaer Polytechnic Institute in Troy, New York. In his spare time, he builds and launches high-power rockets and manages automated wildlife cameras. He lives in New York with his wife and daughter.
 
 His blog can be found at [blogs.oracle.com/jeffv](http://blogs.oracle.com/jeffv).
+
+<img src="http://dynamicinfradays.org/events/2015-boston/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="taraw"></a>Tara Walker
 
