@@ -25,7 +25,7 @@ Please note that the programme is provisional and subject to change.
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
-| 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays Boston 2016 |
+| 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays Boston 2016! |
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
 | 10:00-10:05am | Sponsor shout-out | |
 | 10:05-10:50am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
