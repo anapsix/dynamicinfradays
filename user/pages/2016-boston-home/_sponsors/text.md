@@ -29,7 +29,7 @@ menu: Sponsors
 
 ##### Tuesday breakfast & lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/redhat-logo.png" width="144" height="47" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/redhat-logo.png" width="141" height="46" style="margin: 0;">
 
 ##### Tuesday night party sponsors
 
