@@ -27,6 +27,14 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/cumulus-logo.png" width="65" height="70" style="margin: 3px 5px 3px 5px;">
 
+##### Tuesday breakfast sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/redhat-logo.png" width="104" height="34" style="margin: 0;">
+
+##### Tuesday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/redhat-logo.png" width="104" height="34" style="margin: 0;">
+
 ##### Tuesday night party sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
