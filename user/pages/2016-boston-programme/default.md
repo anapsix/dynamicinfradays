@@ -20,6 +20,12 @@ Containerized infrastructure allows workloads to share hardware via an orchestra
 
 Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
+#### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
+
+Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
+
+James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
+
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
@@ -51,6 +57,16 @@ Malte is a post-doc researcher in the PDOS group at MIT CSAIL, where he works on
 As part of the [CaMSaS](http://www.camsas.org) initiative, Malte co-leads the development of the Firmament cluster scheduling system.
 
 You can find Malte on Twitter at [@ms705](https://twitter.com/ms705).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/james-sturtevant.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="jamess"></a>James Sturtevant
+
+James is a Tech Evangelist for Microsoft who has been working in the web development space with startups and enterprises for more than 10 years.
+
+When he isn't practicing his software craft, James can be found running through the woods, growing hops, or hiking with his daughter.
+
+You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
 
 ### Workshops
 
