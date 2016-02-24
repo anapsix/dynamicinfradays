@@ -14,6 +14,14 @@ title: Programme
 
 ### Talks
 
+#### <a name="secrets"></a>_Hiding in Plain Sight: Managing Secrets in a Container Environment_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
+
+As we try to run more and more containers and services, and manage, distribute and update the credentials they need to talk to each other and process sensitive information, finding effective approaches to secrets management becomes essential.
+
+Build-time injection, built-in functionality of orchestration frameworks, distributed key-value stores, configuration management utilities, mounted file systems (real, ramdisk, FUSE), temporary credential injection, co-processes, heuristic approaches...identifying the right approach to securely providing secrets to containers is definitely not trivial.
+
+Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
+
 #### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
 
 Containerized infrastructure allows workloads to share hardware via an orchestration system such as Swarm, Kubernetes, Mesos, Fleet, Nomad etc. The higher your hardware utilization, the more efficient your cluster. The key to efficient utilization and maximum performance lies in the logic that decides how to place workloads: the scheduler is what makes the difference between a mediocre and a stellar cluster!
@@ -53,6 +61,16 @@ Idit is the CTO for EMC's cloud management division and a member of the global C
 Idit's fascination with the cloud sprouted when she joined DynamicOps (now part of VMware) as one of its first employees. She subsequently took part in developing Verizon Terremark's public cloud, and served as an acting CTO at Intigua, a startup company focusing oncontainer and management technology.
 
 You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="jeffm"></a>Jeff Mitchell
+
+Jeff has hacked on dozens of open-source projects over the past decade. He joined HashiCorp after contributing to Consul, Terraform, and Vault while working as an infrastructure architect at Akamai.
+
+He is now living the dream of being paid to work on open-source software full-time as the project lead on Vault. He is currently enjoying life in Boston with his wife, daughter, and two excessively needy cats.
+
+You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
