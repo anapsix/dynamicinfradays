@@ -12,6 +12,9 @@ features:
     - header: <a href="/2016-boston-programme#maltes">Malte Schwarzkopf</a>
       text: "Malte co-leads the development of Firmament and worked with the Borg and Omega teams at Google."
       icon: user
+    - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
+      text: "James is a Tech Evangelist for Microsoft."
+      icon: user
 ---
 
 ## Speakers
