@@ -8,6 +8,7 @@ features:
       icon: user
     - header: <a href="/2016-boston-programme#iditl">Idit Levine</a>
       text: "Idit is the CTO for EMC's cloud management division and a member of the global CTO office."
+      icon: user
     - header: <a href="/2016-boston-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
       icon: user
