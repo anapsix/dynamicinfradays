@@ -62,7 +62,7 @@ Idit's fascination with the cloud sprouted when she joined DynamicOps (now part 
 
 You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/jeff-mitchell.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="jeffm"></a>Jeff Mitchell
 
