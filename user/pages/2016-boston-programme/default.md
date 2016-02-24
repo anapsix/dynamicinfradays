@@ -28,17 +28,17 @@ Containerized infrastructure allows workloads to share hardware via an orchestra
 
 Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
-#### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
-
-Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
-
-James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
-
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
 
 By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
+
+#### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
+
+Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
+
+James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
 
 ### Speakers
 
