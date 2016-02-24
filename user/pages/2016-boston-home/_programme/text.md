@@ -37,7 +37,7 @@ Please note that the programme is provisional and subject to change.
 | 01:45-02:25pm | OpenSpaces session | |
 | 02:25-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 03:20-04:05pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 03:20-04:05pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Idit Levine](../#speakers) |
 | 04:05-04:45pm | OpenSpaces session | |
 | 04:45-05:00pm | Day 1 wrap-up | |
 | 05:00pm | **Day 1 close** | |

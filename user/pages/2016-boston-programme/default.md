@@ -30,7 +30,7 @@ James will describe the concepts, architecture and design choices underlying Ser
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
 
-By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This permits management of tasks on a more granular level (TODO: can we clarify this?) and enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
+By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
 
 ### Speakers
 
@@ -44,9 +44,15 @@ As part of the [CaMSaS](http://www.camsas.org) initiative, Ionel co-leads the de
 
 You can find Ionel on Twitter at [@ICGog](https://twitter.com/ICGog).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/idit-levine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="iditl"></a>Idit Levine
 
-TODO
+Idit is the CTO for EMC's cloud management division and a member of the global CTO office. Her passion and expertise are focused on Management and Orchestration (M&O) over the entire stack and on microservices, cloud native apps and Platform as a Service.
+
+Idit¹s fascination with the cloud sprouted when she joined DynamicOps (now part of VMware) as one of its first employees. She subsequently took part in developing Verizon Terremark's public cloud, and served as an acting CTO at Intigua, a startup company focusing oncontainer and management technology.
+
+You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
