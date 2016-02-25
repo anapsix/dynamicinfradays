@@ -94,7 +94,19 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 ### Workshops
 
-TODO
+#### <a name="kubernetes"></a>_Kubernetes Deep Dive: From Basics to Advanced Features_ <span style="font-size: smaller">- 4h, Intermediate</span>
+
+After a brief introduction to Kubernetes and how it helps solve the problem of managing multiple, related containers, we'll deploy a fleet of containerized microservices from a private registry and set up the necessary service discovery to allow the services to communicate. We'll also run through various real-world deployment scenarios such as rolling updates, canary releases and rollbacks.
+
+We'll then take a step into more advanced terriority and explore powerful features including secrets, daemon sets, persistent volumes and claims, health checks, autoscaling, and scheduling.
+
+Led by Ray Tsang, Google. Bio TODO
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* TODO
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
