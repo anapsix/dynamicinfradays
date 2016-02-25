@@ -94,7 +94,7 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 ### Workshops
 
-#### <a name="kubernetes"></a>_Kubernetes Deep Dive: From Basics to Advanced Features_ <span style="font-size: smaller">- 4h, Intermediate</span>
+#### <a name="kubernetes"></a>_Kubernetes Deep Dive: From Basics to Advanced Features_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 After a brief introduction to Kubernetes and how it helps solve the problem of managing multiple, related containers, we'll deploy a fleet of containerized microservices from a private registry and set up the necessary service discovery to allow the services to communicate. We'll also run through various real-world deployment scenarios such as rolling updates, canary releases and rollbacks.
 
