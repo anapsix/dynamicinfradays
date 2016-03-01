@@ -42,7 +42,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 * 3x **Tuesday night party sponsor**
   * Includes: 1 ticket; smaller logo on the event site; callout before Tuesday night drinks at the end of the Day 1 programme. The Tuesday night drinks vouchers will be handed out to attendees in combination with a promotional gift or piece of promotional material from the sponsor.
   * Cost: USD 500
-  * 2 available
+  * 1 available
 
 #### <a name="participants"></a>Participant details
 

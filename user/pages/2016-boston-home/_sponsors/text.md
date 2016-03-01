@@ -33,6 +33,8 @@ menu: Sponsors
 
 ##### Tuesday night party sponsors
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/joyent-logo.png" width="102" height="30" style="margin: 0;">
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/gooddoglabs-logo.png" width="156" height="22" style="margin: 0;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-boston-sponsorship) for details.
