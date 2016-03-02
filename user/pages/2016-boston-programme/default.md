@@ -94,13 +94,15 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 ### Workshops
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/ray-tsang.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;"
+
 #### <a name="kubernetes"></a>_Kubernetes Deep Dive: From Basics to Advanced Features_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 After a brief introduction to Kubernetes and how it helps solve the problem of managing multiple, related containers, we'll deploy a fleet of containerized microservices from a private registry and set up the necessary service discovery to allow the services to communicate. We'll also run through various real-world deployment scenarios such as rolling updates, canary releases and rollbacks.
 
 We'll then take a step into more advanced terriority and explore powerful features including secrets, daemon sets, persistent volumes and claims, health checks, autoscaling, and scheduling.
 
-Led by Ray Tsang, Google. Bio TODO
+Led by Ray Tsang, Google. Ray is a Developer Advocate for the Google Cloud Platform with extensive experience of full stack application development, DevOps and IT Ops. Aside from technology, Ray enjoys traveling and adventures.
 
 **Prerequisities**
 
