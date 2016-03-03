@@ -14,6 +14,14 @@ title: Programme
 
 ### Talks
 
+#### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
+
+Containers are now an essential infrastructure building block in many. While the tooling around getting your apps containerized and running them is mature enough to be considered "stable", the glue that connects these containers together – the networking – is yet to be commoditized.
+
+In this talk, Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
+
+What is overlay networking? What is VXLAN? How does it work? Is it good? Is it bad? Is it fast? Is it slow? Let's get these questions answered!
+
 #### <a name="secrets"></a>_Hiding in Plain Sight: Managing Secrets in a Container Environment_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
 As we try to run more and more containers and services, and manage, distribute and update the credentials they need to talk to each other and process sensitive information, finding effective approaches to secrets management becomes essential.
@@ -99,6 +107,16 @@ Malte is a post-doc researcher in the PDOS group at MIT CSAIL, where he works on
 As part of the [CaMSaS](http://www.camsas.org) initiative, Malte co-leads the development of the Firmament cluster scheduling system.
 
 You can find Malte on Twitter at [@ms705](https://twitter.com/ms705).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/andrey-sibiryov.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="andreys"></a>Andrey Sibiryov
+
+Andrey is a Senior Infrastructure Engineer at Uber Technologies, concentrating on metrics, observability and performance. He is also the lead engineer of the Cocaine Cloud platform and drives the open-source kernel load-balancer project Gorb.
+
+Previously, Andrey led the Cloud Technologies department at Yandex and worked on the Helios CI/CD platform for Docker at Spotify.
+
+You can find Andrey on Twitter at [@kobolog](https://twitter.com/kobolog).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/james-sturtevant.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

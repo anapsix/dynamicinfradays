@@ -18,11 +18,15 @@ features:
     - header: <a href="/2016-boston-programme#maltes">Malte Schwarzkopf</a>
       text: "Malte co-leads the development of Firmament and worked with the Borg and Omega teams at Google."
       icon: user
+    - header: <a href="/2016-boston-programme#andreys">Andrey Sibiryov</a>
+      text: "Andrey is a Senior Infrastructure Engineer at Uber Technologies."
+      icon: user
     - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
       text: "James is a Tech Evangelist for Microsoft."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

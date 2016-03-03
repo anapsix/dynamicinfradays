@@ -31,6 +31,7 @@ Please note that the programme is provisional and subject to change.
 | 10:05-10:50am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:50-10:55am | Sponsor shout-out | |
 | 10:55-11:25pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
+| 11:30-12:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers) |
 | 11:30-12:15pm | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers) |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:00-01:45pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
