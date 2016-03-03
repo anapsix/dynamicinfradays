@@ -53,7 +53,7 @@ Please note that the programme is provisional and subject to change.
 | 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 10:50-11:35am | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers) |
-| 11:35-12:20pm | _[Autopiloting: Containerizing Stateful Legacy Application Architectures](/2016-boston-programme#autopiloting)_ | [Tim Gross](../#speakers) |
+| 11:35-12:20pm | _[Autopiloting: Containerizing Stateful Legacy Applications](/2016-boston-programme#autopiloting)_ | [Tim Gross](../#speakers) |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:00-02:50pm | Workshops | Topics TBC |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
