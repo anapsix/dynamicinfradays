@@ -40,6 +40,14 @@ Orchestration, automation, and monitoring are just some of the challenges when m
 
 James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
 
+#### <a name="autopiloting"></a>_Autopiloting: Containerizing Stateful Legacy Application Architectures_ <span style="font-size: smaller">- [Tmi Gross](#timg)</span>
+
+Containers provide a new means to manage the dependencies and deployment of the next generation applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
+
+Autopiloting is a powerful design pattern to address this problem. By moving the responsibility for interpreting events such as startup, shutdown, scaling, and recovery from the framework into the application, we can build intelligent architectures that maximize developer flexibility and minimize the need for human operational intervention. Better still, by giving applications more control over their lifecycle, we can build container platforms that can knit together legacy and greenfield applications alike.
+
+Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single docker-compose up, without complex changes to the application's architecture or custom orchestration by the container framework.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/ionel-gog.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
@@ -51,6 +59,16 @@ Ionel is about to complete his PhD in the Systems Research Group at the Universi
 As part of the [CaMSaS](http://www.camsas.org) initiative, Ionel co-leads the development of the Firmament cluster scheduling system.
 
 You can find Ionel on Twitter at [@ICGog](https://twitter.com/ICGog).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/tim-gross.png" width="118" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="timg"></a>Tim Gross
+
+Tim is a product manager for Joyent, providers of the Triton Elastic Container Service. Tim previously ran Ops at DramaFever, where he and his scrappy team ran Docker in production to serve a few million fans their daily dose of dramas, documentaries, and gross-out horror movies.
+
+In a previous life, Tim was an architect (buildings, not software). He took the leap into programming and Operations after he discovered he could automate away almost everything boring in his life.
+
+You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/idit-levine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
