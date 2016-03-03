@@ -31,14 +31,14 @@ Please note that the programme is provisional and subject to change.
 | 10:05-10:50am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:50-10:55am | Sponsor shout-out | |
 | 10:55-11:25pm | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
-| 11:30-12:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers) |
-| 11:30-12:15pm | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers) |
+| 11:30-12:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
+| 11:30-12:15pm | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:00-01:45pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
 | 01:45-02:25pm | OpenSpaces session | |
 | 02:25-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 03:20-04:05pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Idit Levine](../#speakers) |
+| 03:20-04:05pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Idit Levine](../#speakers), EMC |
 | 04:05-04:45pm | OpenSpaces session | |
 | 04:45-05:00pm | Day 1 wrap-up | |
 | 05:00pm | **Day 1 close** | |
@@ -53,8 +53,8 @@ Please note that the programme is provisional and subject to change.
 | 09:40-09:45am | Sponsor shout-out | |
 | 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
-| 10:50-11:35am | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers) |
-| 11:35-12:20pm | _[Autopiloting: Containerizing Stateful Legacy Applications](/2016-boston-programme#autopiloting)_ | [Tim Gross](../#speakers) |
+| 10:50-11:35am | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers), Microsoft |
+| 11:35-12:20pm | _[Autopiloting: Containerizing Stateful Legacy Applications](/2016-boston-programme#autopiloting)_ | [Tim Gross](../#speakers), Joyent |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:00-02:50pm | Workshops | Topics TBC |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
