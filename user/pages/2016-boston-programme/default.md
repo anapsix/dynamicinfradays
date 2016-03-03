@@ -48,7 +48,7 @@ Orchestration, automation, and monitoring are just some of the challenges when m
 
 James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
 
-#### <a name="autopiloting"></a>_Autopiloting: Containerizing Stateful Legacy Applications_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
+#### <a name="autopilot"></a>_Autopilot: Running Real-world Applications in Containers_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
 Containers provide a new means to manage the dependencies and deployment of the next generation of applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
 
