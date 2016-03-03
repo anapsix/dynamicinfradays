@@ -42,11 +42,11 @@ James will describe the concepts, architecture and design choices underlying Ser
 
 #### <a name="autopiloting"></a>_Autopiloting: Containerizing Stateful Legacy Applications_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
-Containers provide a new means to manage the dependencies and deployment of the next generation applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
+Containers provide a new means to manage the dependencies and deployment of the next generation of applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
 
 Autopiloting is a powerful design pattern to address this problem. By moving the responsibility for interpreting events such as startup, shutdown, scaling, and recovery from the framework into the application, we can build intelligent architectures that maximize developer flexibility and minimize the need for human operational intervention. Better still, by giving applications more control over their lifecycle, we can build container platforms that can knit together legacy and greenfield applications alike.
 
-Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single docker-compose up, without complex changes to the application's architecture or custom orchestration by the container framework.
+Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single `docker-compose up`, without complex changes to the application's architecture or custom orchestration by the container framework.
 
 ### Speakers
 
