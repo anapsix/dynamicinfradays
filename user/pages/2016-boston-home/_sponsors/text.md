@@ -31,6 +31,10 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/redhat-logo.png" width="141" height="46" style="margin: 0;">
 
+##### Wednesday lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/emccode-logo.png" width="126" height="40" style="margin: 0;">
+
 ##### Tuesday night party sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/gooddoglabs-logo.png" width="156" height="25" style="margin: 0 5px 0 5px;">
