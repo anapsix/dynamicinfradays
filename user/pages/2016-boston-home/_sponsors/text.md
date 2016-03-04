@@ -33,7 +33,7 @@ menu: Sponsors
 
 ##### Wednesday lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/emccode-logo.png" width="151" height="48" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/emccode2-logo.png" width="97" height="100" style="margin: 0;">
 
 ##### Tuesday night party sponsors
 
