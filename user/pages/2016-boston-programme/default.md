@@ -16,7 +16,7 @@ title: Programme
 
 #### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
 
-Containers are now an essential infrastructure building block in many. While the tooling around getting your apps containerized and running them is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
+Containers are now an essential infrastructure building block in many organizations. While the tooling around getting your apps containerized and running is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
 
 In this talk, Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
 
