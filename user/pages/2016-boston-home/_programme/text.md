@@ -58,6 +58,6 @@ Please note that the programme is provisional and subject to change.
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:00-02:50pm | Workshops | Topics TBC |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
-| 03:05-04:50pm | Workshops ctd. | Topics TBC |
+| 03:05-04:50pm | Workshops ctd. | _[Kubernetes Deep Dive: From Basics to Advanced Features](/2016-boston-programme#kubernetes)<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
