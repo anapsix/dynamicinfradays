@@ -136,15 +136,13 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 After a brief introduction to Kubernetes and how it helps solve the problem of managing multiple, related containers, we'll deploy a fleet of containerized microservices from a private registry and set up the necessary service discovery to allow the services to communicate. We'll also run through various real-world deployment scenarios such as rolling updates, canary releases and rollbacks.
 
-We'll then take a step into more advanced terriority and explore powerful features including secrets, daemon sets, persistent volumes and claims, health checks, autoscaling, and scheduling.
+We'll then take a step into more advanced terriority and explore powerful features including secrets, daemon sets, persistent volumes and claims, health checks, and autoscaling.
 
 Led by Ray Tsang, Google. Ray is a Developer Advocate for the Google Cloud Platform with extensive experience of full stack application development, DevOps and IT Ops. Aside from technology, Ray enjoys traveling and adventures.
 
 **Prerequisities**
 
-Please ensure you have the following tools installed on your system:
-
-* TODO
+Just a browser!
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
