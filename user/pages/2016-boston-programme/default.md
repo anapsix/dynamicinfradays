@@ -42,6 +42,12 @@ Mesos excels at sharing a common set of resources among multiple applications. H
 
 By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
 
+#### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
+
+Regulated environments today have requirements and processes that were developed without awareness of container architecture, and it can be frustrating when seemingly arbitrary rules shut out use of promising new technology. For example, some popular container systems are illegal to use for running software which processes healthcare or other sensitive data. 
+
+Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
+
 #### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
 
 Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
@@ -97,6 +103,16 @@ Jeff has hacked on dozens of open-source projects over the past decade. He joine
 He is now living the dream of being paid to work on open-source software full-time as the project lead on Vault. He is currently enjoying life in Boston with his wife, daughter, and two excessively needy cats.
 
 You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/elliot-murphy.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="elliotm"></a>Elliot Murphy
+
+Elliot Murphy is the CEO of Kindly Ops, a DevOps and security firm focused on reducing the cost of healthcare innovation. Over the last year he has assisted organizations with operation, scaling, and 3rd party risk assessment of mission critical systems that conduct medical research, perform real time malware defense, process prescription refills, deliver therapy, and store psychiatric records.
+
+He has real world deployment experience with Kubernetes, Mesos, ECS and Amazon, Google and Azure clouds.
+
+You can find Elliot on Twitter at [@sstatik](https://twitter.com/sstatik).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
