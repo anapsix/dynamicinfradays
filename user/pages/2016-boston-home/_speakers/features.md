@@ -15,7 +15,7 @@ features:
     - header: <a href="/2016-boston-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
       icon: user
-    - header: <a href="/2016-boston-programme#elliot">Elliot Murphy</a>
+    - header: <a href="/2016-boston-programme#elliotm">Elliot Murphy</a>
       text: "Elliot is the CEO of DevOps and security firm Kindly Ops."
       icon: user
     - header: <a href="/2016-boston-programme#maltes">Malte Schwarzkopf</a>
