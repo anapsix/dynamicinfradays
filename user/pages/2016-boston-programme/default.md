@@ -110,7 +110,7 @@ You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
 
 Elliot Murphy is the CEO of Kindly Ops, a DevOps and security firm focused on reducing the cost of healthcare innovation. Over the last year he has assisted organizations with operation, scaling, and 3rd party risk assessment of mission critical systems that conduct medical research, perform real time malware defense, process prescription refills, deliver therapy, and store psychiatric records.
 
-He has real world deployment experience with Kubernetes, Mesos, ECS and Amazon, Google and Azure clouds.
+He has real-world deployment experience with Kubernetes, Mesos, ECS and Amazon, Google and Azure clouds.
 
 You can find Elliot on Twitter at [@sstatik](https://twitter.com/sstatik).
 
