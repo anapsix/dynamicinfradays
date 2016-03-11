@@ -39,6 +39,7 @@ Please note that the programme is provisional and subject to change.
 | 02:25-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:20-04:05pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Idit Levine](../#speakers), EMC |
+| 03:20-04:05pm | _[ComplianceOps: Containers in Regulated Environments](/2016-boston-programme#compliance)_ | [Elliot Murphy](../#speakers), Kindly Ops |
 | 04:05-04:45pm | OpenSpaces session | |
 | 04:45-05:00pm | Day 1 wrap-up | |
 | 05:00pm | **Day 1 close** | |
