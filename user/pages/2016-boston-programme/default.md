@@ -164,9 +164,9 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 #### <a name="dockercomposeswarm"></a>_Multi-machine Docker: Getting to Grips With Docker Compose and Swarm_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
-Have you been running standalone Docker engines and linking containers together manually? Come level up with us and get your hands on Docker Compose and Swarm, learn how and when to use them.
+Have you been running standalone Docker engines and linking containers together manually? Come level up with us and get your hands on Docker Compose and Swarm and learn how and when to use them.
 
-We'll walk you through a full setup of Swarm, how to set up, manage and run distributed applications, dive into service discovery and also look at new experimental features such as rescheduling.
+We'll walk you through a full setup of Swarm and how to set up, manage and run distributed applications. We'll also dive into service discovery and also look at new experimental features such as rescheduling.
 
 Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, lover of all things tech and retro gaming, and a speaker at many events.
 
