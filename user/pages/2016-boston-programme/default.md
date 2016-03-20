@@ -160,7 +160,7 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 ### Workshops
 
-<img src="http://dynamicinfradays.org/events/20ston16-b/img/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="dockercomposeswarm"></a>_Multi-machine Docker: Getting to Grips With Docker Compose and Swarm_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
