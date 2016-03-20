@@ -54,10 +54,11 @@ Please note that the programme is provisional and subject to change.
 | 09:40-09:45am | Sponsor shout-out | |
 | 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
+| 10:50-11:35am | _[Your Database and Other Stateful Applications in Containers? You Betcha!](/2016-boston-programme#stateful)_ | [Jonas Rosland](../#speakers), EMC {code} |
 | 10:50-11:35am | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers), Microsoft |
 | 11:35-12:20pm | _[Autopilot: Running Real-world Applications in Containers](/2016-boston-programme#autopilot)_ | [Tim Gross](../#speakers), Joyent |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
-| 01:00-02:50pm | Workshops | Topics TBC |
+| 01:00-02:50pm | Workshops | _[Multi-machine Docker: Getting to Grips With Docker Compose and Swarm](/2016-boston-programme#dockercomposeswarm)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
 | 03:05-04:50pm | Workshops ctd. | _[Kubernetes Deep Dive: From Basics to Advanced Features](/2016-boston-programme#kubernetes)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |

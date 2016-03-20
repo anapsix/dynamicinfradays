@@ -48,6 +48,12 @@ Regulated environments today have requirements and processes that were developed
 
 Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
 
+#### <a name="stateful"></a>_Your Database and Other Stateful Applications in Containers? You Betcha!_ <span style="font-size: smaller">- [Jonas Rosland](#jonasr)</span>
+
+Running stateless applications in containers is fairly easy: you start up as many instances as you need and off you go. But when it comes to applications that need to store data - state - things can become more complicated. You need to take yet another layer of your application's infrastructure into account, the storage layer.
+
+How do you handle failover and data movement between hosts? How about quick and easy snapshotting of your data for testing and QA? Jonas will discuss and demonstrate how you can start running services like databases, caching engines and more!
+
 #### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
 
 Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
@@ -114,6 +120,14 @@ He has real-world deployment experience with Kubernetes, Mesos, ECS and Amazon, 
 
 You can find Elliot on Twitter at [@sstatik](https://twitter.com/sstatik).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="jonasr"></a>Jonas Rosland
+
+Jonas is a Developer Advocate at EMC {code}, Docker Captain, lover of all things tech and retro gaming, and a speaker at many events. He enjoys all the good things in life such as wine, food and geekiness.
+
+You can find Jonas on Twitter at [@jonasrosland](https://twitter.com/jonasrosland).
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="maltes"></a>Malte Schwarzkopf
@@ -145,6 +159,22 @@ When he isn't practicing his software craft, James can be found running through 
 You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
 
 ### Workshops
+
+<img src="http://dynamicinfradays.org/events/20ston16-b/img/jonas-rosland.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="dockercomposeswarm"></a>_Multi-machine Docker: Getting to Grips With Docker Compose and Swarm_ <span style="font-size: smaller">- 2h, Intermediate</span>
+
+Have you been running standalone Docker engines and linking containers together manually? Come level up with us and get your hands on Docker Compose and Swarm, learn how and when to use them.
+
+We'll walk you through a full setup of Swarm, how to set up, manage and run distributed applications, dive into service discovery and also look at new experimental features such as rescheduling.
+
+Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, lover of all things tech and retro gaming, and a speaker at many events.
+
+**Prerequisities**
+
+Please ensure you have the following tools installed on your system:
+
+* If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/ray-tsang.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

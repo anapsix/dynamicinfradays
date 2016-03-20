@@ -18,6 +18,9 @@ features:
     - header: <a href="/2016-boston-programme#elliotm">Elliot Murphy</a>
       text: "Elliot is the CEO of DevOps and security firm Kindly Ops."
       icon: user
+    - header: <a href="/2016-boston-programme#jonasr">Jonas Rosland</a>
+      text: "Jonas is a Developer Advocate at EMC {code}."
+      icon: user
     - header: <a href="/2016-boston-programme#maltes">Malte Schwarzkopf</a>
       text: "Malte co-leads the development of Firmament and worked with the Borg and Omega teams at Google."
       icon: user
@@ -27,8 +30,9 @@ features:
     - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
       text: "James is a Tech Evangelist for Microsoft."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
