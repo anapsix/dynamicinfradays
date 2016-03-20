@@ -168,7 +168,7 @@ Have you been running standalone Docker engines and linking containers together 
 
 We'll walk you through a full setup of Swarm and how to set up, manage and run distributed applications. We'll also dive into service discovery and also look at new experimental features such as rescheduling.
 
-Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, lover of all things tech and retro gaming, and a speaker at many events.
+Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, Docker Captain, lover of all things tech and retro gaming, and a speaker at many events.
 
 **Prerequisities**
 
