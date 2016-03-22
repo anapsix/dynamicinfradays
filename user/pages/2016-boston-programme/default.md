@@ -68,6 +68,12 @@ Autopiloting is a powerful design pattern to address this problem. By moving the
 
 Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single `docker-compose up`, without complex changes to the application's architecture or custom orchestration by the container framework.
 
+#### <a name="itstack"></a>_Optimizing Your Container IT Stack_ <span style="font-size: smaller">- [Endre Sara](#endres) & [Enlin Xu](#enlinx)</span>
+
+Technologies like Kubernetes and Mesos help users to deploy, manage and scale applications on bare metal physical servers, virtualized private datacenters, or across different public cloud service providers. With all of the various options of how and where to deploy your containerized application, controlling this complexity is a tough problem. How do you assure the performance of applications? How do you assure the efficiency of the underlying infrastructure? How do you know when to scale your cluster?
+
+Endre and Enlin will talk about the VMTurbo team's key lessons and insights into the problem of providing real-time, demand-driven control over the entire IT stack, from applications to containers all the way down to the underlying infrastructure. They'll describe the application control plane, VMTurbo's approach to solving this problem, and will discuss how this applies to containerized and other environments.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/ionel-gog.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
@@ -128,6 +134,10 @@ Jonas is a Developer Advocate at EMC {code}, Docker Captain, lover of all things
 
 You can find Jonas on Twitter at [@jonasrosland](https://twitter.com/jonasrosland).
 
+#### <a name="endres"></a>Endre Sara
+
+TODO
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="maltes"></a>Malte Schwarzkopf
@@ -157,6 +167,12 @@ James is a Tech Evangelist for Microsoft who has been working in the web develop
 When he isn't practicing his software craft, James can be found running through the woods, growing hops, or hiking with his daughter.
 
 You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
+
+#### <a name="enlinx"></a>Enlin Xu
+
+TODO
+
+You can find James on Twitter at [@IcebergXU](https://twitter.com/IcebergXU).
 
 ### Workshops
 
