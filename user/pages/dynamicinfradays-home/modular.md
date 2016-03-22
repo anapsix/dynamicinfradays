@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4><strong>Next event:</strong> May 24-25, <strong><a href="/events/2016-boston">ContainerDays Boston 2016</a></strong>. See <a href="#events">all events</a></h4>
+<h4><strong>Coming up:</strong> Jun 27-28, <strong><a href="/events/2016-hamburg">ContainerDays Hamburg 2016</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
@@ -110,6 +110,20 @@ function initialize() {
   });
 
   google.maps.event.addListener(austinMarker, "click", function (e) { location.href="/events/2016-austin/"});
+
+  var hamburgMarker = new MarkerWithLabel({
+    position: new google.maps.LatLng(53.5653, 10.0014),
+    draggable: false,
+    raiseOnDrag: false,
+    map: map,
+    icon: didLogo,
+    labelContent: "Hamburg<br>Jun 27-28 '16",
+    labelAnchor: new google.maps.Point(20, 50),
+    labelClass: "labels",
+    labelStyle: { opacity: 1 }
+  });
+
+  google.maps.event.addListener(hamburgMarker, "click", function (e) { location.href="/events/2016-hamburg/"});
 }
 initialize()
 </script>

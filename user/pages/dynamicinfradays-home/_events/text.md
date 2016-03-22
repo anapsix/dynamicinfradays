@@ -7,6 +7,7 @@ title: Events
 ##### Upcoming:
 
 * 2016, May 24-25th, [ContainerDays Boston](/events/2016-boston/), Boston, MA, USA
+* 2016, June 27-28th, [ContainerDays Hamburg](/events/2016-hamburg/), Hamburg, Germany
 * mid 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 
 ##### Past:
