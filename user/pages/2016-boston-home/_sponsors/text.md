@@ -51,9 +51,9 @@ If you're interesting in taking part, please [get in touch](mailto:2016-boston-s
 
 **Very special thanks** to **Lookout** and **XebiaLabs** for giving the organizers time to put this event together.
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;">
+<img src="/img-custom/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
+<img src="/img-custom/xebialabs-logo.png" width="127" height="40" style="margin: 0 5px 0 5px;">
 
 **A big thank you** also goes to **[Microsoft New England](http://microsoftnewengland.com/about)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
