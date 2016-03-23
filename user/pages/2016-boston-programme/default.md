@@ -60,6 +60,12 @@ Orchestration, automation, and monitoring are just some of the challenges when m
 
 James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
 
+#### <a name="yelp"></a>_Yelp's Journey Into Containers_ <span style="font-size: smaller">- [Chris Kuehl](#chrisk)</span>
+
+At Yelp, we launch hundreds of thousands of containers per day. They've become a critical part of our operations, used extensively during development, in test, and in production. But it wasn't always that way - Yelp had more than a decade of engineering done without containers, and is backed by large engineering teams used to the world without them.
+
+In this talk, we'll reflect on our journey into Docker, discussing both the challenges and the wins it's brought us. We'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And we'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
+
 #### <a name="autopilot"></a>_Autopilot: Running Real-world Applications in Containers_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
 Containers provide a new means to manage the dependencies and deployment of the next generation of applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
@@ -95,6 +101,12 @@ Tim is a product manager for Joyent, providers of the Triton Elastic Container S
 In a previous life, Tim was an architect (buildings, not software). He took the leap into programming and Operations after he discovered he could automate away almost everything boring in his life.
 
 You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
+
+#### <a name="chrisk"></a>Chris Kuehl
+
+TODO
+
+You can find Chris on Twitter at [@iamckuehl](https://twitter.com/iamckuehl).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/idit-levine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
