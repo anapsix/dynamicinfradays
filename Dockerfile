@@ -5,7 +5,7 @@ FROM alpine
 MAINTAINER Anastas Dancha <anapsix@random.io>
 
 RUN apk upgrade --update && \
- apk add git openssl ca-certificates php-cli php-openssl php-curl php-gd php-phar php-json php-ctype
+ apk add git openssl ca-certificates php-cli php-openssl php-curl php-gd php-phar php-json php-ctype php-xml
 # apt-get install nginx-light
 #COPY nginx.conf /etc/nginx/sites-enabled/default
 #RUN sed -si 's/;cgi.fix_pathinfo=1/cgi.fix_pathinfo=0/g' /etc/php5/fpm/php.ini
