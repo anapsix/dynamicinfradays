@@ -60,8 +60,22 @@ class Medium extends Data implements RenderableInterface
     {
         parent::__construct($items, $blueprint);
 
+        if (self::getGrav()['config']->get('system.media.enable_media_timestamp', true)) {
+            $this->querystring('&' . self::getGrav()['cache']->getKey());
+        }
+
         $this->def('mime', 'application/octet-stream');
         $this->reset();
+    }
+
+    /**
+     * Return just metadata from the Medium object
+     *
+     * @return $this
+     */
+    public function meta()
+    {
+        return new Data($this->items);
     }
 
     /**
@@ -104,7 +118,7 @@ class Medium extends Data implements RenderableInterface
      * Return PATH to file.
      *
      * @param bool $reset
-     * @return  string path to file
+     * @return string path to file
      */
     public function path($reset = true)
     {
@@ -123,13 +137,39 @@ class Medium extends Data implements RenderableInterface
      */
     public function url($reset = true)
     {
-        $output = preg_replace('|^' . GRAV_ROOT . '|', '', $this->get('filepath'));
+        $output = preg_replace('|^' . preg_quote(GRAV_ROOT) . '|', '', $this->get('filepath'));
 
         if ($reset) {
             $this->reset();
         }
 
-        return self::$grav['base_url'] . $output . $this->urlHash();
+        return self::$grav['base_url'] . $output . $this->querystring() . $this->urlHash();
+    }
+
+    /**
+     * Get/set querystring for the file's url
+     *
+     * @param  string  $hash
+     * @param  boolean $withHash
+     * @return string
+     */
+    public function querystring($querystring = null, $withQuestionmark = true)
+    {
+        if (!is_null($querystring)) {
+            $this->set('querystring', ltrim($querystring, '?&'));
+
+            foreach ($this->alternatives as $alt) {
+                $alt->querystring($querystring, $withQuestionmark);
+            }
+        }
+
+        $querystring = $this->get('querystring', '');
+
+        if ($withQuestionmark && !empty($querystring)) {
+            return '?' . $querystring;
+        } else {
+            return $querystring;
+        }
     }
 
     /**
@@ -169,13 +209,38 @@ class Medium extends Data implements RenderableInterface
 
         $style = '';
         foreach ($this->styleAttributes as $key => $value) {
-            $style .= $key . ': ' . $value . ';';
+            if (is_numeric($key)) // Special case for inline style attributes, refer to style() method
+                $style .= $value;
+            else
+                $style .= $key . ': ' . $value . ';';
         }
-        $attributes['style'] = $style;
+        if ($style) {
+            $attributes['style'] = $style;
+        }
 
-        !empty($title) && empty($attributes['title']) && $attributes['title'] = $title;
-        !empty($alt) && empty($attributes['alt']) && $attributes['alt'] = $alt;
-        !empty($class) && empty($attributes['class']) && $attributes['class'] = $class;
+        if (empty($attributes['title'])) {
+            if (!empty($title)) {
+                $attributes['title'] = $title;
+            } elseif (!empty($this->items['title'])) {
+                $attributes['title'] = $this->items['title'];
+            }
+        }
+
+        if (empty($attributes['alt'])) {
+            if (!empty($alt)) {
+                $attributes['alt'] = $alt;
+            } elseif (!empty($this->items['alt'])) {
+                $attributes['alt'] = $this->items['alt'];
+            }
+        }
+
+        if (empty($attributes['class'])) {
+            if (!empty($class)) {
+                $attributes['class'] = $class;
+            } elseif (!empty($this->items['class'])) {
+                $attributes['class'] = $this->items['class'];
+            }
+        }
 
         switch ($this->mode) {
             case 'text':
@@ -309,7 +374,7 @@ class Medium extends Data implements RenderableInterface
     }
 
     /**
-     * Turn the current Medium inta a Link with lightbox enabled
+     * Turn the current Medium into a Link with lightbox enabled
      *
      * @param  int  $width
      * @param  int  $height
@@ -329,6 +394,51 @@ class Medium extends Data implements RenderableInterface
     }
 
     /**
+     * Add a class to the element from Markdown or Twig
+     * Example: ![Example](myimg.png?classes=float-left) or ![Example](myimg.png?classes=myclass1,myclass2)
+     *
+     * @return $this
+     */
+    public function classes()
+    {
+        $classes = func_get_args();
+        if (!empty($classes)) {
+            $this->attributes['class'] = implode(',', (array)$classes);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Add an id to the element from Markdown or Twig
+     * Example: ![Example](myimg.png?id=primary-img)
+     *
+     * @param $id
+     * @return $this
+     */
+    public function id($id)
+    {
+        if (is_string($id)) {
+            $this->attributes['id'] = trim($id);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Allows to add an inline style attribute from Markdown or Twig
+     * Example: ![Example](myimg.png?style=float:left)
+     *
+     * @param string $style
+     * @return $this
+     */
+    public function style($style)
+    {
+        $this->styleAttributes[] = rtrim($style, ';') . ';';
+        return $this;
+    }
+
+    /**
      * Allow any action to be called on this medium from twig or markdown
      *
      * @param string $method
@@ -337,6 +447,15 @@ class Medium extends Data implements RenderableInterface
      */
     public function __call($method, $args)
     {
+        $qs = $method;
+        if (count($args) > 1 || (count($args) == 1 && !empty($args[0]))) {
+            $qs .= '=' . implode(',', array_map(function ($a) { return urlencode($a); }, $args));
+        }
+
+        if (!empty($qs)) {
+            $this->querystring($this->querystring(null, false) . '&' . $qs);
+        }
+
         return $this;
     }
 
@@ -358,7 +477,7 @@ class Medium extends Data implements RenderableInterface
                 $thumb = $this->get('thumbnails.' . $type, false);
 
                 if ($thumb) {
-                    $thumb = $thumb instanceof ThumbnailMedium ? $thumb : MediumFactory::fromFile($thumb, ['type' => 'thumbnail']);
+                    $thumb = $thumb instanceof ThumbnailImageMedium ? $thumb : MediumFactory::fromFile($thumb, ['type' => 'thumbnail']);
                     $thumb->parent = $this;
                 }
 
@@ -371,4 +490,5 @@ class Medium extends Data implements RenderableInterface
 
         return $this->_thumbnail;
     }
+
 }

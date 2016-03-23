@@ -1,13 +1,23 @@
 <?php
 namespace Grav\Common\Markdown;
 
+/**
+ * Class Parsedown
+ * @package Grav\Common\Markdown
+ */
 class Parsedown extends \Parsedown
 {
     use ParsedownGravTrait;
 
-    public function __construct($page)
+    /**
+     * Parsedown constructor.
+     *
+     * @param $page
+     * @param $defaults
+     */
+    public function __construct($page, $defaults)
     {
-        $this->init($page);
+        $this->init($page, $defaults);
     }
 
 }

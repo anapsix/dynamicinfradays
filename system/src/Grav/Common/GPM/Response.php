@@ -1,27 +1,39 @@
 <?php
 namespace Grav\Common\GPM;
 
+use Grav\Common\Utils;
+use Grav\Common\GravTrait;
+
+/**
+ * Class Response
+ * @package Grav\Common\GPM
+ */
 class Response
 {
+    use GravTrait;
+
     /**
      * The callback for the progress
+     *
      * @var callable    Either a function or callback in array notation
      */
     public static $callback = null;
 
     /**
      * Which method to use for HTTP calls, can be 'curl', 'fopen' or 'auto'. Auto is default and fopen is the preferred method
+     *
      * @var string
      */
     private static $method = 'auto';
 
     /**
      * Default parameters for `curl` and `fopen`
+     *
      * @var array
      */
     private static $defaults = [
 
-        'curl' => [
+        'curl'  => [
             CURLOPT_REFERER        => 'Grav GPM',
             CURLOPT_USERAGENT      => 'Grav GPM',
             CURLOPT_RETURNTRANSFER => true,
@@ -49,7 +61,10 @@ class Response
 
     /**
      * Sets the preferred method to use for making HTTP calls.
+     *
      * @param string $method Default is `auto`
+     *
+     * @return Response
      */
     public static function setMethod($method = 'auto')
     {
@@ -64,14 +79,25 @@ class Response
 
     /**
      * Makes a request to the URL by using the preferred method
-     * @param  string $uri     URL to call
-     * @param  array  $options An array of parameters for both `curl` and `fopen`
+     *
+     * @param  string   $uri      URL to call
+     * @param  array    $options  An array of parameters for both `curl` and `fopen`
+     * @param  callable $callback Either a function or callback in array notation
+     *
      * @return string The response of the request
      */
     public static function get($uri = '', $options = [], $callback = null)
     {
         if (!self::isCurlAvailable() && !self::isFopenAvailable()) {
             throw new \RuntimeException('Could not start an HTTP request. `allow_url_open` is disabled and `cURL` is not available');
+        }
+
+        // check if this function is available, if so use it to stop any timeouts
+        try {
+            if (!Utils::isFunctionDisabled('set_time_limit') && !ini_get('safe_mode') && function_exists('set_time_limit')) {
+                set_time_limit(0);
+            }
+        } catch (\Exception $e) {
         }
 
         $options = array_replace_recursive(self::$defaults, $options);
@@ -82,8 +108,29 @@ class Response
     }
 
     /**
+     * Checks if cURL is available
+     *
+     * @return boolean
+     */
+    public static function isCurlAvailable()
+    {
+        return function_exists('curl_version');
+    }
+
+    /**
+     * Checks if the remote fopen request is enabled in PHP
+     *
+     * @return boolean
+     */
+    public static function isFopenAvailable()
+    {
+        return preg_match('/1|yes|on|true/i', ini_get('allow_url_fopen'));
+    }
+
+    /**
      * Progress normalized for cURL and Fopen
-     * @param  args   Variable length of arguments passed in by stream method
+     * Accepts a vsariable length of arguments passed in by stream method
+     *
      * @return array Normalized array with useful data.
      *               Format: ['code' => int|false, 'filesize' => bytes, 'transferred' => bytes, 'percent' => int]
      */
@@ -104,7 +151,7 @@ class Response
         }
 
         if ($bytes_transferred > 0) {
-            if ($notification_code == STREAM_NOTIFY_PROGRESS|STREAM_NOTIFY_COMPLETED || $isCurlResource) {
+            if ($notification_code == STREAM_NOTIFY_PROGRESS | STREAM_NOTIFY_COMPLETED || $isCurlResource) {
 
                 $progress = [
                     'code'        => $notification_code,
@@ -121,30 +168,13 @@ class Response
     }
 
     /**
-     * Checks if cURL is available
-     * @return boolean
-     */
-    public static function isCurlAvailable()
-    {
-        return function_exists('curl_version');
-    }
-
-    /**
-     * Checks if the remote fopen request is enabled in PHP
-     * @return boolean
-     */
-    public static function isFopenAvailable()
-    {
-        return preg_match('/1|yes|on|true/i', ini_get('allow_url_fopen'));
-    }
-
-    /**
      * Automatically picks the preferred method
+     *
      * @return string The response of the request
      */
     private static function getAuto()
     {
-        if (self::isFopenAvailable()) {
+        if (!ini_get('open_basedir') && self::isFopenAvailable()) {
             return self::getFopen(func_get_args());
         }
 
@@ -154,43 +184,8 @@ class Response
     }
 
     /**
-     * Starts a HTTP request via cURL
-     * @return string The response of the request
-     */
-    private static function getCurl()
-    {
-        $args     = func_get_args();
-        $uri      = $args[0];
-        $options  = $args[1];
-        $callback = $args[2];
-
-        $ch = curl_init($uri);
-        curl_setopt_array($ch, $options['curl']);
-
-        if ($callback) {
-            curl_setopt_array(
-                $ch,
-                [
-                    CURLOPT_NOPROGRESS       => false,
-                    CURLOPT_PROGRESSFUNCTION => ['self', 'progress']
-                ]
-            );
-        }
-
-        $response = curl_exec($ch);
-
-        if ($errno = curl_errno($ch)) {
-            $error_message = curl_strerror($errno);
-            throw new \RuntimeException("cURL error ({$errno}):\n {$error_message}");
-        }
-
-        curl_close($ch);
-
-        return $response;
-    }
-
-    /**
      * Starts a HTTP request via fopen
+     *
      * @return string The response of the request
      */
     private static function getFopen()
@@ -202,6 +197,12 @@ class Response
         $uri      = $args[0];
         $options  = $args[1];
         $callback = $args[2];
+
+        // if proxy set add that
+        $proxy_url = self::getGrav()['config']->get('system.proxy_url');
+        if ($proxy_url) {
+            $options['fopen']['proxy'] = $proxy_url;
+        }
 
         if ($callback) {
             $options['fopen']['notification'] = ['self', 'progress'];
@@ -215,5 +216,114 @@ class Response
         }
 
         return $content;
+    }
+
+    /**
+     * Starts a HTTP request via cURL
+     *
+     * @return string The response of the request
+     */
+    private static function getCurl()
+    {
+        $args = func_get_args();
+        $args = count($args) > 1 ? $args : array_shift($args);
+
+        $uri      = $args[0];
+        $options  = $args[1];
+        $callback = $args[2];
+
+        $ch = curl_init($uri);
+
+        $response = static::curlExecFollow($ch, $options, $callback);
+        $errno = curl_errno($ch);
+
+        if ($errno) {
+            $error_message = curl_strerror($errno);
+            throw new \RuntimeException("cURL error ({$errno}):\n {$error_message}");
+        }
+
+        curl_close($ch);
+
+        return $response;
+    }
+
+    /**
+     * @param $ch
+     * @param $options
+     * @param $callback
+     *
+     * @return bool|mixed
+     */
+    private static function curlExecFollow($ch, $options, $callback)
+    {
+        if ($callback) {
+            curl_setopt_array(
+                $ch,
+                [
+                    CURLOPT_NOPROGRESS       => false,
+                    CURLOPT_PROGRESSFUNCTION => ['self', 'progress']
+                ]
+            );
+        }
+
+        // if proxy set add that
+        $proxy_url = self::getGrav()['config']->get('system.proxy_url');
+        if ($proxy_url) {
+            $options['curl'][CURLOPT_PROXY] = $proxy_url;
+        }
+
+        // no open_basedir set, we can proceed normally
+        if (!ini_get('open_basedir')) {
+            curl_setopt_array($ch, $options['curl']);
+            return curl_exec($ch);
+        }
+
+        $max_redirects                           = isset($options['curl'][CURLOPT_MAXREDIRS]) ? $options['curl'][CURLOPT_MAXREDIRS] : 3;
+        $options['curl'][CURLOPT_FOLLOWLOCATION] = false;
+
+        // open_basedir set but no redirects to follow, we can disable followlocation and proceed normally
+        curl_setopt_array($ch, $options['curl']);
+        if ($max_redirects <= 0) {
+            return curl_exec($ch);
+        }
+
+        $uri = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL);
+        $rch = curl_copy_handle($ch);
+
+        curl_setopt($rch, CURLOPT_HEADER, true);
+        curl_setopt($rch, CURLOPT_NOBODY, true);
+        curl_setopt($rch, CURLOPT_FORBID_REUSE, false);
+        curl_setopt($rch, CURLOPT_RETURNTRANSFER, true);
+
+        do {
+            curl_setopt($rch, CURLOPT_URL, $uri);
+            $header = curl_exec($rch);
+
+            if (curl_errno($rch)) {
+                $code = 0;
+            } else {
+                $code = curl_getinfo($rch, CURLINFO_HTTP_CODE);
+                if ($code == 301 || $code == 302) {
+                    preg_match('/Location:(.*?)\n/', $header, $matches);
+                    $uri = trim(array_pop($matches));
+                } else {
+                    $code = 0;
+                }
+            }
+        } while ($code && --$max_redirects);
+
+        curl_close($rch);
+
+        if (!$max_redirects) {
+            if ($max_redirects === null) {
+                trigger_error('Too many redirects. When following redirects, libcurl hit the maximum amount.', E_USER_WARNING);
+            }
+
+            return false;
+        }
+
+        curl_setopt($ch, CURLOPT_URL, $uri);
+
+        return curl_exec($ch);
     }
 }

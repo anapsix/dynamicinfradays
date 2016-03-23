@@ -4,7 +4,7 @@ namespace Grav\Common\User;
 /**
  * User authentication
  *
- * @author RocketTheme
+ * @author  RocketTheme
  * @license MIT
  */
 abstract class Authentication
@@ -12,30 +12,38 @@ abstract class Authentication
     /**
      * Create password hash from plaintext password.
      *
-     * @param string $password  Plaintext password.
+     * @param string $password Plaintext password.
+     *
+     * @throws \RuntimeException
      * @return string|bool
      */
     public static function create($password)
     {
-        return password_hash($password, PASSWORD_DEFAULT);
+        if (!$password) {
+            throw new \RuntimeException('Password hashing failed: no password provided.');
+        }
+
+        $hash = password_hash($password, PASSWORD_DEFAULT);
+
+        if (!$hash) {
+            throw new \RuntimeException('Password hashing failed: internal error.');
+        }
+
+        return $hash;
     }
 
     /**
      * Verifies that a password matches a hash.
      *
-     * @param string $password  Plaintext password.
-     * @param string $hash      Hash to verify against.
+     * @param string $password Plaintext password.
+     * @param string $hash     Hash to verify against.
+     *
      * @return int              Returns 0 if the check fails, 1 if password matches, 2 if hash needs to be updated.
      */
     public static function verify($password, $hash)
     {
-        // Always accept plaintext passwords (needs an update).
-        if ($password && $password == $hash) {
-            return 2;
-        }
-
-        // Fail if hash doesn't match.
-        if (!$password || !password_verify($password, $hash)) {
+        // Fail if hash doesn't match
+        if (!$password || !$hash || !password_verify($password, $hash)) {
             return 0;
         }
 

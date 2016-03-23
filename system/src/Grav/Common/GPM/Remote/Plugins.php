@@ -12,10 +12,12 @@ class Plugins extends AbstractPackageCollection
      */
     protected $type = 'plugins';
 
-    protected $repository = 'http://getgrav.org/downloads/plugins.json';
+    protected $repository = 'https://getgrav.org/downloads/plugins.json';
 
     /**
      * Local Plugins Constructor
+     * @param bool $refresh
+     * @param callable $callback Either a function or callback in array notation
      */
     public function __construct($refresh = false, $callback = null)
     {

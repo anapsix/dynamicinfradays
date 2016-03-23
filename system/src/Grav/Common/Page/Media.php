@@ -2,8 +2,6 @@
 namespace Grav\Common\Page;
 
 use Grav\Common\Getters;
-use Grav\Common\Grav;
-use Grav\Common\Config\Config;
 use Grav\Common\GravTrait;
 use Grav\Common\Page\Medium\Medium;
 use Grav\Common\Page\Medium\MediumFactory;
@@ -22,11 +20,11 @@ class Media extends Getters
     protected $gettersVariable = 'instances';
     protected $path;
 
-    protected $instances = array();
-    protected $images = array();
-    protected $videos = array();
-    protected $audios = array();
-    protected $files = array();
+    protected $instances = [];
+    protected $images = [];
+    protected $videos = [];
+    protected $audios = [];
+    protected $files = [];
 
     /**
      * @param $path
@@ -47,7 +45,7 @@ class Media extends Getters
         /** @var \DirectoryIterator $info */
         foreach ($iterator as $path => $info) {
             // Ignore folders and Markdown files.
-            if (!$info->isFile() || $info->getExtension() == 'md') {
+            if (!$info->isFile() || $info->getExtension() == 'md' || $info->getBasename() === '.DS_Store') {
                 continue;
             }
 
@@ -58,28 +56,37 @@ class Media extends Getters
 
             if ($type === 'alternative') {
                 $media["{$basename}.{$ext}"][$type] = isset($media["{$basename}.{$ext}"][$type]) ? $media["{$basename}.{$ext}"][$type] : [];
-                $media["{$basename}.{$ext}"][$type][$extra] = $path;
+                $media["{$basename}.{$ext}"][$type][$extra] = [ 'file' => $path, 'size' => $info->getSize() ];
             } else {
-                $media["{$basename}.{$ext}"][$type] = $path;
+                $media["{$basename}.{$ext}"][$type] = [ 'file' => $path, 'size' => $info->getSize() ];
             }
         }
 
         foreach ($media as $name => $types) {
             // First prepare the alternatives in case there is no base medium
             if (!empty($types['alternative'])) {
-                foreach ($types['alternative'] as $ratio => &$file) {
-                    $file = MediumFactory::fromFile($file);
+                foreach ($types['alternative'] as $ratio => &$alt) {
+                    $alt['file'] = MediumFactory::fromFile($alt['file']);
+
+                    if (!$alt['file']) {
+                        unset($types['alternative'][$ratio]);
+                    } else {
+                        $alt['file']->set('size', $alt['size']);
+                    }
                 }
             }
 
             // Create the base medium
             if (!empty($types['base'])) {
-                $medium = MediumFactory::fromFile($types['base']);
+                $medium = MediumFactory::fromFile($types['base']['file']);
+                $medium && $medium->set('size', $types['base']['size']);
             } else if (!empty($types['alternative'])) {
                 $altMedium = reset($types['alternative']);
                 $ratio = key($types['alternative']);
 
-                $medium = MediumFactory::scaledFromMedium($altMedium, $ratio, 1);
+                $altMedium = $altMedium['file'];
+
+                $medium = MediumFactory::scaledFromMedium($altMedium, $ratio, 1)['file'];
             }
 
             if (!$medium) {
@@ -87,13 +94,13 @@ class Media extends Getters
             }
 
             if (!empty($types['meta'])) {
-                $medium->addMetaFile($types['meta']);
+                $medium->addMetaFile($types['meta']['file']);
             }
 
             if (!empty($types['thumb'])) {
                 // We will not turn it into medium yet because user might never request the thumbnail
                 // not wasting any resources on that, maybe we should do this for medium in general?
-                $medium->set('thumbnails.page', $types['thumb']);
+                $medium->set('thumbnails.page', $types['thumb']['file']);
             }
 
             // Build missing alternatives
@@ -107,11 +114,11 @@ class Media extends Getters
                         continue;
                     }
 
-                    $types['alternative'][$i] = MediumFactory::scaledFromMedium($alternatives[$max], $max, $i);
+                    $types['alternative'][$i] = MediumFactory::scaledFromMedium($alternatives[$max]['file'], $max, $i);
                 }
 
                 foreach ($types['alternative'] as $ratio => $altMedium) {
-                    $medium->addAlternative($ratio, $altMedium);
+                    $medium->addAlternative($ratio, $altMedium['file']);
                 }
             }
 

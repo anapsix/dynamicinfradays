@@ -97,6 +97,9 @@ class MediumFactory
             case 'video':
                 return new VideoMedium($items, $blueprint);
                 break;
+            case 'audio':
+                return new AudioMedium($items, $blueprint);
+                break;
             default:
                 return new Medium($items, $blueprint);
                 break;
@@ -131,8 +134,7 @@ class MediumFactory
         $debug = $medium->get('debug');
         $medium->set('debug', false);
 
-        $file = $medium->resize($width, $height)->setPrettyName($basename)->url();
-        $file = preg_replace('|'. preg_quote(self::getGrav()['base_url_relative']) .'$|', '', GRAV_ROOT) . $file;
+        $file = $medium->resize($width, $height)->path();
 
         $medium->set('debug', $debug);
 
@@ -141,6 +143,6 @@ class MediumFactory
         $medium = self::fromFile($file);
         $medium->set('size', $size);
 
-        return $medium;
+        return ['file' => $medium, 'size' => $size];
     }
 }
