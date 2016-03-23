@@ -64,7 +64,7 @@ James will describe the concepts, architecture and design choices underlying Ser
 
 At Yelp, we launch hundreds of thousands of containers per day. They've become a critical part of our operations, used extensively during development, in test, and in production. But it wasn't always that way - Yelp had more than a decade of engineering done without containers, and is backed by large engineering teams used to the world without them.
 
-In this talk, we'll reflect on our journey into Docker, discussing both the challenges and the wins it's brought us. We'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And we'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
+Chris will reflect on Yelp's journey into Docker, discussing both the challenges and the wins it's brought us. He'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And he'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
 
 #### <a name="autopilot"></a>_Autopilot: Running Real-world Applications in Containers_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
