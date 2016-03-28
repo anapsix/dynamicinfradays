@@ -182,6 +182,8 @@ When he isn't practicing his software craft, James can be found running through 
 
 You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/enlin-xu.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="enlinx"></a>Enlin Xu
 
 Enlin has been a software engineer in VMTurbo since 2011, working on multiple pending patents in data center management, including network aware placement, container control, software license control, and cloud OS control.
