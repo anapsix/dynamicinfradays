@@ -146,6 +146,8 @@ Jonas is a Developer Advocate at EMC {code}, Docker Captain, lover of all things
 
 You can find Jonas on Twitter at [@jonasrosland](https://twitter.com/jonasrosland).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/endre-sara.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="endres"></a>Endre Sara
 
 Endre is the VP of Advanced Solutions at VMTurbo, directing a team of developers focusing on new technologies and opportunities to extend VMTurbo's existing capabilities. Previously, Endre was a VP at Goldman Sachs, leading the Systems and Application management team and Network Management team driving the management strategy, design and implementation for Goldman Sachs globally.
