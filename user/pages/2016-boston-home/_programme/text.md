@@ -56,6 +56,7 @@ Please note that the programme is provisional and subject to change.
 | 09:45-10:30am | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers), Microsoft |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 10:50-11:35am | _[Yelp's Journey Into Containers](/2016-boston-programme#yelp)_ | [Chris Kuehl](../#speakers), Yelp |
+| 10:50-11:35am | _[Clair: The Container Image Security Analyzer](/2016-boston-programme#clair)_ | [Joey Schorr](../#speakers), CoreOS |
 | 11:35-12:20pm | _[Autopilot: Running Real-world Applications in Containers](/2016-boston-programme#autopilot)_ | [Tim Gross](../#speakers), Joyent |
 | 11:35-12:20pm | _[Managing Your IT Stack to Assure Performance of Containerized Applications](/2016-boston-programme#itstack)_ | [Endre Sara](../#speakers) & [Enlin Xu](../#speakers), VMTurbo |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |

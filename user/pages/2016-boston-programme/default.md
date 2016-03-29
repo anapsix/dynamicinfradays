@@ -66,6 +66,14 @@ At Yelp, we launch hundreds of thousands of containers per day. They've become a
 
 Chris will reflect on Yelp's journey into Docker, discussing both the challenges and the wins it's brought us. He'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And he'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
 
+#### <a name="clair"></a>_Clair: The Container Image Security Analyzer_ <span style="font-size: smaller">- [Joey Schorr](#joeys)</span>
+
+Docker layers can be fast for developers but are also vulnerable if not audited for production. Wouldn’t it be great to improve continuous integration with continuous vulnerability detection?
+
+Clair is a new open source container image security analyzer that enables developers to build services that scan containers for security threats and vulnerabilities. This API-driven analysis engine inspects containers layer-by-layer for known security flaws.
+
+Joey will provide an overview of Clair and use a real-life example to demonstrate how Clair is applied and able to automatically detect known vulnerabilities in Docker and rkt containers before they get exploited. Come see how it works, get started using Clair to easily build services that provide continuous monitoring for container vulnerabilities, and learn how to get involved with the development.
+
 #### <a name="autopilot"></a>_Autopilot: Running Real-world Applications in Containers_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
 Containers provide a new means to manage the dependencies and deployment of the next generation of applications. But deploying and running these services in the real world is still a challenge, because today's container frameworks force developers to compensate for many surprisingly restrictive operational constraints.
@@ -153,6 +161,14 @@ You can find Jonas on Twitter at [@jonasrosland](https://twitter.com/jonasroslan
 Endre is the VP of Advanced Solutions at VMTurbo, directing a team of developers focusing on new technologies and opportunities to extend VMTurbo's existing capabilities. Previously, Endre was a VP at Goldman Sachs, leading the Systems and Application management team and Network Management team driving the management strategy, design and implementation for Goldman Sachs globally.
 
 Endre holds an M.E. in Electrical Engineering from the Technical University of Budapest and a Ph.D. in Electrical Engineering from Stevens Institute of Technology.
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/joey-schorr.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="joeys"></a>Joey Schorr
+
+Joey is a lead software engineer on the Quay container registry team at CoreOS.
+
+Before being acquired by CoreOS in Summer of 2014, Joey was cofounder of DevTable, a company he started after leaving Google to focus on building a web-based IDE.
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/malte-schwarzkopf.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
