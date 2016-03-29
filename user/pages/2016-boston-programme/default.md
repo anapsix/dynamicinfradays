@@ -68,7 +68,7 @@ Chris will reflect on Yelp's journey into Docker, discussing both the challenges
 
 #### <a name="clair"></a>_Clair: The Container Image Security Analyzer_ <span style="font-size: smaller">- [Joey Schorr](#joeys)</span>
 
-Docker layers can be fast for developers but are also vulnerable if not audited for production. Wouldn’t it be great to improve continuous integration with continuous vulnerability detection?
+Docker layers can be fast for developers, but are also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
 
 Clair is a new open source container image security analyzer that enables developers to build services that scan containers for security threats and vulnerabilities. This API-driven analysis engine inspects containers layer-by-layer for known security flaws.
 
