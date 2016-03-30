@@ -38,7 +38,7 @@ var tr = 'tickets';
 // do the thing
 $.get('http://crossorigin.me/' + eventPage)
   .success(function(data) {
-    text = $('td[itemprop="inventoryLevel"]', data).text();
+    text = $('td[id="remaining_quant_44989943_None"]', data).text();
     hasWaitlist = /Add to Waitlist/.exec(data);
     console.log('DEBUG: Has waitlist? ' + hasWaitlist);
     try {
