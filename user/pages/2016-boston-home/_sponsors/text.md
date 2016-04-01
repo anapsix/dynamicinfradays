@@ -25,7 +25,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/scalock-logo.png" width="202" height="51" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/univa-logo.png" width="147" height="45" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/univa-logo.png" width="147" height="44" style="margin: 3px 5px 3px 5px;">
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/cumulus-logo.png" width="65" height="70" style="margin: 3px 5px 3px 5px;">
 
