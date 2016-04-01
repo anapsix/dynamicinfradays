@@ -22,7 +22,7 @@ Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a n
 * 3x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
   * _No longer available_
-* 4x **Silver sponsor**
+* 5x **Silver sponsor**
   * Includes: 2 tickets; vendor table; logo on the event site.
   * _No longer available_
 * 1x **Day 1 breakfast sponsor**
