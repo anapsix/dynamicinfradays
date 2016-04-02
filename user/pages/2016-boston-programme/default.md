@@ -110,9 +110,13 @@ In a previous life, Tim was an architect (buildings, not software). He took the 
 
 You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/chris-kuehl.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 #### <a name="chrisk"></a>Chris Kuehl
 
-TODO
+Chris is a Software Engineer at Yelp, working on a team with the goal of improving the developer experience, eliminating technical debt, and shipping better code.
+
+His background is primarily in system administration and networking. At Yelp, he's spent much of his time trying to improve the way Yelp builds, tests, and deploys its products, often by integrating Docker.
 
 You can find Chris on Twitter at [@iamckuehl](https://twitter.com/iamckuehl).
 

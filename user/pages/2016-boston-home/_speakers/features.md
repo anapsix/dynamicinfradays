@@ -9,6 +9,9 @@ features:
     - header: <a href="/2016-boston-programme#timg">Tim Gross</a>
       text: "Tim is a product manager for Joyent, providers of the Triton Elastic Container Service."
       icon: user
+    - header: <a href="/2016-boston-programme#chrisk">Chris Kuehl</a>
+      text: "Chris is a Software Engineer at Yelp."
+      icon: user
     - header: <a href="/2016-boston-programme#iditl">Idit Levine</a>
       text: "Idit is the CTO for EMC's cloud management division and a member of the global CTO office."
       icon: user
@@ -39,8 +42,9 @@ features:
     - header: <a href="/2016-boston-programme#enlinx">Enlin Xu</a>
       text: "Enlin is a software engineer at VMTurbo."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
