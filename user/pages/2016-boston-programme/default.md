@@ -238,7 +238,7 @@ Please ensure you have the following tools installed on your system:
 
 Apache Mesos is a two-level scheduler to efficiently manage resources in a datacenter: Mesos frameworks receive resource offers from a Mesos master and use them to launch tasks in a containerized environment. Further, Apache Mesos provides a mechanism for enabling third-party modules that can be used to extend Mesos functionality without modifying Mesos itself.
 
-We'll start by getting some hands-on experience with writing our own Mesos framework from scratch in C++, Java, or Python. We'll then move on to a more advanced use case and show how to get started with creating Mesos modules to fine-tune your Mesos cluster. Finally, we'll go on a brief tour of extending the Mesos isolation mechanism for managing agent resources using Mesos containerizers.
+We'll start by getting some hands-on experience with writing our own Mesos framework from scratch in C++, Java, or Python. We'll then move on to a more advanced use case and show how to get started with creating Mesos modules to extend Mesos functionality. Finally, we'll go on a brief tour of extending the Mesos isolation mechanism for managing agent resources using Mesos containerizers.
 
 Led by Kapil Arya, Mesosphere. Kapil is a Distributed Systems Engineer at Mesosphere and has extensive experience in the virtualization and High Performance Computing space.
 
