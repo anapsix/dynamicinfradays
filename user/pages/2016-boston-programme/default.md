@@ -242,10 +242,11 @@ datacenter: Mesos frameworks receive resource offers from a Mesos master and use
 We'll start by getting some hands-on experience with writing our own Mesos framework from scratch in C++, Java, or Python. We'll then move on to a more advanced use case and will show how to get started with creating a
 Mesos module to fine-tune your Mesos cluster. Finally, we'll go on a brief tour to extend the Mesos isolation mechanism for managing agent resources using Mesos containerizer.
 
-Prerequisites:
+**Prerequisites:**
 
-Please ensure you have downloaded and built Apache Mesos from source on your
-system as described in the [Getting Started](http://mesos.apache.org/gettingstarted/) guide.
+Please ensure you have the following on your system:
+
+* Apache Mesos downloaded and built from source as described in the [Getting Started](http://mesos.apache.org/gettingstarted/) guide
 
 Led by Kapil Arya, Mesosphere. Kapil is a Distributed Systems Engineer at Mesosphere and has extensive experience in the virtualization and High Performance Computing space.
 
