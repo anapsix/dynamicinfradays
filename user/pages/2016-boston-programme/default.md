@@ -246,13 +246,9 @@ Mesos module to fine-tune your Mesos cluster. Finally, we'll go on a brief tour 
 
 Please ensure you have the following on your system:
 
-* Apache Mesos downloaded and built from source as described in the [Getting Started](http://mesos.apache.org/gettingstarted/) guide
+* Apache Mesos [downloaded and built from source](http://mesos.apache.org/gettingstarted/)
 
 Led by Kapil Arya, Mesosphere. Kapil is a Distributed Systems Engineer at Mesosphere and has extensive experience in the virtualization and High Performance Computing space.
-
-**Prerequisities**
-
-* Just a browser!
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/ray-tsang.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
