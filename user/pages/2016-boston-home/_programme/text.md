@@ -43,7 +43,7 @@ Please note that the programme is provisional and subject to change.
 | 04:05-04:45pm | OpenSpaces session | |
 | 04:45-05:00pm | Day 1 wrap-up | |
 | 05:00pm | **Day 1 close** | |
-| evening | Tuesday night drinks | At [Meadhall](https://www.google.com/maps/dir/Microsoft+New+England+Research+and+Development+Center,+1+Memorial+Dr+%231,+Cambridge,+MA+02142/Meadhall,+Cambridge+Center,+Cambridge,+MA/@42.3621296,-71.0890921,16z/) in Cambridge |
+| evening | Tuesday night drinks | At [Meadhall](https://www.google.com/maps/dir/Microsoft+New+England+Research+and+Development+Center,+1+Memorial+Dr+%231,+Cambridge,+MA+02142/Meadhall,+Cambridge+Center,+Cambridge,+MA/@42.3621296,-71.0890921,16z/) around the corner |
 
 #### Wednesday, May 25th
 
