@@ -10,9 +10,9 @@ title: Sponsorship
 
 #### ContainerDays Boston 2016
 
-## <a name="tiers"></a>Sponsorship tiers
+<img src="http://dynamicinfradays.org/events/2016-boston/img/2016-boston-logo.png" height="234" width="300" style="margin: 10px auto 40px auto; display: block;">
 
-<img src="http://dynamicinfradays.org/img/logo.png" height="140" width="270" style="margin-left:auto;margin-right:auto;display:block">
+## <a name="tiers"></a>Sponsorship tiers
 
 Thank you for your interest in sponsoring ContainerDays Boston 2016! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays Boston 2016 event site](http://dynamicinfradays.org/events/2016-boston/).
 
