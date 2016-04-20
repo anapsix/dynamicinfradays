@@ -26,7 +26,7 @@ menu: Connect
 </div>
 <!--End mc_embed_signup-->
 
-You can also follow <a href="https://twitter.com/DynInfraDays">@DynInfraDays</a> on Twitter for updates, find us on [Lanyrd](http://lanyrd.com/2016/containerdaysboston/) and [DevOpsConferences.org](http://devopsconferences.org/events/containerdays) or of course <a href="mailto:2016-boston@dynamicinfradays.org">reach us via email</a>.
+You can also follow <a href="https://twitter.com/DynInfraDays">@DynInfraDays</a> on Twitter for updates, find us on <a href="http://lanyrd.com/2016/containerdaysboston/">Lanyrd</a> and <a href="http://devopsconferences.org/events/containerdays">DevOpsConferences.org</a> or of course <a href="mailto:2016-boston@dynamicinfradays.org">reach us via email</a>.
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
