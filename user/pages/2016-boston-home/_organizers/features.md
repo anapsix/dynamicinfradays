@@ -1,5 +1,6 @@
 ---
 title: Organizers
+menu: none
 class: big
 features:
     - header: Anastas Dancha
