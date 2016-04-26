@@ -14,6 +14,14 @@ title: Programme
 
 ### Talks
 
+#### <a name="realworld"></a>_From Hello World to Real World: Creating a Production-Grade Container Environment_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
+
+Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production a little more work.
+
+Bill and Shannon will walk through building a production-grade container environment from the ground up: from the first deployment of a container, through considerations for building a registry, to introducing container monitoring and logging and plugging containers into your existing CI/CD. They'll look at the transition from scripting and automation tools to cluster management and orchestration, and how service discovery and application templates quickly become key elements to deploying complex applications.
+
+The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and prove visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and lessons the community has learned about production-grade container environments to date.
+
 #### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
 
 Containers are now an essential infrastructure building block in many organizations. While the tooling around getting your apps containerized and running is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
@@ -130,6 +138,14 @@ Idit's fascination with the cloud sprouted when she joined DynamicOps (now part 
 
 You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="billm"></a>Bill Maxwell
+
+Bill is DevOps Manager at Rancher Labs and previously worked at GoDaddy and Qualcomm. He loves automating and watching systems build from scratch to production, hands free.
+
+You can find Bill on Twitter at [@TODO](https://twitter.com/TODO).
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/jeff-mitchell.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="jeffm"></a>Jeff Mitchell
@@ -203,6 +219,16 @@ James is a Tech Evangelist for Microsoft who has been working in the web develop
 When he isn't practicing his software craft, James can be found running through the woods, growing hops, or hiking with his daughter.
 
 You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/shannon-williams.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="shannonw"></a>Shannon Williams
+
+Shannon is a co-founder of Rancher Labs, heading up marketing and field efforts. Prior to starting Rancher, Shannon was Vice President of Market Development at Citrix Systems, after the company acquired Cloud.com, where he led worldwide sales.
+
+Shannon has more than 15 years of experience in developing emerging technology and is a graduate of Medill School of Journalism at Northwestern University.
+
+You can find Shannon on Twitter at [@TODO](https://twitter.com/TODO).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/enlin-xu.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

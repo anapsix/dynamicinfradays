@@ -28,7 +28,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays Boston 2016! |
 | 09:30-09:45am | Welcome, introduction, OpenSpaces explanation | |
 | 09:45-09:50am | Sponsor shout-out | |
-| 09:50-10:35am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers) |
 | 10:35-10:40am | Sponsor shout-out | |
 | 10:40-11:10am | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 11:10-11:55am | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
