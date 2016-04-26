@@ -30,7 +30,7 @@ Whether you're an expert or new to the space, there'll be plenty for you to lear
 var eventPage = 'http://www.eventbrite.com/e/containerdays-boston-2016-tickets-20320920420';
 
 // regex to grab tickets remaining element
-var reg = /(\d+)(\sTickets)/;
+var reg = /(\d+)(\sTickets?)/;
 
 // default to this ticket amount, used when event doesn't report ticket counts
 var tr = 'tickets';
