@@ -16,11 +16,11 @@ title: Programme
 
 #### <a name="realworld"></a>_From Hello World to Real World: Creating a Production-Grade Container Environment_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
 
-Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production a little more work.
+Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production takes a little more work.
 
 Bill and Shannon will walk through building a production-grade container environment from the ground up: from the first deployment of a container, through considerations for building a registry, to introducing container monitoring and logging and plugging containers into your existing CI/CD. They'll look at the transition from scripting and automation tools to cluster management and orchestration, and how service discovery and application templates quickly become key elements to deploying complex applications.
 
-The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and prove visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and lessons the community has learned about production-grade container environments to date.
+The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
 
 #### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
 
