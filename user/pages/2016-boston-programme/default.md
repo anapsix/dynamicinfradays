@@ -144,7 +144,7 @@ You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
 Bill is DevOps Manager at Rancher Labs and previously worked at GoDaddy and Qualcomm. He loves automating and watching systems build from scratch to production, hands free.
 
-You can find Bill on Twitter at [@TODO](https://twitter.com/TODO).
+You can find Bill on Twitter at [@CloudNautique](https://twitter.com/CloudNautique).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/jeff-mitchell.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
@@ -228,7 +228,7 @@ Shannon is a co-founder of Rancher Labs, heading up marketing and field efforts.
 
 Shannon has more than 15 years of experience in developing emerging technology and is a graduate of Medill School of Journalism at Northwestern University.
 
-You can find Shannon on Twitter at [@TODO](https://twitter.com/TODO).
+You can find Shannon on Twitter at [@smw355](https://twitter.com/smw355).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/enlin-xu.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

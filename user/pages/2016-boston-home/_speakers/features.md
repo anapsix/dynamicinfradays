@@ -42,7 +42,7 @@ features:
     - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
       text: "James is a Tech Evangelist for Microsoft."
       icon: user
-    - header: <a href="/2016-boston-programme#shannonx">Shannon Williams</a>
+    - header: <a href="/2016-boston-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
     - header: <a href="/2016-boston-programme#enlinx">Enlin Xu</a>
