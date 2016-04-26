@@ -28,12 +28,12 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays Boston 2016! |
 | 09:30-09:45am | Welcome, introduction, OpenSpaces explanation | |
 | 09:45-09:50am | Sponsor shout-out | |
-| 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers) |
+| 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
 | 10:35-10:40am | Sponsor shout-out | |
 | 10:40-11:10am | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 11:10-11:55am | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
 | 11:10-11:55am | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
-| 11:55-12:40pm | Talk: _title TBC_ | [Borja Burgos](../#speakers) |
+| 11:55-12:40pm | Talk: _title TBC_ | [Borja Burgos](../#speakers), Docker |
 | 11:55-12:40pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Idit Levine](../#speakers), EMC |
 | 12:40-01:20pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:20-02:05pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
