@@ -39,6 +39,9 @@ features:
     - header: <a href="/2016-boston-programme#andreys">Andrey Sibiryov</a>
       text: "Andrey is a Senior Infrastructure Engineer at Uber Technologies."
       icon: user
+    - header: <a href="/2016-boston-programme#mikes">Mike Splain</a>
+      text: "Mike is the Lead DevOps engineer at Barkly."
+      icon: user
     - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
       text: "James is a Tech Evangelist for Microsoft."
       icon: user
@@ -48,9 +51,8 @@ features:
     - header: <a href="/2016-boston-programme#enlinx">Enlin Xu</a>
       text: "Enlin is a software engineer at VMTurbo."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

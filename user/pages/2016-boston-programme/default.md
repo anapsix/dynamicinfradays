@@ -38,17 +38,17 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
-#### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
-
-Containerized infrastructure allows workloads to share hardware via an orchestration system such as Swarm, Kubernetes, Mesos, Fleet, Nomad etc. The higher your hardware utilization, the more efficient your cluster. The key to efficient utilization and maximum performance lies in the logic that decides how to place workloads: the scheduler is what makes the difference between a mediocre and a stellar cluster!
-
-Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
-
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
 
 By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
+
+#### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
+
+Containerized infrastructure allows workloads to share hardware via an orchestration system such as Swarm, Kubernetes, Mesos, Fleet, Nomad etc. The higher your hardware utilization, the more efficient your cluster. The key to efficient utilization and maximum performance lies in the logic that decides how to place workloads: the scheduler is what makes the difference between a mediocre and a stellar cluster!
+
+Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
 #### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
 
@@ -56,17 +56,25 @@ Regulated environments today have requirements and processes that were developed
 
 Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
 
-#### <a name="stateful"></a>_Your Database and Other Stateful Applications in Containers? You Betcha!_ <span style="font-size: smaller">- [Jonas Rosland](#jonasr)</span>
-
-Running stateless applications in containers is fairly easy: you start up as many instances as you need and off you go. But when it comes to applications that need to store data - state - things can become more complicated. You need to take yet another layer of your application's infrastructure into account, the storage layer.
-
-How do you handle failover and data movement between hosts? How about quick and easy snapshotting of your data for testing and QA? Jonas will discuss and demonstrate how you can start running services like databases, caching engines and more!
-
 #### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
 
 Orchestration, automation, and monitoring are just some of the challenges when moving to container technology. Service Fabric is a distributed services platform that is designed to address these challenges, and more. It is a battle tested system that is used inside Microsoft for mission critical applications such as Azure SQL, Document DB, and Bing Cortana, processing more than 500 million evaluations per second.
 
 James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
+
+#### <a name="barkly"></a>_Kubernetes in Production, From the Ground Up_ <span style="font-size: smaller">- [Mike Splain](#mikes)</span>
+
+For a fast-growing organization, Kubernetes' features like automatic scheduling, failover, rolling deployments, and autoscaling are extremely enticing. The question is: what does it really take to get such a platform running in production?  
+
+Mike will address that question by taking a deep dive into how Barkly runs Kubernetes, and the problems Kubernetes solves. Mike will share a behind-the-scenes look at Barkly's journey rolling out the platform, describing the immediate benefits along with a few potentially risky drawbacks.
+
+To keep things real, Mike will demo a Kubernetes production environment and may even through some chaos into the mix!
+
+#### <a name="stateful"></a>_Your Database and Other Stateful Applications in Containers? You Betcha!_ <span style="font-size: smaller">- [Jonas Rosland](#jonasr)</span>
+
+Running stateless applications in containers is fairly easy: you start up as many instances as you need and off you go. But when it comes to applications that need to store data - state - things can become more complicated. You need to take yet another layer of your application's infrastructure into account, the storage layer.
+
+How do you handle failover and data movement between hosts? How about quick and easy snapshotting of your data for testing and QA? Jonas will discuss and demonstrate how you can start running services like databases, caching engines and more!
 
 #### <a name="yelp"></a>_Yelp's Journey Into Containers_ <span style="font-size: smaller">- [Chris Kuehl](#chrisk)</span>
 
@@ -209,6 +217,16 @@ Andrey is a Senior Infrastructure Engineer at Uber Technologies, concentrating o
 Previously, Andrey led the Cloud Technologies department at Yandex and worked on the Helios CI/CD platform for Docker at Spotify.
 
 You can find Andrey on Twitter at [@kobolog](https://twitter.com/kobolog).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/mike-splain.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="mikes"></a>Mike Splain
+
+Mike is the Lead DevOps engineer at Barkly, an endpoint security company, where he focuses on building SaaS solutions that allow engineers to focus more time on building and less time on running. Previously, he worked at PayPal, overhauling Chef pipelines to allow easier deployment and management of 1000s of nodes. Mike is very passionate about automation and new technologies that can ease the Ops burden. 
+
+Outside of work, Mike can be found behind the camera at music festivals and concerts around Boston.
+
+You can find Mike on Twitter at [@mikesplain](https://twitter.com/mikesplain).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/james-sturtevant.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

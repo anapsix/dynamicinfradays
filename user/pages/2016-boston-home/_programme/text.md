@@ -54,7 +54,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:40am | Day 2 kickoff | |
 | 09:40-09:45am | Sponsor shout-out | |
-| 09:45-10:30am | Talk: _title TBC_ | [Mike Splain](../#speakers) |
+| 09:45-10:30am | _[Kubernetes in Production, From the Ground Up](/2016-boston-programme#barkly)_ | [Mike Splain](../#speakers) |
 | 09:45-10:30am | _[Your Database and Other Stateful Applications in Containers? You Betcha!](/2016-boston-programme#stateful)_ | [Jonas Rosland](../#speakers), EMC {code} |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 10:50-11:35am | _[Yelp's Journey Into Containers](/2016-boston-programme#yelp)_ | [Chris Kuehl](../#speakers), Yelp |
