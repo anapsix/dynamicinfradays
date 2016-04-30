@@ -232,7 +232,7 @@ You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder)
 
 #### <a name="scottw"></a>Scott Weiss
 
-Scott is a Software Engineer working on advanced development projects at EMC. Passionate about containerization, virtualization, and distributed computing, he has helped create a number of open-source innovation projects, including Layer-X and Unik.
+Scott is a Software Engineer working on advanced development projects at EMC. Passionate about containerization, virtualization, and distributed computing, he has helped create a number of open-source innovation projects, including Layer-X and UniK.
 
 You can find Scott on Twitter at [@ilackarms](https://twitter.com/ilackarms).
 
@@ -276,8 +276,6 @@ Please ensure you have the following tools installed on your system:
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/scott-weiss.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/kapil-arya.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
 #### <a name="unik"></a>_UniK: Unikernels Made Simple_ <span style="font-size: smaller">- 2h, Advanced</span>
 
 We'll begin with a brief overview of Unikernels - what are they, how they work, what should they be used for, and what shouldn't they be used for - followed by an introduction to UniK, a new open-source tool for compiling and running unikernels.
@@ -295,6 +293,8 @@ Please ensure you have the following on your system:
 * UniK docker images pre-built:
   * Clone the [UniK repository](https://github.com/emc-advanced-dev/unik)
   * Run `make` from the `unik` directory
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/kapil-arya.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="mesos"></a>_Using and Extending Apache Mesos_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
