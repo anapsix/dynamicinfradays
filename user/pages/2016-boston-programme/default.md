@@ -290,7 +290,7 @@ Please ensure you have the following on your system:
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed
 * Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
-* UniK docker images pre-built:
+* UniK Docker images pre-built and installed locally:
   * Clone the [UniK repository](https://github.com/emc-advanced-dev/unik)
   * Run `make` from the `unik` directory
 
