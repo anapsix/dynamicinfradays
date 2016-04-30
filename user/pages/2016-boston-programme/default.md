@@ -278,7 +278,7 @@ Please ensure you have the following tools installed on your system:
 
 #### <a name="unik"></a>_UniK: Unikernels Made Simple_ <span style="font-size: smaller">- 2h, Advanced</span>
 
-We'll begin with a brief overview of Unikernels - what are they, how they work, what should they be used for, and what shouldn't they be used for - followed by an introduction to UniK, a new open-source tool for compiling and running unikernels.
+We'll begin with a brief overview of unikernels - what are they, how they work, what should they be used for, and what shouldn't they be used for - followed by an introduction to UniK, a new open-source tool for compiling and running unikernels.
 
 We'll then get hands-on and write a simple Go application which we'll compile into a unikernel with UniK. We will then deploy some instances of our unikernels and watch as our applications run directly on top of a hypervisor.
 
