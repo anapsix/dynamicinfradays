@@ -12,9 +12,6 @@ features:
     - header: <a href="/2016-boston-programme#chrisk">Chris Kuehl</a>
       text: "Chris is a Software Engineer at Yelp."
       icon: user
-    - header: <a href="/2016-boston-programme#iditl">Idit Levine</a>
-      text: "Idit is the CTO for EMC's cloud management division and a member of the global CTO office."
-      icon: user
     - header: <a href="/2016-boston-programme#billm">Bill Maxwell</a>
       text: "Bill is DevOps Manager at Rancher Labs."
       icon: user
@@ -44,6 +41,9 @@ features:
       icon: user
     - header: <a href="/2016-boston-programme#jamess">James Sturtevant</a>
       text: "James is a Tech Evangelist for Microsoft."
+      icon: user
+    - header: <a href="/2016-boston-programme#scottw">Scott Weiss</a>
+      text: "Scott is a Software Engineer working on advanced development projects at EMC."
       icon: user
     - header: <a href="/2016-boston-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."

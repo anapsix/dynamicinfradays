@@ -38,7 +38,7 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
-#### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
+#### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Scott Weiss](#scottw)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
 
@@ -136,16 +136,6 @@ His background is primarily in system administration and networking. At Yelp, he
 
 You can find Chris on Twitter at [@iamckuehl](https://twitter.com/iamckuehl).
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/idit-levine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="iditl"></a>Idit Levine
-
-Idit is the CTO for EMC's cloud management division and a member of the global CTO office. Her passion and expertise are focused on Management and Orchestration (M&O) over the entire stack and on microservices, cloud native apps and Platform as a Service.
-
-Idit's fascination with the cloud sprouted when she joined DynamicOps (now part of VMware) as one of its first employees. She subsequently took part in developing Verizon Terremark's public cloud, and served as an acting CTO at Intigua, a startup company focusing oncontainer and management technology.
-
-You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
-
 <img src="http://dynamicinfradays.org/events/2016-boston/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="billm"></a>Bill Maxwell
@@ -238,6 +228,14 @@ When he isn't practicing his software craft, James can be found running through 
 
 You can find James on Twitter at [@Aspenwilder](https://twitter.com/aspenwilder).
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/scott-weiss.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="scottw"></a>Scott Weiss
+
+Scott is a Software Engineer working on advanced development projects at EMC. Passionate about containerization, virtualization, and distributed computing, he has helped create a number of open-source innovation projects, including Layer-X and Unik.
+
+You can find Scott on Twitter at [@ilackarms](https://twitter.com/ilackarms).
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/shannon-williams.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="shannonw"></a>Shannon Williams
@@ -276,7 +274,27 @@ Please ensure you have the following tools installed on your system:
 
 * If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
+<img src="http://dynamicinfradays.org/events/2016-boston/img/scott-weiss.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/kapil-arya.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="unik"></a>_UniK: Unikernels Made Simple_ <span style="font-size: smaller">- 2h, Advanced</span>
+
+We'll begin with a brief overview of Unikernels - what are they, how they work, what should they be used for, and what shouldn't they be used for - followed by an introduction to UniK, a new open-source tool for compiling and running unikernels.
+
+We'll then get hands-on and write a simple Go application which we'll compile into a unikernel with UniK. We will then deploy some instances of our unikernels and watch as our applications run directly on top of a hypervisor.
+
+Led by Scott Weiss, EMC. Scott is a Software Engineer working on advanced development projects at EMC, with a passion for containerization, virtualization, and distributed computing.
+
+**Prerequisites:**
+
+Please ensure you have the following on your system:
+
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed
+* Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+* UniK docker images pre-built:
+  * Clone the [UniK repository](https://github.com/emc-advanced-dev/unik)
+  * Run `make` from the `unik` directory
 
 #### <a name="mesos"></a>_Using and Extending Apache Mesos_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
