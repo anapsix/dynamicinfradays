@@ -12,17 +12,17 @@ title: "Code of Conduct"
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/2016-boston-logo.png" height="234" width="300" style="margin: 10px auto 40px auto; display: block;">
 
-### Code of Conduct
+### Code of conduct
 
 **TL;DR: Be excellent with each other**
 
 All attendees, speakers, sponsors and volunteers at **ContainerDays Boston 2016** are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
-#### The Quick Version
+#### The short version
 
 **ContainerDays Boston 2016** is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the organisers.
 
-#### The Less Quick Version
+#### The longer version
 
 Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 

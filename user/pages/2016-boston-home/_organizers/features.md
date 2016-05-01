@@ -16,4 +16,4 @@ features:
 
 ## Organizers
 
-**ContainerDays Boston** is a genuine community event, organized by a group of committed volunteers. Meet the people who are putting in a _lot_ of spare time to make the event happen:
+**ContainerDays Boston** is a genuine community event, organized by a group of committed volunteers. Check out our [code of conduct](/2016-boston-conduct), and meet the people who are putting in a _lot_ of spare time to make the event happen:
