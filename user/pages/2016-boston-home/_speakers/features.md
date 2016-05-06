@@ -3,6 +3,9 @@ title: Speakers
 menu: Speakers
 class: big
 features:
+    - header: <a href="/2016-boston-programme#borjab">Borja Burgos</a>
+      text: "Borja leads the product direction of Docker's commercial services and solutions in the cloud."
+      icon: user
     - header: <a href="/2016-boston-programme#ionelg">Ionel Gog</a>
       text: "Ionel co-leads the development of Firmament and worked with the Borg team at Google and the cluster infrastructure team at Facebook."
       icon: user
@@ -54,5 +57,3 @@ features:
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](../#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

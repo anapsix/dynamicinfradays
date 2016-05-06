@@ -38,6 +38,12 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
+#### <a name="dockerdev"></a>_Docker For the Developer_ <span style="font-size: smaller">- [Borja Burgos](#borjab)</span>
+
+Docker recently announced Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop. Thanks to deeper integrations with the host system in terms of virtualization, networking, security and the file systems, Docker for Mac and Windows are redefining what it means to be a Docker developer. 
+
+Borja will provide an overview of Docker for Mac using a real-life example, and leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment.
+
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Scott Weiss](#scottw)</span>
 
 Mesos excels at sharing a common set of resources among multiple applications. However, the job of scheduling and management is left to the individual frameworks running on top of Mesos, which only know about their own tasks. As a result, frameworks must make decisions with "global", cluster-wide consequences based only on a restricted "local" view.
@@ -105,6 +111,16 @@ Technologies like Kubernetes and Mesos help users to deploy, manage and scale ap
 Endre and Enlin will talk about the VMTurbo team's key lessons and insights into the problem of providing real-time, demand-driven control over the entire IT stack, from applications to containers all the way down to the underlying infrastructure. They'll describe the application control plane, VMTurbo's approach to solving this problem, and will discuss how this applies to containerized and other environments.
 
 ### Speakers
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/borja-burgos.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="borjab"></a>Borja Burgos
+
+Borja leads the product direction of Docker's commercial services and solutions in the cloud. He is currently focused on the intersection of cloud and container technologies to enable organizations to efficiently build, ship, and run their applications.
+
+Borja is also a DIYer, gamer, foodie, and forever curious.
+
+You can find Borja on Twitter at [@borja_burgos](https://twitter.com/borja_burgos).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/ionel-gog.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

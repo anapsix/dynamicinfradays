@@ -33,7 +33,7 @@ Please note that the programme is provisional and subject to change.
 | 10:40-11:10am | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 11:10-11:55am | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
 | 11:10-11:55am | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
-| 11:55-12:40pm | Talk: _title TBC_ | [Borja Burgos](../#speakers), Docker |
+| 11:55-12:40pm | _[Docker For the Developer](/2016-boston-programme#dockerdev)_ | [Borja Burgos](../#speakers), Docker |
 | 11:55-12:40pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Scott Weiss](../#speakers), EMC |
 | 12:40-01:20pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:20-02:05pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
