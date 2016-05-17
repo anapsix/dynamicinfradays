@@ -69,7 +69,7 @@ Please plan to remove everything you bring at the end of the event. Items may no
 
 #### <a name="parking"></a>Parking
 
-There is a parking garage connected to the venue. Rates are $27 for the day.
+There is a parking garage connected to the venue. Rates are $30 for the day. There are also a number of parking lots and garages [close by](https://www.google.com/maps/search/parking/@42.3621294,-71.0890921,16z/data=!3m1!4b1!4m8!2m7!3m6!1sparking!2sMicrosoft+New+England+Research+and+Development+Center,+1+Memorial+Dr+%231,+Cambridge,+MA+02142!3s0x89e370a423d61825:0x58516248462c99eb!4m2!1d-71.0813553!2d42.361369) that may have slightly cheaper rates.
 
 #### <a name="accommodation"></a>Accommodation
 
