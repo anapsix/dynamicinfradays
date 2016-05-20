@@ -23,7 +23,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/mysql-logo.png" width="105" height="80" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/scalock-logo.png" width="202" height="51" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-boston/img/aqua-logo.png" width="140" height="47" style="margin: 3px 5px 3px 5px;">
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/navops-logo.png" width="140" height="42" style="margin: 3px 5px 3px 5px;">
 
