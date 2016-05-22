@@ -22,13 +22,11 @@ Bill and Shannon will walk through building a production-grade container environ
 
 The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
 
-#### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
+#### <a name="dockerdev"></a>_Docker For the Developer_ <span style="font-size: smaller">- [Borja Burgos](#borjab)</span>
 
-Containers are now an essential infrastructure building block in many organizations. While the tooling around getting your apps containerized and running is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
+Docker recently announced Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop. Thanks to deeper integrations with the host system in terms of virtualization, networking, security and the file systems, Docker for Mac and Windows are redefining what it means to be a Docker developer. 
 
-In this talk, Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
-
-What is overlay networking? What is VXLAN? How does it work? Is it good? Is it bad? Is it fast? Is it slow? Let's get these questions answered!
+Borja will provide an overview of Docker for Mac using a real-life example,  leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment, and share some thoughts on the vision for the Docker developer experience.
 
 #### <a name="secrets"></a>_Hiding in Plain Sight: Managing Secrets in a Container Environment_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
@@ -38,11 +36,11 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
-#### <a name="dockerdev"></a>_Docker For the Developer_ <span style="font-size: smaller">- [Borja Burgos](#borjab)</span>
+#### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
 
-Docker recently announced Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop. Thanks to deeper integrations with the host system in terms of virtualization, networking, security and the file systems, Docker for Mac and Windows are redefining what it means to be a Docker developer. 
+Regulated environments today have requirements and processes that were developed without awareness of container architecture, and it can be frustrating when seemingly arbitrary rules shut out use of promising new technology. For example, some popular container systems are illegal to use for running software which processes healthcare or other sensitive data. 
 
-Borja will provide an overview of Docker for Mac using a real-life example,  leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment, and share some thoughts on the vision for the Docker developer experience.
+Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
 
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Scott Weiss](#scottw)</span>
 
@@ -56,11 +54,13 @@ Containerized infrastructure allows workloads to share hardware via an orchestra
 
 Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
-#### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
+#### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
 
-Regulated environments today have requirements and processes that were developed without awareness of container architecture, and it can be frustrating when seemingly arbitrary rules shut out use of promising new technology. For example, some popular container systems are illegal to use for running software which processes healthcare or other sensitive data. 
+Containers are now an essential infrastructure building block in many organizations. While the tooling around getting your apps containerized and running is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
 
-Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
+In this talk, Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
+
+What is overlay networking? What is VXLAN? How does it work? Is it good? Is it bad? Is it fast? Is it slow? Let's get these questions answered!
 
 #### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
 

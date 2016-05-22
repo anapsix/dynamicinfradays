@@ -31,16 +31,16 @@ Please note that the programme is provisional and subject to change.
 | 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
 | 10:35-10:40am | Sponsor shout-out | |
 | 10:40-11:10am | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
-| 11:10-11:55am | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
+| 11:10-11:55am | _[Docker For the Developer](/2016-boston-programme#dockerdev)_ | [Borja Burgos](../#speakers), Docker |
 | 11:10-11:55am | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
-| 11:55-12:40pm | _[Docker For the Developer](/2016-boston-programme#dockerdev)_ | [Borja Burgos](../#speakers), Docker |
+| 11:55-12:40pm | _[ComplianceOps: Containers in Regulated Environments](/2016-boston-programme#compliance)_ | [Elliot Murphy](../#speakers), Kindly Ops |
 | 11:55-12:40pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Scott Weiss](../#speakers), EMC |
 | 12:40-01:20pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:20-02:05pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
 | 02:05-02:40pm | OpenSpaces session | |
 | 02:40-03:15pm | OpenSpaces session | |
 | 03:15-03:30pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 03:30-04:15pm | _[ComplianceOps: Containers in Regulated Environments](/2016-boston-programme#compliance)_ | [Elliot Murphy](../#speakers), Kindly Ops |
+| 03:30-04:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
 | 03:30-04:15pm | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ | [James Sturtevant](../#speakers), Microsoft |
 | 04:15-04:50pm | OpenSpaces session | |
 | 04:50-05:00pm | Day 1 wrap-up | |
