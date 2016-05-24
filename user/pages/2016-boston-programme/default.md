@@ -94,7 +94,7 @@ Docker layers can be fast for developers, but are also vulnerable if not audited
 
 Clair is a new open source container image security analyzer that enables developers to build services that scan containers for security threats and vulnerabilities. This API-driven analysis engine inspects containers layer-by-layer for known security flaws.
 
-Joey will provide an overview of Clair and use a real-life example to demonstrate how Clair is applied and able to automatically detect known vulnerabilities in Docker and rkt containers before they get exploited. Come see how it works, get started using Clair to easily build services that provide continuous monitoring for container vulnerabilities, and learn how to get involved with the development.
+Joey and Quentin will provide an overview of Clair and use a real-life example to demonstrate how Clair is applied and able to automatically detect known vulnerabilities in Docker and rkt containers before they get exploited. Come see how it works, get started using Clair to easily build services that provide continuous monitoring for container vulnerabilities, and learn how to get involved with the development.
 
 #### <a name="autopilot"></a>_Autopilot: Running Real-world Applications in Containers_ <span style="font-size: smaller">- [Tim Gross](#timg)</span>
 
