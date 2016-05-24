@@ -15,6 +15,9 @@ features:
     - header: <a href="/2016-boston-programme#chrisk">Chris Kuehl</a>
       text: "Chris is a Software Engineer at Yelp."
       icon: user
+    - header: <a href="/2016-boston-programme#quentinm">Quentin Machu</a>
+      text: "Quentin is an engineer on the Quay.io team."
+      icon: user
     - header: <a href="/2016-boston-programme#billm">Bill Maxwell</a>
       text: "Bill is DevOps Manager at Rancher Labs."
       icon: user

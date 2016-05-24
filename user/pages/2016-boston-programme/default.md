@@ -88,7 +88,7 @@ At Yelp, we launch hundreds of thousands of containers per day. They've become a
 
 Chris will reflect on Yelp's journey into Docker, discussing both the challenges and the wins it's brought us. He'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And he'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
 
-#### <a name="clair"></a>_Clair: The Container Image Security Analyzer_ <span style="font-size: smaller">- [Joey Schorr](#joeys)</span>
+#### <a name="clair"></a>_Clair: The Container Image Security Analyzer_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
 
 Docker layers can be fast for developers, but are also vulnerable if not audited for production. Wouldn't it be great to improve continuous integration with continuous vulnerability detection?
 
@@ -151,6 +151,14 @@ Chris is a Software Engineer at Yelp, working on a team with the goal of improvi
 His background is primarily in system administration and networking. At Yelp, he's spent much of his time trying to improve the way Yelp builds, tests, and deploys its products, often by integrating Docker.
 
 You can find Chris on Twitter at [@iamckuehl](https://twitter.com/iamckuehl).
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/quentin-machu.png" width="115" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="quentinm"></a>Quentin Machu
+
+Quentin is an engineer on the Quay team at CoreOS and completed an award-winning OpenStack project as part of his Masters in Computer Engineering. He is passionate about software engineering and distributed systems.
+
+You can find Quentin on Twitter at [@Quentin__M](https://twitter.com/quentin__m).
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
