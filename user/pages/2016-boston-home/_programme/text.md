@@ -28,7 +28,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays Boston 2016! |
 | 09:30-09:45am | Welcome, introduction, OpenSpaces explanation | |
 | 09:45-09:50am | Sponsor shout-out | |
-| 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
+| 09:50-10:35am | _[From Hello World to Real World: Creating a Production-Grade Container Environment](/2016-boston-programme#realworld)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/ShannonWilliams14/from-hello-world-to-real-world-container-days-boston-2016)</span> | [Bill Maxwell](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
 | 10:35-10:40am | Sponsor shout-out | |
 | 10:40-11:10am | OpenSpaces "ignite-off" | Quick intro to OpenSpaces and pitches for topics |
 | 11:10-11:55am | _[Docker For the Developer](/2016-boston-programme#dockerdev)_ | [Borja Burgos](../#speakers), Docker |
