@@ -22,7 +22,7 @@ Bill and Shannon will walk through building a production-grade container environ
 
 The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
 
-[slides](http://www.slideshare.net/ShannonWilliams14/from-hello-world-to-real-world-container-days-boston-2016) 
+[slides](http://www.slideshare.net/ShannonWilliams14/from-hello-world-to-real-world-container-days-boston-2016)
 
 #### <a name="dockerdev"></a>_Docker For the Developer_ <span style="font-size: smaller">- [Borja Burgos](#borjab)</span>
 
@@ -50,7 +50,7 @@ Mesos excels at sharing a common set of resources among multiple applications. H
 
 By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
 
-[slides](http://www.slideshare.net/ScottWeiss7/layerx-containerdays-slides-may-24-2016) 
+[slides](http://www.slideshare.net/ScottWeiss7/layerx-containerdays-slides-may-24-2016)
 
 #### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
 
