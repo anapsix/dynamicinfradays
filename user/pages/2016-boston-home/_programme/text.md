@@ -34,7 +34,7 @@ Please note that the programme is provisional and subject to change.
 | 11:10-11:55am | _[Docker For the Developer](/2016-boston-programme#dockerdev)_ | [Borja Burgos](../#speakers), Docker |
 | 11:10-11:55am | _[Hiding in Plain Sight: Managing Secrets in a Container Environment](/2016-boston-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
 | 11:55-12:40pm | _[ComplianceOps: Containers in Regulated Environments](/2016-boston-programme#compliance)_ | [Elliot Murphy](../#speakers), Kindly Ops |
-| 11:55-12:40pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ | [Scott Weiss](../#speakers), EMC |
+| 11:55-12:40pm | _[Layer-X: Globally-aware, Pluggable Scheduling for Mesos](/2016-boston-programme#layerx)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/ScottWeiss7/layerx-containerdays-slides-may-24-2016)</span> | [Scott Weiss](../#speakers), EMC |
 | 12:40-01:20pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:20-02:05pm | _[Understanding Cluster Schedulers, and Why You'll Want a Better One](/2016-boston-programme#schedulers)_ | [Ionel Gog](../#speakers), University of Cambridge & [Malte Schwarzkopf](../#speakers), MIT |
 | 02:05-02:40pm | OpenSpaces session | |
