@@ -110,6 +110,8 @@ Autopiloting is a powerful design pattern to address this problem. By moving the
 
 Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single `docker-compose up`, without complex changes to the application's architecture or custom orchestration by the container framework.
 
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-autopilot-running-realworld-applications-in-containers-tim-gross)
+
 #### <a name="itstack"></a>_Managing Your IT Stack to Assure Performance of Containerized Applications_ <span style="font-size: smaller">- [Endre Sara](#endres) & [Enlin Xu](#enlinx)</span>
 
 Technologies like Kubernetes and Mesos help users to deploy, manage and scale applications on bare metal physical servers, virtualized private datacenters, or across different public cloud service providers. With all of the various options of how and where to deploy your containerized application, controlling this complexity is a tough problem. How do you assure the performance of applications? How do you assure the efficiency of the underlying infrastructure? How do you know when to scale your cluster?
