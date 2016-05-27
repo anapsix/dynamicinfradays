@@ -86,6 +86,8 @@ Mike will address that question by taking a deep dive into how Barkly runs Kuber
 
 To keep things real, Mike will demo a Kubernetes production environment and may even through some chaos into the mix!
 
+[slides](http://www.slideshare.net/mikesplain/container-days-boston-kubernetes-in-production)
+
 #### <a name="stateful"></a>_Your Database and Other Stateful Applications in Containers? You Betcha!_ <span style="font-size: smaller">- [Jonas Rosland](#jonasr)</span>
 
 Running stateless applications in containers is fairly easy: you start up as many instances as you need and off you go. But when it comes to applications that need to store data - state - things can become more complicated. You need to take yet another layer of your application's infrastructure into account, the storage layer.
