@@ -38,6 +38,8 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-hiding-in-plain-sight-managing-secrets-in-a-container-environment-jeff-mitchell)
+
 #### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
 
 Regulated environments today have requirements and processes that were developed without awareness of container architecture, and it can be frustrating when seemingly arbitrary rules shut out use of promising new technology. For example, some popular container systems are illegal to use for running software which processes healthcare or other sensitive data. 
