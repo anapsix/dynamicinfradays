@@ -40,7 +40,7 @@ Please note that the programme is provisional and subject to change.
 | 02:05-02:40pm | OpenSpaces session | |
 | 02:40-03:15pm | OpenSpaces session | |
 | 03:15-03:30pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 03:30-04:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ | [Andrey Sibiryov](../#speakers), Uber Technologies |
+| 03:30-04:15pm | _[Introduction to Overlay Networks: The Good, The Bad and The Ugly](/2016-boston-programme#overlay)_ <span style="font-size: smaller">[slides](https://www.dropbox.com/s/5ub3ooxx4e4lt4q/Overlay%20Networks%20%E2%80%93%20Boston%20ContainerDays%202016.pdf?dl=0)</span> | [Andrey Sibiryov](../#speakers), Uber Technologies |
 | 03:30-04:15pm | _[Introducing Service Fabric: A Distributed Services Platform](/2016-boston-programme#servicefabric)_ <span style="font-size: smaller">[slides](https://onedrive.live.com/view.aspx?resid=51DD49FB37353C02!1384969&ithint=file%2cpptx&app=PowerPoint&authkey=!ANx6gXFVY1_FiSE)</span> | [James Sturtevant](../#speakers), Microsoft |
 | 04:15-04:50pm | OpenSpaces session | |
 | 04:50-05:00pm | Day 1 wrap-up | |
