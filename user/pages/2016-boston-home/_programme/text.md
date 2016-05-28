@@ -57,7 +57,7 @@ Please note that the programme is provisional and subject to change.
 | 09:45-10:30am | _[Kubernetes in Production, From the Ground Up](/2016-boston-programme#barkly)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/mikesplain/container-days-boston-kubernetes-in-production)</span> | [Mike Splain](../#speakers), Barkly |
 | 09:45-10:30am | _[Your Database and Other Stateful Applications in Containers? You Betcha!](/2016-boston-programme#stateful)_ | [Jonas Rosland](../#speakers), EMC {code} |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
-| 10:50-11:35am | _[Yelp's Journey Into Containers](/2016-boston-programme#yelp)_ | [Chris Kuehl](../#speakers), Yelp |
+| 10:50-11:35am | _[Yelp's Journey Into Containers](/2016-boston-programme#yelp)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1zx5PRuA8WJTL7rL-wCWF-aL6OQnBINg3Oqv7L3FmODc/pub?start=false&loop=false)</span> | [Chris Kuehl](../#speakers), Yelp |
 | 10:50-11:35am | _[Clair: The Container Image Security Analyzer](/2016-boston-programme#clair)_ | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |
 | 11:35-12:20pm | _[Autopilot: Running Real-world Applications in Containers](/2016-boston-programme#autopilot)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-autopilot-running-realworld-applications-in-containers-tim-gross)</span> | [Tim Gross](../#speakers), Joyent |
 | 11:35-12:20pm | _[Managing Your IT Stack to Assure Performance of Containerized Applications](/2016-boston-programme#itstack)_ | [Endre Sara](../#speakers) & [Enlin Xu](../#speakers), VMTurbo |
