@@ -338,6 +338,8 @@ Please ensure you have the following on your system:
   * Clone the [UniK repository](https://github.com/emc-advanced-dev/unik)
   * Run `make` from the `unik` directory
 
+[slides](http://www.slideshare.net/ScottWeiss7/unik-deploy-unikernels-with-ease)
+
 <img src="http://dynamicinfradays.org/events/2016-boston/img/kapil-arya.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="mesos"></a>_Using and Extending Apache Mesos_ <span style="font-size: smaller">- 2h, Intermediate</span>

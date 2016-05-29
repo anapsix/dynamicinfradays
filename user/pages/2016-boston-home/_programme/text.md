@@ -62,7 +62,7 @@ Please note that the programme is provisional and subject to change.
 | 11:35-12:20pm | _[Autopilot: Running Real-world Applications in Containers](/2016-boston-programme#autopilot)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-autopilot-running-realworld-applications-in-containers-tim-gross)</span> | [Tim Gross](../#speakers), Joyent |
 | 11:35-12:20pm | _[Managing Your IT Stack to Assure Performance of Containerized Applications](/2016-boston-programme#itstack)_ | [Endre Sara](../#speakers) & [Enlin Xu](../#speakers), VMTurbo |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
-| 01:00-02:50pm | Workshops | _[Multi-machine Docker: Getting to Grips With Docker Compose and Swarm](/2016-boston-programme#dockercomposeswarm)_<br/>_[UniK: Unikernels Made Simple](/2016-boston-programme#unik)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 01:00-02:50pm | Workshops | _[Multi-machine Docker: Getting to Grips With Docker Compose and Swarm](/2016-boston-programme#dockercomposeswarm)_<br/>_[UniK: Unikernels Made Simple](/2016-boston-programme#unik)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/ScottWeiss7/unik-deploy-unikernels-with-ease)</span><br/>Any other tool/framework [of your choice!](../#workshops) |
 | 02:50-03:05pm | Coffee break & exhibitor time | |
 | 03:05-04:50pm | Workshops ctd. | _[Kubernetes Deep Dive: From Basics to Advanced Features](/2016-boston-programme#kubernetes)_<br/>_[Using and Extending Apache Mesos](/2016-boston-programme#mesos)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:50-05:00pm | Thanks & closing discussion | |
