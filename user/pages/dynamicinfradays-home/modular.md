@@ -132,7 +132,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Paris<br>Jun 29 '16",
-    labelAnchor: new google.maps.Point(20, 50),
+    labelAnchor: new google.maps.Point(0, 5),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
