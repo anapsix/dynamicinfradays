@@ -124,6 +124,20 @@ function initialize() {
   });
 
   google.maps.event.addListener(hamburgMarker, "click", function (e) { location.href="/events/2016-hamburg/"});
+
+  var parisMarker = new MarkerWithLabel({
+    position: new google.maps.LatLng(48.8588, 2.2075),
+    draggable: false,
+    raiseOnDrag: false,
+    map: map,
+    icon: didLogo,
+    labelContent: "Paris<br>Jun 29 '16",
+    labelAnchor: new google.maps.Point(20, 50),
+    labelClass: "labels",
+    labelStyle: { opacity: 1 }
+  });
+
+  google.maps.event.addListener(parisMarker, "click", function (e) { location.href="/events/2016-paris/"});
 }
 initialize()
 </script>

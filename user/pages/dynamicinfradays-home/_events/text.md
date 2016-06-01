@@ -7,6 +7,7 @@ title: Events
 ##### Upcoming:
 
 * 2016, June 27-28th, [ContainerDays Hamburg](/events/2016-hamburg/), Hamburg, Germany
+* 2016, June 29th, [Paris Open Container Day](/events/2016-paris/), Paris, France
 * mid 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 
 ##### Past:
