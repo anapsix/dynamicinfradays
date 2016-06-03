@@ -374,4 +374,6 @@ Led by Ray Tsang, Google. Ray is a Developer Advocate for the Google Cloud Platf
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
+[more info](http://bit.ly/k8s-lab)
+
 <div style="text-align: center; display: block;"><em><strong>ContainerDays Boston 2016</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
