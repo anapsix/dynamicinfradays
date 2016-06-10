@@ -68,7 +68,7 @@ Ionel and Malte will give an overview of the state of the art in cluster schedul
 
 Containers are now an essential infrastructure building block in many organizations. While the tooling around getting your apps containerized and running is mature enough to be considered "stable", the glue that connects these containers together - the networking - is yet to be commoditized.
 
-In this talk, Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
+Andrey will introduce overlay networking, the most common tech behind a variety of projects claiming to solve networking for containers: Weave Net, CoreOS's flanneld, Docker's native multi-host networking and more.
 
 What is overlay networking? What is VXLAN? How does it work? Is it good? Is it bad? Is it fast? Is it slow? Let's get these questions answered!
 
