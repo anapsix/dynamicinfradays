@@ -22,7 +22,7 @@ Bill and Shannon will walk through building a production-grade container environ
 
 The journey will continue on to container networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new container service. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
 
-[slides](http://www.slideshare.net/ShannonWilliams14/from-hello-world-to-real-world-container-days-boston-2016)
+[slides](http://www.slideshare.net/ShannonWilliams14/from-hello-world-to-real-world-container-days-boston-2016) [video](https://www.youtube.com/watch?v=UdFm9tlSB_s)
 
 #### <a name="dockerdev"></a>_Docker For the Developer_ <span style="font-size: smaller">- [Borja Burgos](#borjab)</span>
 
