@@ -74,7 +74,7 @@ Andrey will introduce overlay networking, the most common tech behind a variety 
 
 What is overlay networking? What is VXLAN? How does it work? Is it good? Is it bad? Is it fast? Is it slow? Let's get these questions answered!
 
-[slides](https://www.dropbox.com/s/5ub3ooxx4e4lt4q/Overlay%20Networks%20%E2%80%93%20Boston%20ContainerDays%202016.pdf?dl=0)
+[slides](https://www.dropbox.com/s/5ub3ooxx4e4lt4q/Overlay%20Networks%20%E2%80%93%20Boston%20ContainerDays%202016.pdf?dl=0) [video](https://www.youtube.com/watch?v=TPoRwX6WhcU)
 
 #### <a name="servicefabric"></a>_Introducing Service Fabric: A Distributed Services Platform_ <span style="font-size: smaller">- [James Sturtevant](#jamess)</span>
 
