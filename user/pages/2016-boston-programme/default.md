@@ -64,7 +64,7 @@ Containerized infrastructure allows workloads to share hardware via an orchestra
 
 Ionel and Malte will give an overview of the state of the art in cluster scheduling, focusing both on industry practice and bleeding-edge academic research, and will discuss why good scheduling matters to cluster owners, developers, operations staff, and end-users alike. They will describe the Firmament scheduling platform, designed to make excellent placement decisions, flexibly enforce user-defined scheduling policies, and scale to tens of thousands of machines and hundreds of thousands of containers. Finally, they'll discuss ongoing integration efforts to bring Firmament to existing orchestration systems as a pluggable scheduler.
 
-[slides](https://docs.google.com/presentation/d/1LI7rlrij9CmPvkKe2NUbPPY90NnB-Lhqn3ga5b1XZd4/pub?start=false&loop=false)
+[slides](https://docs.google.com/presentation/d/1LI7rlrij9CmPvkKe2NUbPPY90NnB-Lhqn3ga5b1XZd4/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=7N_UfXYHE20)
 
 #### <a name="overlay"></a>_Introduction to Overlay Networks: The Good, The Bad and The Ugly_ <span style="font-size: smaller">- [Andrey Sibiryov](#andreys)</span>
 
