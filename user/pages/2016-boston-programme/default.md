@@ -48,7 +48,7 @@ Regulated environments today have requirements and processes that were developed
 
 Elliot will review common stumbling blocks encountered when trying to use containers while meeting HIPAA standards, recent developments that improve security, and some patterns that deliver both developer and compliance officer happiness.
 
-[slides](https://speakerdeck.com/statik/complianceops-containers-in-regulated-environments)
+[slides](https://speakerdeck.com/statik/complianceops-containers-in-regulated-environments) [video](https://www.youtube.com/watch?v=Qt3FccieGo8)
 
 #### <a name="layerx"></a>_Layer-X: Globally-aware, Pluggable Scheduling for Mesos_ <span style="font-size: smaller">- [Scott Weiss](#scottw)</span>
 
