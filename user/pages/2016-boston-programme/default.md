@@ -40,7 +40,7 @@ Build-time injection, built-in functionality of orchestration frameworks, distri
 
 Jeff will discuss various approaches and their respective pros, cons, do's and don'ts to help you make more informed decisions on how to balance usability and security for your team or organization.
 
-[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-hiding-in-plain-sight-managing-secrets-in-a-container-environment-jeff-mitchell)
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-hiding-in-plain-sight-managing-secrets-in-a-container-environment-jeff-mitchell) [video](https://www.youtube.com/watch?v=cUBEjCqPvk4)
 
 #### <a name="compliance"></a>_ComplianceOps: Containers in Regulated Environments_ <span style="font-size: smaller">- [Elliot Murphy](#elliotm)</span>
 
