@@ -82,7 +82,7 @@ Orchestration, automation, and monitoring are just some of the challenges when m
 
 James will describe the concepts, architecture and design choices underlying Service Fabric, and how these differ from other container approaches out there today. He'll discuss how Service Fabric helps solve the challenges of distributed computing, and explain why Microsoft has concluded that the Service Fabric approach is key to achieving this.
 
-[slides](https://onedrive.live.com/view.aspx?resid=51DD49FB37353C02!1384969&ithint=file%2cpptx&app=PowerPoint&authkey=!ANx6gXFVY1_FiSE)
+[slides](https://onedrive.live.com/view.aspx?resid=51DD49FB37353C02!1384969&ithint=file%2cpptx&app=PowerPoint&authkey=!ANx6gXFVY1_FiSE) [video](https://www.youtube.com/watch?v=unctjuATkhs)
 
 #### <a name="barkly"></a>_Kubernetes in Production, From the Ground Up_ <span style="font-size: smaller">- [Mike Splain](#mikes)</span>
 
