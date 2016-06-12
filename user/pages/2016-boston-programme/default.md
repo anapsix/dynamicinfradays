@@ -134,6 +134,8 @@ Technologies like Kubernetes and Mesos help users to deploy, manage and scale ap
 
 Endre and Enlin will talk about the VMTurbo team's key lessons and insights into the problem of providing real-time, demand-driven control over the entire IT stack, from applications to containers all the way down to the underlying infrastructure. They'll describe the application control plane, VMTurbo's approach to solving this problem, and will discuss how this applies to containerized and other environments.
 
+[video](https://www.youtube.com/watch?v=RHLcqHe8Sm8)
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/borja-burgos.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
