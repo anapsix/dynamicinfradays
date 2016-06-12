@@ -56,7 +56,7 @@ Mesos excels at sharing a common set of resources among multiple applications. H
 
 By adding a layer between Mesos and the frameworks running on top of it, we can plug in globally-aware scheduling, giving the Mesos frameworks and users the power to make more intelligent, efficient scheduling decisions. This allows management of tasks to take into account information such as cluster-wide state, other tasks running on the same machine, geographic location and other metadata. It also enables advanced use cases in Mesos, such as task migration, continuous placement, co-location of tasks across frameworks and others.
 
-[slides](http://www.slideshare.net/ScottWeiss7/layerx-containerdays-slides-may-24-2016)
+[slides](http://www.slideshare.net/ScottWeiss7/layerx-containerdays-slides-may-24-2016) [video](https://www.youtube.com/watch?v=jgVLyp2vEEI)
 
 #### <a name="schedulers"></a>_Understanding Cluster Schedulers, and Why You'll Want a Better One_ <span style="font-size: smaller">- [Ionel Gog](#ionelg) & [Malte Schwarzkopf](#maltes)</span>
 
