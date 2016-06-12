@@ -106,7 +106,7 @@ At Yelp, we launch hundreds of thousands of containers per day. They've become a
 
 Chris will reflect on Yelp's journey into Docker, discussing both the challenges and the wins it's brought us. He'll cover some of our open-source Docker projects, such as PaaSTA and dumb-init, and how we've used them to improve the developer experience and ship better code faster. And he'll discuss the strategies for integrating containers that have worked well, as well as the ones that have flopped.
 
-[slides](https://docs.google.com/presentation/d/1zx5PRuA8WJTL7rL-wCWF-aL6OQnBINg3Oqv7L3FmODc/pub?start=false&loop=false)
+[slides](https://docs.google.com/presentation/d/1zx5PRuA8WJTL7rL-wCWF-aL6OQnBINg3Oqv7L3FmODc/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=Op-MaSH-Lrs)
 
 #### <a name="clair"></a>_Clair: The Container Image Security Analyzer_ <span style="font-size: smaller">- [Joey Schorr](#joeys) & [Quentin Machu](#quentinm)</span>
 
