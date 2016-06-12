@@ -55,7 +55,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:40am | Day 2 kickoff | |
 | 09:40-09:45am | Sponsor shout-out | |
 | 09:45-10:30am | _[Kubernetes in Production, From the Ground Up](/2016-boston-programme#barkly)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/mikesplain/container-days-boston-kubernetes-in-production) [code](https://github.com/mikesplain/etcd_demo) [video](https://www.youtube.com/watch?v=M1mHGkrH_sI)</span> | [Mike Splain](../#speakers), Barkly |
-| 09:45-10:30am | _[Your Database and Other Stateful Applications in Containers? You Betcha!](/2016-boston-programme#stateful)_ | [Jonas Rosland](../#speakers), EMC {code} |
+| 09:45-10:30am | _[Your Database and Other Stateful Applications in Containers? You Betcha!](/2016-boston-programme#stateful)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=i6fbkrhEewU)</span> | [Jonas Rosland](../#speakers), EMC {code} |
 | 10:30-10:50am | Workshop "ignite-off" | Quick intro to "unworkshops" and pitches for topics |
 | 10:50-11:35am | _[Yelp's Journey Into Containers](/2016-boston-programme#yelp)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1zx5PRuA8WJTL7rL-wCWF-aL6OQnBINg3Oqv7L3FmODc/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=Op-MaSH-Lrs)</span> | [Chris Kuehl](../#speakers), Yelp |
 | 10:50-11:35am | _[Clair: The Container Image Security Analyzer](/2016-boston-programme#clair)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1ExQGZs-pQ56TpW_ifcUl2l_ml87fpCMY6-wdug87OFU/pub?start=false&loop=false) [video](https://www.youtube.com/watch?v=Kri67PtPv6s)</span> | [Joey Schorr](../#speakers) & [Quentin Machu](../#speakers), CoreOS |

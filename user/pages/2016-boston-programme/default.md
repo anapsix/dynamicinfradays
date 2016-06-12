@@ -100,6 +100,8 @@ Running stateless applications in containers is fairly easy: you start up as man
 
 How do you handle failover and data movement between hosts? How about quick and easy snapshotting of your data for testing and QA? Jonas will discuss and demonstrate how you can start running services like databases, caching engines and more!
 
+[video](https://www.youtube.com/watch?v=i6fbkrhEewU)
+
 #### <a name="yelp"></a>_Yelp's Journey Into Containers_ <span style="font-size: smaller">- [Chris Kuehl](#chrisk)</span>
 
 At Yelp, we launch hundreds of thousands of containers per day. They've become a critical part of our operations, used extensively during development, in test, and in production. But it wasn't always that way - Yelp had more than a decade of engineering done without containers, and is backed by large engineering teams used to the world without them.
