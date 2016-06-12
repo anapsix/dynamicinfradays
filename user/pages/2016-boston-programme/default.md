@@ -126,7 +126,7 @@ Autopiloting is a powerful design pattern to address this problem. By moving the
 
 Tim will demonstrate the autopiloting design pattern by applying it to a classic legacy application architecture: MySQL with replication. He'll show how replication bootstrapping, automated fail-over, and backups can all be had with a single `docker-compose up`, without complex changes to the application's architecture or custom orchestration by the container framework.
 
-[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-autopilot-running-realworld-applications-in-containers-tim-gross)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-autopilot-running-realworld-applications-in-containers-tim-gross) [video](https://www.youtube.com/watch?v=IwnUUJJw7UU)
 
 #### <a name="itstack"></a>_Managing Your IT Stack to Assure Performance of Containerized Applications_ <span style="font-size: smaller">- [Endre Sara](#endres) & [Enlin Xu](#enlinx)</span>
 
