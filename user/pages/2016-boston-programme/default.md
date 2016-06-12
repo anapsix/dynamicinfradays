@@ -28,7 +28,7 @@ The journey will continue on to container networking, load balancing and config 
 
 Docker recently announced Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop. Thanks to deeper integrations with the host system in terms of virtualization, networking, security and the file systems, Docker for Mac and Windows are redefining what it means to be a Docker developer. 
 
-Borja will provide an overview of Docker for Mac using a real-life example,  leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment, and share some thoughts on the vision for the Docker developer experience.
+Borja will provide an overview of Docker for Mac using a real-life example, leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment, and share some thoughts on the vision for the Docker developer experience.
 
 [video](https://www.youtube.com/watch?v=lJKgIlzqo-k)
 
