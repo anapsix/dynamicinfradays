@@ -100,7 +100,7 @@ Running stateless applications in containers is fairly easy: you start up as man
 
 How do you handle failover and data movement between hosts? How about quick and easy snapshotting of your data for testing and QA? Jonas will discuss and demonstrate how you can start running services like databases, caching engines and more!
 
-[video](https://www.youtube.com/watch?v=i6fbkrhEewU)
+[slides](http://www.slideshare.net/jonasrosland/running-stateful-services-in-containers-containerdays-boston-2016) [video](https://www.youtube.com/watch?v=i6fbkrhEewU)
 
 #### <a name="yelp"></a>_Yelp's Journey Into Containers_ <span style="font-size: smaller">- [Chris Kuehl](#chrisk)</span>
 
@@ -325,6 +325,8 @@ Led by Jonas Rosland, EMC {code}. Jonas is a Developer Advocate at EMC {code}, D
 Please ensure you have the following tools installed on your system:
 
 * If you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+
+[more info](http://container.training)
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/scott-weiss.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
