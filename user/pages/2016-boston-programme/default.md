@@ -30,7 +30,7 @@ Docker recently announced Docker for Mac and Windows Beta: the simplest way to u
 
 Borja will provide an overview of Docker for Mac using a real-life example, leverage Docker Cloud to quickly setup an automated continuously integrated development and staging environment, and share some thoughts on the vision for the Docker developer experience.
 
-[video](https://www.youtube.com/watch?v=lJKgIlzqo-k)
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-boston-2016-docker-for-the-developer-borja-burgos) [video](https://www.youtube.com/watch?v=lJKgIlzqo-k)
 
 #### <a name="secrets"></a>_Hiding in Plain Sight: Managing Secrets in a Container Environment_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
