@@ -5,7 +5,7 @@ menu: Connect
 
 #### I want to help and learn more!
 
-If you're interested in volunteering or attending; would like to sponsor or have a venue that you could make available, we'd love to [hear from you](mailto:info@dynamicinfradays.org)!
+If you're interested in volunteering or attending, would like to sponsor or have a venue that you could make available, are looking to put together an event in your local community, or would like us to add your event to the site, we'd love to [hear from you](mailto:info@dynamicinfradays.org)!
 
 #### Stay in touch
 
