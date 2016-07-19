@@ -56,6 +56,6 @@ $.get('http://crossorigin.me/' + eventPage)
     }
   })
   .error(function(jqXHR, textStatus, errorThrown) {
-    console.log('Failed to get ticket count');
+    console.log('Failed to get ticket count:' + errorThrown);
   });
 </script>
