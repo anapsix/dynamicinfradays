@@ -15,6 +15,7 @@ content:
             - _programme
             - _speakers
             - _sponsors
+            - _organizers
             - _connect
 ---
 
