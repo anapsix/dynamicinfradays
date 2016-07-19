@@ -7,6 +7,7 @@ title: Events
 ##### Upcoming:
 
 * late 2016, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
+* 2016, November 3-4th, [ContainerDays NYC](/events/2016-nyc/), New York, NY, USA
 
 ##### Past:
 

@@ -75,7 +75,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "NYC<br>Oct 29-30 '15",
+    labelContent: "NYC<br>Nov 3-4 '16",
     labelAnchor: new google.maps.Point(0, 5),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
