@@ -81,7 +81,7 @@ function initialize() {
     labelStyle: { opacity: 1 }
   });
 
-  google.maps.event.addListener(nycMarker, "click", function (e) { location.href="/events/2015-nyc/"});
+  google.maps.event.addListener(nycMarker, "click", function (e) { location.href="/events/2016-nyc/"});
 
   var bostonMarker = new MarkerWithLabel({
     position: new google.maps.LatLng(42.361369, -71.081355),
