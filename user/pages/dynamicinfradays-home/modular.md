@@ -103,7 +103,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Austin<br>mid '16",
+    labelContent: "Austin<br>late '16",
     labelAnchor: new google.maps.Point(20, 50),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
