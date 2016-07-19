@@ -27,7 +27,7 @@ Whether you're an expert or new to the space, there'll be plenty for you to lear
 
 <script>
 // eventPage
-var eventPage = 'http://www.eventbrite.com/e/containerdays-nyc-2016-tickets-26650870471';
+var eventPage = 'https://www.eventbrite.com/e/containerdays-nyc-2016-tickets-26650870471';
 
 // regex to grab tickets remaining element
 var reg = /(\d+)(\sTickets?)/;
