@@ -36,7 +36,7 @@ var reg = /(\d+)(\sTickets?)/;
 var tr = 'tickets';
 
 // do the thing
-$.get('http://crossorigin.me/[Access-Control-Allow-Origin:true]' + eventPage)
+$.get('http://crossorigin.me/' + eventPage)
   .success(function(data) {
     text = $('td[id="remaining_quant_52596310_None"]', data).text();
     hasWaitlist = /Add to Waitlist/.exec(data);
