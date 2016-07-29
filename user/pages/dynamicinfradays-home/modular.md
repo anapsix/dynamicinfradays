@@ -104,7 +104,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Austin<br>Oct 14-15 '16",
-    labelAnchor: new google.maps.Point(20, 50),
+    labelAnchor: new google.maps.Point(25, 50),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
