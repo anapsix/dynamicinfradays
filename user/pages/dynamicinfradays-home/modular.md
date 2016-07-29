@@ -118,7 +118,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Hamburg<br>Jun 27-28 '16",
-    labelAnchor: new google.maps.Point(20, 50),
+    labelAnchor: new google.maps.Point(20, 48),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
