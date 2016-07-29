@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4><strong>Coming up:</strong> late 2016, <strong><a href="/events/2016-austin">ContainerDays Austin 2016</a></strong>. See <a href="#events">all events</a></h4>
+<h4><strong>Coming up:</strong> October 14-15, <strong><a href="/events/2016-austin">ContainerDays Austin 2016</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
@@ -103,7 +103,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Austin<br>late '16",
+    labelContent: "Austin<br>Oct 14-15 '16",
     labelAnchor: new google.maps.Point(20, 50),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
