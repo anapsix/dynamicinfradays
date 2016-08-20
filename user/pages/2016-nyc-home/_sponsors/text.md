@@ -9,7 +9,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/sysdig-logo.png" width="250" height="70" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="138" height="105" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="163" height="110" style="margin: 3px 5px 3px 5px;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
