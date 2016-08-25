@@ -9,6 +9,14 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="110" style="margin: 3px 5px 3px 5px;">
 
+##### Silver sponsors
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/clusterhq-logo.png" width="212" height="60" style="margin: 3px 5px 3px 5px;">
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="268" height="55" style="margin: 0 10px 0 10px;">
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/navops-logo.png" width="140" height="42" style="margin: 3px 5px 3px 5px;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2016-nyc-sponsorship@dynamicinfradays.org)!
