@@ -15,7 +15,7 @@ menu: Sponsors
 
 ##### Silver sponsors
 
-<img src="http://dynamicinfradays.org/events/2016-boston/img/sysdig-logo.png" width="167" height="47" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 0 10px 0 10px;">
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 0 10px 0 10px;">
 
