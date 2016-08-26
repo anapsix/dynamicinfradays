@@ -17,9 +17,7 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-boston/img/sysdig-logo.png" width="167" height="47" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="209" height="41" style="margin: 0 10px 0 10px;">
-
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo-2.png" width="107" height="60" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 0 10px 0 10px;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
