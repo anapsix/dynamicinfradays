@@ -5,6 +5,12 @@ menu: Sponsors
 
 ## Sponsors
 
+#### Platinum sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-boston/img/deis-logo.png" width="312" height="85" style="margin: 0;">
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="312" height="105" style="margin: 0;">
+
 #### Gold sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="110" style="margin: 3px 5px 3px 5px;">
