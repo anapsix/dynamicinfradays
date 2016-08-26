@@ -15,6 +15,8 @@ menu: Sponsors
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="209" height="41" style="margin: 0 10px 0 10px;">
 
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo-2.png" width="95" height="50" style="margin: 3px 5px 3px 5px;">
+
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
 If you're interesting in taking part, please [get in touch](mailto:2016-nyc-sponsorship@dynamicinfradays.org)!
