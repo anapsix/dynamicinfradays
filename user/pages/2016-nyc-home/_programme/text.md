@@ -19,4 +19,46 @@ We're looking forward to thought-provoking talks and discussions, but at some po
 
 We'd like to apply the unconference idea to the workshops, too. There'll certainly be some guided, step-by-step sessions if you're looking to get started. But we're also encouraging you to team up with a couple of other participants, get hold of one of the speakers, sponsors or other experts running around, and try out some of the tools and concepts that come up in discussion.
 
-Programme details to come soon!
+Please note that the programme is provisional and subject to change.
+
+#### Thursday, November 3rd
+
+| Time    | Description          | Comment |
+|:-----------:|:-------------:|:-----------:|
+| 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays NYC 2016 |
+| 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
+| 10:00-10:05am | Sponsor shout-out | |
+| 10:05-10:50am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 10:50-10:55am | Sponsor shout-out | |
+| 10:55-11:25pm | OpenSpaces kick-off | Quick intro to OpenSpaces and pitches for topics |
+| 11:30-12:15pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
+| 01:00-01:45pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 01:50-02:25pm | OpenSpaces session | |
+| 02:30-03:05pm | OpenSpaces session | |
+| 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
+| 03:20-04:05pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 04:10-04:45pm | OpenSpaces session | |
+| 04:45-05:00pm | Day 1 wrap-up | |
+| 05:00pm | **Day 1 close** | |
+| evening | Thursday night drinks | If we can make it work ;-) Still looking for [sponsors](../#sponsors)! |
+
+#### Thursday, November 4th
+
+| Time    | Description          | Comment |
+|:-----------:|:-------------:|:-----------:|
+| 09:00-09:30am | Breakfast | |
+| 09:30-09:40am | Day 2 kickoff | |
+| 09:40-09:45am | Sponsor shout-out | |
+| 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 10:30-10:50pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
+| 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
+| 01:10-02:10pm | Workshops | Topics TBC |
+| 02:15-02:50pm | OpenSpaces session | |
+| 02:50-03:05pm | Coffee break & exhibitor time | |
+| 03:05-04:05pm | Workshops ctd. | Topics TBC |
+| 04:10-04:45pm | OpenSpaces session | |
+| 04:45-05:00pm | Thanks & closing discussion | |
+| 05:00pm | **Close** | |
