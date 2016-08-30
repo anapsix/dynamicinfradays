@@ -11,9 +11,9 @@ menu: Sponsors
 
 #### Gold sponsors
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="244" height="80" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="110"style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo-2.png" width="161" height="117" style="margin: 0 10px 0 10px;">
 
 ##### Silver sponsors
 
