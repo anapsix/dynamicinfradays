@@ -38,7 +38,7 @@ Please note that the programme is provisional and subject to change.
 | 02:30-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:20-04:05pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
-| 04:10-04:25pm | Day 1 wrap-up | |
+| 04:10-04:25pm | Day 1 notes & comments | |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
 | evening | Thursday night drinks | If we can make it work ;-) Still looking for [sponsors](../#sponsors)! |
@@ -55,7 +55,7 @@ Please note that the programme is provisional and subject to change.
 | 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
-| 01:10-01:20pm | Day 2 wrap-up | |
+| 01:10-01:20pm | Day 2 notes & comments | |
 | 01:20-02:20pm | Workshops | Topics TBC |
 | 02:25-03:00pm | OpenSpaces session | |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
