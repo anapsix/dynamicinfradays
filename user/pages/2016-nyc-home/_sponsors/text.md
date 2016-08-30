@@ -7,19 +7,19 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-[<img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;">](https://www.packet.net/)
+<a href="https://www.packet.net/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;"></a>
 
 #### Gold sponsors
 
-[<img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;">](http://www.redhat.com/)
+<a href="http://www.redhat.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;"></a>
 
-[<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;">](https://www.mysql.com/)
+<a href="https://www.mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a>
 
 ##### Silver sponsors
 
-[<img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 3px 5px 3px 5px;">](https://sysdig.com/)
+<a href="https://sysdig.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 3px 5px 3px 5px;"></a>
 
-[<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;">](http://rancher.com/)
+<a href="http://rancher.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;"></a>
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
