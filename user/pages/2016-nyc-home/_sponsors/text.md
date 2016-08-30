@@ -11,15 +11,15 @@ menu: Sponsors
 
 #### Gold sponsors
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="244" height="80" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="244" height="80" style="margin: 0 10px 0 10px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="110" style="margin: 3px 5px 3px 5px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="110"style="margin: 0 10px 0 10px;">
 
 ##### Silver sponsors
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 3px 5px 3px 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 0 10px 0 10px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;">
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
