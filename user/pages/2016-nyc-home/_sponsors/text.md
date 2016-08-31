@@ -7,7 +7,7 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-<div><a href="https://www.packet.net/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;"></a><div>
+<div><a href="https://www.packet.net/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;"></a></div>
 
 #### Gold sponsors
 
