@@ -29,9 +29,11 @@ He'll also demonstrate how Tsuru uses Docker today, and what improvements and ne
 
 #### <a name="franciscos"></a>Francisco Souza
 
-TODO
+Francisco is a Docker Captain and software engineer at The New York Times, working on the video publishing platform.
 
-You can find Francisco on Twitter at [@TODO](https://twitter.com/TODO)
+Before joining the Times, he was a software engineer at Globo.com, where he helped create Tsuru, an open source PaaS built on top of Docker.
+
+You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franciscosouza)
 
 ### Workshops
 
