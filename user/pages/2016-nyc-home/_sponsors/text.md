@@ -29,7 +29,13 @@ If you're interesting in taking part, please [get in touch](mailto:2016-nyc-spon
 
 ----
 
-## Thanks
+## <a name="thanks"></a>Thanks
+
+**Very special thanks** to **arvato** and **x.ai** for giving the organizers time to put this event together.
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/arvato-logo.png" width="97" height="40" style="margin: 0 5px 0 5px;">
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/xai-logo.png" width="40" height="45" style="margin: 0 5px 0 5px;">
 
 **A big thank you** goes to **[Microsoft New York](http://microsoftnewyork.com)** for hosting this event.
 <table style="border:none;vertical-align:middle;">
