@@ -35,7 +35,7 @@ If you're interesting in taking part, please [get in touch](mailto:2016-nyc-spon
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/arvato-logo.png" width="97" height="40" style="margin: 0 5px 0 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="120" height="28" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="108" height="37" style="margin: 0 5px 0 5px;">
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/xai-logo.png" width="44" height="50" style="margin: 0 5px 0 5px;">
 
