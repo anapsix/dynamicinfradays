@@ -31,7 +31,7 @@ If you're interesting in taking part, please [get in touch](mailto:2016-nyc-spon
 
 ## <a name="thanks"></a>Thanks
 
-**Very special thanks** to **arvato** and **x.ai** for giving the organizers time to put this event together.
+**Very special thanks** to **Lookout**, **arvato**, **Contino** and **x.ai** for giving the organizers time to put this event together.
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;">
 
