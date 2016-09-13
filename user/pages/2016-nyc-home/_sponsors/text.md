@@ -25,7 +25,7 @@ menu: Sponsors
 
 ##### Logo sponsors
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;">
+<div><a href="https://www.lookout.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;"></a></div>
 
 There are still sponsorship packages for this event available. See the [sponsorship tiers](/2016-nyc-sponsorship) for details.
 
