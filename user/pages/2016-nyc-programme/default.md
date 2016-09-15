@@ -27,7 +27,7 @@ He'll also demonstrate how Tsuru uses Docker today, and what improvements and ne
 
 Developing a usable approach to secret management in a container environment is a balancing act between functionality and attack surface. An understanding of security must be aligned with an understanding of practical workflows and capabilities and limitations of container technologies.
 
-The Vault team tackles this problem on a daily basis. In a layered approach accessible to security novices and experts alike, Jeff will explore the ways in which Vault thinks about security, and will describe the secure introduction problem.
+The Vault team tackles this problem on a daily basis. In a layered approach accessible to security novices and experts alike, Jeff will explore the ways in which the team thinks about security, and will describe the secure introduction problem.
 
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
