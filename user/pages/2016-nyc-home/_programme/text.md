@@ -56,8 +56,8 @@ Please note that the programme is provisional and subject to change.
 | 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:10-01:20pm | Day 2 notes & comments | |
-| 01:20-02:20pm | Workshops | Topics TBC |
-| 02:25-03:00pm | OpenSpaces session | |
+| 01:20-01:55pm | OpenSpaces session | |
+| 02:00-03:00pm | Workshops | Topics TBC |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
 | 03:15-04:15pm | Workshops ctd. | Topics TBC |
 | 04:20-04:55pm | OpenSpaces session | |
