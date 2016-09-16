@@ -57,13 +57,13 @@ You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franc
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tim-gross.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-#### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 2h, Intermediate</span>
+#### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 1h, Intermediate</span>
 
 With the rise of containers and microservice architectures, we're suddenly all finding ourselves building distributed systems. And these distributed systems are even harder to debug than the systems we were building just a few years ago. In this workshop, we'll examine tools and techniques for observability and manageability in container environments, including log drivers, metrics collection, and distributed tracing.
 
 We'll then take some steps into advanced territory and apply these tools and techniques to post-mortem debugging for distributed applications at scale.
 
-Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern.
+Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern. You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
