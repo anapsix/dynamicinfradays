@@ -63,7 +63,9 @@ With the rise of containers and microservice architectures, we're suddenly all f
 
 We'll then take some steps into advanced territory and apply these tools and techniques to post-mortem debugging for distributed applications at scale.
 
-Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern. You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
+Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern.
+
+You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
 
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
