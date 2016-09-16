@@ -33,7 +33,7 @@ Please note that the programme is provisional and subject to change.
 | 10:55-11:25pm | OpenSpaces kick-off | Quick intro to OpenSpaces and pitches for topics |
 | 11:30-12:15pm | _[Growing Up With Docker: How Docker and Tsuru Have Evolved](/2016-nyc-programme#tsuru)_ | [Francisco Souza](../#speakers), The New York Times |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 01:00-01:45pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
+| 01:00-01:45pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 01:50-02:25pm | OpenSpaces session | |
 | 02:30-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
@@ -53,7 +53,7 @@ Please note that the programme is provisional and subject to change.
 | 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:50pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
 | 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
-| 11:45-12:30pm | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 11:45-12:30pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
 | 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:10-01:20pm | Day 2 notes & comments | |
 | 01:20-01:55pm | OpenSpaces session | |
