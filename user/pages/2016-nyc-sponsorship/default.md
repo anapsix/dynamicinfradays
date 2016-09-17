@@ -42,7 +42,7 @@ Thank you for your interest in sponsoring ContainerDays NYC 2016! We have a numb
 * 4x **Logo sponsor**
   * Includes: 1 ticket; smaller logo on the event site.
   * Cost: USD 500
-  * 4 available
+  * 3 available
 
 #### <a name="participants"></a>Participant details
 
