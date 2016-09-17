@@ -45,9 +45,9 @@ He'll talk about the security principles encoded into Vault, how these can be ex
 
 #### <a name="joeb"></a>Joe Brockmeier
 
-Joe is a RHEL and container evangelist at Red Hat, a long-time participant in open source projects and a former technology journalist. Joe has worked as the openSUSE Community Manager, is an Apache Software Foundation (ASF) member, and participates heavily in the Fedora Cloud Working Group.
+Joe is a RHEL and container evangelist at Red Hat, a long-time participant in open source projects and a former technology journalist. He has worked as the openSUSE Community Manager, is an Apache Software Foundation member, and participates heavily in the Fedora Cloud Working Group.
 
-He is also a music junkie, vim loyalist and fan of polar bears and cats.
+Joe is also a music junkie, vim loyalist, and a fan of polar bears and cats.
 
 You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
 
