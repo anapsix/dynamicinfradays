@@ -23,6 +23,14 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+#### <a name="package"></a>_Thinking Inside the Box: Can Containers Solve the Package Problem?_ <span style="font-size: smaller">- [Joe Brockmeier](#joeb)</span>
+
+"In the beginning there was RPM, and it was good." Certainly, Linux packaging has solved many of the problems involved in shipping software, from creation to consumption and maintenance. As software development and deployment have evolved, however, new pain points have cropped up that have not been solved by traditional packaging tools.
+
+Are containers the answer? They may be able to solve many of the current problems, but they also introduce a new set of issues and ignore important lessons from the evolution of distribution-level packaging.
+
+Joe will look at the problems posed by traditional packaging tools and language-specific formats in today's environment, and will talk about how containers and other modern approaches try to address these issues. He'll examine if and how these techniques fall short of a convincing solution, and will discuss some of the key remaining challenges.
+
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
 Developing a usable approach to secret management in a container environment is a balancing act between functionality and attack surface. An understanding of security must be aligned with an understanding of practical workflows and capabilities and limitations of container technologies.
@@ -32,6 +40,16 @@ The Vault team tackles this problem on a daily basis. In a layered approach acce
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
 ### Speakers
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/joe-brockmeier.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="joeb"></a>Joe Brockmeier
+
+Joe is a RHEL and container evangelist at Red Hat, a long-time participant in open source projects and a former technology journalist. Joe has worked as the openSUSE Community Manager, is an Apache Software Foundation (ASF) member, and participates heavily in the Fedora Cloud Working Group.
+
+He is also a music junkie, vim loyalist and fan of polar bears and cats.
+
+You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
