@@ -35,11 +35,11 @@ Joe will look at the problems posed by traditional packaging tools and language-
 
 Kubernetes provides a powerful framework and great tooling to control hundreds of heterogenous workloads on thousands of machines. In a production environment, however, the collection of metrics to automatically detect and act on issues in such a cluster is essential. Prometheus was created to meet such needs: highly dynamic scheduling, automatic service discovery, and reliable operations.
 
-Tobias will describe some of challenges of trying to monitor a Kubernetes installation "traditionally", and will outline the motivations for creating Prometheus. He'll briefly describe the Prometheus architecture and will explain how to run and configure Prometheus to scrape a Kubernetes cluster.
+Tobias will describe some of the challenges of trying to monitor a Kubernetes installation "traditionally", and will outline the motivations for creating Prometheus. He'll briefly describe the Prometheus architecture and will explain how to configure and run Prometheus to scrape a Kubernetes cluster.
 
 Tobias will demonstrate common configurations to collect native Kubernetes metrics, and will show how to use Prometheus' service discovery to scrape application metrics from running pods. He'll then use this data to gain more insight into cluster components and present some example dashboards and alert definitions.
 
-Come and see how monitoring a complex Kubernetes systems can be easy and...perhaps even...fun!
+Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
