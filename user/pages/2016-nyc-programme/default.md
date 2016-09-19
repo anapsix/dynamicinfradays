@@ -31,6 +31,16 @@ Are containers the answer? They may be able to solve many of the current problem
 
 Joe will look at the problems posed by traditional packaging tools and language-specific formats in today's environment, and will talk about how containers and other modern approaches try to address these issues. He'll examine if and how these techniques fall short of a convincing solution, and will discuss some of the key remaining challenges.
 
+#### <a name="prometheus"></a>_Monitoring Kubernetes in Production with Prometheus_ <span style="font-size: smaller">- [Tobias Schmidt](#tobiass)</span>
+
+Kubernetes provides a powerful framework and great tooling to control hundreds of heterogenous workloads on thousands of machines. In a production environment, however the collection of metrics to automatically detect and act on issues in such a cluster is essential. Prometheus was created to meet such needs: highly dynamic scheduling, automatic service discovery, and reliable operations.
+
+Tobias will describe some of challenges of trying to monitor a Kubernetes installation "traditionally", and will outline the motivations for creating Prometheus. He'll briefly describe the Prometheus architecture and will explain how to run and configure Prometheus to scrape a Kubernetes cluster.
+
+Tobias will demonstrate common configurations to collect native Kubernetes metrics, and will show how to use Prometheus' service discovery to scrape application metrics from running pods. He'll then use this data to gain more insight into cluster components and present some example dashboards and alert definitions.
+
+Come and see how monitoring a complex Kubernetes systems can be easy and...perhaps even...fun!
+
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
 Developing a usable approach to secret management in a container environment is a balancing act between functionality and attack surface. An understanding of security must be aligned with an understanding of practical workflows and capabilities and limitations of container technologies.
@@ -60,6 +70,16 @@ Jeff has hacked on dozens of open-source projects over the past decade. He joine
 He is now living the dream of being paid to work on open-source software full-time as the project lead on Vault. He is currently enjoying life in Boston with his wife, daughter, and two excessively needy cats.
 
 You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/tobias-schmidt.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="tobiass"></a>Tobias Schmidt
+
+Tobias is a production engineer at SoundCloud and an active contributor to the Prometheus and Kubernetes ecosystems.
+
+Over the last few years he has helped introduce Kubernetes as SoundCloud's new container orchestration system, integrated Prometheus with the SoundCloud infrastructure, and worked with many product teams to help them gain more insight into their applications and services.
+
+You can find Tobias on Twitter at [@dagrobie](https://twitter.com/dagrobie).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/francisco-souza.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

@@ -52,7 +52,7 @@ Please note that the programme is provisional and subject to change.
 | 09:40-09:45am | Sponsor shout-out | |
 | 09:45-10:30am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
 | 10:30-10:50pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
-| 10:55-11:40am | Talk: _title TBC_ | [Speaker TBC](../#speakers) |
+| 10:55-11:40am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
 | 11:45-12:30pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
 | 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:10-01:20pm | Day 2 notes & comments | |
