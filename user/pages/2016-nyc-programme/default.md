@@ -77,7 +77,7 @@ You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
 
 Tobias is a production engineer at SoundCloud and an active contributor to the Prometheus and Kubernetes ecosystems.
 
-Over the last few years he has helped introduce Kubernetes as SoundCloud's new container orchestration system, integrated Prometheus with the SoundCloud infrastructure, and worked with many product teams to help them gain more insight into their applications and services.
+Over the last few years he has helped introduce Kubernetes as SoundCloud's new container orchestration system, integrated Prometheus into the SoundCloud infrastructure, and worked with many product teams to help them gain insight into their applications and services.
 
 You can find Tobias on Twitter at [@dagrobie](https://twitter.com/dagrobie).
 
