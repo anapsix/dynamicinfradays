@@ -3,6 +3,9 @@ title: Speakers
 menu: Speakers
 class: big
 features:
+    - header: <a href="/2016-nyc-programme#ioanab">Ioana Baldini</a>
+      text: "Ioana Baldini is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure."
+      icon: user
     - header: <a href="/2016-nyc-programme#joeb">Joe Brockmeier</a>
       text: "Joe is a RHEL and container evangelist at Red Hat and a long-time participant in open source projects."
       icon: user
@@ -14,6 +17,9 @@ features:
       icon: user
     - header: <a href="/2016-nyc-programme#franciscos">Francisco Souza</a>
       text: "Francisco is a Docker Captain and software engineer at The New York Times."
+      icon: user
+    - header: <a href="/2016-nyc-programme#philippes">Philippe Suter</a>
+      text: "Philippe Suter is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk."
       icon: user
 ---
 

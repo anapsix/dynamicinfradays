@@ -23,6 +23,14 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+#### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Ioana Baldini](#ioanab) & [Philippe Suter](#philippes)</span>
+
+OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to your microservice architecture. Ioana and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
+
+They'll then dive into the architecture of OpenWhisk in more detail, discussing how it uses containers internally, and describing some of the challenges and lessons learned in building a serverless platform.
+
+Ioana and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
+
 #### <a name="package"></a>_Thinking Inside the Box: Can Containers Solve the Package Problem?_ <span style="font-size: smaller">- [Joe Brockmeier](#joeb)</span>
 
 "In the beginning there was RPM, and it was good." Certainly, Linux packaging has solved many of the problems involved in shipping software, from creation to consumption and maintenance. As software development and deployment have evolved, however, new pain points have cropped up that have not been solved by traditional packaging tools.
@@ -50,6 +58,16 @@ The Vault team tackles this problem on a daily basis. In a layered approach acce
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
 ### Speakers
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/ioana-baldini.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="ioanab"></a>Ioana Baldini
+
+Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure. In the past, Ioana worked on various projects spanning domains such as computer architecture, heterogeneous runtime systems, and system performance analysis.
+
+Ioana holds Masters and PhD degrees in Electrical and Computer Engineering from University of Toronto.
+
+You can find Ioana on Twitter at [@ioanauoft](https://twitter.com/ioanauoft).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/joe-brockmeier.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
@@ -90,6 +108,16 @@ Francisco is a Docker Captain and software engineer at The New York Times, worki
 Before joining the Times, he was a software engineer at Globo.com, where he helped create Tsuru, an open source PaaS built on top of Docker.
 
 You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franciscosouza)
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/ioana-baldini.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="philippes"></a>Philippe Suter
+
+Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk. His interests lie in high-level programming models that improve developers' experience.
+
+He obtained in 2012 a PhD from the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL), where he worked on formal specification, verification, and synthesis of functional programs.
+
+You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
 
 ### Workshops
 
