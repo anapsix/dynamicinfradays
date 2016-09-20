@@ -41,7 +41,7 @@ Please note that the programme is provisional and subject to change.
 | 04:10-04:25pm | Day 1 notes & comments | |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Thursday night drinks | If we can make it work ;-) Still looking for [sponsors](../#sponsors)! |
+| evening | Thursday night drinks | Venue details to come soon! |
 
 #### Thursday, November 4th
 

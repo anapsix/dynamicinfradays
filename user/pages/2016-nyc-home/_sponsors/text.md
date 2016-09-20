@@ -23,6 +23,10 @@ menu: Sponsors
 
 <a href="http://rancher.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;"></a></div>
 
+##### Thursday night party sponsors
+
+<div><a href="https://www.joyent.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/joyent-logo.png" width="136" height="40" style="margin: 0 5px 0 5px;"></a></div>
+
 ##### Logo sponsors
 
 <div><a href="https://www.lookout.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/lookout-logo.png" width="141" height="40" style="margin: 0 5px 0 5px;"></a></div>
