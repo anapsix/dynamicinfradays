@@ -25,7 +25,7 @@ menu: Sponsors
 
 ##### Thursday night party sponsors
 
-<div><a href="https://www.joyent.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/joyent-logo.png" width="129" height="38" style="margin: 0 5px 0 5px;"></a></div>
+<div><a href="https://joyent.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/joyent-logo.png" width="129" height="38" style="margin: 0 5px 0 5px;"></a></div>
 
 ##### Logo sponsors
 
