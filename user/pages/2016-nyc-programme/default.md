@@ -25,9 +25,9 @@ He'll also demonstrate how Tsuru uses Docker today, and what improvements and ne
 
 #### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Ioana Baldini](#ioanab) & [Philippe Suter](#philippes)</span>
 
-OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to your microservice architecture. Ioana and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
+OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to microservice architectures. Ioana and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
 
-They'll then dive into the architecture of OpenWhisk in more detail, discussing how it uses containers internally, and describing some of the challenges and lessons learned in building a serverless platform.
+They'll then dive into the architecture of OpenWhisk in more detail, discussing how it uses containers internally, and will describe some of the challenges in, and lessons learned from, building a serverless platform.
 
 Ioana and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
 
