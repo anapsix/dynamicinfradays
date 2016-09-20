@@ -7,13 +7,13 @@ menu: Sponsors
 
 #### Platinum sponsor
 
-<div><a href="https://www.packet.net/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;"></a></div>
+<div><a href="https://packet.net/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/packet-logo.png" width="282" height="95" style="margin: 0;"></a></div>
 
 #### Gold sponsors
 
-<div><a href="http://www.redhat.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;"></a>
+<div><a href="http://redhat.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;"></a>
 
-<a href="https://www.mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a></div>
+<a href="https://mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a></div>
 
 ##### Silver sponsors
 
