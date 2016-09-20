@@ -107,7 +107,7 @@ Francisco is a Docker Captain and software engineer at The New York Times, worki
 
 Before joining the Times, he was a software engineer at Globo.com, where he helped create Tsuru, an open source PaaS built on top of Docker.
 
-You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franciscosouza)
+You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franciscosouza).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/philippe-suter.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
