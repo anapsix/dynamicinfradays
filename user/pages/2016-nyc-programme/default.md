@@ -109,7 +109,7 @@ Before joining the Times, he was a software engineer at Globo.com, where he help
 
 You can find Francisco on Twitter at [@franciscosouza](https://twitter.com/franciscosouza)
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/ioana-baldini.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/philippe-suter.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="philippes"></a>Philippe Suter
 
