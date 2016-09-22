@@ -15,7 +15,7 @@ menu: Sponsors
 
 <a href="https://mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a>
 
-<a href="https://sysdig.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="266" height="75" style="margin: 3px 5px 3px 5px;"></a></div>
+<a href="https://sysdig.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="241" height="68" style="margin: 3px 5px 3px 5px;"></a></div>
 
 ##### Silver sponsors
 
