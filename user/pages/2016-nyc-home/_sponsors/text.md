@@ -13,13 +13,13 @@ menu: Sponsors
 
 <div><a href="http://redhat.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/redhat-logo.png" width="229" height="75" style="margin: 0 10px 0 10px;"></a>
 
-<a href="https://mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a></div>
+<a href="https://mysql.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/mysql-logo.png" width="161" height="116" style="margin: 0 10px 0 10px;"></a>
+
+<a href="https://sysdig.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="266" height="75" style="margin: 3px 5px 3px 5px;"></a></div>
 
 ##### Silver sponsors
 
-<div><a href="https://sysdig.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/sysdig-logo.png" width="167" height="47" style="margin: 3px 5px 3px 5px;"></a>
-
-<a href="https://deis.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/deis-logo.png" width="176" height="49" style="margin: 3px 5px 3px 5px;"></a>
+<div><a href="https://deis.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/deis-logo.png" width="176" height="49" style="margin: 3px 5px 3px 5px;"></a>
 
 <a href="http://rancher.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;"></a>
 
