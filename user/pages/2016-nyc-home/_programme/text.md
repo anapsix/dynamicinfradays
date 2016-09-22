@@ -43,7 +43,7 @@ Please note that the programme is provisional and subject to change.
 | 05:00pm | **Day 1 close** | |
 | evening | Thursday night drinks | Venue details to come soon! |
 
-#### Thursday, November 4th
+#### Friday, November 4th
 
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
