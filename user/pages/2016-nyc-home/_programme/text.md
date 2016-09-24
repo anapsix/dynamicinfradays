@@ -50,7 +50,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:40am | Day 2 kickoff | |
 | 09:40-09:45am | Sponsor shout-out | |
-| 09:45-10:30am | _[Building A Data Pipeline on GKE at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
+| 09:45-10:30am | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
 | 10:30-10:50pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
 | 10:55-11:40am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
 | 11:45-12:30pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |

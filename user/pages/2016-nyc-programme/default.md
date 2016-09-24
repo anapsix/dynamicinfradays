@@ -39,7 +39,7 @@ Are containers the answer? They may be able to solve many of the current problem
 
 Joe will look at the problems posed by traditional packaging tools and language-specific formats in today's environment, and will talk about how containers and other modern approaches try to address these issues. He'll examine if and how these techniques fall short of a convincing solution, and will discuss some of the key remaining challenges.
 
-#### <a name="arbor"></a>_Building A Data Pipeline on GKE at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
+#### <a name="arbor"></a>_Building A Data Pipeline on Google Container Engine at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
 
 Arbor is the marketplace for people-based data. We'll trace the path that led Arbor to build their data pipeline on GKE, the Google Container Engine, and share lessons and recommendations from the Arbor team's journey.
 
