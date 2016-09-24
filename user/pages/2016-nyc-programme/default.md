@@ -39,6 +39,16 @@ Are containers the answer? They may be able to solve many of the current problem
 
 Joe will look at the problems posed by traditional packaging tools and language-specific formats in today's environment, and will talk about how containers and other modern approaches try to address these issues. He'll examine if and how these techniques fall short of a convincing solution, and will discuss some of the key remaining challenges.
 
+#### <a name="arbor"></a>_Building A Data Pipeline on GKE at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
+
+Arbor is the marketplace for people-based data. We'll trace the path that led Arbor to build their data pipeline on GKE, the Google Container Engine, and share lessons and recommendations from the Arbor team's journey.
+
+Processing the large volumes of data central to Arbor's business involves tough challenges and demanding requirements. Joshua will start by briefly describing these, and why the team decided that they needed to move from the "old" Arbor stack to something new.
+
+He'll talk about why Arbor opted for Kubernetes and Google Container Engine as the most suitable way of managing their Kubernetes stack, and will touch on some of the benefits of running on GKE vs. using one of many "Kubernetes management platforms" out there.
+
+Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
+
 #### <a name="prometheus"></a>_Monitoring Kubernetes in Production with Prometheus_ <span style="font-size: smaller">- [Tobias Schmidt](#tobiass)</span>
 
 Kubernetes provides a powerful framework and great tooling to control hundreds of heterogenous workloads on thousands of machines. In a production environment, however, the collection of metrics to automatically detect and act on issues in such a cluster is essential. Prometheus was created to meet such needs: highly dynamic scheduling, automatic service discovery, and reliable operations.
@@ -78,6 +88,14 @@ Joe is a RHEL and container evangelist at Red Hat, a long-time participant in op
 Joe is also a music junkie, vim loyalist, and fan of polar bears and cats.
 
 You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/joshua-kwan.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="joshuak"></a>Joshua Kwan
+
+Joshua is a Senior Software Engineer at Arbor Technologies. He is passionate about deployment processes and infrastructure that make engineers around him able to get more done with less effort.
+
+You can find Joshua on Twitter at [@joshk0](https://twitter.com/joshk0).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
