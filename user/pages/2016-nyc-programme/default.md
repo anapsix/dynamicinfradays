@@ -153,9 +153,9 @@ Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops C
 
 #### <a name="rkt"></a>_Hands-on rkt: Running Containers with rkt on Kubernetes and More_ <span style="font-size: smaller">- 1h, Beginner</span>
 
-This workshop will teach you how to download, start, build, and sign your own application using rkt, the container runtime engine by CoreOS, and use it with Kubernetes and other frameworks.
+This workshop will teach you how to download, start, build, and sign your own application using rkt, and use it with Kubernetes and other frameworks.
 
-We will start with a short introduction to rkt, how to install and configure it, and how your application can be started using different flavors like fly, kvm, and CoreOS Linux. We'll then introduce pods and explain why they are useful, before creating our own pod and deploy our application to Kubernetes with rktnetes.
+We will start with a short introduction to rkt, the container runtime engine by CoreOS: how to install and configure it, and how your application can be started using different flavors like fly, kvm, and CoreOS Linux. We'll then introduce pods and explain why they are useful, before creating our own pod to deploy our application to Kubernetes with rktnetes.
 
 Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay. You can find Brad on Twitter at [@bison__](https://twitter.com/bison__).
 
