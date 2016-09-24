@@ -16,7 +16,7 @@ features:
       text: "Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay."
       icon: user
     - header: <a href="/2016-nyc-programme#joshuak">Joshua Kwan</a>
-      text: "Joshua is a Senior Software Engineer at Arbor Technologies  passionate about helping engineers get more done with less effort."
+      text: "Joshua is a Senior Software Engineer at Arbor Technologies, passionate about helping engineers get more done with less effort."
       icon: user
     - header: <a href="/2016-nyc-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
