@@ -41,7 +41,7 @@ Joe will look at the problems posed by traditional packaging tools and language-
 
 #### <a name="arbor"></a>_Building A Data Pipeline on Google Container Engine at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
 
-Arbor is the marketplace for people-based data. We'll trace the path that led Arbor to build their data pipeline on GKE, the Google Container Engine, and share lessons and recommendations from the Arbor team's journey.
+Arbor is the marketplace for people-based data. Trace the path that led Arbor to build their data pipeline on Google Container Engine (GKE), and share lessons and recommendations from the Arbor team's journey.
 
 Processing the large volumes of data central to Arbor's business involves tough challenges and demanding requirements. Joshua will start by briefly describing these, and why the team decided that they needed to move from the "old" Arbor stack to something new.
 
