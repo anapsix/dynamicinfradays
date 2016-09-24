@@ -57,9 +57,9 @@ Please note that the programme is provisional and subject to change.
 | 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:10-01:20pm | Day 2 notes & comments | |
 | 01:20-01:55pm | OpenSpaces session | |
-| 02:00-03:00pm | Workshops | _[Observability and Manageability in a Container Environment](/2016-nyc-programme#observability)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 02:00-03:00pm | Workshops | _[Hands-on rkt: Running Containers with rkt on Kubernetes and More](/2016-nyc-programme#rkt)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:15pm | Workshops ctd. | Topics TBC |
+| 03:15-04:15pm | Workshops ctd. | _[Observability and Manageability in a Container Environment](/2016-nyc-programme#observability)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 04:20-04:55pm | OpenSpaces session | |
 | 04:55-05:00pm | Thanks & closing discussion | |
 | 05:00pm | **Close** | |
