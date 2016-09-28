@@ -43,7 +43,7 @@ Joe will look at the problems posed by traditional packaging tools and language-
 
 Arbor is the marketplace for people-based data. Trace the path that led Arbor to build their data pipeline on Google Container Engine (GKE), and share lessons and recommendations from the Arbor team's journey.
 
-Arbor's role in the adtech sector means serving 20,000 HTTP requests per second and processing hundreds of gigabytes of data daily. Joshua will describe the story of how, after experiencing some scary pain points with their "old" stack, the Arbor engineering team decided to give Kubernetes a shot, and how doing so has benefited the company in terms of flexibility, stability and scalability.
+Arbor's role in the adtech sector means serving 20,000 HTTP requests per second and processing hundreds of gigabytes of data daily. Joshua will describe the story of how, after experiencing some scary pain points with their Fleet-based stack, the Arbor engineering team decided to give Kubernetes a shot, and how doing so has benefited the company in terms of flexibility, stability and scalability.
 
 He'll talk about why Arbor opted for Google Container Engine as the most suitable way of managing their Kubernetes stack, and will touch on some of the benefits of running on GKE vs. using one of many "Kubernetes management platforms" out there.
 
