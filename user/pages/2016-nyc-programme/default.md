@@ -23,9 +23,9 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
-#### <a name="12factors"></a>_The 12-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#cwest)</span>
+#### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#cwest)</span>
 
-Adam Wiggins' seminal essay "The twelve-factor app" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
+Adam Wiggins' seminal essay "The Twelve-Factor App" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
 
 Containers rose in popularity on an oft used metaphor: lightweight virtual machines. The idea of even more efficient resource utilization makes sense. Unfortunately, it's a problematic metaphor.
 
@@ -147,7 +147,7 @@ He obtained in 2012 a PhD from the Swiss Federal Institute of Technology in Laus
 
 You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/casey-west.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/casey-west.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="caseyw"></a>Casey West
 
