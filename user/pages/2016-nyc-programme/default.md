@@ -23,6 +23,16 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+#### <a name="12factors"></a>_The 12-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#cwest)</span>
+
+Adam Wiggins' seminal essay "The twelve-factor app" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
+
+Containers rose in popularity on an oft used metaphor: lightweight virtual machines. The idea of even more efficient resource utilization makes sense. Unfortunately, it's a problematic metaphor.
+
+There is overlap in ideal capabilities between VMs and containers but it isn't complete. Containers represent a constrained set of capabilities compared to virtual machines in order to make fine-grained guarantees about resource constraints and process isolation. Newcomers to the container ecosystem begin with a "lightweight VM" understanding and fall victim to specific anti-patterns.
+
+Casey will examine these anti-patterns and other common pitfalls in containerization and will describe how you can avoid them - a discussion relevant both for developers who wish to gain greater understanding of the environment their applications are deployed to, and operators interested in the benefits of containers for their architecture.
+
 #### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Ioana Baldini](#ioanab) & [Philippe Suter](#philippes)</span>
 
 OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to microservice architectures. Ioana and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
@@ -136,6 +146,16 @@ Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk. Hi
 He obtained in 2012 a PhD from the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL), where he worked on formal specification, verification, and synthesis of functional programs.
 
 You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/casey-west.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="caseyw"></a>Casey West
+
+Casey wears the mantle of Principal Technologist focused on Pivotal’s Cloud Foundry Platform. His speaking and writing ranges from open source communities and culture to technical architecture and automation tips and tricks.
+
+Working in Internet infrastructure, web app security, and design taught Casey to be a paranoid, UX-oriented, problem solving Internet plumber; his earliest contributions to Perl live to this day on your Mac.
+
+Casey lives in Pittsburgh raising three sarcastic children. You can find him on Twitter at [@TODO](https://twitter.com/TODO).
 
 ### Workshops
 

@@ -30,9 +30,11 @@ features:
     - header: <a href="/2016-nyc-programme#philippes">Philippe Suter</a>
       text: "Philippe Suter is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
+    - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
+      text: "Casey wears the mantle of Principal Technologist focused on Pivotal’s Cloud Foundry Platform."
+      icon: user
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
