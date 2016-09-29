@@ -23,7 +23,7 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
-#### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#cwest)</span>
+#### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#caseyw)</span>
 
 Adam Wiggins' seminal essay "The Twelve-Factor App" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
 
