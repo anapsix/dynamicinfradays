@@ -31,7 +31,7 @@ features:
       text: "Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk."
       icon: user
     - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
-      text: "Casey wears the mantle of Principal Technologist focused on Pivotal’s Cloud Foundry Platform."
+      text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
       icon: user
 ---
 

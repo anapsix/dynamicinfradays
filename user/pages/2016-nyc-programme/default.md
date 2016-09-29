@@ -151,7 +151,7 @@ You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
 
 #### <a name="caseyw"></a>Casey West
 
-Casey wears the mantle of Principal Technologist focused on Pivotal’s Cloud Foundry Platform. His speaking and writing ranges from open source communities and culture to technical architecture and automation tips and tricks.
+Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform. His speaking and writing ranges from open source communities and culture to technical architecture and automation tips and tricks.
 
 Working in Internet infrastructure, web app security, and design taught Casey to be a paranoid, UX-oriented, problem solving Internet plumber; his earliest contributions to Perl live to this day on your Mac.
 
