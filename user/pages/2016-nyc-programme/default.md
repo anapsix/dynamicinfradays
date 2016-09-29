@@ -155,7 +155,7 @@ Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foun
 
 Working in Internet infrastructure, web app security, and design taught Casey to be a paranoid, UX-oriented, problem solving Internet plumber; his earliest contributions to Perl live to this day on your Mac.
 
-Casey lives in Pittsburgh raising three sarcastic children. You can find him on Twitter at [@TODO](https://twitter.com/TODO).
+Casey lives in Pittsburgh raising three sarcastic children. You can find him on Twitter at [@caseywest](https://twitter.com/caseywest).
 
 ### Workshops
 
