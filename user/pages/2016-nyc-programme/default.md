@@ -161,7 +161,7 @@ Casey lives in Pittsburgh raising three sarcastic children. You can find him on 
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/shawn-bower.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-#### <a name="swarm"></a>_Hands-on: Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
+#### <a name="swarm"></a>_From Dev to Prod With Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
 
 We will work through the ins and outs of taking an application from development to production with the Docker stack, and specifically Docker Swarm Orchestration. We'll start by running a sample app on a single node with Compose, and then add scaling and load balancing to provide more performance and resilience.
 
