@@ -159,6 +159,16 @@ Casey lives in Pittsburgh raising three sarcastic children. You can find him on 
 
 ### Workshops
 
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/shawn-bower.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="swarm"></a>_Hands-on: Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
+
+We will work through the ins and outs of taking an application from development to production with the Docker stack, and specifically Docker Swarm Orchestration. We'll start by running a sample app on a single node with Compose, and then add scaling and load balancing to provide more performance and resilience.
+
+Moving into operational mode, we'll provision a cluster of Docker nodes and deploy the application there. We will then get to grips with a variety of key Ops tasks and requirements, as well as discussing options for high availability.
+
+Led by Docker Captain Shawn Bower. Shawn is Cloud Architect at Cornell University, helping administrative units and researchers employ modern DevOps practices and move workloads to Docker and the cloud. You can find Shawn on Twitter at [@drizzt51](https://twitter.com/drizzt51).
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tim-gross.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 1h, Intermediate</span>
