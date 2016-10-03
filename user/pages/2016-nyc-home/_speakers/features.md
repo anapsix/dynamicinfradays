@@ -6,6 +6,9 @@ features:
     - header: <a href="/2016-nyc-programme#ioanab">Ioana Baldini</a>
       text: "Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure."
       icon: user
+    - header: <a href="/2016-nyc-programme#swarm">Shawn Bower</a>
+      text: "Shawn Bower is a Docker Captain and Cloud Architect at Cornell University."
+      icon: user
     - header: <a href="/2016-nyc-programme#joeb">Joe Brockmeier</a>
       text: "Joe is a RHEL and container evangelist at Red Hat and a long-time participant in open source projects."
       icon: user
@@ -42,9 +45,8 @@ features:
     - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
