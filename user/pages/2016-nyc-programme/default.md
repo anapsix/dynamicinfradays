@@ -211,6 +211,10 @@ Moving into operational mode, we'll provision a cluster of Docker nodes and depl
 
 Led by Docker Captain Shawn Bower. Shawn is Cloud Architect at Cornell University, helping administrative units and researchers employ modern DevOps practices and move workloads to Docker and the cloud. You can find Shawn on Twitter at [@drizzt51](https://twitter.com/drizzt51).
 
+**Prerequisities**
+
+* Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tim-gross.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 1h, Intermediate</span>
