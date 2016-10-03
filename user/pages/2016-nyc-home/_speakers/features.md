@@ -21,6 +21,9 @@ features:
     - header: <a href="/2016-nyc-programme#joshuak">Joshua Kwan</a>
       text: "Joshua is a Senior Software Engineer at Arbor Technologies, passionate about helping engineers get more done with less effort."
       icon: user
+    - header: <a href="/2016-nyc-programme#billm">Bill Maxwell</a>
+      text: "Bill is DevOps Manager at Rancher Labs."
+      icon: user
     - header: <a href="/2016-nyc-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
       icon: user
@@ -35,6 +38,9 @@ features:
       icon: user
     - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
       text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
+      icon: user
+    - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
+      text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
     - header: Coming soon!
       text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."

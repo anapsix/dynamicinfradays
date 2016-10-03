@@ -14,6 +14,14 @@ title: Programme
 
 ### Talks
 
+#### <a name="realworld"></a>_From Hello World to Real World: Building a Container Platform for 2017_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
+
+Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production takes a little more work.
+
+Bill and Shannon will walk through building a production-grade container environment from the ground up: from the first deployment of a container, through considerations for building a registry, to introducing container monitoring and logging and plugging containers into your existing CI/CD. They'll look at the transition from scripting and automation tools to orchestration with Kubernetes, Mesos or Swarm, and how service discovery and application templates quickly become key elements to deploying complex applications.
+
+The journey will continue on to container storage, networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new containerized applications. Along the way, Bill and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
+
 #### <a name="tsuru"></a>_Growing Up With Docker: How Docker and Tsuru Have Evolved_ <span style="font-size: smaller">- [Francisco Souza](#franciscos)</span>
 
 With so many people now using Docker, it's easy to forget that the project is not that old and has come a long way since "that" presentation at PyCon, back in 2013. Tsuru, an open-source PaaS, started a year before Docker and, as a very early adopter, has followed the evolution of the Docker platform every step of the way.
@@ -123,6 +131,14 @@ Joshua is a Senior Software Engineer at Arbor Technologies. He is passionate abo
 
 You can find Joshua on Twitter at [@joshk0](https://twitter.com/joshk0).
 
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="billm"></a>Bill Maxwell
+
+Bill is DevOps Manager at Rancher Labs and previously worked at GoDaddy and Qualcomm. He loves automating and watching systems build from scratch to production, hands free.
+
+You can find Bill on Twitter at [@CloudNautique](https://twitter.com/CloudNautique).
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="jeffm"></a>Jeff Mitchell
@@ -172,6 +188,16 @@ Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foun
 Working in Internet infrastructure, web app security, and design taught Casey to be a paranoid, UX-oriented, problem solving Internet plumber; his earliest contributions to Perl live to this day on your Mac.
 
 Casey lives in Pittsburgh raising three sarcastic children. You can find him on Twitter at [@caseywest](https://twitter.com/caseywest).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/shannon-williams.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="shannonw"></a>Shannon Williams
+
+Shannon is a co-founder of Rancher Labs, heading up marketing and field efforts. Prior to starting Rancher, Shannon was Vice President of Market Development at Citrix Systems, after the company acquired Cloud.com, where he led worldwide sales.
+
+Shannon has more than 15 years of experience in developing emerging technology and is a graduate of Medill School of Journalism at Northwestern University.
+
+You can find Shannon on Twitter at [@smw355](https://twitter.com/smw355).
 
 ### Workshops
 
