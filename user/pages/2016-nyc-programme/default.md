@@ -59,6 +59,14 @@ He'll talk about why Arbor opted for Google Container Engine as the most suitabl
 
 Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
 
+#### <a name="registry"></a>_Securing Your Docker Image Registry for Production_ <span style="font-size: smaller">- [Jason Heiss](#jasonh)</span>
+
+Do you know who pushed the most recent version of the image for your service? Or the one that was running a month ago? Is everyone allowed to push changes to the production image, or do you have the ability to control that?
+
+Securing your private image registry is an important part of building a secure container pipeline, especially in regulated and security-conscious environments. Jason will talk about how to integrate the open source Docker registry with your existing authentication, authorization, and audit logging systems using the hooks provided by the Docker engine and registry.
+
+He will also share some "do's" and "dont's" from running a locked-down image registry in production.
+
 #### <a name="prometheus"></a>_Monitoring Kubernetes in Production with Prometheus_ <span style="font-size: smaller">- [Tobias Schmidt](#tobiass)</span>
 
 Kubernetes provides a powerful framework and great tooling to control hundreds of heterogenous workloads on thousands of machines. In a production environment, however, the collection of metrics to automatically detect and act on issues in such a cluster is essential. Prometheus was created to meet such needs: highly dynamic scheduling, automatic service discovery, and reliable operations.
@@ -98,6 +106,14 @@ Joe is a RHEL and container evangelist at Red Hat, a long-time participant in op
 Joe is also a music junkie, vim loyalist, and fan of polar bears and cats.
 
 You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/jason-heiss.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="jasonh"></a>Jason Heiss
+
+Jason is an engineer at Two Sigma Investments working on Docker, Kubernetes, and other container-related projects.
+
+You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/joshua-kwan.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

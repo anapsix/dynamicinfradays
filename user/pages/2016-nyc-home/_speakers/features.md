@@ -12,6 +12,9 @@ features:
     - header: <a href="/2016-nyc-programme#observability">Tim Gross</a>
       text: "Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern."
       icon: user
+    - header: <a href="/2016-nyc-programme#jasonh">Jason Heiss</a>
+      text: "Jason is an engineer at Two Sigma Investments working on Docker, Kubernetes, and other container-related projects."
+      icon: user
     - header: <a href="/2016-nyc-programme#rkt">Brad Ison</a>
       text: "Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay."
       icon: user
@@ -33,8 +36,9 @@ features:
     - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
       text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
