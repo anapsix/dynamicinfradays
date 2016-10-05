@@ -4,7 +4,7 @@ menu: Location
 class: big
 ---
 
-<img src="http://dynamicinfradays.org/img/logo.png" height="140" width="270" style="margin: 10px auto 40px auto; display: block;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/2016-nyc-logo.png" height="236" width="300" style="margin: 10px auto 40px auto; display: block;">
 
 ## Location
 
