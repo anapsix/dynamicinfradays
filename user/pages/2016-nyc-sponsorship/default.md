@@ -12,7 +12,7 @@ title: Sponsorship
 
 ## Sponsorship tiers
 
-<img src="http://dynamicinfradays.org/img/logo.png" height="140" width="270" style="margin-left:auto;margin-right:auto;display:block">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/2016-nyc-logo.png" height="236" width="300" style="margin: 10px auto 40px auto; display: block;">
 
 Thank you for your interest in sponsoring ContainerDays NYC 2016! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays NYC 2016 event site](http://dynamicinfradays.org/events/2016-nyc/) and in promotional material.
 
