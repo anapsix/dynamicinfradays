@@ -27,7 +27,7 @@ menu: Sponsors
 
 ##### Friday breakfast & lunch sponsor
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="137" height="35" style="margin: 0;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="129" height="33" style="margin: 0;">
 
 ##### Thursday night party sponsors
 
