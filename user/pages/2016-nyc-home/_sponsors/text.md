@@ -25,6 +25,10 @@ menu: Sponsors
 
 <a href="http://coreos.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/coreos-logo.png" width="166" height="64" style="margin: 3px 5px 3px 5px;"></a></div>
 
+##### Friday breakfast & lunch sponsor
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="158" height="39" style="margin: 0;">
+
 ##### Thursday night party sponsors
 
 <div><a href="https://joyent.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/joyent-logo.png" width="129" height="38" style="margin: 0 5px 0 5px;"></a></div>
@@ -47,7 +51,7 @@ If you're interesting in taking part, please [get in touch](mailto:2016-nyc-spon
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/arvato-logo.png" width="97" height="40" style="margin: 0 5px 0 5px;">
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo.png" width="105" height="36" style="margin: 0 5px 0 5px;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/contino-logo-top.png" width="105" height="36" style="margin: 0 5px 0 5px;">
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/xai-logo.png" width="44" height="50" style="margin: 0 5px 0 5px;">
 
