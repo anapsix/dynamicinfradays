@@ -3,15 +3,13 @@ title: Programme
 menu: Programme
 ---
 
-## What is an unconference?
-
-If you've never been to an unconference or OpenSpaces event before, don't worry - it's a really easy format to get into. You may want to [read this](http://en.wikipedia.org/wiki/Unconference) for some background.
-
-----
-
 ## Programme
 
 From real-world implementation lessons to hands-on getting started workshops, we're trying to ensure there's something here for everyone - whether you're a container expert or are only just getting started, or can make both Thursday and Friday or attend only one of the days.
+
+### What is an unconference?
+
+If you've never been to an unconference or OpenSpaces event before, don't worry - it's a really easy format to get into. You may want to [read this](http://en.wikipedia.org/wiki/Unconference) for some background.
 
 ### <a name="workshops"></a>Workshops
 
