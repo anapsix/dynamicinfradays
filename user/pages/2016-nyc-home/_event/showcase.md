@@ -21,9 +21,9 @@ The community container and dynamic infrastructure (un)conference returns to NYC
 
 ## What is ContainerDays NYC?
 
-ContainerDays NYC is a community (un)conference to encourage discussion and learning on the subject of containers and dynamic infrastructure generally. The [programme](#programme) is a mix of OpenSpaces sessions, talks and workshops by users, contributors and extenders from all corners of the space.
+ContainerDays NYC is a community (un)conference to encourage discussion and learning on the subject of containers and dynamic infrastructure generally. The [programme](#programme) is a mix of talks, workshops and OpenSpaces sessions by users, contributors and extenders from all corners of the space.
 
-Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an unconference, so _you_ get to pick the topics!
+Whether you're an expert or new to the space, there'll be plenty for you to learn and discuss. It's an (un)conference, so _you_ get to pick many of the topics!
 
 <script>
 // eventPage
