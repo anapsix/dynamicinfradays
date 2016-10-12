@@ -85,6 +85,14 @@ Tobias will demonstrate common configurations to collect native Kubernetes metri
 
 Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
+#### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">-  [Tara Walker](#taraw) & Mackenzie Kosut</span>
+
+To tackle complexity and change, AWS customers are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
+
+However, moving to new architectures and platforms also introduces new technical challenges. Tara and Mackenzie will provide an introduction and overview of the benefits and challenges of architecting modern applications on AWS.
+
+They'll share guidelines and recommendations for which types of applications work well with the various AWS services available, and describe best practices for architecting, deploying and managing moder applications on AWS.
+
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
 Developing a usable approach to secret management in a container environment is a balancing act between functionality and attack surface. An understanding of security must be aligned with an understanding of practical workflows and capabilities and limitations of container technologies.
@@ -178,6 +186,16 @@ Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk. Hi
 He obtained in 2012 a PhD from the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL), where he worked on formal specification, verification, and synthesis of functional programs.
 
 You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="taraw"></a>Tara Walker
+
+Tara is a technical evangelist for Amazon Web Services, dedicating her time to help developers build apps, games, and solutions in the AWS cloud. Tara has most recently been working on evangelizing mobile, gaming, IoT, cross-platform development, and even some DevOps technologies on the AWS platform.
+
+Tara has been spreading the "good news" about various development platforms and languages for over 16 years as a developer evangelist and software engineer at Microsoft and other Fortune 500 companies. During that time, she has had an opportunity to work with a myriad of technologies, languages, and frameworks for mobile, gaming, cloud, web, and NUI development.
+
+You can find Tara on Twitter at [@taraw](https://twitter.com/taraw).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/casey-west.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
