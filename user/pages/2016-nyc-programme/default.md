@@ -89,9 +89,9 @@ Come and see how monitoring a complex Kubernetes system can be easy and...perhap
 
 To tackle complexity and change, AWS users are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
 
-However, moving to new architectures and platforms also introduces new technical challenges. Tara and Mackenzie will provide an introduction and overview of the benefits and challenges of architecting modern applications on AWS.
+However, moving to new architectures and platforms also introduces new technical challenges. Tara and Mackenzie will provide an introduction and overview of the benefits of architecting modern applications on AWS, as well as some of the issues to consider.
 
-They'll share guidelines and recommendations for which types of applications work well with the various AWS services available, and describe best practices for architecting, deploying and managing moder applications on AWS.
+They'll share guidelines and recommendations for which types of applications work well with the various AWS services available, and describe best practices for designing, deploying and managing microservices and other modern application architectures on AWS.
 
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
