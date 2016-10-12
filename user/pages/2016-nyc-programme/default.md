@@ -87,7 +87,7 @@ Come and see how monitoring a complex Kubernetes system can be easy and...perhap
 
 #### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">-  [Tara Walker](#taraw) & Mackenzie Kosut</span>
 
-To tackle complexity and change, AWS customers are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
+To tackle complexity and change, AWS users are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
 
 However, moving to new architectures and platforms also introduces new technical challenges. Tara and Mackenzie will provide an introduction and overview of the benefits and challenges of architecting modern applications on AWS.
 
