@@ -14,7 +14,7 @@ title: Programme
 
 ### Talks
 
-#### <a name="realworld"></a>_From Hello World to Real World: Building a Container Platform for 2017_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
+#### <a name="realworld"></a>_From Hello World to Real World: Building a Production Container Environment for 2017_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
 
 Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production takes a little more work.
 
