@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4><strong>Coming up:</strong> October 14-15, <strong><a href="/events/2016-austin">ContainerDays Austin 2016</a></strong>. See <a href="#events">all events</a></h4>
+<h4><strong>Coming up:</strong> November 3-4, <strong><a href="/events/2016-austin">ContainerDays NYC 2016</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
@@ -138,6 +138,18 @@ function initialize() {
   });
 
   google.maps.event.addListener(parisMarker, "click", function (e) { location.href="/events/2016-paris/"});
+
+  var siliconValleyMarker = new MarkerWithLabel({
+    position: new google.maps.LatLng(37.3759, -122.0452),
+    draggable: false,
+    raiseOnDrag: false,
+    map: map,
+    icon: didLogo,
+    labelContent: "Silicon Valley<br>Jan 20-21 '17",
+    labelAnchor: new google.maps.Point(15, 100),
+    labelClass: "labels",
+    labelStyle: { opacity: 1 }
+  });
 }
 initialize()
 </script>

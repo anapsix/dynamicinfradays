@@ -8,6 +8,7 @@ title: Events
 
 * 2016, October 14-15th, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA
 * 2016, November 3-4th, [ContainerDays NYC](/events/2016-nyc/), New York, NY, USA
+* 2017, January 20-21st, ContainerDays Silicon Valley, Santa Clara, CA, USA
 
 ##### Past:
 
