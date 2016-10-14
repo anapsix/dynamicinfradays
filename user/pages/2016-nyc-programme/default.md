@@ -33,11 +33,11 @@ He'll also demonstrate how Tsuru uses Docker today, and what improvements and ne
 
 #### <a name="unik"></a>_Why You Really Want Unikernels, Not Containers_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
-Unikernels are machine images constructed by compiling of the application code, a minimum set of operating system dependencies, the machine configurations and respective drivers. The unikernel represents the smallest subset of code required to run the application, giving us portable applications with smaller footprint, less overhead, smaller attack surface, and faster boot times than traditional operating systems.
+Unikernels are machine images constructed by compiling the application code, a minimum set of operating system dependencies, the machine configurations and respective drivers. The unikernel represents the smallest subset of code required to run the application, giving us portable applications with smaller footprint, less overhead, smaller attack surface, and faster boot times than traditional operating systems.
 
 UniK (_you-neek_) enables software developers to easily compile applications into different unikernels, creating extremely lightweight, efficient application instances. These single-purpose images can then be deployed to a variety of cloud providers, embedded devices (think IoT), as well as simply to a developer laptop or workstation.
 
-Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach to solving many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
+Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach for many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
 
 #### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#caseyw)</span>
 
