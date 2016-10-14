@@ -31,6 +31,14 @@ adoption of Docker. He'll give a "from the trenches" account of the evolution an
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+#### <a name="unik"></a>_Why You Really Want Unikernels, Not Containers_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
+
+Unikernels are machine images constructed by compiling of the application code, a minimum set of operating system dependencies, the machine configurations and respective drivers. The unikernel represents the smallest subset of code required to run the application, giving us portable applications with smaller footprint, less overhead, smaller attack surface, and faster boot times than traditional operating systems.
+
+UniK (_you-neek_) enables software developers to easily compile applications into different unikernels, creating extremely lightweight, efficient application instances. These single-purpose images can then be deployed to a variety of cloud providers, embedded devices (think IoT), as well as simply to a developer laptop or workstation.
+
+Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach to solving many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
+
 #### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#caseyw)</span>
 
 Adam Wiggins' seminal essay "The Twelve-Factor App" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
@@ -138,6 +146,16 @@ You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss)
 Joshua is a Senior Software Engineer at Arbor Technologies. He is passionate about deployment processes and infrastructure that make engineers around him able to get more done with less effort.
 
 You can find Joshua on Twitter at [@joshk0](https://twitter.com/joshk0).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/idit-levine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="iditl"></a>Idit Levine
+
+Idit is the CTO for EMC's cloud management division and a member of the global CTO office. Her passion and expertise are focused on Management and Orchestration (M&O) over the entire stack and on microservices, cloud native apps and Platform as a Service.
+
+Idit's fascination with the cloud sprouted when she joined DynamicOps (now part of VMware) as one of its first employees. She subsequently took part in developing Verizon Terremark's public cloud, and served as an acting CTO at Intigua, a startup company focusing oncontainer and management technology.
+
+You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
