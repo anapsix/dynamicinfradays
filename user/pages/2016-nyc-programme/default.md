@@ -30,6 +30,12 @@ Francisco will introduce Tsuru and describe the motivations behind Tsuru's adopt
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+#### <a name="azure"></a>_Containers in Azure: Understanding the Microsoft Container Ecosystem_ <span style="font-size: smaller">- [Rob Bagby](#robb)</span>
+
+The container ecosystem in Azure is as confusing as it is vast. Rob Bagby, who works with Mesosphere, Docker and the ACS team, will attempt to provide clarity, addressing questions from "What is ACS?", "What are Windows Containers?" to "What are the trade-offs between Windows Server and Hyper-V containers?" and "When would I use Enterprise DC/OS or Docker Datacenter over ACS, or vice-versa?".
+
+Rob will introduce the various technologies and services in Azure and differentiate between them. He'll explain how to easily take advantage of containers within Azure, and have you leaving with a functional understanding of Windows containers and the Azure container ecosystem.
+
 #### <a name="unik"></a>_Why You Really Want Unikernels, Not Containers_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Unikernels are machine images constructed by compiling the application code, a minimum set of operating system dependencies, the machine configurations and respective drivers. The unikernel represents the smallest subset of code required to run the application, giving us portable applications with smaller footprint, less overhead, smaller attack surface, and faster boot times than traditional operating systems.
@@ -109,6 +115,16 @@ The Vault team tackles this problem on a daily basis. In a layered approach acce
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
 ### Speakers
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rob-bagby.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="robb"></a>Rob Babgy
+
+Rob is a Senior Cloud Architect for Microsoft. In this role, he helps Microsoft partners implement epic applications on Azure, specifically in the container space.
+
+Rob has over 20 years of experience in IT and has acted in senior IT leadership, as an architect, a developer and as an evangelist.
+
+You can find Rob on Twitter at [@RBagby](https://twitter.com/RBagby).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/ioana-baldini.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

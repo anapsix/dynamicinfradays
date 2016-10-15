@@ -3,6 +3,9 @@ title: Speakers
 menu: Speakers
 class: big
 features:
+    - header: <a href="/2016-nyc-programme#robb">Rob Bagby</a>
+      text: "Rob is a Senior Cloud Architect for Microsoft."
+      icon: user
     - header: <a href="/2016-nyc-programme#ioanab">Ioana Baldini</a>
       text: "Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure."
       icon: user
