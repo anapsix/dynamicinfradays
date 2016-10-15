@@ -21,6 +21,9 @@ features:
     - header: <a href="/2016-nyc-programme#rkt">Brad Ison</a>
       text: "Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay."
       icon: user
+    - header: Mackenzie Kosut
+      text: "Mackenzie is a technical evangelist for Amazon Web Services."
+      icon: user
     - header: <a href="/2016-nyc-programme#joshuak">Joshua Kwan</a>
       text: "Joshua is a Senior Software Engineer at Arbor Technologies, passionate about helping engineers get more done with less effort."
       icon: user
@@ -41,6 +44,9 @@ features:
       icon: user
     - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
       text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
+      icon: user
+    - header: <a href="/2016-nyc-programme#taraw">Tara Walker</a>
+      text: "Tara is a technical evangelist for Amazon Web Services."
       icon: user
     - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
