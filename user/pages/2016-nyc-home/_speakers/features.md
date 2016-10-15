@@ -15,6 +15,9 @@ features:
     - header: <a href="/2016-nyc-programme#joeb">Joe Brockmeier</a>
       text: "Joe is a RHEL and container evangelist at Red Hat and a long-time participant in open source projects."
       icon: user
+    - header: <a href="/2016-nyc-programme#habitat">Julian Dunn</a>
+      text: "Julian is a product manager at Chef Software and works primarily on Habitat."
+      icon: user
     - header: <a href="/2016-nyc-programme#observability">Tim Gross</a>
       text: "Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern."
       icon: user
