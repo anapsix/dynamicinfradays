@@ -7,7 +7,7 @@ features:
       text: "Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure."
       icon: user
     - header: <a href="/2016-nyc-programme#swarm">Shawn Bower</a>
-      text: "Shawn Bower is a Docker Captain and Cloud Architect at Cornell University."
+      text: "Shawn is a Docker Captain and Cloud Architect at Cornell University."
       icon: user
     - header: <a href="/2016-nyc-programme#joeb">Joe Brockmeier</a>
       text: "Joe is a RHEL and container evangelist at Red Hat and a long-time participant in open source projects."
