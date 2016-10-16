@@ -48,20 +48,19 @@ Please note that the programme is provisional and subject to change.
 | Time    | Description          | Comment |
 |:-----------:|:-------------:|:-----------:|
 | 09:00-09:30am | Breakfast | |
-| 09:30-09:40am | Day 2 kickoff | |
-| 09:40-09:45am | Sponsor shout-out | |
-| 09:45-10:30am | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
-| 09:45-10:30am | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
-| 10:30-10:50pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
-| 10:55-11:40am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
-| 10:55-11:40am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Tara Walker](../#speakers) & [Mackenzie Kosut](../#speakers), Amazon Web Services |
-| 11:45-12:30pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
-| 12:30-01:10pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
-| 01:10-01:20pm | Day 2 notes & comments | |
-| 01:20-01:55pm | OpenSpaces session | |
-| 02:00-03:00pm | Workshops | _[Hands-on rkt: Running Containers with rkt on Kubernetes and More](/2016-nyc-programme#rkt)_<br/>_[From Dev to Prod With Docker Swarm Orchestration & the Docker Stack](/2016-nyc-programme#swarm)_<br/>Any other tool/framework [of your choice!](../#workshops) |
-| 03:00-03:15pm | Coffee break & exhibitor time | |
-| 03:15-04:15pm | Workshops ctd. | _[Observability and Manageability in a Container Environment](/2016-nyc-programme#observability)_<br/>_[From Dev to Prod With Docker Swarm Orchestration & the Docker Stack](/2016-nyc-programme#swarm)_<br/>Any other tool/framework [of your choice!](../#workshops) |
-| 04:20-04:55pm | OpenSpaces session | |
-| 04:55-05:00pm | Thanks & closing discussion | |
+| 09:30-09:35am | Day 2 kickoff | |
+| 09:35-09:40am | Sponsor shout-out | |
+| 09:40-10:25am | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
+| 09:40-10:25am | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
+| 10:25-10:40pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
+| 10:45-11:30am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
+| 10:45-11:30am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Tara Walker](../#speakers) & [Mackenzie Kosut](../#speakers), Amazon Web Services |
+| 11:35-12:20pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
+| 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
+| 01:00-01:05pm | Day 2 notes & comments | |
+| 01:05-01:40pm | OpenSpaces session | |
+| 01:45-02:45pm | Workshops | _[Hands-on rkt: Running Containers with rkt on Kubernetes and More](/2016-nyc-programme#rkt)_<br/>_[From Dev to Prod With Docker Swarm Orchestration & the Docker Stack](/2016-nyc-programme#swarm)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 02:45-03:00pm | Coffee break & exhibitor time | |
+| 03:00-04:00pm | Workshops ctd. | _[Observability and Manageability in a Container Environment](/2016-nyc-programme#observability)_<br/>_[From Dev to Prod With Docker Swarm Orchestration & the Docker Stack](/2016-nyc-programme#swarm)_<br/>Any other tool/framework [of your choice!](../#workshops) |
+| 04:00-05:00pm | Workshops ctd. | _[Introduction to Application Automation with Habitat](/2016-nyc-programme#habitat)_<br/>Any other tool/framework [of your choice!](../#workshops) |
 | 05:00pm | **Close** | |
