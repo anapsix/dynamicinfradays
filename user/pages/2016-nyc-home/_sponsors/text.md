@@ -23,9 +23,7 @@ menu: Sponsors
 
 <a href="http://rancher.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;"></a>
 
-<a href="http://coreos.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/coreos-logo.png" width="166" height="64" style="margin: 3px 5px 3px 5px;"></a>
-
-<a href="http://vallumsoftware.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/vallum-logo.png" width="172" height="51" style="margin: 3px 5px 3px 5px;"></a></div>
+<a href="http://coreos.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/coreos-logo.png" width="166" height="64" style="margin: 3px 5px 3px 5px;"></a></div>
 
 ##### Friday breakfast & lunch sponsor
 
