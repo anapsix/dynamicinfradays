@@ -252,6 +252,16 @@ You can find Shannon on Twitter at [@smw355](https://twitter.com/smw355).
 
 ### Workshops
 
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/brad-ison.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="rkt"></a>_Hands-on rkt: Running Containers with rkt on Kubernetes and More_ <span style="font-size: smaller">- 1h, Intermediate</span>
+
+This workshop will teach you how to download, start, build, and sign your own application using rkt, and use it with Kubernetes and other frameworks.
+
+We will start with a short introduction to rkt, the container runtime engine by CoreOS: how to install and configure it, and how your application can be started using different flavors like fly, kvm, and CoreOS Linux. We'll then introduce pods and explain why they are useful, before creating our own pod to deploy our application to Kubernetes with rktnetes.
+
+Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay. You can find Brad on Twitter at [@bison__](https://twitter.com/bison__).
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/shawn-bower.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="swarm"></a>_From Dev to Prod With Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
@@ -275,16 +285,6 @@ With the rise of containers and microservice architectures, we're suddenly all f
 We'll then take some steps into advanced territory and apply these tools and techniques to post-mortem debugging for distributed applications at scale.
 
 Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern. You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
-
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/brad-ison.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="rkt"></a>_Hands-on rkt: Running Containers with rkt on Kubernetes and More_ <span style="font-size: smaller">- 1h, Intermediate</span>
-
-This workshop will teach you how to download, start, build, and sign your own application using rkt, and use it with Kubernetes and other frameworks.
-
-We will start with a short introduction to rkt, the container runtime engine by CoreOS: how to install and configure it, and how your application can be started using different flavors like fly, kvm, and CoreOS Linux. We'll then introduce pods and explain why they are useful, before creating our own pod to deploy our application to Kubernetes with rktnetes.
-
-Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay. You can find Brad on Twitter at [@bison__](https://twitter.com/bison__).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/julian-dunn.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
