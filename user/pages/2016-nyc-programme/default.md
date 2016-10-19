@@ -262,6 +262,10 @@ We will start with a short introduction to rkt, the container runtime engine by 
 
 Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay. You can find Brad on Twitter at [@bison__](https://twitter.com/bison__).
 
+**Prerequisites:**
+
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/shawn-bower.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="swarm"></a>_From Dev to Prod With Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
