@@ -33,6 +33,9 @@ features:
     - header: <a href="/2016-nyc-programme#joshuak">Joshua Kwan</a>
       text: "Joshua is a Senior Software Engineer at Arbor Technologies, passionate about helping engineers get more done with less effort."
       icon: user
+    - header: <a href="/2016-nyc-programme#iditl">Idit Levine</a>
+      text: "Idit is the CTO for EMC's cloud management division and a member of the global CTO office."
+      icon: user
     - header: <a href="/2016-nyc-programme#billm">Bill Maxwell</a>
       text: "Bill is DevOps Manager at Rancher Labs."
       icon: user
@@ -57,8 +60,9 @@ features:
     - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
+    - header: Coming soon!
+      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
+      icon: star
 ---
 
 ## Speakers
-
-More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.
