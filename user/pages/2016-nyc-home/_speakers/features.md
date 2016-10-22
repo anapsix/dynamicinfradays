@@ -51,11 +51,11 @@ features:
     - header: <a href="/2016-nyc-programme#philippes">Philippe Suter</a>
       text: "Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk."
       icon: user
-    - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
-      text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
-      icon: user
     - header: <a href="/2016-nyc-programme#taraw">Tara Walker</a>
       text: "Tara is a technical evangelist for Amazon Web Services."
+      icon: user
+    - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
+      text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
       icon: user
     - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
