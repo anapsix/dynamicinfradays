@@ -28,7 +28,7 @@ features:
       text: "Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay."
       icon: user
     - header: Mackenzie Kosut
-      text: "Mackenzie is a technical evangelist for Amazon Web Services."
+      text: "Mackenzie is the Principal Startup Evangelist at Amazon Web Services."
       icon: user
     - header: <a href="/2016-nyc-programme#joshuak">Joshua Kwan</a>
       text: "Joshua is a Senior Software Engineer at Arbor Technologies, passionate about helping engineers get more done with less effort."

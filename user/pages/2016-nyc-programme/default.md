@@ -98,7 +98,7 @@ Tobias will demonstrate common configurations to collect native Kubernetes metri
 
 Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
-#### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">-  [Tara Walker](#taraw) & Mackenzie Kosut</span>
+#### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">-  [Tara Walker](#taraw) & [Mackenzie Kosut](#mackenziek)</span>
 
 To tackle complexity and change, AWS users are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
 
@@ -153,6 +153,16 @@ You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
 Jason is an engineer at Two Sigma Investments working on Docker, Kubernetes, and other container-related projects.
 
 You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/mackenzie-kosut.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="mackenziek"></a>Mackenzie Kosut
+
+Mackenzie is the Principal Startup Evangelist at Amazon Web Services. Prior to AWS he worked at Betterment, Oscar, Tumblr, and more. 
+
+Mackenzie travels the globe seeking out groundbreaking startups on AWS, sharing the cool things they're doing through blog, live video, and social media. He is also a regular AWS keynote speaker for startups at global events.
+
+You can find Mackenzie on Twitter at [@mkosut](https://twitter.com/mkosut).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/joshua-kwan.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
