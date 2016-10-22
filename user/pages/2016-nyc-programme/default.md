@@ -154,7 +154,7 @@ Jason is an engineer at Two Sigma Investments working on Docker, Kubernetes, and
 
 You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss).
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/mackenzie-kosut.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/mackenzie-kosut.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="mackenziek"></a>Mackenzie Kosut
 
