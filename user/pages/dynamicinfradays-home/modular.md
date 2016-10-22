@@ -145,7 +145,7 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Silicon Valley<br>Jan 20-21 '17",
+    labelContent: "Silicon Valley<br>early '17",
     labelAnchor: new google.maps.Point(62, 25),
     labelClass: "labels",
     labelStyle: { opacity: 1 }

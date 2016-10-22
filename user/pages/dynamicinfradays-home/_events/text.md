@@ -7,7 +7,7 @@ title: Events
 ##### Upcoming:
 
 * 2016, November 3-4th, [ContainerDays NYC](/events/2016-nyc/), New York, NY, USA
-* 2017, January 20-21st, ContainerDays Silicon Valley, Santa Clara, CA, USA
+* early 2017, ContainerDays Silicon Valley, Santa Clara, CA, USA
 
 ##### Past:
 
