@@ -14,7 +14,7 @@ title: Programme
 
 ### Talks
 
-#### <a name="realworld"></a>_From Hello World to Real World: Building a Production Container Environment for 2017_ <span style="font-size: smaller">- [Bill Maxwell](#billm) & [Shannon Williams](#shannonw)</span>
+#### <a name="realworld"></a>_From Hello World to Real World: Building a Production Container Environment for 2017_ <span style="font-size: smaller">- [Nathan Valentine](#nathanv) & [Shannon Williams](#shannonw)</span>
 
 Containers are lightweight, portable and easy to orchestrate, so the enthusiasm for running applications in them is understandable. Once you get past the "hello world" moment of deploying a single container app, though, you quickly realize that running complex apps using containers in production takes a little more work.
 
@@ -182,14 +182,6 @@ Idit's fascination with the cloud sprouted when she joined DynamicOps (now part 
 
 You can find Idit on Twitter at [@Idit_Levine](https://twitter.com/Idit_Levine).
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/bill-maxwell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="billm"></a>Bill Maxwell
-
-Bill is DevOps Manager at Rancher Labs and previously worked at GoDaddy and Qualcomm. He loves automating and watching systems build from scratch to production, hands free.
-
-You can find Bill on Twitter at [@CloudNautique](https://twitter.com/CloudNautique).
-
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jeff-mitchell.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="jeffm"></a>Jeff Mitchell
@@ -229,6 +221,16 @@ Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk. Hi
 He obtained in 2012 a PhD from the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL), where he worked on formal specification, verification, and synthesis of functional programs.
 
 You can find Philippe on Twitter at [@psuter](https://twitter.com/psuter).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/nathan-valentine.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="nathanv"></a>Nathan Valentine
+
+Nathan spends most of this time ranting semi-coherently about Continuous Delivery pipelines and CI systems. In his career he has somehow managed to not be fired from several (!) roles including Professional Services Engineer with Puppet Labs, and now as a Principal Automation Engineer for Rancher Labs.
+
+In his spare time, Nathan enjoys riding huge piggy dual sport motorcycles all over the Santa Cruz mountains and writing bios in the first person a la Ricky Henderson.
+
+You can find Nathan on Twitter at [@nrvale0](https://twitter.com/nrvale0).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

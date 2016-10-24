@@ -36,9 +36,6 @@ features:
     - header: <a href="/2016-nyc-programme#iditl">Idit Levine</a>
       text: "Idit is the CTO for EMC's cloud management division and a member of the global CTO office."
       icon: user
-    - header: <a href="/2016-nyc-programme#billm">Bill Maxwell</a>
-      text: "Bill is DevOps Manager at Rancher Labs."
-      icon: user
     - header: <a href="/2016-nyc-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
       icon: user
@@ -50,6 +47,9 @@ features:
       icon: user
     - header: <a href="/2016-nyc-programme#philippes">Philippe Suter</a>
       text: "Philippe is a Research Staff Member at IBM T.J. Watson, working on OpenWhisk."
+      icon: user
+    - header: <a href="/2016-nyc-programme#nathanv">Nathan Valentine</a>
+      text: "Nathan is a Principal Automation Engineer for Rancher Labs."
       icon: user
     - header: <a href="/2016-nyc-programme#taraw">Tara Walker</a>
       text: "Tara is a technical evangelist for Amazon Web Services."
