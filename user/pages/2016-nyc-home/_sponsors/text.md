@@ -19,9 +19,9 @@ menu: Sponsors
 
 ##### Silver sponsors
 
-<div><a href="http://www.portworx.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/portworx-logo.png" width="160" height="59" style="margin: 3px 5px 3px 5px;"></a>
+<div><a href="https://deis.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/deis-logo.png" width="176" height="49" style="margin: 3px 5px 3px 5px;"></a>
 
-<a href="https://deis.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/deis-logo.png" width="176" height="49" style="margin: 3px 5px 3px 5px;"></a>
+<a href="http://www.portworx.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/portworx-logo.png" width="160" height="59" style="margin: 3px 5px 3px 5px;"></a>
 
 <a href="http://rancher.com/" target="_blank"><img src="http://dynamicinfradays.org/events/2016-nyc/img/rancher-logo.png" width="107" height="60" style="margin: 3px 5px 3px 5px;"></a>
 
