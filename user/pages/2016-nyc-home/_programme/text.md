@@ -57,6 +57,7 @@ Please note that the programme is provisional and subject to change.
 | 10:45-11:30am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
 | 10:45-11:30am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Tara Walker](../#speakers) & [Mackenzie Kosut](../#speakers), Amazon Web Services |
 | 11:35-12:20pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
+| 11:35-12:20pm | _[State of the Persistence Art: Present Best Practices and Future Goals for Container Storage in Production](/2016-nyc-programme#storage)_ | [Vinod Jayaraman](../#speakers), Portworx |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
 | 01:00-01:05pm | Day 2 notes & comments | |
 | 01:05-01:40pm | OpenSpaces session | |

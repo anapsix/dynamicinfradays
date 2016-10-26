@@ -27,6 +27,9 @@ features:
     - header: <a href="/2016-nyc-programme#rkt">Brad Ison</a>
       text: "Brad is a site reliability engineer at CoreOS, helping teams deploy their web applications with Kubernetes and Quay."
       icon: user
+    - header: <a href="/2016-nyc-programme#vinodj">Vinod Jayaraman</a>
+      text: "Vinod is co-founder and chief architect at Portworx."
+      icon: user
     - header: <a href="/2016-nyc-programme#mackenziek">Mackenzie Kosut</a>
       text: "Mackenzie is the Principal Startup Evangelist at Amazon Web Services."
       icon: user

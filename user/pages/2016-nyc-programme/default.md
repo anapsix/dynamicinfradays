@@ -114,6 +114,14 @@ The Vault team tackles this problem on a daily basis. In a layered approach acce
 
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
+#### <a name="storage"></a>_State of the Persistence Art: Present Best Practices and Future Goals for Container Storage in Production_ <span style="font-size: smaller">- [Vinod Jayaraman](#vinodj)</span>
+
+Container storage technology is evolving fast, but with the rapid adoption of management and orchestration frameworks, demands are also changing. Join Vinod for a session on the cutting edge of container persistence: where we are, best practices for today, and where we want to go tomorrow.
+
+Containers are one of the most rapidly adopted datacenter technologies in history, but it's taken a while for the tools and techniques needed to run persistent applications in production to catch up. Vinod will outline common usage scenarios for persistence in containers, and will provide an overview of the leading technologies and providers in the space. He'll also discuss best practices for container storage today, covering backup and restore, failover and other common patterns.
+
+Vinod will then describe some of the main open questions and areas for "future work" in the container storage arena, and will demonstrate what Portworx is doing in that area.
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/rob-bagby.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
@@ -153,6 +161,16 @@ You can find Joe on Twitter at [@jzb](https://twitter.com/jzb).
 Jason is an engineer at Two Sigma Investments working on Docker, Kubernetes, and other container-related projects.
 
 You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/vinod-jayaraman.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="vinodj"></a>Vinod Jayaraman
+
+Vinod is co-founder and chief architect at Portworx. Previously, he was principal architect at Ocarina Networks, acquired by Dell in 2010. He has also held engineering leadership roles at F5 and NTT.
+
+He graduated with bachelors and masters degrees from Université Pierre et Marie Curie in Paris, and holds 30 patents.
+
+You can find Vinod on Twitter at [@coozy](https://twitter.com/coozy).
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/mackenzie-kosut.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
