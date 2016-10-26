@@ -168,7 +168,7 @@ You can find Jason on Twitter at [@jason_heiss](https://twitter.com/jason_heiss)
 
 Vinod is co-founder and chief architect at Portworx. Previously, he was principal architect at Ocarina Networks, acquired by Dell in 2010. He has also held engineering leadership roles at F5 and NTT.
 
-He graduated with bachelors and masters degrees from Universit&eacute; Pierre et Marie Curie in Paris, and holds 30 patents.
+Vinod graduated with bachelors and masters degrees from Universit&eacute; Pierre et Marie Curie in Paris, and holds 30 patents.
 
 You can find Vinod on Twitter at [@coozy](https://twitter.com/coozy).
 
