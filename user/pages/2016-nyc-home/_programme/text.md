@@ -33,7 +33,7 @@ Please note that the programme is provisional and subject to change.
 | 11:30-12:15pm | _[Containers in Azure: Understanding the Microsoft Container Ecosystem](/2016-nyc-programme#azure)_ | [Rob Bagby](../#speakers), Microsoft |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:00-01:45pm | _[The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability](/2016-nyc-programme#12factors)_ | [Casey West](../#speakers), Pivotal |
-| 01:00-01:45pm | _[OpenWhisk: A Serverless Computing Platform](/2016-nyc-programme#openwhisk)_ | [Ioana Baldini](../#speakers) & [Philippe Suter](../#speakers), IBM Research |
+| 01:00-01:45pm | _[OpenWhisk: A Serverless Computing Platform](/2016-nyc-programme#openwhisk)_ | [Rodric Rabbah](../#speakers) & [Philippe Suter](../#speakers), IBM Research |
 | 01:50-02:25pm | OpenSpaces session | |
 | 02:30-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |

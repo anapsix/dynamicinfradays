@@ -46,13 +46,13 @@ There is overlap in ideal capabilities between VMs and containers but it isn't c
 
 Casey will examine these anti-patterns and other common pitfalls in containerization and will describe how you can avoid them - a discussion relevant both for developers who wish to gain greater understanding of the environment their applications are deployed to, and operators interested in the benefits of containers for their architecture.
 
-#### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Ioana Baldini](#ioanab) & [Philippe Suter](#philippes)</span>
+#### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Rodric Rabbah](#rodricr) & [Philippe Suter](#philippes)</span>
 
-OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to microservice architectures. Ioana and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
+OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to microservice architectures. Rodric and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.
 
 They'll then dive into the architecture of OpenWhisk in more detail, discussing how it uses containers internally, and will describe some of the challenges in, and lessons learned from, building a serverless platform.
 
-Ioana and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
+Rodric and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
 
 #### <a name="package"></a>_Thinking Inside the Box: Can Containers Solve the Package Problem?_ <span style="font-size: smaller">- [Joe Brockmeier](#joeb)</span>
 
@@ -134,16 +134,6 @@ Rob has over 20 years of experience in IT and has acted in senior IT leadership,
 
 You can find Rob on Twitter at [@RBagby](https://twitter.com/RBagby).
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/ioana-baldini.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
-
-#### <a name="ioanab"></a>Ioana Baldini
-
-Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure. In the past, Ioana worked on various projects spanning domains such as computer architecture, heterogeneous runtime systems, and system performance analysis.
-
-Ioana holds Masters and PhD degrees in Electrical and Computer Engineering from University of Toronto.
-
-You can find Ioana on Twitter at [@ioanauoft](https://twitter.com/ioanauoft).
-
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/joe-brockmeier.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="joeb"></a>Joe Brockmeier
@@ -209,6 +199,14 @@ Jeff has hacked on dozens of open-source projects over the past decade. He joine
 He is now living the dream of being paid to work on open-source software full-time as the project lead on Vault. He is currently enjoying life in Boston with his wife, daughter, and two excessively needy cats.
 
 You can find Jeff on Twitter at [@jefferai](https://twitter.com/jefferai).
+
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/rodric-rabbah.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="rodricr"></a>Rodric Rabbah
+
+Rodric is an IBM Researcher and leading contributor to OpenWhisk. He is a former member of MIT CSAIL.
+
+Rodric's interests span programming languages, compilers, runtimes and architecture.
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tobias-schmidt.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 

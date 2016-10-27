@@ -6,9 +6,6 @@ features:
     - header: <a href="/2016-nyc-programme#robb">Rob Bagby</a>
       text: "Rob is a Senior Cloud Architect for Microsoft."
       icon: user
-    - header: <a href="/2016-nyc-programme#ioanab">Ioana Baldini</a>
-      text: "Ioana is a Research Staff Member at IBM Research, currently working on serverless computing infrastructure."
-      icon: user
     - header: <a href="/2016-nyc-programme#swarm">Shawn Bower</a>
       text: "Shawn is a Docker Captain and Cloud Architect at Cornell University."
       icon: user
@@ -41,6 +38,9 @@ features:
       icon: user
     - header: <a href="/2016-nyc-programme#jeffm">Jeff Mitchell</a>
       text: "Jeff is the project lead on HashiCorp's Vault and has hacked on dozens of open-source projects."
+      icon: user
+    - header: <a href="/2016-nyc-programme#rodricr">Rodric Rabbah</a>
+      text: "Rodric is an IBM Researcher and leading contributor to OpenWhisk."
       icon: user
     - header: <a href="/2016-nyc-programme#tobiass">Tobias Schmidt</a>
       text: "Tobias is a production engineer at SoundCloud and an active contributor to the Prometheus and Kubernetes ecosystems."
