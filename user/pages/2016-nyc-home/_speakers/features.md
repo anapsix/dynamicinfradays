@@ -63,9 +63,11 @@ features:
     - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
       text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
+    - header: <a href="/2016-nyc-programme#cicd">Jesse White</a>
+      text: "Jesse is Principal at Contino, helping the world's biggest brands deliver better software."
+      icon: user
 ---
 
 ## Speakers
+
+More exciting speakers to be announced soon...[sign up](/#connect) or follow [@DynInfraDays](https://twitter.com/DynInfraDays) for details.

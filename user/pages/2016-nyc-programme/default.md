@@ -310,6 +310,20 @@ Led by Docker Captain Shawn Bower. Shawn is Cloud Architect at Cornell Universit
 
 * Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/jesse-white.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+
+#### <a name="cicd"></a>_Always Be Deploying: Building a Continuous Integration and Deployment Pipeline For and With Containers_ <span style="font-size: smaller">- 2h, Beginner</span>
+
+Want to get a sense of real-world, container-based application delivery and continuous improvement? Join us for this workshop, which starts with `git clone` and ends with the glory of a continuously deployed application.
+
+We'll learn how to use DevOps techniques to integrate all the pieces of the modern application lifecycle into a cohesive, performant software delivery lifecycle. We'll create a series of interconnected deployment services using open source tools and free integrations with systems and services such as Jenkins, Docker, Slack, Github, and a slew of other tools depending on classroom interest.
+
+Led by Jesse White, Contino. Jesse is Principal at Contino, a NYC-based consultancy which helps the world's biggest brands deliver better software through a focus on enterprise DevOps, cloud infrastructure, and container technology. You can find Jesse on Twitter at [@jesse_white](https://twitter.com/jesse_white).
+
+**Prerequisities**
+
+* Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tim-gross.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 1h, Intermediate</span>
