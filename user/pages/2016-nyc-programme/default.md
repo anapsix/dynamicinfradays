@@ -208,6 +208,8 @@ Rodric is an IBM Researcher and leading contributor to OpenWhisk. He is a former
 
 Rodric's interests span programming languages, compilers, runtimes and architecture.
 
+You can find Rodric's code on GitHub at [github.com/rabbah](https://github.com/rabbah).
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tobias-schmidt.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="tobiass"></a>Tobias Schmidt
