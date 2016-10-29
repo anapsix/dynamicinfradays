@@ -42,7 +42,7 @@ Please note that the programme is provisional and subject to change.
 | 04:10-04:25pm | Day 1 notes & comments | |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |
-| evening | Thursday night drinks | At [T&iacute;r na N&oacute;g](https://www.google.com/maps/dir/Microsoft+Technology+Center,+11+Times+Square,+New+York,+NY+10036/Tír+na+Nóg+Times+Square,+315+W+39th+St,+New+York,+NY+10018/@40.7560053,-73.9931183,17z/) on W 39th St |
+| evening | Thursday night drinks | At [T&iacute;r na N&oacute;g](https://www.google.com/maps/dir/Microsoft+Technology+Center,+11+Times+Square,+New+York,+NY+10036/Tir+na+Nog+Times+Square,+315+W+39th+St,+New+York,+NY+10018/@40.7560053,-73.9931183,17z/) on W 39th St |
 
 #### Friday, November 4th
 
