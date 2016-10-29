@@ -60,11 +60,11 @@ features:
     - header: <a href="/2016-nyc-programme#caseyw">Casey West</a>
       text: "Casey wears the mantle of Principal Technologist focused on Pivotal's Cloud Foundry Platform."
       icon: user
-    - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
-      text: "Shannon heads up marketing and field efforts at Rancher Labs."
-      icon: user
     - header: <a href="/2016-nyc-programme#cicd">Jesse White</a>
       text: "Jesse is Principal at Contino, helping the world's biggest brands deliver better software."
+      icon: user
+    - header: <a href="/2016-nyc-programme#shannonw">Shannon Williams</a>
+      text: "Shannon heads up marketing and field efforts at Rancher Labs."
       icon: user
 ---
 
