@@ -98,7 +98,7 @@ Tobias will demonstrate common configurations to collect native Kubernetes metri
 
 Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
-#### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">-  [Tara Walker](#taraw) & [Mackenzie Kosut](#mackenziek)</span>
+#### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">- [Mackenzie Kosut](#mackenziek) & [Tara Walker](#taraw)</span>
 
 To tackle complexity and change, AWS users are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
 
@@ -306,7 +306,7 @@ We will start with an explanation of Habitat's packaging technology and will lea
 
 Led by Julian Dunn, Chef Software. Julian is a product manager working primarily on Habitat and over fifteen years of experience as a sysadmin and software developer. You can find Julian on Twitter at [@julian_dunn](https://twitter.com/julian_dunn).
 
-<img src="http://dynamicinfradays.org/events/2016-nyc/img/mackenzie-kosut.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
+<img src="http://dynamicinfradays.org/events/2016-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="lambda"></a>_Building Serverless Microservices on AWS_ <span style="font-size: smaller">- 1h, Beginner</span>
 
@@ -314,7 +314,7 @@ This workshop will demonstrate the basics of building serverless applications an
 
 We will start with a short overview of the various services that we'll use to deliver and run our serverless application. We'll then dive in to get hands-on experience of using standard patterns to create a small, dynamic microservice on AWS.
 
-Led by Mackenzie Kosut, Principal Startup Evangelist at Amazon Web Services. Prior to AWS, Mackenzie worked at Betterment, Oscar, Tumblr, and more. You can find Mackenzie on Twitter at [@mkosut](https://twitter.com/mkosut).
+Led by Tara Walker and Mackenzie Kosut, Amazon Web Services. Tara is a technical evangelist for AWS, dedicating her time to help developers build apps, games, and solutions in the AWS cloud. Mackenzie is the Principal Startup Evangelist at Amazon Web Services. You can find Tara and Mackenzie on Twitter at [@taraw](https://twitter.com/taraw) and [@mkosut](https://twitter.com/mkosut).
 
 **Prerequisities**
 

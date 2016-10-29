@@ -55,7 +55,7 @@ Please note that the programme is provisional and subject to change.
 | 09:40-10:25am | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
 | 10:25-10:40pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
 | 10:45-11:30am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
-| 10:45-11:30am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Tara Walker](../#speakers) & [Mackenzie Kosut](../#speakers), Amazon Web Services |
+| 10:45-11:30am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Mackenzie Kosut](../#speakers) & [Tara Walker](../#speakers), Amazon Web Services |
 | 11:35-12:20pm | _[The Secure Introduction Problem: Getting Secrets Into Containers](/2016-nyc-programme#secrets)_ | [Jeff Mitchell](../#speakers), HashiCorp |
 | 11:35-12:20pm | _[State of the Persistence Art: Present Best Practices and Future Goals for Container Storage in Production](/2016-nyc-programme#storage)_ | [Vinod Jayaraman](../#speakers), Portworx |
 | 12:20-01:00pm | Lunch & exhibitor time | Last chance to think about [workshop topic suggestions](../#workshops)! |
