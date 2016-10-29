@@ -280,7 +280,7 @@ Shannon has more than 15 years of experience in developing emerging technology a
 
 You can find Shannon on Twitter at [@smw355](https://twitter.com/smw355).
 
-### Workshops
+### <a name="workshops"></a>Workshops
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/brad-ison.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
