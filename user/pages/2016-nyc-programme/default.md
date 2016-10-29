@@ -332,7 +332,7 @@ Led by Docker Captain Shawn Bower. Shawn is Cloud Architect at Cornell Universit
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jesse-white.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
-#### <a name="cicd"></a>_Always Be Deploying: Building a Continuous Integration and Deployment Pipeline For and With Containers_ <span style="font-size: smaller">- 2h, Beginner</span>
+#### <a name="cicd"></a>_Always Be Deploying: Building a Continuous Integration and Deployment Pipeline For and With Containers_ <span style="font-size: smaller">- 2h, Intermediate</span>
 
 Want to get a sense of real-world, container-based application delivery and continuous improvement? Join us for this workshop, which starts with `git clone` and ends with the glory of a continuously deployed application.
 
