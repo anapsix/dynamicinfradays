@@ -66,9 +66,6 @@ features:
     - header: <a href="/2016-nyc-programme#cicd">Jesse White</a>
       text: "Jesse is Principal at Contino, helping the world's biggest brands deliver better software."
       icon: user
-    - header: Coming soon!
-      text: "More exciting speakers to be announced soon...sign up or follow @DynInfraDays for details."
-      icon: star
 ---
 
 ## Speakers
