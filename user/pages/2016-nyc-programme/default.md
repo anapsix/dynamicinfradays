@@ -310,9 +310,9 @@ Led by Julian Dunn, Chef Software. Julian is a product manager working primarily
 
 #### <a name="lambda"></a>_Building Serverless Microservices on AWS_ <span style="font-size: smaller">- 1h, Beginner</span>
 
-This workshop will demonstrate the basics of how to create serverless applications and microservices on AWS using AWS Lambda, Amazon DynamoDB, Amazon API Gateway, and more.
+This workshop will demonstrate the basics of building serverless applications and microservices on AWS using AWS Lambda, Amazon DynamoDB, Amazon API Gateway, and more.
 
-We will start with a short overview of the various services that we will use to deliver and run our serverless application. We'll then dive in to get hands-on experience of using standard patterns to create a small, dynamic microservice on AWS.
+We will start with a short overview of the various services that we'll use to deliver and run our serverless application. We'll then dive in to get hands-on experience of using standard patterns to create a small, dynamic microservice on AWS.
 
 Led by Mackenzie Kosut, Principal Startup Evangelist at Amazon Web Services. Prior to AWS, Mackenzie worked at Betterment, Oscar, Tumblr, and more. You can find Mackenzie on Twitter at [@mkosut](https://twitter.com/mkosut).
 
