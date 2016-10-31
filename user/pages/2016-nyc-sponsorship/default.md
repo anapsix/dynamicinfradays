@@ -17,7 +17,7 @@ title: Sponsorship
 Thank you for your interest in sponsoring ContainerDays NYC 2016! We have a number of sponsorship opportunities available. All tiers include placement of your logo on the [ContainerDays NYC 2016 event site](http://dynamicinfradays.org/events/2016-nyc/) and in promotional material.
 
 * 1x **Platinum sponsor**
-  * Includes: 4 tickets; vendor table; largest logo on the event site , 5-minute sponsor shout-out slot. We will refer to the main presentation area by the sponsor name.
+  * Includes: 4 tickets; vendor table; largest logo on the event site; 5-minute sponsor shout-out slot. We will refer to the main presentation area by the sponsor name.
   * _No longer available_
 * 3x **Gold sponsor**
   * Includes: 3 tickets; vendor table; larger logo on the event site; 2.5-minute sponsor shout-out slot. We will refer to an OpenSpaces discussion area by the sponsor name.
