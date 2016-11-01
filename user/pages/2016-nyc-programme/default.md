@@ -295,6 +295,7 @@ Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping
 **Prerequisites:**
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed
+* [Vagrant](https://www.vagrantup.com/downloads.html) installed
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/julian-dunn.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
