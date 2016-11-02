@@ -22,6 +22,16 @@ Nathan and Shannon will walk through building a production-grade container envir
 
 The journey will continue on to container storage, networking, load balancing and config injection, as well as how to manage secrets, define access control policies, and provide visibility and control for your new containerized applications. Along the way, Nathan and Shannon will be demonstrating different tools, talking about some of the issues you'll run into, and discussing lessons the community has learned about production-grade container environments so far.
 
+#### <a name="arbor"></a>_Building A Data Pipeline on Google Container Engine at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
+
+Arbor is the marketplace for people-based data. Trace the path that led Arbor to build their data pipeline on Google Container Engine (GKE), and share lessons and recommendations from the Arbor team's journey.
+
+Arbor's role in the adtech sector means serving 20,000 HTTP requests per second and processing hundreds of gigabytes of data daily. Joshua will describe the story of how, after experiencing some scary pain points with their Fleet-based stack, the Arbor engineering team decided to give Kubernetes a shot, and how doing so has benefited the company in terms of flexibility, stability and scalability.
+
+He'll talk about why Arbor opted for Google Container Engine as the most suitable way of managing their Kubernetes stack, and will touch on some of the benefits of running on GKE vs. using one of many "Kubernetes management platforms" out there.
+
+Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
+
 #### <a name="tsuru"></a>_Growing Up With Docker: How Docker and Tsuru Have Evolved_ <span style="font-size: smaller">- [Francisco Souza](#franciscos)</span>
 
 With so many people now using Docker, it's easy to forget that the project is not that old and has come a long way since "that" presentation at PyCon, back in 2013. Tsuru, an open-source PaaS, started a year before Docker and, as a very early adopter, has followed the evolution of the Docker platform every step of the way.
@@ -29,12 +39,6 @@ With so many people now using Docker, it's easy to forget that the project is no
 Francisco will introduce Tsuru and describe the motivations behind Tsuru's adoption of Docker. He'll give a "from the trenches" account of the evolution and growing pains of the Docker ecosystem and discuss the current state of affairs of the ecosystem.
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
-
-#### <a name="azure"></a>_Containers in Azure: Understanding the Microsoft Container Ecosystem_ <span style="font-size: smaller">- [Rob Bagby](#robb)</span>
-
-The container ecosystem in Azure is as confusing as it is vast. Rob Bagby, who works with Mesosphere, Docker and the ACS team, will attempt to provide clarity, addressing questions from "What is ACS?", "What are Windows Containers?" to "What are the trade-offs between Windows Server and Hyper-V containers?" and "When would I use Enterprise DC/OS or Docker Datacenter over ACS, or vice-versa?".
-
-Rob will introduce the various technologies and services in Azure and differentiate between them. He'll explain how to easily take advantage of containers within Azure, and have you leaving with a functional understanding of Windows containers and the Azure container ecosystem.
 
 #### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#caseyw)</span>
 
@@ -70,15 +74,11 @@ UniK (_you-neek_) enables software developers to easily compile applications int
 
 Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach for many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
 
-#### <a name="arbor"></a>_Building A Data Pipeline on Google Container Engine at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
+#### <a name="azure"></a>_Containers in Azure: Understanding the Microsoft Container Ecosystem_ <span style="font-size: smaller">- [Rob Bagby](#robb)</span>
 
-Arbor is the marketplace for people-based data. Trace the path that led Arbor to build their data pipeline on Google Container Engine (GKE), and share lessons and recommendations from the Arbor team's journey.
+The container ecosystem in Azure is as confusing as it is vast. Rob Bagby, who works with Mesosphere, Docker and the ACS team, will attempt to provide clarity, addressing questions from "What is ACS?", "What are Windows Containers?" to "What are the trade-offs between Windows Server and Hyper-V containers?" and "When would I use Enterprise DC/OS or Docker Datacenter over ACS, or vice-versa?".
 
-Arbor's role in the adtech sector means serving 20,000 HTTP requests per second and processing hundreds of gigabytes of data daily. Joshua will describe the story of how, after experiencing some scary pain points with their Fleet-based stack, the Arbor engineering team decided to give Kubernetes a shot, and how doing so has benefited the company in terms of flexibility, stability and scalability.
-
-He'll talk about why Arbor opted for Google Container Engine as the most suitable way of managing their Kubernetes stack, and will touch on some of the benefits of running on GKE vs. using one of many "Kubernetes management platforms" out there.
-
-Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
+Rob will introduce the various technologies and services in Azure and differentiate between them. He'll explain how to easily take advantage of containers within Azure, and have you leaving with a functional understanding of Windows containers and the Azure container ecosystem.
 
 #### <a name="registry"></a>_Securing Your Docker Image Registry for Production_ <span style="font-size: smaller">- [Jason Heiss](#jasonh)</span>
 
