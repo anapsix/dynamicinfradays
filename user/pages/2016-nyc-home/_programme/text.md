@@ -29,8 +29,8 @@ Please note that the programme is provisional and subject to change.
 | 10:05-10:50am | _[From Hello World to Real World: Building a Production Container Environment for 2017](/2016-nyc-programme#realworld)_ | [Nathan Valentine](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
 | 10:50-10:55am | Sponsor shout-out | |
 | 10:55-11:25pm | OpenSpaces kick-off | Quick intro to OpenSpaces and pitches for topics |
-| 11:30-12:15pm | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
 | 11:30-12:15pm | _[Growing Up With Docker: How Docker and Tsuru Have Evolved](/2016-nyc-programme#tsuru)_ | [Francisco Souza](../#speakers), The New York Times |
+| 11:30-12:15pm | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 01:00-01:45pm | _[The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability](/2016-nyc-programme#12factors)_ | [Casey West](../#speakers), Pivotal |
 | 01:00-01:45pm | _[OpenWhisk: A Serverless Computing Platform](/2016-nyc-programme#openwhisk)_ | [Rodric Rabbah](../#speakers) & [Philippe Suter](../#speakers), IBM Research |
@@ -52,7 +52,7 @@ Please note that the programme is provisional and subject to change.
 | 09:30-09:35am | Day 2 kickoff | |
 | 09:35-09:40am | Sponsor shout-out | |
 | 09:40-10:25am | _[Containers in Azure: Understanding the Microsoft Container Ecosystem](/2016-nyc-programme#azure)_ | [Rob Bagby](../#speakers), Microsoft |
-| 09:40-10:25am | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
+| 09:40-10:25am | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ | [Joshua Kwan](../#speakers), Arbor |
 | 10:25-10:40pm | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
 | 10:45-11:30am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
 | 10:45-11:30am | _[Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More](/2016-nyc-programme#aws)_ | [Mackenzie Kosut](../#speakers) & [Tara Walker](../#speakers), Amazon Web Services |
