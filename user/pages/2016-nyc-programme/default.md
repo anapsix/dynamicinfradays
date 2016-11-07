@@ -309,6 +309,8 @@ We will start with an explanation of Habitat's packaging technology and will lea
 
 Led by Julian Dunn, Chef Software. Julian is a product manager working primarily on Habitat and over fifteen years of experience as a sysadmin and software developer. You can find Julian on Twitter at [@julian_dunn](https://twitter.com/julian_dunn).
 
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-introduction-to-application-automation-with-habitat-julian-dunn)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tara-walker.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="lambda"></a>_Building Serverless Microservices on AWS_ <span style="font-size: smaller">- 1h, Beginner</span>
