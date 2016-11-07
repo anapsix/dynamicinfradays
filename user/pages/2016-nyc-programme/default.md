@@ -349,6 +349,8 @@ Led by Docker Captain Shawn Bower. Shawn is Cloud Architect at Cornell Universit
 
 * Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
+[more info](https://github.com/jpetazzo/orchestration-workshop)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/jesse-white.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="cicd"></a>_Always Be Deploying: Building a Continuous Integration and Deployment Pipeline For and With Containers_ <span style="font-size: smaller">- 2h, Intermediate</span>
