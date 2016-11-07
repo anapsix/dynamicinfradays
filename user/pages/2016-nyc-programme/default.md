@@ -30,6 +30,8 @@ Francisco will introduce Tsuru and describe the motivations behind Tsuru's adopt
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
+[slides](http://www.slideshare.net/franciscosouza/growing-up-with-docker-how-docker-and-tsuru-have-evolved)
+
 #### <a name="registry"></a>_Securing Your Docker Image Registry for Production_ <span style="font-size: smaller">- [Jason Heiss](#jasonh)</span>
 
 Do you know who pushed the most recent version of the image for your service? Or the one that was running a month ago? Is everyone allowed to push changes to the production image, or do you have the ability to control that?
