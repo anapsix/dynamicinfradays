@@ -138,18 +138,6 @@ function initialize() {
   });
 
   google.maps.event.addListener(parisMarker, "click", function (e) { location.href="/events/2016-paris/"});
-
-  var siliconValleyMarker = new MarkerWithLabel({
-    position: new google.maps.LatLng(37.3759, -122.0452),
-    draggable: false,
-    raiseOnDrag: false,
-    map: map,
-    icon: didLogo,
-    labelContent: "Silicon Valley<br>early '17",
-    labelAnchor: new google.maps.Point(62, 25),
-    labelClass: "labels",
-    labelStyle: { opacity: 1 }
-  });
 }
 initialize()
 </script>
