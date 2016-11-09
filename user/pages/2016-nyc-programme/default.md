@@ -94,6 +94,8 @@ He'll talk about why Arbor opted for Google Container Engine as the most suitabl
 
 Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
 
+[slides](https://docs.google.com/presentation/d/1NXL8-KCuSRKJWIKi9IfJ6fJ0LitdGZNc4l0Ww1JfX_0/pub?start=false&loop=false&delayms=3000)
+
 #### <a name="prometheus"></a>_Monitoring Kubernetes in Production with Prometheus_ <span style="font-size: smaller">- [Tobias Schmidt](#tobiass)</span>
 
 Kubernetes provides a powerful framework and great tooling to control hundreds of heterogenous workloads on thousands of machines. In a production environment, however, the collection of metrics to automatically detect and act on issues in such a cluster is essential. Prometheus was created to meet such needs: highly dynamic scheduling, automatic service discovery, and reliable operations.
