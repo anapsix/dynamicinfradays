@@ -68,6 +68,8 @@ Are containers the answer? They may be able to solve many of the current problem
 
 Joe will look at the problems posed by traditional packaging tools and language-specific formats in today's environment, and will talk about how containers and other modern approaches try to address these issues. He'll examine if and how these techniques fall short of a convincing solution, and will discuss some of the key remaining challenges.
 
+[slides](http://www.slideshare.net/jzb/thinking-inside-the-box-shared)
+
 #### <a name="unik"></a>_Why You Really Want Unikernels, Not Containers_ <span style="font-size: smaller">- [Idit Levine](#iditl)</span>
 
 Unikernels are machine images constructed by compiling the application code, a minimum set of operating system dependencies, the machine configurations and respective drivers. The unikernel represents the smallest subset of code required to run the application, giving us portable applications with smaller footprint, less overhead, smaller attack surface, and faster boot times than traditional operating systems.
