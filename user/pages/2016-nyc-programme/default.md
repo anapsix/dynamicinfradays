@@ -124,6 +124,8 @@ The Vault team tackles this problem on a daily basis. In a layered approach acce
 
 He'll talk about the security principles encoded into Vault, how these can be exposed in a usable way to enable secure introduction and secret management at scale, and what implications these approaches have for the way we develop, distribute and run containerized applications.
 
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-the-secure-introduction-problem-getting-secrets-into-containers-jeff-mitchell)
+
 #### <a name="storage"></a>_State of the Persistence Art: Present Best Practices and Future Goals for Container Storage in Production_ <span style="font-size: smaller">- [Vinod Jayaraman](#vinodj)</span>
 
 Container storage technology is evolving fast, but with the rapid adoption of management and orchestration frameworks, demands are also changing. Join Vinod for a session on the cutting edge of container persistence: where we are, best practices for today, and where we want to go tomorrow.
