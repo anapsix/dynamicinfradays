@@ -50,6 +50,8 @@ There is overlap in ideal capabilities between VMs and containers but it isn't c
 
 Casey will examine these anti-patterns and other common pitfalls in containerization and will describe how you can avoid them - a discussion relevant both for developers who wish to gain greater understanding of the environment their applications are deployed to, and operators interested in the benefits of containers for their architecture.
 
+[slides](https://speakerdeck.com/caseywest/abstractions-pittsburgh-the-twelve-factor-container-plus-bonus)
+
 #### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Rodric Rabbah](#rodricr) & [Philippe Suter](#philippes)</span>
 
 OpenWhisk is a serverless computing platform which aims to bring event-based and functional programming to microservice architectures. Rodric and Philippe will discuss basic concepts of serverless platforms, introduce the action container model, and highlight the tradeoffs with other approaches such as virtual machines or containerized services.

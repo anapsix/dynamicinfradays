@@ -32,7 +32,7 @@ Please note that the programme is provisional and subject to change.
 | 11:30-12:15pm | _[Growing Up With Docker: How Docker and Tsuru Have Evolved](/2016-nyc-programme#tsuru)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/franciscosouza/growing-up-with-docker-how-docker-and-tsuru-have-evolved)</span> | [Francisco Souza](../#speakers), The New York Times |
 | 11:30-12:15pm | _[Securing Your Docker Image Registry for Production](/2016-nyc-programme#registry)_ | [Jason Heiss](../#speakers), Two Sigma Investments |
 | 12:15-01:00pm | Lunch & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
-| 01:00-01:45pm | _[The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability](/2016-nyc-programme#12factors)_ | [Casey West](../#speakers), Pivotal |
+| 01:00-01:45pm | _[The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability](/2016-nyc-programme#12factors)_ <span style="font-size: smaller">[slides](https://speakerdeck.com/caseywest/abstractions-pittsburgh-the-twelve-factor-container-plus-bonus)</span> | [Casey West](../#speakers), Pivotal |
 | 01:00-01:45pm | _[OpenWhisk: A Serverless Computing Platform](/2016-nyc-programme#openwhisk)_ | [Rodric Rabbah](../#speakers) & [Philippe Suter](../#speakers), IBM Research |
 | 01:50-02:25pm | OpenSpaces session | |
 | 02:30-03:05pm | OpenSpaces session | |
