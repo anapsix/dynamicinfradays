@@ -347,6 +347,8 @@ We'll then take some steps into advanced territory and apply these tools and tec
 
 Led by Tim Gross, Joyent. Tim is a Product Manager at Joyent where he develops ContainerPilot and application blueprints for the Autopilot Pattern. You can find Tim on Twitter at [@0x74696d](https://twitter.com/0x74696d).
 
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-observability-and-manageability-in-a-container-environment-tim-gross)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/shawn-bower.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="swarm"></a>_From Dev to Prod With Docker Swarm Orchestration & the Docker Stack_ <span style="font-size: smaller">- 2h, Beginner</span>
