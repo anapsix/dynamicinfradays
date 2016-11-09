@@ -51,7 +51,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast | |
 | 09:30-09:35am | Day 2 kick-off | |
 | 09:35-09:40am | Sponsor shout-out | |
-| 09:40-10:25am | _[Containers in Azure: Understanding the Microsoft Container Ecosystem](/2016-nyc-programme#azure)_ | [Rob Bagby](../#speakers), Microsoft |
+| 09:40-10:25am | _[Containers in Azure: Understanding the Microsoft Container Ecosystem](/2016-nyc-programme#azure)_ <span style="font-size: smaller">[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-containers-in-azure-understanding-the-microsoft-container-ecosystem-rob-bagby)</span> | [Rob Bagby](../#speakers), Microsoft |
 | 09:40-10:25am | _[Building A Data Pipeline on Google Container Engine at Arbor](/2016-nyc-programme#arbor)_ <span style="font-size: smaller">[slides](https://docs.google.com/presentation/d/1NXL8-KCuSRKJWIKi9IfJ6fJ0LitdGZNc4l0Ww1JfX_0/pub?start=false&loop=false&delayms=3000)</span> | [Joshua Kwan](../#speakers), Arbor |
 | 10:25-10:40am | Workshop kick-off | Quick intro to "unworkshops" and pitches for topics |
 | 10:45-11:30am | _[Monitoring Kubernetes in Production with Prometheus](/2016-nyc-programme#prometheus)_ | [Tobias Schmidt](../#speakers), SoundCloud |
