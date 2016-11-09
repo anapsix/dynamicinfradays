@@ -299,6 +299,8 @@ Led by Brad Ison, CoreOS. Brad is a site reliability engineer at CoreOS, helping
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installed
 * [Vagrant](https://www.vagrantup.com/downloads.html) installed
 
+[slides](https://docs.google.com/presentation/d/1JFMeUlB0t1gSDf9H-eMoSeEq9dRnD4WqL67nj9Xc4WM/pub?start=false&loop=false&delayms=3000)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/julian-dunn.png" width="113" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="habitat"></a>_Introduction to Application Automation with Habitat_ <span style="font-size: smaller">- 1h, Intermediate</span>
