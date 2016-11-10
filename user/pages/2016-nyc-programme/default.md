@@ -136,6 +136,8 @@ Containers are one of the most rapidly adopted datacenter technologies in histor
 
 Vinod will then describe some of the main open questions and areas for "future work" in the container storage arena, and will demonstrate what Portworx is doing in that area.
 
+[slides](http://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-state-of-the-persistence-art-present-best-practices-and-future-goals-for-container-storage-in-production-vinod-jayaraman)
+
 ### Speakers
 
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/rob-bagby.png" width="114" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
