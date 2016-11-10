@@ -116,6 +116,8 @@ However, moving to new architectures and platforms also introduces new technical
 
 They'll share guidelines and recommendations for which types of applications work well with the various AWS services available, and describe best practices for designing, deploying and managing microservices and other modern application architectures on AWS.
 
+[slides](http://www.slideshare.net/tarawalker2/container-days-architecting-modern-apps-on-aws)
+
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
 Developing a usable approach to secret management in a container environment is a balancing act between functionality and attack surface. An understanding of security must be aligned with an understanding of practical workflows and capabilities and limitations of container technologies.
