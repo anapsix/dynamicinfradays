@@ -381,6 +381,8 @@ Led by Jesse White, Contino. Jesse is Principal at Contino, a NYC-based consulta
 
 * Docker installed and running on your laptop or, if you're running Mac OS X or Windows, the [Docker Toolbox](https://www.docker.com/toolbox)
 
+[more info](https://github.com/CDNYC-Public/CDNYC-Pipes)
+
 <img src="http://dynamicinfradays.org/img/logo.png" height="120" width="232" style="margin: 40px auto 20px auto; display: block;">
 
 <div style="text-align: center; display: block;"><em><strong>ContainerDays NYC 2016</strong> is a <a href="http://dynamicinfradays.org">DynamicInfraDays</a> event</em></div>
