@@ -26,7 +26,7 @@ Please note that the programme is provisional and subject to change.
 | 09:00-09:30am | Breakfast & registration | Welcome to ContainerDays NYC 2016 |
 | 09:30-10:00am | Welcome, introduction, OpenSpaces explanation | |
 | 10:00-10:05am | Sponsor shout-out | |
-| 10:05-10:50am | _[From Hello World to Real World: Building a Production Container Environment for 2017](/2016-nyc-programme#realworld)_ | [Nathan Valentine](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
+| 10:05-10:50am | _[From Hello World to Real World: Building a Production Container Environment for 2017](/2016-nyc-programme#realworld)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=1pLO2bNspMs)</span> | [Nathan Valentine](../#speakers) & [Shannon Williams](../#speakers), Rancher Labs |
 | 10:50-10:55am | Sponsor shout-out | |
 | 10:55-11:25am | OpenSpaces kick-off | Quick intro to OpenSpaces and pitches for topics |
 | 11:30-12:15pm | _[Growing Up With Docker: How Docker and Tsuru Have Evolved](/2016-nyc-programme#tsuru)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/franciscosouza/growing-up-with-docker-how-docker-and-tsuru-have-evolved)</span> | [Francisco Souza](../#speakers), The New York Times |
