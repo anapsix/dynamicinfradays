@@ -88,7 +88,7 @@ The container ecosystem in Azure is as confusing as it is vast. Rob Bagby, who w
 
 Rob will introduce the various technologies and services in Azure and differentiate between them. He'll explain how to easily take advantage of containers within Azure, and have you leaving with a functional understanding of Windows containers and the Azure container ecosystem.
 
-[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-containers-in-azure-understanding-the-microsoft-container-ecosystem-rob-bagby)
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-containers-in-azure-understanding-the-microsoft-container-ecosystem-rob-bagby) [video](https://www.youtube.com/watch?v=hqewCpKZaiU)
 
 #### <a name="arbor"></a>_Building A Data Pipeline on Google Container Engine at Arbor_ <span style="font-size: smaller">- [Joshua Kwan](#joshuak)</span>
 
