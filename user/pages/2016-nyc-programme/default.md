@@ -112,6 +112,8 @@ Tobias will demonstrate common configurations to collect native Kubernetes metri
 
 Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
+[video](https://www.youtube.com/watch?v=XvE-tC36BCI)
+
 #### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">- [Mackenzie Kosut](#mackenziek) & [Tara Walker](#taraw)</span>
 
 To tackle complexity and change, AWS users are increasingly evolving their architectures from monoliths towards microservices, looking to benefit from increased agility, simplified scalability, resiliency, and faster deployments.
