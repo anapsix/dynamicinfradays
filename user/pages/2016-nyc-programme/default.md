@@ -52,7 +52,7 @@ There is overlap in ideal capabilities between VMs and containers but it isn't c
 
 Casey will examine these anti-patterns and other common pitfalls in containerization and will describe how you can avoid them - a discussion relevant both for developers who wish to gain greater understanding of the environment their applications are deployed to, and operators interested in the benefits of containers for their architecture.
 
-[slides](https://speakerdeck.com/caseywest/abstractions-pittsburgh-the-twelve-factor-container-plus-bonus)
+[slides](https://speakerdeck.com/caseywest/abstractions-pittsburgh-the-twelve-factor-container-plus-bonus) [video](https://www.youtube.com/watch?v=ffVlTVwIbYo)
 
 #### <a name="openwhisk"></a>_OpenWhisk: A Serverless Computing Platform_ <span style="font-size: smaller">- [Rodric Rabbah](#rodricr) & [Philippe Suter](#philippes)</span>
 
