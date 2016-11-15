@@ -60,6 +60,8 @@ They'll then dive into the architecture of OpenWhisk in more detail, discussing 
 
 Rodric and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
 
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-openwhisk-a-serverless-computing-platform-rodric-rabbah-philippe-suter)
+
 #### <a name="package"></a>_Thinking Inside the Box: Can Containers Solve the Package Problem?_ <span style="font-size: smaller">- [Joe Brockmeier](#joeb)</span>
 
 "In the beginning there was RPM, and it was good." Certainly, Linux packaging has solved many of the problems involved in shipping software, from creation to consumption and maintenance. As software development and deployment have evolved, however, new pain points have cropped up that have not been solved by traditional packaging tools.
