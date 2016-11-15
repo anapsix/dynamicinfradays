@@ -32,7 +32,7 @@ Francisco will introduce Tsuru and describe the motivations behind Tsuru's adopt
 
 He'll also demonstrate how Tsuru uses Docker today, and what improvements and new functionality he feels will be most exciting going forward.
 
-[slides](http://www.slideshare.net/franciscosouza/growing-up-with-docker-how-docker-and-tsuru-have-evolved)
+[slides](http://www.slideshare.net/franciscosouza/growing-up-with-docker-how-docker-and-tsuru-have-evolved) [video](https://www.youtube.com/watch?v=s7pgpX3koCQ)
 
 #### <a name="registry"></a>_Securing Your Docker Image Registry for Production_ <span style="font-size: smaller">- [Jason Heiss](#jasonh)</span>
 
