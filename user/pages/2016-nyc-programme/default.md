@@ -347,6 +347,8 @@ Led by Tara Walker and Mackenzie Kosut, Amazon Web Services. Tara is a technical
 
 * The [AWS Command Line Interface](https://aws.amazon.com/cli/) installed
 
+[slides](http://www.slideshare.net/tarawalker2/container-days-aws-microservice-workshop)
+
 <img src="http://dynamicinfradays.org/events/2016-nyc/img/tim-gross.png" width="112" height="140" style="margin-left:10px; margin-bottom: 5px; float:right; clear: right;">
 
 #### <a name="observability"></a>_Observability and Manageability in a Container Environment_ <span style="font-size: smaller">- 1h, Intermediate</span>
