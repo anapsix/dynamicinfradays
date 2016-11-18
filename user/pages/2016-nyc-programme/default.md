@@ -42,6 +42,8 @@ Securing your private image registry is an important part of building a secure c
 
 He will also share some "do's" and "dont's" from running a locked-down image registry in production.
 
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-securing-your-docker-image-registry-for-production-jason-heiss) [more info](https://github.com/twosigma/docker-repo-auth-demo)
+
 #### <a name="12factors"></a>_The Twelve-Factor Container: Designing Containers for Repeatability, Reliability and Portability_ <span style="font-size: smaller">- [Casey West](#caseyw)</span>
 
 Adam Wiggins' seminal essay "The Twelve-Factor App" is widely considered canon for building cloud-native applications. Casey will examine how the twelve factors manifest in a container world, and will discuss their implications for what you can and cannot do with containers if you want to maintain repeatability, reliability, and portability.
