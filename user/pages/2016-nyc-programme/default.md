@@ -64,7 +64,7 @@ They'll then dive into the architecture of OpenWhisk in more detail, discussing 
 
 Rodric and Philippe will round off with an OpenWhisk demo and a quick preview of what lies ahead for OpenWhisk and serverless computing generally.
 
-[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-openwhisk-a-serverless-computing-platform-rodric-rabbah-philippe-suter)
+[slides](https://www.slideshare.net/DynamicInfraDays/containerdays-nyc-2016-openwhisk-a-serverless-computing-platform-rodric-rabbah-philippe-suter) [video](https://www.youtube.com/watch?v=-haVNE6E80Y)
 
 #### <a name="package"></a>_Thinking Inside the Box: Can Containers Solve the Package Problem?_ <span style="font-size: smaller">- [Joe Brockmeier](#joeb)</span>
 
