@@ -114,7 +114,7 @@ Tobias will demonstrate common configurations to collect native Kubernetes metri
 
 Come and see how monitoring a complex Kubernetes system can be easy and...perhaps even...fun!
 
-[video](https://www.youtube.com/watch?v=XvE-tC36BCI)
+[slides](http://www.slideshare.net/grobie/monitoring-kubernetes-with-prometheus-69479363) [video](https://www.youtube.com/watch?v=XvE-tC36BCI)
 
 #### <a name="aws"></a>_Architecting Modern Applications on AWS: VMs, Containers, Microservices, Lambda and More_ <span style="font-size: smaller">- [Mackenzie Kosut](#mackenziek) & [Tara Walker](#taraw)</span>
 
