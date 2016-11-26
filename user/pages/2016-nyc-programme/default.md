@@ -102,7 +102,7 @@ He'll talk about why Arbor opted for Google Container Engine as the most suitabl
 
 Joshua will describe what Arbor's data pipeline looks like today, and will share some "lessons learned" and recommendations from Arbor's experience. He'll close with a brief look at what's next for the team, and upcoming Kubernetes and GKE features that Arbor is especially excited about.
 
-[slides](https://docs.google.com/presentation/d/1NXL8-KCuSRKJWIKi9IfJ6fJ0LitdGZNc4l0Ww1JfX_0/pub?start=false&loop=false&delayms=3000)
+[slides](https://docs.google.com/presentation/d/1NXL8-KCuSRKJWIKi9IfJ6fJ0LitdGZNc4l0Ww1JfX_0/pub?start=false&loop=false&delayms=3000) [video](https://www.youtube.com/watch?v=sBLIwmdIwTQ)
 
 #### <a name="prometheus"></a>_Monitoring Kubernetes in Production with Prometheus_ <span style="font-size: smaller">- [Tobias Schmidt](#tobiass)</span>
 
