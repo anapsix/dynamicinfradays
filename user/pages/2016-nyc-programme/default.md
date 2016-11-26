@@ -124,7 +124,7 @@ However, moving to new architectures and platforms also introduces new technical
 
 They'll share guidelines and recommendations for which types of applications work well with the various AWS services available, and describe best practices for designing, deploying and managing microservices and other modern application architectures on AWS.
 
-[slides](http://www.slideshare.net/tarawalker2/container-days-architecting-modern-apps-on-aws)
+[slides](http://www.slideshare.net/tarawalker2/container-days-architecting-modern-apps-on-aws) [video](https://www.youtube.com/watch?v=1HGwekE0TqM)
 
 #### <a name="secrets"></a>_The Secure Introduction Problem: Getting Secrets Into Containers_ <span style="font-size: smaller">- [Jeff Mitchell](#jeffm)</span>
 
