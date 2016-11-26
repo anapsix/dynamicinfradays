@@ -38,7 +38,7 @@ Please note that the programme is provisional and subject to change.
 | 02:30-03:05pm | OpenSpaces session | |
 | 03:05-03:20pm | Coffee break & exhibitor time | Also time to think about OpenSpaces & [workshop topic suggestions](../#workshops)! |
 | 03:20-04:05pm | _[Thinking Inside the Box: Can Containers Solve the Package Problem?](/2016-nyc-programme#package)_ <span style="font-size: smaller">[slides](http://www.slideshare.net/jzb/thinking-inside-the-box-shared)</span> | [Joe Brockmeier](../#speakers), Red Hat |
-| 03:20-04:05pm | _[Why You Really Want Unikernels, Not Containers](/2016-nyc-programme#unik)_ | [Idit Levine](../#speakers), EMC |
+| 03:20-04:05pm | _[Why You Really Want Unikernels, Not Containers](/2016-nyc-programme#unik)_ <span style="font-size: smaller">[video](https://www.youtube.com/watch?v=nG6ZgxpzgQ0)</span> | [Idit Levine](../#speakers), EMC |
 | 04:10-04:25pm | Day 1 notes & comments | |
 | 04:25-05:00pm | OpenSpaces session | |
 | 05:00pm | **Day 1 close** | |

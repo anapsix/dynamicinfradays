@@ -84,6 +84,8 @@ UniK (_you-neek_) enables software developers to easily compile applications int
 
 Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach for many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
 
+[video](https://www.youtube.com/watch?v=nG6ZgxpzgQ0)
+
 #### <a name="azure"></a>_Containers in Azure: Understanding the Microsoft Container Ecosystem_ <span style="font-size: smaller">- [Rob Bagby](#robb)</span>
 
 The container ecosystem in Azure is as confusing as it is vast. Rob Bagby, who works with Mesosphere, Docker and the ACS team, will attempt to provide clarity, addressing questions from "What is ACS?", "What are Windows Containers?" to "What are the trade-offs between Windows Server and Hyper-V containers?" and "When would I use Enterprise DC/OS or Docker Datacenter over ACS, or vice-versa?".
