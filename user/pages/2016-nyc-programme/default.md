@@ -84,7 +84,7 @@ UniK (_you-neek_) enables software developers to easily compile applications int
 
 Idit will discuss the motiviations behind UniK and unikernels in general, and will describe why they are a much more suitable approach for many of the challenges that containers are supposed to address. She will talk about what's next for UniK, outline a trajectory for unikernels in the modern computing space, and will explain why you really want to be looking at unikernels now.
 
-[video](https://www.youtube.com/watch?v=nG6ZgxpzgQ0)
+[slides](http://www.slideshare.net/IditLevine/unik-slides) [video](https://www.youtube.com/watch?v=nG6ZgxpzgQ0)
 
 #### <a name="azure"></a>_Containers in Azure: Understanding the Microsoft Container Ecosystem_ <span style="font-size: smaller">- [Rob Bagby](#robb)</span>
 
