@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4><strong>Latest event:</strong> November 3-4, <strong><a href="/events/2016-nyc">ContainerDays NYC 2016</a></strong>. See <a href="#events">all events</a></h4>
+<h4><strong>Next up:</strong> June 20-21, <strong><a href="/events/2017-hamburg">ContainerDays Hamburg 2017</a></strong>. See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
@@ -117,13 +117,13 @@ function initialize() {
     raiseOnDrag: false,
     map: map,
     icon: didLogo,
-    labelContent: "Hamburg<br>Jun 27-28 '16",
+    labelContent: "Hamburg<br>Jun 20-21 '17",
     labelAnchor: new google.maps.Point(20, 48),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
 
-  google.maps.event.addListener(hamburgMarker, "click", function (e) { location.href="/events/2016-hamburg/"});
+  google.maps.event.addListener(hamburgMarker, "click", function (e) { location.href="/events/2017-hamburg/"});
 
   var parisMarker = new MarkerWithLabel({
     position: new google.maps.LatLng(48.8588, 2.2075),
