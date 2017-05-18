@@ -16,8 +16,8 @@ content:
 ---
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="http://www.devopsdays.org/js/googlemaps_label.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+<script type="text/javascript" src="https://www.devopsdays.org/js/googlemaps_label-min.js"></script>
 
 <style>
   .labels {
@@ -104,7 +104,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Austin<br>Oct 14-15 '16",
-    labelAnchor: new google.maps.Point(30, 48),
+    labelAnchor: new google.maps.Point(30, 38),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
@@ -138,6 +138,20 @@ function initialize() {
   });
 
   google.maps.event.addListener(parisMarker, "click", function (e) { location.href="/events/2016-paris/"});
+
+  var portlandMarker = new MarkerWithLabel({
+    position: new google.maps.LatLng(45.5421, -122.9346),
+    draggable: false,
+    raiseOnDrag: false,
+    map: map,
+    icon: didLogo,
+    labelContent: "Portland<br>Aug 3 '17",
+    labelAnchor: new google.maps.Point(20, 38),
+    labelClass: "labels",
+    labelStyle: { opacity: 1 }
+  });
+
+  google.maps.event.addListener(portlandMarker, "click", function (e) { location.href="/events/2017-portland/"});
 }
 initialize()
 </script>
