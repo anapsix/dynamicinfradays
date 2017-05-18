@@ -5,6 +5,7 @@ title: Events
 #### Events
 
 * 2017, June 20-21st, [ContainerDays Hamburg](/events/2017-hamburg/), Hamburg, Germany
+* 2017, August 3rd, [Portland Open Container Day](/events/2017-portland/), Portland, OR, USA
 
 ##### Past:
 
