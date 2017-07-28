@@ -152,6 +152,20 @@ function initialize() {
   });
 
   google.maps.event.addListener(portlandMarker, "click", function (e) { location.href="/events/2017-portland/"});
+
+  var dallasMarker = new MarkerWithLabel({
+    position: new google.maps.LatLng(32.8204, -97.0115),
+    draggable: false,
+    raiseOnDrag: false,
+    map: map,
+    icon: didLogo,
+    labelContent: "Dallas<br>Oct 27-28 '17",
+    labelAnchor: new google.maps.Point(20, 38),
+    labelClass: "labels",
+    labelStyle: { opacity: 1 }
+  });
+
+  google.maps.event.addListener(dallasMarker, "click", function (e) { location.href="/events/2017-dallas/"});
 }
 initialize()
 </script>
