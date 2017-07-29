@@ -104,7 +104,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Austin<br>Oct 14-15 '16",
-    labelAnchor: new google.maps.Point(30, -10),
+    labelAnchor: new google.maps.Point(30, -3),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
@@ -118,7 +118,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Hamburg<br>Jun 20-21 '17",
-    labelAnchor: new google.maps.Point(20, 45),
+    labelAnchor: new google.maps.Point(20, 43),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
@@ -146,7 +146,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Portland<br>Aug 3 '17",
-    labelAnchor: new google.maps.Point(20, 38),
+    labelAnchor: new google.maps.Point(25, 43),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
@@ -160,7 +160,7 @@ function initialize() {
     map: map,
     icon: didLogo,
     labelContent: "Dallas<br>Oct 27-28 '17",
-    labelAnchor: new google.maps.Point(20, 38),
+    labelAnchor: new google.maps.Point(25, 38),
     labelClass: "labels",
     labelStyle: { opacity: 1 }
   });
