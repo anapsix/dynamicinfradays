@@ -4,11 +4,11 @@ title: Events
 
 #### Events
 
-* 2017, August 3rd, [Portland Open Container Day](/events/2017-portland/), Portland, OR, USA
 * 2017, October 27-28th, [ContainerizeThis Dallas](/events/2017-dallas/), Dallas, TX, USA
 
 ##### Past:
 
+* 2017, August 3rd, [Portland Open Container Day](/events/2017-portland/), Portland, OR, USA
 * 2017, June 20-21st, [ContainerDays Hamburg](/events/2017-hamburg/), Hamburg, Germany
 * 2016, November 3-4th, [ContainerDays NYC](/events/2016-nyc/), New York, NY, USA
 * 2016, October 14-15th, [ContainerDays Austin](/events/2016-austin/), Austin, TX, USA

@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4>Coming on Aug 3: <strong><a href="/events/2017-portland/">Portland Open Container Day 2017</a></strong>! See <a href="#events">all events</a></h4>
+<h4>Next up: <strong><a href="/events/2017-dallas/">ContainerizeThis Dallas 2017</a></strong>, Oct 27-28! See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
