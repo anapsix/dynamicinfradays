@@ -49,7 +49,7 @@ content:
 <div id="map_canvas" style="width: 550px; height: 265px; margin: 0 auto;"></div>
 
 <div class="eventheadline">
-<h4>Next up: <strong><a href="/events/2017-dallas/">ContainerizeThis Dallas 2017</a></strong>, Oct 27-28! See <a href="#events">all events</a></h4>
+<h4>See <a href="#events">all events</a></h4>
 </div>
 
 <script type="text/javascript">
@@ -152,20 +152,6 @@ function initialize() {
   });
 
   google.maps.event.addListener(portlandMarker, "click", function (e) { location.href="/events/2017-portland/"});
-
-  var dallasMarker = new MarkerWithLabel({
-    position: new google.maps.LatLng(32.8204, -97.0115),
-    draggable: false,
-    raiseOnDrag: false,
-    map: map,
-    icon: didLogo,
-    labelContent: "Dallas<br>Oct 27-28 '17",
-    labelAnchor: new google.maps.Point(27, 38),
-    labelClass: "labels",
-    labelStyle: { opacity: 1 }
-  });
-
-  google.maps.event.addListener(dallasMarker, "click", function (e) { location.href="/events/2017-dallas/"});
 }
 initialize()
 </script>

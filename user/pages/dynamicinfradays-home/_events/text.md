@@ -4,8 +4,6 @@ title: Events
 
 #### Events
 
-* 2017, October 27-28th, [ContainerizeThis Dallas](/events/2017-dallas/), Dallas, TX, USA
-
 ##### Past:
 
 * 2017, August 3rd, [Portland Open Container Day](/events/2017-portland/), Portland, OR, USA
